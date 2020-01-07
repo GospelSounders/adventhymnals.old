@@ -1,0 +1,73 @@
+---
+title: 292. O How Happy Are They
+metadata:
+    description: 
+    keywords: Church Hymnal, O How Happy Are They, O how happy are they, 
+    author: Brian Onang'o
+---
+
+
+## 292. O HOW HAPPY ARE THEY
+
+```txt
+1.
+Out of my bondage, sorrow and night,
+Jesus, I come, Jesus, I come;
+Into Thy freedom, gladness and light,
+Jesus, I come to Thee;
+Out of my sickness into Thy health,
+Out of my want and into Thy wealth,
+Out of my sin and into Thyself,
+Jesus, I come to Thee.
+
+2.
+Out of my shameful failure and loss,
+Jesus, I come, Jesus, I come;
+Into the glorious gain of Thy cross,
+Jesus, I come to Thee;
+Out of earth’s sorrows into Thy balm,
+Out of life’s storms and into Thy calm,
+Out of distress to jubilant psalm,
+Jesus, I come to Thee.
+
+3.
+Out of unrest and arrogant pride,
+Jesus, I come, Jesus, I come;
+Into Thy blessed will to abide,
+Jesus, I come to Thee;
+Out of myself to dwell in Thy love,
+Out of despair into raptures above,
+Upward for aye on wings like a dove,
+Jesus, I come to Thee.
+
+4.
+Out of the fear and dread of the tomb,
+Jesus, I come, Jesus, I come;
+Into the joy and light of Thy home,
+Jesus, I come to Thee;
+Out of the depths of ruin untold,
+Into the peace of Thy sheltering fold,
+Ever Thy glorious face to behold,
+Jesus, I come to Thee.
+```
+
+- |   -  |
+-------------|------------|
+Title | O How Happy Are They |
+Key |  |
+Titles |  |
+First Line | O how happy are they |
+Author | Charles Wesley (1707-1788)
+Year | 1941
+Composer| Unknown |
+Hymnal|  - |
+Tune| CONVERT |
+Metrical pattern | |
+# Stanzas | 5 |
+Chorus | No |
+Chorus Type | - |
+Subjects | The Gospel: Salvation and Redemption |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+  

@@ -121,29 +121,29 @@
                             </a>
                             <ul>
                                 {{#files}}
-                                <li class="dd-item {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                                <li class="dd-item {{#parent}} parent{{/parent}} {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
                                     <a href="{{slug}}">
                                         <i class="fa fa-check read-icon"></i>
                                         <span>{{title}}</span>
                                     </a>
                                     <ul>
                                         {{#files}}
-                                        <li class="dd-item {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                                        <li class="dd-item {{#parent}} parent{{/parent}} {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
                                             <a href="{{slug}}">
                                                 <i class="fa fa-check read-icon"></i>
                                                 <span>{{title}}</span>
                                             </a>
+                                            <ul>
+                                                {{#files}}
+                                                <li class="dd-item {{#parent}} parent{{/parent}} {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
+                                                    <a href="{{slug}}">
+                                                        <i class="fa fa-check read-icon"></i>
+                                                        <span>{{title}}</span>
+                                                    </a>
+                                                </li>
+                                                {{/files}}
+                                            </ul>    
                                         </li>
-                                        <ul>
-                                            {{#files}}
-                                            <li class="dd-item {{#active}} active{{/active}}" data-nav-id="{{config.base_url}}/{{slug}}">
-                                                <a href="{{slug}}">
-                                                    <i class="fa fa-check read-icon"></i>
-                                                    <span>{{title}}</span>
-                                                </a>
-                                            </li>
-                                            {{/files}}
-                                        </ul>
                                         {{/files}}
                                     </ul>
                                 </li>

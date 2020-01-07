@@ -1,0 +1,63 @@
+---
+title: 156. All Hail the Power of Jesus' Name!
+metadata:
+    description: 
+    keywords: Church Hymnal, All Hail the Power of Jesus' Name!, All hail the power of Jesus&#039; name!, 
+    author: Brian Onang'o
+---
+
+
+## 156. ALL HAIL THE POWER OF JESUS' NAME!
+
+```txt
+1.
+O sacred Head, now wounded,
+with grief and shame weighed down,
+now scornfully surounded
+with thorns, thine only crown:
+how pale thou art with anguish,
+with sore abuse and scorn!
+How does that visage languish
+which once was bright as morn!
+
+2.
+What thou, my Lord, has suffered
+was all for sinners’ gain;
+mine, mine was the transgression,
+but thine the deadly pain.
+Lo, here I fall, my Savior!
+‘Tis I deserve thy place;
+look on me with thy favor,
+vouchsafe to me thy grace.
+
+3.
+What language shall I borrow
+to thank thee, dearest friend,
+for this thy dying sorrow,
+thy pity without end?
+O make me thine forever;
+and should I fainting be,
+Lord, let me never, never
+outlive my love for thee.
+```
+
+- |   -  |
+-------------|------------|
+Title | All Hail the Power of Jesus' Name! |
+Key | G Major |
+Titles |  |
+First Line | All hail the power of Jesus&#039; name! |
+Author | Edward Perronet
+Year | 1941
+Composer| Oliver Holden |
+Hymnal|  - |
+Tune| CORONATION |
+Metrical pattern | |
+# Stanzas | 4 |
+Chorus | No |
+Chorus Type | - |
+Subjects | Jesus Christ: His Glory and Praise |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+  

@@ -1,0 +1,57 @@
+---
+title: 129. Behold the Lamb of God
+metadata:
+    description: 
+    keywords: Church Hymnal, Behold the Lamb of God, Behold the Lamb of God!, 
+    author: Brian Onang'o
+---
+
+
+## 129. BEHOLD THE LAMB OF GOD
+
+```txt
+1.
+As it fell upon a night
+In the winter weather,
+Angels bright in starry height
+Began to sing together.
+
+2.
+Shepherds sleeping on the plain
+Woke to see the glory,
+All amazed they stood and gazed
+And heard the angels’ story.
+
+3.
+Unto you a child is born
+In a manger lowly,
+Humble, He, yet born to be
+The King of Love most holy.
+
+4.
+Happy angels from afar,
+Cease your singing never!
+In excelsis gloria!
+Forever and forever.
+```
+
+- |   -  |
+-------------|------------|
+Title | Behold the Lamb of God |
+Key | F Major |
+Titles |  |
+First Line | Behold the Lamb of God! |
+Author | Matthew Bridges
+Year | 1941
+Composer| John B. Dykes |
+Hymnal|  - |
+Tune| ST. JOHN |
+Metrical pattern | |
+# Stanzas | 4 |
+Chorus | No |
+Chorus Type | - |
+Subjects | Jesus Christ: Sufferings and Death |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+  

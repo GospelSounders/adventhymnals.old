@@ -1,0 +1,51 @@
+---
+title: 452. Christ for the World
+metadata:
+    description: 
+    keywords: Church Hymnal, Christ for the World, Christ for the world we sing, 
+    author: Brian Onang'o
+---
+
+
+## 452. CHRIST FOR THE WORLD
+
+```txt
+1.
+What heavenly music steals over the sea!
+Entrancing the senses like sweet melody!
+‘Tis the voice of the angels borne soft on the air;
+For me they are singing; their welcome I hear.
+
+2.
+On the banks of old Jordan, here gazing I stand,
+And earnestly longing, I stretch forth my hand;
+Send a convoy of angels, dear Jesus, I pray!
+Let me join that sweet music; come, take me away.
+
+3.
+Though dark are the waters and rough is the wave,
+If Jesus permit, the wild surges I’ll brave;
+For that heavenly music hath ravished me so,
+I must join in that chorus! I’ll go! let me go!
+```
+
+- |   -  |
+-------------|------------|
+Title | Christ for the World |
+Key | G Major |
+Titles |  |
+First Line | Christ for the world we sing |
+Author | Samuel Wolcott
+Year | 1941
+Composer| Felice de Giardini |
+Hymnal|  - |
+Tune| ITALIAN HYMN |
+Metrical pattern | |
+# Stanzas | 3 |
+Chorus | No |
+Chorus Type | - |
+Subjects | The Church and Doctrines: Ministry and Missions |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+  

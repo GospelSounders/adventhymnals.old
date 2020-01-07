@@ -1,0 +1,52 @@
+---
+title: 518. I Love to Tell the Story
+metadata:
+    description: 
+    keywords: Church Hymnal, I Love to Tell the Story, I love to tell the story , I love to tell the story
+    author: Brian Onang'o
+---
+
+
+## 518. I LOVE TO TELL THE STORY
+
+```txt
+1.
+Standing on the promises of Christ my King,
+Thru eternal ages let His praises ring;
+Glory in the highest I will shout and sing,
+Standing on the promises of God.
+
+
+2.
+Standing on the promises that cannot fail,
+When the howling storms of doubt and fear assail,
+By the living word of God I shall prevail,
+Standing on the promises of God.
+
+3.
+Standing on the promises of Christ the Lord,
+Bound to Him eternally by love’s strong cord,
+Overcoming daily with the Spirit’s sword,
+Standing on the promises of God.
+```
+
+- |   -  |
+-------------|------------|
+Title | I Love to Tell the Story |
+Key | A♭ Major |
+Titles | I love to tell the story |
+First Line | I love to tell the story  |
+Author | Katherine Hankey
+Year | 1941
+Composer| William G. Fischer |
+Hymnal|  - |
+Tune| I love to tell the story |
+Metrical pattern | |
+# Stanzas | 4 |
+Chorus | No |
+Chorus Type | - |
+Subjects | Hymns for Social Worship |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+  

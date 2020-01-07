@@ -1,7 +1,7 @@
 ---
 title: Advent Hymnals
 metadata:
-    description: A master collection of all the hymns sung by adventists as contained in such hymnals as Christ in Song, Church hymnal and Seventh Day adventist hymnal, millenial harp. These are a rich source of church history as well as of music.
+    description: Advent Hymnals is a master collection of all the hymns sung by adventists as contained in such hymnals as Christ in Song, Church hymnal and Seventh Day adventist hymnal, millenial harp. These are a rich source of church history as well as of music.
     keywords: advent hymnals, sda hymnals, christ in song, church hymnal, millenial harp, sdah, seventh-day adventist hymnal
     author: Brian Onang'o
 ---
@@ -99,3 +99,33 @@ As you continue singing, you will learn such deep Bible truths that can never be
 ## How to Use
 
 You can scroll through the available hymnals using the menu where you will also be able to access some studies in music.
+
+### Structure
+
+The following structure has been adopted for the hymns to enable as much information as possible to be given for any particular hymn:-
+
+Each hymn page has two sections:
+
+1. The top section having the text/lyrics of the hymn in question.
+
+2. A bottom section having additional information about the hymn, including:
+
+Item |   Description |
+-------------|------------|
+Title | The title of the hymn |
+Titles | Other titles, or other phrases by which the hymn is popularly known |
+First Line | The first line of the hymn, or a considerably short portion of its first line |
+Key | The key in which the music was written. The key is not cast in stone; it can be transposed to any key for comfortable singing.
+Author| The author of the song |
+Year| When the song was written. A comma separates two dates (the year written and year translated) for songs that were translated from other languages. |
+Composer| The composer of the music |
+Hymnal| Original Hymnal where hymn was picked from (mostly for translated songs) |
+Tune| The name of the tune |
+Metrical pattern | The metrical pattern. Used to create an index of songs which can be sung using the same tune. |
+# Stanzas | The number of stanzas in the song. This is used for comparing the song across different hymnals |
+Chorus | If the hymn has a chorus |
+Chorus Type | This is either of (1) Refrain or (2) Chorus, where a refrain has a leading voice while a chorus has not. |
+Subjects | The specific subject the song addresses, eg second advent, Christian Standards, etc. |
+Texts | Comma separate list of scripture passages to which the song is relevant. |
+Print Texts | The texts of the passages to which the song is relevant |
+Scripture Song | If the song is a scripture song |
