@@ -11,34 +11,49 @@ metadata:
 
 ```txt
 1.
-Soldiers of Christ,arise,
-And put your armor on,
-Strong in the strength which God supplies
-Through His eternal Son
-Strong in the Lord of hosts,
-And in His mighty power,
-Who in the strength of Jesus trusts
-Is more than conqueror.
+The home where changes never come, 
+Nor pain nor sorrow, toil nor care; 
+Yes! 'tis a bright and blessed home; 
+Who would not fain he resting there? 
+
+Refrain:
+O wait! meekly wait, and murmur not, 
+O wait! meekly wait, and murmur not; 
+O wait! 0 wait! O wait! and murmur not. 
 
 2.
-Stand then in His great might,
-With all His strength endued,
-But take, to arm you for the fight,
-The panoply of God;
-That, having all things done,
-And all your conflicts passed,
-Ye may o’ercome through Christ alone,
-And stand entire at last.
+Yet when bowed down beneath the load 
+By Heaven allowed, thine earthly lot; 
+Thou yearnest to reach that blest abode, 
+Wait, meekly wait, and murmur not. 
+
+Refrain:
+O wait! meekly wait, and murmur not, 
+O wait! meekly wait, and murmur not; 
+O wait! 0 wait! O wait! and murmur not. 
 
 3.
-From strength to strength go on,
-Wrestle and fight and pray,
-Tread all the powers of darkness down
-And win the well-fought day.
-Still let the Spirit cry
-In all His soldiers, “Come!”
-Till Christ the Lord who reigns on high
-Shall take the conquerors home.
+If in thy path some thorns are found, 
+O, think who bore them on His brow; 
+If grief thy sorrowing heart has found, 
+It reached a holier than thou. 
+
+Refrain:
+O wait! meekly wait, and murmur not, 
+O wait! meekly wait, and murmur not; 
+O wait! 0 wait! O wait! and murmur not. 
+
+4.
+Toil on, nor deem, though sore it be, 
+One sigh unheard, one prayer forgot; 
+The day of rest will dawn for thee! 
+Wait, meekly wait, and murmur not.
+
+Refrain:
+O wait! meekly wait, and murmur not, 
+O wait! meekly wait, and murmur not; 
+O wait! 0 wait! O wait! and murmur not. 
+
 ```
 
 - |   -  |

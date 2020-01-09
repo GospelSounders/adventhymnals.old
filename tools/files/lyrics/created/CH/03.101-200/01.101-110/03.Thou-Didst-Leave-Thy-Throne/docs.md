@@ -11,34 +11,68 @@ metadata:
 
 ```txt
 1.
-O God, our help in ages past,
-our hope for years to come,
-our shelter from the stormy blast,
-and our eternal home!
+Thou didst leave Thy throne
+And Thy kingly crown
+When Thou camest to earth for me;
+But in Bethlehem's home
+Was there found no room
+For Thy holy nativity.
+
+Refrain:
+O come to my heart, Lord Jesus,
+There is room in my heart for Thee.
 
 2.
-Under the shadow of thy throne,
-still may we dwell secure;
-sufficient is thine arm alone,
-and our defense is sure.
+Heaven's arches rang
+When the angels sang
+Proclaiming Thy royal degree;
+But of lowly birth
+Didst Thou come to earth,
+And in greatest humility.
+
+Refrain:
+O come to my heart, Lord Jesus,
+There is room in my heart for Thee.
 
 3.
-Before the hills in order stood,
-or earth received her frame,
-from everlasting, thou art God,
-to endless years the same.
+The foxes found rest,
+And the birds their nest
+In the shade of the forest tree;
+But Thy couch was the sod,
+O Thou Son of God,
+In the deserts of Galilee.
+
+Refrain:
+O come to my heart, Lord Jesus,
+There is room in my heart for Thee.
 
 4.
-A thousand ages, in thy sight,
-are like an evening gone;
-short as the watch that ends the night,
-before the rising sun.
+Thou camest, O Lord,
+With the living word
+That should set Thy people free;
+But with mocking scorn,
+And with crown of thorn,
+They bore Thee to Calvary.
+
+Refrain:
+O come to my heart, Lord Jesus,
+There is room in my heart for Thee.
 
 5.
-O God, our help in ages past,
-our hope for years to come;
-be thou our guide while life shall last,
-and our eternal home!
+When the heavens shall ring,
+And the angels sing,
+At Thy coming to victory,
+Let Thy voice call me home,
+Saying, "Yet there is room,
+There is room at My side for thee."
+Refrain:
+My heart shall rejoice, Lord Jesus,
+When Thou comest and callest for me.
+
+Refrain:
+O come to my heart, Lord Jesus,
+There is room in my heart for Thee.
+
 ```
 
 - |   -  |

@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Rejoice, rejoice, believers, and let your lights appear:
-The evening is advancing, and darker night is near.
-The Bridegroom is arising, and soon He draweth nigh.
-Up, pray, and watch, and wrestle, at midnight comes the cry.
+Father, we come to Thee, 
+No other help have we; 
+Thou wilt our refuge be, 
+On Thee we call, 
+Earth is but dark and drear 
+Without Thy presence near; 
+Be Thou our comfort here, 
+Father of all. 
+
+Refrain:
+Father, we come to Thee, 
+Turn not away; 
+Helpless we come to Thee, 
+Hear while we pray. 
 
 2.
-The watchers on the mountain proclaim the Bride-groom near.
-Go, meet Him as He cometh, with hallelujahs clear.
-The marriage feast is waiting, the gates wide open stand;
-Up, up, you heirs of glory, the Bride-groom is at hand.
+Save from our many foes, 
+Savefrom our earthly woes; 
+Be Thou our soul's repose 
+In time of need. 
+Doubting are we, and weak; 
+To us sweet courage speak; 
+Thy mighty arm we seek 
+For strength indeed. 
+
+Refrain:
+Father, we come to Thee, 
+Turn not away; 
+Helpless we come to Thee, 
+Hear while we pray. 
 
 3.
-You saints who here in patience your cross and suff’rings bore,
-Shall live and reign forever, when sorrow is no more.
-Upon the throne of glory the Lamb you shall behold,
-In triumph cast before Him your diadems of gold!
+Give us Thy grace divine, 
+Seal us forever Thine; 
+Our wayward feet incline 
+From sin to flee. 
+Oh, guide us, we implore, 
+Till weary life is o'er, 
+And on a brighter shore 
+We dwell with Thee.
 
-4.
-Our hope and expectation, O Jesus, now appear;
-Arise, O sun so longed for, o’er this benighted sphere!
-With hearts and hands uplifted, we plead, O Lord, to see
-The day of earth’s redemption that brings us unto Thee.
+Refrain:
+Father, we come to Thee, 
+Turn not away; 
+Helpless we come to Thee, 
+Hear while we pray. 
+
 ```
 
 - |   -  |

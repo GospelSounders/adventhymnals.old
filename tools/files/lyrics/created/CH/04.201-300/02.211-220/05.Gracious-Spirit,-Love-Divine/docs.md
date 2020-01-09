@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-The King shall come when morning dawns
-And light triumphant breaks,
-When beauty gilds the eastern hills
-And life to joy awakes.
+Gracious Spirit, Love divine, 
+Let thy light within me shine, 
+All my guilty fears remove, 
+Fill me with thy heavenly love. 
 
 2.
-Not as of old a little child,
-To bear and fight and die,
-But crowned with glory like the sun
-That lights the morning sky.
+Speak thy pardoning grace to me, 
+Set the burdened sinner free, 
+Lead me to the Lamb of God, 
+Wash me in his precious blood. 
 
 3.
-O, brighter than that rising morn
-When Christ, victorious, rose
-And left the lonesome place death,
-Despite the rage of foes.
+Life and peace to me impart, 
+Seal salvation on my heart, 
+Breathe thyself into my breast, 
+Earnest of immortal rest. 
 
 4.
-O, brighter than that glorious morn
-Shall dawn upon our race
-They day when Christ in splendour comes,
-And we shall see His face.
+Let me never from thee stray, 
+Keep me in the narrow way, 
+Fill my soul with joy divine, 
+Keep me, Lord, forever thine.
 
-5.
-The King shall come when morning dawns
-And light and beauty brings.
-Hail, Christ the Lord! Your people pray:
-Come quickly, King of kings.
 ```
 
 - |   -  |

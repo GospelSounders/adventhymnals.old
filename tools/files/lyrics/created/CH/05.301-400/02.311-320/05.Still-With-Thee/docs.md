@@ -10,29 +10,29 @@ metadata:
 ## 315. STILL WITH THEE
 
 ```txt
-1.
-O for a closer walk with God,
-A calm and heavenly frame,
-A light to shine upon the road
-That leads me to the Lamb!
+1. 
+Still with Thee, O my God! 
+I would desire to be; 
+By day, by night, at home, abroad, 
+I would be still with Thee. 
 
 2.
-Return, O holy Dove, return,
-Sweet messenger of rest!
-I hate the sins that made Thee mourn
-And drove Thee from my breast.
+With Thee when dawn comes in, 
+And calls me back to care; 
+Each day returning to begin 
+With Thee, my God, in prayer. 
 
 3.
-What peaceful hours I once enjoyed!
-How sweet their memory still!
-But they have left an aching void
-The world can never fill.
+With Thee when day is done, 
+And evening calms the mind; 
+The setting, as the rising sun, 
+With Thee my heart would find. 
 
 4.
-The dearest idol I have known,
-What-e’er that idol be,
-Help me to tear it from Thy throne,
-And worship only Thee.
+With Thee, in Thee, by faith 
+Abiding I would be; 
+By day, by night, in life, in death, 
+I would be still with Thee.
 ```
 
 - |   -  |

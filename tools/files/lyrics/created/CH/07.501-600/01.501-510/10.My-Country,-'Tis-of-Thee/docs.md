@@ -11,36 +11,40 @@ metadata:
 
 ```txt
 1.
-If you but trust in God to guide you
-And place your confidence in Him,
-You’ll find Him always there beside you,
-To give you hope and strength within.
-For those who trust God’s changeless love
-Build on the rock that will not move.
+My country, 'tis of thee, 
+Sweet land of liberty, 
+Of thee I sing; 
+Land where my fathers died, 
+Land of the pilgrims' pride, 
+From every mountainside 
+Let freedom ring. 
 
 2.
-What gain is there in futile weeping,
-In helpless anger and distress?
-If you are in His care and keeping,
-In sorrow will He love you less?
-For He who took for you a cross
-Will bring you safe through every loss.
+My native country, thee, 
+Land of the noble free, 
+Thy name I love; 
+I love thy rocks and rills, 
+Thy woods and templed hills; 
+My heart with rapture thrills 
+Like that above. 
 
 3.
-In patient trust await His leisure
-In cheerful hope, with heart content
-To take whate’er your Father’s pleasure
-And all discerning love have sent;
-Doubt not your inmost wants are known
-To Him who chose you for His own.
+Let music swell the breeze, 
+And ring from all the trees 
+Sweet freedom's song: 
+Let mortal tongues awake; 
+Let all that breathe partake; 
+Let rocks their silence break, 
+The sound prolong. 
 
 4.
-Sing, pray, and keep His ways unswerving,
-Offer your service faithfully,
-And trust His word; though undeserving,
-You’ll find His promise true to be.
-God never will forsake in need
-The soul that trusts in Him indeed.
+Our fathers' God, to Thee, 
+Author of liberty, 
+To Thee we sing: 
+Long may our land be bright 
+With freedom's holy light; 
+Protect us by Thy might, 
+Great God, our King.
 ```
 
 - |   -  |

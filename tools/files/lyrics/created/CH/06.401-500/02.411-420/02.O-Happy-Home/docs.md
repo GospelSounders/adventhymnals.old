@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-Look upon Jesus, sinless is He;
-Father, impute His life unto me.
-My life of scarlet, my sin and woe,
-Cover with His life, whiter than snow.
-
+O happy home, where Thou art loved the dearest, 
+Thou loving Friend, and Saviour of our race, 
+And where among the guests there never cometh 
+One who can hold such a high and honored place! 
 
 2.
-Deep are the wounds transgression has made;
-Red are the stains; my soul is afraid.
-O to be covered, Jesus, with Thee,
-Safe from the law that now judgeth me!
+O happy home, where each one serves Thee, lowly, 
+Whatever his appointed work may be, 
+Till every common task seems great and holy, 
+When it is done, 0 Lord, as unto Thee! 
 
 3.
-Longing the joy of pardon to know;
-Jesus holds out a robe white as snow;
-“Lord, I accept it! Leaving my own,
-Gladly I wear Thy pure life alone.”
+O happy home, where Thou art not forgotten 
+When joy is overflowing, full, and free; 
+O happy home, where every wounded spirit 
+Is brought, Physician, Comforter, to Thee. 
 
 4.
-Reconciled by His death for my sin,
-Justified by His life pure and clean,
-Sanctified by obeying His word,
-Glorified when returneth my Lord.
+Until at last, when earth's day's work is ended 
+All meet Thee in the blessed home above, 
+From whence Thou earnest, where Thou hast ascended, 
+Thy everlasting home of peace and love!
 ```
 
 - |   -  |

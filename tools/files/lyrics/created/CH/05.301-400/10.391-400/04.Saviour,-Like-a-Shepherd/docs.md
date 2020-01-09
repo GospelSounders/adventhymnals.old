@@ -12,7 +12,7 @@ metadata:
 ```txt
 1.
 Far from all care we hail the Sabbath morning;
-O’er waving fields and from the distant sea
+O'er waving fields and from the distant sea
 Swell notes of praise in harmony resounding
 As all creation turns her heart to Thee.
 
@@ -26,13 +26,13 @@ Thy holy law and each sweet Sabbath hour.
 Lord of the Sabbath, Savior and Creator,
 Calm now the throbbings of each troubled breast.
 Speak to our hearts the peace of Thy commandments,
-Breathe on each soul fair Eden’s hallowed ret.
+Breathe on each soul fair Eden's hallowed ret.
 
 4.
 Strong in Thy might and quiet in Thy meekness,
 May we Thine image bear from day to day.
 Then may we enter pearly gates eternal
-And sing redemption’s song each Sabbath day.
+And sing redemption's song each Sabbath day.
 ```
 
 - |   -  |

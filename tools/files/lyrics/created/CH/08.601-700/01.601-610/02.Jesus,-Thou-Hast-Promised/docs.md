@@ -11,44 +11,53 @@ metadata:
 
 ```txt
 1.
-O brother be faithful! soon Jesus will come,
-For whom we have waited so long;
-O, soon we shall enter our glorious home,
-And join in the conqueror’s song.
-O brother be faithful! for why should we prove
-Unfaithful to Him who had shown
-Such deep, such unbounded and infinite love
-Who died to redeem us His own.
+Jesus, Thou hast promised 
+That where two or three 
+In Thy name have gathered, 
+Thou wilt present be; 
+And Thy word believing, 
+Now in prayer we kneel; 
+Jesus, come and bless us; 
+Lord, Thyself reveal. 
+
+Refrain:
+Jesus, come and bless us 
+While we linger here; 
+Jesus, come and bless us, 
+Be Thou ever near. 
 
 2.
-O brother be faithful! the city of gold,
-Prepared for the good and the blest,
-Is waiting its portals of pearl to unfold,
-And welcome thee into thy rest.
-Then, brother be faithful! not long shall we stay
-In weariness here, and forlorn,
-Time’s dark night of sorrow is wearing away,
-We haste to the glorious morn.
+Jesus, Thou hast met us 
+Oft in seasons past, 
+But we need Thy presence 
+With us till the last; 
+Come, O blessed Saviour, 
+And Thy grace display; 
+Hear us and accept us; 
+Bless us while we pray. 
+
+Refrain:
+Jesus, come and bless us 
+While we linger here; 
+Jesus, come and bless us, 
+Be Thou ever near. 
 
 3.
-O brother be faithful! He soon will descend,
-Creation’s omnipotent King,
-While legions of angels His chariot attend,
-And palm wreaths, of victory bring.
-O brother be faithful! and soon shalt thou hear
-They Savior pronounce the glad word,
-Well done, faithful servant, they title is clear,
-To enter the joy of thy Lord.
+Jesus, tune our voices 
+To Thy songs of praise; 
+Be in each petition 
+That to Thee we raise; 
+May our faith grow stronger, 
+And our hope more bright; 
+May our love be purer, 
+And our path more light.
 
-4.
-O brother be faithful! eternity’s years
-Shall tell for thy faithfulness now,
-When bright smiles of gladness shall scatter thy tears,
-A coronet gleam on thy brow.
-O brother be faithful! the promise is sure,
-That waits for the faithful and tried;
-To reign with the ransomed, immortal and pure,
-And ever with Jesus abide.
+Refrain:
+Jesus, come and bless us 
+While we linger here; 
+Jesus, come and bless us, 
+Be Thou ever near. 
+
 ```
 
 - |   -  |

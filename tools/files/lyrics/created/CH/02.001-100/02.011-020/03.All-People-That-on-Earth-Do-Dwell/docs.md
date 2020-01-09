@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-New songs of celebration render
-To Him who has great wonders done.
-Love sits enthroned in ageless splendor:
-Come, and adore the mighty One.
-He has made known His great salvation
-Which all His friends with joy confess:
-He has revealed to every nation
-His everlasting righteousness.
+All people that on earth do dwell,
+sing to the Lord with cheerful voice.
+Him serve with mirth, his praise forth tell;
+come ye before him and rejoice.
 
 2.
-Joyfully, heartily resounding,
-Let every instrument and voice
-Peal out the praise of grace abounding
-Calling the whole world to rejoice.
-Trumpets and organs, set in motion
-Such sounds as make the heavens ring;
-All things that live in earth and ocean,
-Make music for your mighty King.
+Know that the Lord is God indeed;
+without our aid he did us make;
+we are his folk, he doth us feed,
+and for his sheep he doth us take.
 
 3.
-Rivers and seas and torrents roaring,
-Honor the Lord with wild acclaim;
-Mountains and stones look up adoring,
-And find a voice to praise His name.
-Righteous, commanding, ever glorious,
-Praises be His that never cease:
-Just is our God, whose truth victorious,
-Establishes the world in peace.
+O enter then his gates with praise;
+approach with joy his courts unto;
+praise, laud, and bless his name always,
+for it is seemly so to do.
+
+4.
+For why! the Lord our God is good;
+his mercy is forever sure;
+his truth at all times firmly stood,
+and shall from age to age endure.
+
 ```
 
 - |   -  |

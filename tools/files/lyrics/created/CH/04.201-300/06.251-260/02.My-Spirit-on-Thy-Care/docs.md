@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-Come, let us sing the song of songs-
-The angels first began the strain-
-The homage which to Christ belongs:
-“Worthy the Lamb, for He was slain!”
+My spirit on thy care, 
+Blest Saviour, I recline; 
+Thou wilt not leave me to despair, 
+For Thou art love divine. 
 
 2.
-Slain to redeem us by His blood,
-To cleanse from every sinful stain,
-And make us kings and priests to God:
-“Worthy the Lamb, for He was slain!”
+In thee I place my trust, 
+On thee I calmly rest; 
+I know thee good, I know thee just, 
+And count thy choice the best. 
 
 3.
-To Him who suffered on the tree,
-Our souls, at His soul’s price, to gain,
-Blessing, and praise, and glory be:
-“Worthy the Lamb, for He was slain!”
+Whate'er events betide, 
+Thy will they all perform; 
+Safe in Thy breast my head I hide, 
+Nor fear the coming storm. 
 
 4.
-To Him, enthroned by filial right
-All power in heaven and earth proclaim,
-Honor, and majesty, and might:
-“Worthy the Lamb, for He was slain!”
+Let good or ill befall, 
+It must be good for me, 
+Secure of having Thee in all, 
+Of having all in Thee.
 
-5.
-Long as we live, and when we die,
-And while in heaven with Him we reign,
-This song our song of songs shall be:
-“Worthy the Lamb, for He was slain!”
 ```
 
 - |   -  |

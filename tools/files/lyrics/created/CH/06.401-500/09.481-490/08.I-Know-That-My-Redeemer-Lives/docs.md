@@ -11,34 +11,22 @@ metadata:
 
 ```txt
 1.
-At first I prayed for light:
-Could I but see the way,
-How gladly, swiftly would I walk
-To everlasting day!
+Lives I know that my Redeemer lives; 
+He lives, and on the earth shall stand; 
+And though to worms my flesh He gives, 
+My dust lies numbered in His hand. 
 
 2.
-And next I prayed for strength:
-That I might tread the road
-With firm, unfaltering feet, and win
-The heaven’s serene abode.
+In this reanimated clay 
+I surely shall behold Him near, 
+Shall see Him in the latter day 
+In all His majesty appear. 
 
 3.
-And then I asked for faith:
-Could I but trust my God,
-I’d live infolded in His peace,
-Though foes were all abroad.
-
-4.
-But now I pray for love:
-Deep love to God and man;
-A living love that will not fail,
-However dark His plan.
-
-5.
-And light and strength and faith
-Are opening everywhere!
-God waited patiently until
-I prayed the larger prayer.
+With mine and not another's eyes 
+The King in beauty I shall view; 
+I shall from Him receive the prize, 
+The starry crown to victors due. 
 ```
 
 - |   -  |

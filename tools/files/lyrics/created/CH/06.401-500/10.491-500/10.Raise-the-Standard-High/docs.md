@@ -11,44 +11,47 @@ metadata:
 
 ```txt
 1.
-Take time to be holy,
-speak oft with thy Lord;
-abide in him always,
-and feed on his word.
-Make friends of God’s children,
-help those who are weak,
-forgetting in nothing
-his blessing to seek.
+Raise the standard high, 
+Sound the gathering cry, 
+Let the evil kingdom fall; 
+With a purpose true, 
+And a will to do, 
+Sons of freedom, come ye all. 
+
+Refrain:
+Raise the temperance standard high, 
+Shout the mighty battle cry; 
+Let the evil kingdom fall, 
+Sons of freedom, come ye all. 
 
 2.
-Take time to be holy,
-the world rushes on;
-spend much time in secret
-with Jesus alone.
-By looking to Jesus,
-like him thou shalt be;
-thy friends in thy conduct
-his likeness shall see.
+Over sea and land 
+With an iron hand, 
+Has the monarch held his sway; 
+But his rule shall cease, 
+And the reign of peace 
+Usher in the golden day. 
+
+Refrain:
+Raise the temperance standard high, 
+Shout the mighty battle cry; 
+Let the evil kingdom fall, 
+Sons of freedom, come ye all. 
 
 3.
-Take time to be holy,
-let him be thy guide,
-and run not before him,
-whatever betide.
-In joy or in sorrow,
-still follow the Lord,
-and, looking to Jesus,
-still trust in his word.
+Let the right prevail, 
+Let the evil fail 
+In the conflict fierce and long, 
+'Till the land is free, 
+And the victory 
+Crowns the temperance army strong.
 
-4.
-Take time to be holy,
-be calm in thy soul,
-each thought and each motive
-beneath his control.
-Thus led by his spirit
-to fountains of love,
-thou soon shalt be fitted
-for service above.
+Refrain:
+Raise the temperance standard high, 
+Shout the mighty battle cry; 
+Let the evil kingdom fall, 
+Sons of freedom, come ye all. 
+
 ```
 
 - |   -  |

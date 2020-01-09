@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Jesus, with Thy church abide;
-Be her Savior, Lord, and Guide,
-While on earth her faith is tried:
-We beseech Thee, hear us.
+There is a road, though narrow and obscure, 
+Which we must traverse till earth's days be past, 
+Which though unheeded by the passing throng, 
+Leads us to our eternal home at last. 
 
 2.
-May her voice be ever clear,
-Warning of a judgment near,
-Telling of a Savior dear:
-We beseech Thee, hear us.
+Here trod the faithful when the work began; 
+Some still are with us, but, alas, not all; 
+Many have laid their heavy burdens down 
+And will rejoin us when the Lord shall call. 
 
 3.
-May she guide the poor and blind,
-Seek the lost until she find,
-And the broken hearted bind:
-We beseech Thee, hear us.
+And there is One who, though to eye unseen, 
+Journeys besideus wheresoe'er we go; 
+Guards all our footsteps with the tenderest care, 
+And sorrows with us in our earthly woe. 
 
 4.
-May she holy triumps win,
-Overthrow the hosts of sin,
-Gather all the nations in:
-We beseech Thee, hear us.
+Almost the city towers we can discern 
+And hear the music from those courts above. 
+Jesus is waiting with the table spread; 
+O what a welcome in those arms of love.
 ```
 
 - |   -  |

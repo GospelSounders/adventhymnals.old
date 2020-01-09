@@ -11,40 +11,33 @@ metadata:
 
 ```txt
 1.
-Shepherd of tender you,
-Guiding in love and truth,
-Through devious way;
-Christ our triumphant King,
-We come Thy name to sin,
-Hither our children bring
-To shout Thy praise.
+Shall we gather at the river,
+Where bright angel feet have trod,
+With its crystal tide forever
+Flowing by the throne of God?
+REFRAIN:
+Yes, we'll gather at the river,
+The beautiful, the beautiful river;
+Gather with the saints at the river
+That flows by the throne of God.
 
 2.
-Thou are our holy Lord,
-Thee all subduing Word,
-Healer of strife;
-Thou didst Thyself abase,
-That from sin’s deep disgrace
-Thou mightest save our race,
-And give us life.
+On the margin of the river,
+Washing up its silver spray,
+We will walk and worship ever,
+All the happy golden day.
 
 3.
-Thou are the great High Priest;
-Thou has prepared the feast
-Of heavenly love;
-While in our mortal pain
-None call on Thee in vain;
-Help Thou does not disdain,
-Help from above.
+Ere we reach the shining river,
+Lay we every burden down;
+Grace our spirits will deliver,
+And provide a robe and crown.
 
 4.
-Ever be Thou our Guide,
-Our Shepherd and our pride,
-Our staff and song;
-Jesus, Thou Christ of God,
-By Thy perennial word,
-Lead us where Thou hast trod,
-Make our faith strong.
+Soon we'll reach the shining river,
+Soon our pilgrimage will cease;
+Soon our happy hearts will quiver
+With the melody of peace.
 ```
 
 - |   -  |

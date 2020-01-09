@@ -11,34 +11,28 @@ metadata:
 
 ```txt
 1.
-Beneath the cross of Jesus
-I fain would take my stand,
-the shadow of a mighty rock
-within a weary land;
-a home within the wilderness,
-a rest upon the way,
-from the burning of the noontide heat,
-and the burden of the day.
+Daughter of Zion, awake from thy sadness; 
+Awake, for thy foes shall oppress thee no more, 
+Bright, o'er thy hills, dawns the daystar of gladness, 
+Arise for the night of thy sorrow is o'er. 
+Daughter of Zion, awake from thy sadness; 
+Awake, for thy foes shall oppress thee no more. 
 
 2.
-Upon that cross of Jesus
-mine eye at times can see
-the very dying form of One
-who suffered there for me;
-and from my stricken heart with tears
-two wonders I confess:
-the wonders of redeeming love
-and my unworthiness.
+Strong were thy foes; but the arm that subdued them, 
+And scattered their legions, was mightier far; 
+They fled like the chaff from the scourge that pursued them; 
+In vain were their steeds and their chariots of war. 
+Strong were thy foes; but the arm that subdued them, 
+And scattered their legions, was mightier far. 
 
 3.
-I take, O cross, thy shadow
-for my abiding place;
-I ask no other sunshine than
-the sunshine of his face;
-content to let the world go by,
-to know no gain nor loss,
-my sinful self my only shame,
-my glory all the cross.
+Daughter of Zion, the power that hath saved thee, 
+Extolled with the harp and the timbrel shall be. 
+Shout; for the foe is destroyed that enslaved thee, 
+The oppressor is vanquished, and Zion is free 
+Daughter of Zion, the power that hath saved thee, 
+Extolled with the harp and the timbrel shall be.
 ```
 
 - |   -  |

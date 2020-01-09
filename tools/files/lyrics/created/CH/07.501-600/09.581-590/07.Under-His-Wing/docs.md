@@ -11,28 +11,27 @@ metadata:
 
 ```txt
 1.
-In Christ there is no east nor west,
-In Him no south or north;
-But one great fellowship of love
-Throughout the whole wide earth.
+Under His wings I am safely abiding;
+Though the night deepens and tempests are wild,
+Still I can trust Him; I know He will keep me;
+He has redeemed me, and I am His child.
+CHORUS:
+Under His wings, under His wings,
+Who from His love can sever?
+Under His wings, my soul shall abide,
+Safely abide forever.
 
 2.
-In Him shall true heart everywhere
-Their high communion find;
-His service is the golden cord
-Close binding all mankind.
+Under His wings, what a refuge in sorrow!
+How the heart yearningly turns to its rest!
+Often when earth has no balm for my healing,
+There I find comfort, and there I am blest. 
 
 3.
-Join hands, then, brothers of the faith,
-Whate’er your race may be.
-Who serves my Father as a son
-Is surely kin to me.
-
-4.
-In Christ now meet both east and west,
-In Him meet south and north;
-All Christly souls are one in Him
-Throughout the whole wide earth.
+Under His wings, O what precious enjoyment!
+There will I hide till life's trials are over;
+Sheltered, protected, no evil can harm me;
+Resting in Jesus I'm safe evermore.
 ```
 
 - |   -  |

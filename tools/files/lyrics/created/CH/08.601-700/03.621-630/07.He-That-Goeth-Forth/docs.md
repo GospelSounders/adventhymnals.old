@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-We are climbing Jacob’s ladder,
-We are climbing Jacob’s ladder,
-We are climbing Jacob’s ladder,
-Soldiers of the cross.
+He that goeth forth with weeping,
+Bearing precious seed in love, 
+Never tiring, never sleeping, 
+Findeth mercy from above. 
 
 2.
-Every round goes higher, higher,
-Every round goes higher, higher,
-Every round goes higher, higher,
-Soldiers of the cross.
+Soft descend the dews of heaven, 
+Bright the rays celestial shine; 
+Precious fruits will thus be given, 
+Through an influence all divine. 
 
 3.
-Sinner, do you love my Jesus?
-Sinner, do you love my Jesus?
-Sinner, do you love my Jesus?
-Soldiers of the cross.
+Sow the seed, be never weary; 
+Let no fears thy soul annoy; 
+Be the prospect ne'er so dreary, 
+Thou shalt reap the fruits of joy. 
 
 4.
-If you love him, why not serve him?
-If you love him, why not serve him?
-If you love him, why not serve him?
-Soldiers of the cross.
+Lo, the scene of verdure brightening! 
+See the rising grain appear; 
+Look again! the fields are whitening, 
+For the harvest time is near.
 ```
 
 - |   -  |

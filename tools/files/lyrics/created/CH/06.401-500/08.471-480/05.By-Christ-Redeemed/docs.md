@@ -11,22 +11,28 @@ metadata:
 
 ```txt
 1.
-There is a balm in Gilead
-To make the wounded whole;
-There is a balm in Gilead
-To heal the sin-sick soul.
+By Christ redeemed, In Christ restored,
+We keep the memory adored,
+And show the death of our dear Lord,
+Until He come.
 
 2.
-Sometimes I feel discouraged,
-And think my work’s in vain,
-But then the Holy Spirit
-Revives my soul again.
+His broken body in our stead Is here,
+In this memorial bread;
+And so our feeble love is fed,
+Until He come.
 
 3.
-If you can not preach like Peter,
-If you can not pray like Paul,
-You can tell the love of Jesus,
-And say He died for all.
+His fearful drops of agony,
+His life blood shed for us we see;
+The wine shall tell the mystery,
+Until He come.
+
+4.
+And thus that dark betrayal night,
+With the last advent unite----
+The shame, the glory, by this rite,
+Until He come.
 ```
 
 - |   -  |

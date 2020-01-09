@@ -10,24 +10,7 @@ metadata:
 ## 430. JESUS, TENDER SHEPHERD, HEAR ME
 
 ```txt
-1.
-O there’ll be joy when the work is done,
-Joy when the reapers gather home,
-Bringing the sheaves at set of sun
-To the New Jerusalem.
 
-
-2.
-Sweet are the songs that we hope to sing,
-Grateful the thanks our hearts shall bring,
-Praising forever Christ our King
-In the New Jerusalem.
-
-3.
-Pure are the joys that await us there,
-Many the golden mansions fair;
-Jesus Himself doth them prepare,
-In the New Jerusalem.
 ```
 
 - |   -  |
@@ -42,9 +25,9 @@ Composer|  |
 Hymnal|  - |
 Tune| SHIPSTON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Home : Hymns for Children |
 Texts |  |
 Print Texts | 

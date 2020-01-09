@@ -11,28 +11,41 @@ metadata:
 
 ```txt
 1.
-Draw us in the Spirit’s tether,
-For when humbly in Thy name,
-Two or three are met together
-Thou are in the midst of them;
-Alleluia! Alleluia!
-Touch we now Thy garment’s hem.
+All the way my Savior leads me;
+What have I to ask beside?
+Can I doubt His tender mercy,
+Who through life has been my guide?
+Heavenly peace, divinest comfort,
+Here by faith in Him to dwell;
+For I know whate'er befall me,
+Jesus doeth all things well;
+For I know whate'er befall me,
+Jesus doeth all things well.
 
 2.
-As the brethren used to gather
-In the name of Christ to sup,
-Then with thanks to God the Father
-Break the bread and bless the cup,
-Alleluia! Alleluia!
-So knit Thou our friendship up.
+All the way my Savior leads me;
+Cheers each winding path I tread;
+Gives me grace for every trial,
+Feeds me with the living bread;
+Though my weary steps may falter,
+And my soul athirst may be,
+Gushing from the Rock before me,
+Lo, a spring of joy I see;
+Gushing from the Rock before me,
+Lo, a spring of joy I see.
 
 3.
-All our meals and all our living
-Make as sacraments of Thee,
-That by caring, helping, giving
-We may true disciples be.
-Alleluia! Alleluia!
-We will serve Thee faithfully.
+All the way my Savior leads me;
+O the fullness of His love!
+Perfect rest to me is promised
+In my Father's house above;
+When I wake to life immortal,
+Wing my flight to realms of day,
+This my song through endless ages,
+Jesus led me all the way;
+This my song through endless ages,
+Jesus led me all the way.
+
 ```
 
 - |   -  |

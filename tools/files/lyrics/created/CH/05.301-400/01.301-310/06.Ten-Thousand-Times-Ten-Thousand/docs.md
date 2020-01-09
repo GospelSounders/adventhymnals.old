@@ -11,23 +11,44 @@ metadata:
 
 ```txt
 1.
-I am thine, O Lord, I have heard thy voice,
-and it told thy love to me;
-but I long to rise in the arms of faith
-and be closer drawn to thee.
-
+Ten thousand times ten thousand,
+In sparkling raiment bright,
+The armies of the ransomed saints
+Throng up the steeps of light.
+'Tis finished, all is finished,
+Their fight with death and sin.
+Fling open wide the golden gates,
+And let the victors in.
 
 2.
-Consecrate me now to thy service, Lord,
-by the power of grace divine;
-let my soul look up with a steadfast hope,
-and my will be lost in thine.
+What rush of hallelujahs
+Fills all the earth and sky!
+The ringing of a thousand harps
+Proclaims the triumph high.
+O day for which creation
+And all its tribes were made!
+O joy, for all its former woes
+A thousandfold repaid!
 
 3.
-O the pure delight of a single hour
-that before thy throne I spend,
-when I kneel in prayer, and with thee, my God,
-I commune as friend with friend!
+O then what raptured greetings
+On Canaan's happy shore!
+What knitting severed friendship where
+Death partings are no more!
+Then eyes with joy shall sparkle,
+That brimmed with tears of late;
+Orphans no longer fatherless,
+Nor widows desolate.
+
+4.
+Bring near Thy great salvation,
+Thou Lamb for sinners slain,
+Fill up the roll of Thine elect,
+Then take Thy power and reign!
+Appear, Desire of nations,
+Thine exiles long for home;
+Show in the heavens Thy promised sign;
+Thou Prince and Savior come!
 ```
 
 - |   -  |

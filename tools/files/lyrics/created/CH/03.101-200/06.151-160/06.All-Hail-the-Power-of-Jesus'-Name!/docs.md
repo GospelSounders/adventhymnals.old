@@ -11,34 +11,37 @@ metadata:
 
 ```txt
 1.
-O sacred Head, now wounded,
-with grief and shame weighed down,
-now scornfully surounded
-with thorns, thine only crown:
-how pale thou art with anguish,
-with sore abuse and scorn!
-How does that visage languish
-which once was bright as morn!
+All hail the power of Jesus' name! 
+Let angels prostrate fall; 
+Bring forth the royal diadem, 
+And crown Him Lord of all! 
+Bring forth the royal diadem, 
+And crown Him Lord of all. 
 
 2.
-What thou, my Lord, has suffered
-was all for sinners’ gain;
-mine, mine was the transgression,
-but thine the deadly pain.
-Lo, here I fall, my Savior!
-‘Tis I deserve thy place;
-look on me with thy favor,
-vouchsafe to me thy grace.
+Ye seed of Israel's chosen race, 
+Ye ransomed from the fall, 
+Hail Him who saves you by His grace, 
+And crown Him Lord of all! 
+Hail Him who saves you by His grace, 
+And crown Him Lord of all. 
 
 3.
-What language shall I borrow
-to thank thee, dearest friend,
-for this thy dying sorrow,
-thy pity without end?
-O make me thine forever;
-and should I fainting be,
-Lord, let me never, never
-outlive my love for thee.
+Let every kindred, every tribe, 
+On this terrestrial ball 
+To Him all majesty ascribe, 
+And crown Him Lord of all! 
+To Him all majesty ascribe, 
+And crown Him Lord of all. 
+
+4.
+Oh, that with yonder sacred throng 
+We at His feet may fall, 
+Join in the everlasting song, 
+And crown Him Lord of all! 
+Join in the everlasting song, 
+And crown Him Lord of all.
+
 ```
 
 - |   -  |

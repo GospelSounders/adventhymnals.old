@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Blessed Jesus, at Thy word,
-We have gathered all to hear Thee;
-By Thy word our hearts were stirred,
-Now to seek and love and fear Thee.
-By Thy teachings sweet and holy,
-Let us learn to love Thee solely.
+O blessed hour, when evening comes, 
+And calls us to our place of prayer ! 
+with joyful heart our feet we turn 
+To meet Thee and Thy children there. 
 
 2.
-All our knowledge, sense, and sight,
-Lie in deepest darkness shrouded;
-Till Thy Spirit breaks our night,
-With His beams of truth unclouded.
-He alone to God canst win us,
-He who works all good within us.
+With one accord we gather here, 
+Our wants make known, our sins confess; 
+Dear Saviour, wilt Thou now appear, 
+And bless as only Thou canst bless. 
 
 3.
-Glorious Lord, Thy self impart!
-Light of light, from God proceeding.
-Open Thou our ears and heart
-Help us, by Thy Spirit’s pleading.
-Hear the cry Thy people raises!
-Hear, and bless our prayer and praises!
+Our faith increase, our fears remove; 
+Make strong the weak, the helpless raise; 
+May every heart now feel Thy love, 
+And every tongue speak forth Thy praise. 
+
+4.
+No want have we Thou canst not fill, 
+No need but Thou canst fully meet; 
+May we obey Thy gracious will, 
+And find our lives in Thee complete.
+
 ```
 
 - |   -  |

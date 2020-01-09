@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-Lord of our life, and God of our salvation,
-Star of our night, and hope of every nation,
-Hear and receive Thy church’s supplication,
-Lord God Almighty.
+Ring out, wild bells, to the wild sky, 
+The flying cloud, the frosty light; 
+The year will die ere falls the night; 
+Ring out, wild bells, and let him die. 
+Ring out the old, ring in the new, 
+Ring, happy bells, across the snow; 
+The year is going, let him go; 
+Ring out the false, ring in the true. 
 
 2.
-Lord, Thou canst help when earthly armor faileth;
-Lord, Thou canst save when deadly sin assaileth;
-Lord, o’er Thy rock nor death nor hell prevaileth;
-Grant us Thy peace, Lord
+Ring out the grief that saps the mind, 
+For those that here we see no more; 
+Ring out the feud of rich and poor, 
+Ring in redress to all mankind. 
+Ring out false pride in place and blood, 
+The civic slander and the spite; 
+Ring in the love of truth and right, 
+Ring in the common love of good. 
 
 3.
-Peace in our hearts our evil thoughts assuaging;
-Peace in Thy church, where brothers are engaging;
-Peace, when the world its busy war is waging;
-Send us, O Savior.
-
-4.
-Grant us Thy help till foes are backward driven;
-Grant them Thy truth that they may be forgiven;
-Grant peace on earth, and, after we have striven,
-Peace in Thy heaven.
+Ring out old shapes of foul disease, 
+Ring out the narrowing lust of gold; 
+Ring out the thousand wars of old, 
+Ring in the thousand years of peace. 
+Ring in the valiant man and free, 
+The larger heart, the kindlier hand; 
+Ring out the darkness of the land, 
+Ring in the Christ that is to be.
 ```
 
 - |   -  |

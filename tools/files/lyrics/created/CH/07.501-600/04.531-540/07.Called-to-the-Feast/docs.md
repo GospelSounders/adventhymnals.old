@@ -10,30 +10,7 @@ metadata:
 ## 537. CALLED TO THE FEAST
 
 ```txt
-1.
-He leadeth me: O blessed thought!
-O words with heavenly comfort fraught!
-Whate’er I do, where’er I be,
-still ’tis God’s hand that leadeth me.
 
-
-2.
-Sometimes mid scenes of deepest gloom,
-sometimes where Eden’s bowers bloom,
-by waters still, o’er troubled sea,
-still ’tis his hand that leadeth me.
-
-3.
-Lord, I would place my hand in thine,
-nor ever murmur nor repine;
-content, whatever lot I see,
-since ’tis my God that leadeth me.
-
-4.
-And when my task on earth is done,
-when by thy grace the victory’s won,
-e’en death’s cold wave I will not flee,
-since God through Jordan leadeth me.
 ```
 
 - |   -  |
@@ -48,9 +25,9 @@ Composer| E. S. Lorenz |
 Hymnal|  - |
 Tune| WHEN THE KING COMES IN |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Second Coming |
 Texts |  |
 Print Texts | 

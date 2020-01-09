@@ -11,23 +11,47 @@ metadata:
 
 ```txt
 1.
-On a hill far away stood an old rugged cross,
-the emblem of suffering and shame;
-and I love that old cross where the dearest and best
-for a world of lost sinners was slain.
-
+Majestic sweetness sits enthroned 
+Upon the Saviour's brow; 
+His head with radiant light is crowned, 
+His lips with grace o'erflow, 
+His lips with grace o'erflow. 
 
 2.
-O that old rugged cross, so despised by the world,
-has a wondrous attraction for me;
-for the dear Lamb of God left his glory above
-to bear it to dark Calvary.
+No mortal can with Him compare, 
+Among the sons of men; 
+Fairer is He than all the fair 
+That fill the heav'nly train, 
+That fill the heav'nly train. 
 
 3.
-To that old rugged cross I will ever be true,
-its shame and reproach gladly bear;
-then he’ll call me some day to my home far away,
-where his glory forever I’ll share.
+He saw me plunged in deep distress, 
+And flew to my relief; 
+For me He bore the shameful cross, 
+And carried all my grief, 
+And carried all my grief. 
+
+4.
+To Him I owe my life and breath, 
+And all the joys I have; 
+He makes me triumph over death, 
+He saves me from the grave, 
+He saves me from the grave. 
+
+5.
+To Heaven, the place of His abode, 
+He brings my weary feet; 
+Shows me the glories of my God, 
+And makes my joys complete, 
+And makes my joys complete. 
+
+6.
+Since from His bounty I receive 
+Such proofs of love divine, 
+Had I a thousand hearts to give, 
+Lord, they should all be Thine, 
+Lord, they should all be Thine.
+
 ```
 
 - |   -  |

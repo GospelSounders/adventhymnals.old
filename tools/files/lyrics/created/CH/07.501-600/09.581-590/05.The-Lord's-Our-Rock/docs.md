@@ -11,20 +11,53 @@ metadata:
 
 ```txt
 1.
-When Christ was lifted from the earth His arms stretched out above
-Through every culture, every birth, to draw an answering love.
+The Lord's our Rock, in Him we hide, 
+A shelter in the time of storm; 
+Secure whatever may betide, 
+A shelter in the time of storm. 
+
+Refrain:
+Mighty Rock in a weary land, 
+Cooling shade on the burning sand; 
+Faithful guide for the pilgrim band' 
+A Shelter in the time of storm. 
 
 2.
-Still east and west His love extends and always, near or far,
-He calls and claims us as His friends and loves us as we are.
+A shade by day, defense by night, 
+A shelter in the time of storm; 
+No fears alarm, no foes affright, 
+A shelter in the time of storm. 
+
+Refrain:
+Mighty Rock in a weary land, 
+Cooling shade on the burning sand; 
+Faithful guide for the pilgrim band' 
+A Shelter in the time of storm. 
 
 3.
-Where generation, class, or race divides us to our shame,
-He sees not labels but a face, a person and a name.
+The raging floods may round us beat, 
+A shelter in the time of storm 
+We find in God a safe retreat, 
+A shelter in the time of storm. 
+
+Refrain:
+Mighty Rock in a weary land, 
+Cooling shade on the burning sand; 
+Faithful guide for the pilgrim band' 
+A Shelter in the time of storm. 
 
 4.
-Thus freely loved, tho’ fully known, may I in Christ be free
-To welcome and accept His own as Christ accepted me.
+O Rock divine, O Refuge dear, 
+A shelter in the time of storm; 
+Be Thou our Helper, ever near, 
+A shelter in the time of storm.
+
+Refrain:
+Mighty Rock in a weary land, 
+Cooling shade on the burning sand; 
+Faithful guide for the pilgrim band' 
+A Shelter in the time of storm. 
+
 ```
 
 - |   -  |

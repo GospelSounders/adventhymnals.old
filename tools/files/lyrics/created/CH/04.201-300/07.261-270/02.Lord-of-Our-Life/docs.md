@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-There’s a sweet, sweet spirit in this place,
-And I know that it’s the spirit of the Lord;
-Sweet Holy Spirit,
-Sweet Heavenly Dove,
+Lord of our life, and God of our salvation,
+Star of our night, and hope of every nation,
+Hear and receive Thy church's supplication,
+Lord God Almighty.
 
 2.
-Stay right here with us,
-Filling us with Your love,
-And for these blessings
-We lift our hearts in praise,
-Without a doubt we’ll know
-That we have been revived
-When we shall leave this place.
+Lord, Thou canst help when earthly armor faileth;
+Lord, Thou canst save when deadly sin assaileth;
+Lord, o'er Thy rock nor death nor hell prevaileth;
+Grant us Thy peace, Lord
 
 3.
-There are sweet expressions on each face,
-And I know they feel the presence of the Lord.
-Sweet Holy Spirit,
-Sweet Heavenly Dove,
+Peace in our hearts our evil thoughts assuaging;
+Peace in Thy church, where brothers are engaging;
+Peace, when the world its busy war is waging;
+Send us, O Savior.
 
 4.
-Stay right here with us,
-Filling us with Your love,
-And for these blessings
-We lift our hearts in praise,
-Without a doubt we’ll know
-That we have been revived
-When we shall leave this place.
+Grant us Thy help till foes are backward driven;
+Grant them Thy truth that they may be forgiven;
+Grant peace on earth, and, after we have striven, 
+Peace in Thy heaven.
+
 ```
 
 - |   -  |

@@ -11,28 +11,23 @@ metadata:
 
 ```txt
 1.
-Come down, O Love divine, seek thou this soul of mine
-and visit it with thine own ardor glowing;
-O Comforter, draw near, within my heart appear,
-and kindle it, thy holy flame bestowing.
+Call Jehovah thy salvation, 
+Rest beneath th' Almighty's shade; 
+In his secret habitation 
+Dwell, and never be dismayed. 
 
 2.
-O let it freely burn, till earthly passions turn
-to dust and ashes in its heat consuming;
-and let thy glorious light shine ever on my sight,
-and clothe me round, the while my path illuming.
+Since, with pure and firm affection 
+Thou on God hast set thy love, 
+With the wings of his protection 
+He will shield thee from above. 
 
 3.
-Let holy charity Mine outward vesture be,
-And lowliness become my inner clothing;
-True lowliness of heart which takes the humbler part,
-And o’er its own shortcomings weeps with loathing.
+Thou shalt call on him in trouble, 
+He will hearken, He will save; 
+For thy grief reward thee double, 
+Crown with life beyond the grave.
 
-4.
-And so the yearning strong with which the soul will long
-shall far outpass the power of human telling;
-for none can guess its grace, till Love create a place
-wherein the Holy Spirit makes a dwelling.
 ```
 
 - |   -  |

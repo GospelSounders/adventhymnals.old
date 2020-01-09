@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Father, help Your people in this world to build
-Something of Your kingdom and to do Your will,
-Lead us to discover partnership in love;
-Bless our ways of sharing and our pride remove.
+Forward, Christian, forward! spread abroad the cry; 
+Shout aloud the watchword, "Jesus draweth nigh!" 
+Wave the gospel standard, banner of His love; 
+Sing, as marching onward to your home above. 
 
 2.
-Lord of desk and altar, bind our lives in one,
-That in work and worship love may set the tone.
-Give us grace to listen, clarity of speech;
-Make us truly thankful for the gifts of each.
+Forward, Christian, forward! Christ thy life, thy song; 
+Trust in "Jesus only," in His strength be strong; 
+Christ, the glorious leader of the blood-bought band; 
+Follow, closely follow, to the heavenly land. 
 
 3.
-Holy is the setting of each room and yard,
-Lecture hall and kitchen, office, shop, and ward.
-Holy is the rhythm of our working hours;
-Hallow then our purpose, energy, and pow’rs.
+Sound your hallelujahs, praise to Jesus bring; 
+Magnify His glories, of His coming sing; 
+Sing amidst the conflict, shout the battle cry: 
+"Jesus Christ is coming; on to victory!" 
 
 4.
-Strengthen, Lord, for service hand and heart and brain;
-Help us good relations daily to maintain.
-Let the living presence of the servant Christ
-Heighten our devotion, make our life a feast.
+Haste, thou glorious morning! Welcome, shadeless day! 
+Chasing with thy sunlight all our tears away; 
+Haste, O wondrous moment, when 'midst radiant skies 
+Sleeping saints and living at His Word arise.
 ```
 
 - |   -  |

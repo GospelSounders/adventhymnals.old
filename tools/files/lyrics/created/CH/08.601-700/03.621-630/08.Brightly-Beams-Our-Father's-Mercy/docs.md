@@ -11,23 +11,41 @@ metadata:
 
 ```txt
 1.
-As Jacob with travel was weary one day,
-At night on a stone for a pillow he lay;
-He saw in a vision a ladder so high
-That its foot was on earth and its top in the sky.
+Brightly beams our Father's mercy, 
+From His lighthouse evermore, 
+But to us He gives the keeping 
+Of the lights along the shore. 
 
+Refrain:
+Let the lower lights be burning! 
+Send a gleam across the wave! 
+Some poor fainting, struggling seaman 
+You may rescue, you may save. 
 
 2.
-Come let us ascend! All may climb it who will;
-For the angels of Jacob are guarding it still:
-And remember each step that by faith we passo’er,
-Some prophet or martyr has trod it before.
+Dark the night of sin has settled, 
+Loud the angry billows roar; 
+Eager eyes are watching, longing, 
+For the lights along the shore. 
+
+Refrain:
+Let the lower lights be burning! 
+Send a gleam across the wave! 
+Some poor fainting, struggling seaman 
+You may rescue, you may save. 
 
 3.
-And when we arrive at the haven of rest
-We shall hear the glad words, “Come up hither, ye blest,
-Here are regions of light, here are mansions of bliss.”
-O who would not climb such a ladder as this?
+Trim You feeble lamp, my brother: 
+Some poor sailor, tempest tossed, 
+Trying now to make the harbor, 
+In the darkness may be lost.
+
+Refrain:
+Let the lower lights be burning! 
+Send a gleam across the wave! 
+Some poor fainting, struggling seaman 
+You may rescue, you may save. 
+
 ```
 
 - |   -  |

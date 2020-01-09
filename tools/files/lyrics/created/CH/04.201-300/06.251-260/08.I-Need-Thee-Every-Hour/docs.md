@@ -11,21 +11,25 @@ metadata:
 
 ```txt
 1.
-Baptize us anew With power from on high,
-With love, O refresh us! Dear Savior, draw nigh.
-
+I need Thee every hour, Most gracious Lord;
+No tender voice like Thine Can peace afford.
+CHORUS:
+I need Thee, O I need Thee;
+Every hour I need Thee;
+O bless me now, my Savior, I come to Thee.
 
 2.
-Unworthy we cry, Unholy, unclean,
-O wash us and cleanse us From sin’s guilty stain.
+I need Thee every hour; Stay Thou nearby;
+Temptations lose their power When Thou art nigh.
 
 3.
-O heavenly Dove, Descend from on high!
-We plead Thy rich blessing; In mercy draw nigh.
+I need Thee every hour, In joy or pain;
+Come quickly and abide, Or life is vain.
 
 4.
-O list the glad voice! From heaven it came:
-Thou art My beloved, Well pleased I am.
+I need Thee every hour; Teach me Thy will;
+And Thy rich promises In me fulfill.
+
 ```
 
 - |   -  |

@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-I sing the almighty power of God,
-that made the mountains rise,
-that spread the flowing seas abroad,
-and built the lofty skies.
-I sing the wisdom that ordained
-the sun to rule the day;
-the moon shines full at God’s command,
-and all the stars obey.
+O God of Bethel, by whose hand 
+Thy people still are fed, 
+Who through this weary pilgrimage 
+Hast all our fathers led. 
 
 2.
-I sing the goodness of the Lord,
-who filled the earth with food,
-who formed the creatures thru the Word,
-and then pronounced them good.
-Lord, how thy wonders are displayed,
-where’er I turn my eye,
-if I survey the ground I tread,
-or gaze upon the sky!
+Our vows, our prayers, we now present 
+Before Thy throne of grace; 
+God of our fathers, be the God 
+Of their succeeding race. 
 
 3.
-There’s not a plant or flower below,
-but makes thy glories known,
-and clouds arise, and tempests blow,
-by order from thy thrown;
-while all that borrows life from thee
-is ever in thy care;
-and everywhere that we can be,
-thou, God, art present there.
+Through each perplexing path of life 
+Our wandering footsteps guide; 
+Give us each day our daily bread, 
+And raiment fit provide. 
+
+4.
+O spread Thy covering wings around, 
+Till all our wanderings cease, 
+And at our Father's loved abode 
+We find at last Thy peace.
+
 ```
 
 - |   -  |

@@ -11,24 +11,32 @@ metadata:
 
 ```txt
 1.
-God is my strong salvation,
-What foe have I to fear?
-In darkness and temptation,
-My Light, my Help, is near:
-Though hosts encamp around me,
-Firm in the fight I stand;
-What terror can confound me,
-With God at my right hand?
+Walk in the light! so shalt thou know 
+That fellowship of love 
+His Spirit only can bestow 
+Who reigns in light above, 
+Who reigns in light above. 
 
 2.
-Place on the reliance;
-My soul with courage wait;
-His truth be thine affiance,
-When faint and desolate.
-His might thy heart shall strengthen,
-His love thy joy increase;
-Mercy thy days shall lengthen;
-The Lord will give thee peace.
+Walk in the light! and thou shalt own 
+Thy darkness passed away; 
+Because that light on thee hath shone 
+In which is perfect day, 
+In which is perfect day. 
+
+3.
+Walk in the light! and e'en the tomb 
+No fearful shade shall wear; 
+Glory shall chase away its gloom, 
+For Christ hath conquered there, 
+For Christ hath conquered there. 
+
+4.
+Walk in the light! and thine shall be 
+A path, though thorny, bright; 
+For God, by grace, shall dwell in thee, 
+And God Himself is light, 
+And God Himself is light.
 ```
 
 - |   -  |

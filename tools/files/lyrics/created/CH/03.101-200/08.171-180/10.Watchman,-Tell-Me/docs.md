@@ -11,23 +11,55 @@ metadata:
 
 ```txt
 1.
-O listen to our wondrous story,
-Counted once among the lost;
-Yet One came down from heaven’s glory,
-Saving us at awful cost!
-
+Watchman, tell me, does the morning 
+Of fair Zion's glory dawn? 
+Have the signs that mark its coming 
+Yet upon thy pathway shone? 
+Pilgrim, yes! arise, look round thee; 
+Light is breaking in the skies; 
+Gird thy bridal robes around thee, 
+Morning dawns, arise! arise! 
 
 2.
-No angel could His place have taken,
-Highest of the high tho’ he;
-The loved One on the cross forsaken
-Was One of the Godhead three!
+Watchman, see, the light is beaming 
+Brighter still upon thy way; 
+Signs through all the earth are gleaming, 
+Omens of the coming day, 
+When the Jubal trumpet, sounding, 
+Shall awake from earth and sea 
+All the saints of God now sleeping, 
+Clad in immortality. 
 
 3.
-Will you surrender to this Savior?
-To His scepter humbly bow?
-You, too, shall come to know His favor,
-He will save you, save you now.
+Watchman, hail the light ascending 
+Of the grand, sabbatic year; 
+All with voices loud proclaiming 
+That the kingdom now is near; 
+Pilgrim, yes, I see just yonder, 
+Cannan's glorious heights arise; 
+Salem, too appears in grandeur, 
+Towering 'neath its sunlit skies. 
+
+4.
+Watchman, in the golden city, 
+Seated on His jasper throne, 
+Zion's King, arrayed in beauty, 
+Reigns in peace from zone to zone; 
+There, on sunlit hills and mountains, 
+Golden beams serenely glow; 
+Purling streams and crystal fountains, 
+On whose banks sweet flowerets blow. 
+
+5.
+Watchman, see, the land is nearing, 
+With its vernal fruits and flowers; 
+On, just yonder'O, how cheering! 
+Bloom forever Eden's bowers; 
+Hark, the choral strains are ringing, 
+Wafted on the balmy air; 
+See the millions, hear them singing, 
+Soon the pilgrims will be there.
+
 ```
 
 - |   -  |

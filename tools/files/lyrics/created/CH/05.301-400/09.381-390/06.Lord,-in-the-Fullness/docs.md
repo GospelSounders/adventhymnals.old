@@ -11,43 +11,34 @@ metadata:
 
 ```txt
 1.
-The sacred anthem slowly rang
-Across the fields of praise,
-When earth’s first Sabbath made complete
-All creatures and all days.
+Lord, in the fullness of my might, 
+I would for Thee be strong; 
+While runneth o'er each dear delight 
+To Thee should soar my song. 
 
 2.
-Walking with God, there,
-Woman and man together share
-The blessed Sabbath mood;
-And in that green and golden world
-Know all God’s works are good.
+I would not give the world my heart, 
+And then profess Thy love; 
+I would not feel my strength depart 
+And then Thy service prove. 
 
 3.
-But now in our diminished lives
-We sing a blemished song;
-The earth is worn and disarrayed
-And all our work goes wrong.
+I would not with swift-winged zeal 
+On the world's errands go; 
+And labor up the heavenly hill 
+With weary feet and slow. 
 
 4.
-Still in our worship,
-Joining in praise and fellowship,
-By Sabbath radiance blessed,
-We put our doubt and fear away
-And rest within God’s rest.
+Oh, not for Thee my weak desires, 
+My poorer, baser part! 
+Oh, not for Thee my fading fires, 
+The ashes of my heart! 
 
 5.
-And arching over time and space
-The Lord of Sabbaths wills
-Renewal for the weary earth
-And healing for our ills.
-
-6.
-Hearts will rejoice then;
-There will be no more weeping, when
-We know and shall be known.
-With hosts of the redeemed we’ll sing
-Around God’s shining throne.
+Oh, choose me in my golden time! 
+In my dear joys have part! 
+For Thee the glory of my prime, 
+The fullness of my heart!
 ```
 
 - |   -  |

@@ -11,34 +11,28 @@ metadata:
 
 ```txt
 1.
-God has spoken by His prophets,
-Spoken His unchanging Word,
-Each from age to age proclaiming
-God, the one, the righteous Lord.
-Mid the world’s despair and turmoil,
-One firm anchor holding fast;
-God is King, His throne eternal,
-God the first, and God the last.
+Happy the home when God is there, 
+And love fills every breast; 
+When one their wish, and one their prayer, 
+And one their heavenly rest. 
 
 2.
-God has spoken by Christ Jesus,
-Christ, the everlasting Son,
-Brightness of the Father’s glory,
-With the Father ever one;
-Spoken by the Word incarnate,
-God of God, ere time began,
-Light of light, to earth descending,
-Man, revealing God to man.
+Happy the home where Jesus' name 
+Is sweet to every ear; 
+Where children early speak his fame, 
+And parents hold him dear. 
 
 3.
-God yet speaks by His own Spirit
-Speaking to the hearts of men,
-In the age-long Word expounding
-God’s own message, now as then;
-Through the rise and fall of nations
-One sure faith yet standing fast,
-God is King, His Word unchanging,
-God the first, and God the last.
+Happy the home where prayer is heard, 
+And praise is wont to rise; 
+Where parents love the sacred Word 
+And all its wisdom prize. 
+
+4.
+Lord, let us in our homes agree 
+This blessed peace to gain; 
+Unite our hearts in love to thee, 
+And love to all will reign.
 ```
 
 - |   -  |

@@ -11,30 +11,33 @@ metadata:
 
 ```txt
 1.
-O God of light, Your Word, a lamp unfailing,
-Shall pierce the darkness of our earthbound way
-And show Your grace,
-Your plan for us unveiling,
-And guide our footsteps to the perfect day.
+In the blood from the cross,
+I have been washed from sin;
+But to be free from dross,
+Still I would enter in.
+CHORUS:
+Deeper yet, deeper yet,
+Into the crimson flood;
+Deeper yet, deeper yet,
+Under the precious blood.
 
 2.
-From days of old, through blind and willful ages,
-Though we rebelled, You gently sought again,
-And spoke through saints,
-Apostles, prophets, sages,
-Who wrote with eager or reluctant pen.
+Day by day, hour by hour,
+Blessings are sent to me;
+But for more of His power,
+Ever my prayer shall be.
 
 3.
-Undimmed by time, those words are still revealing
-To sinful hearts Your justice and Your grace;
-And questing mortals longing for Your healing,
-See Your compassion in the Savior’s face.
+Near to Christ I would live,
+Following Him each day;
+What I ask He will give;
+So then with faith I pray.
 
 4.
-To all the world Your summons You are sending,
-Through all the earth, to ever land and race,
-That myriad tongues, in one great anthem blending,
-May praise and celebrate Your gift of grace.
+Now I have peace, sweet peace,
+While in this world of sin;
+But to pray I'll not cease
+Till I am pure within.
 ```
 
 - |   -  |

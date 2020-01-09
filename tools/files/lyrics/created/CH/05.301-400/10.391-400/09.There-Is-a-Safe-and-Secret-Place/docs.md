@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Beneath the forms of outward rite
-Thy supper, Lord, is spread
-In every quiet upper room
-Where fainting souls are fed.
+There is a safe and secret place 
+Beneath the wings divine, 
+Reserved for all the heirs of grace; 
+O, be that refuge mine! 
 
 2.
-The bread is always consecrate
-Which men divide with men;
-And every act of brotherhood
-Repeats Thy feast again.
+The least and feeblest there may bide, 
+Uninjured and unawed; 
+While thousands fall on every side, 
+He rests secure in God. 
 
 3.
-The blessed cup is only passed
-True memory of Thee,
-When life anew pours out its wine
-With rich sufficiency.
+He feeds in pastures large and fair, 
+Of love and truth divine; 
+O child of God, 0 glory's heir! 
+How rich a lot is thine! 
 
 4.
-O Master, through these symbols shared,
-Thine own dear self impart,
-That in our daily life may flame
-The passion of Thy heart.
+A hand almighty to defend, 
+An ear for every call, 
+An honored life, a peaceful end, 
+And heaven to crown it all.
 ```
 
 - |   -  |

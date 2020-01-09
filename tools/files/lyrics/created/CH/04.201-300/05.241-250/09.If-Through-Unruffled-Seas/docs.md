@@ -11,29 +11,37 @@ metadata:
 
 ```txt
 1.
-Praise Him! praise Him! Jesus, our blessed Redeemer!
-Sing, O Earth, His wonderful love proclaim!
-Hail Him! hail Him! highest archangels in glory;
-Strength and honor give to His holy Name!
-Like a shepherd, Jesus will guard His children,
-In His arms He carries them all day long:
-
+If through unruffled seas 
+Calmly toward heaven we sail, 
+With grateful hearts, O God, to thee, 
+We'll own the favoring gale, 
+With grateful hearts, O God, to thee, 
+We'll own the favoring gale. 
 
 2.
-Praise Him! Praise Him! Jesus, our blessed Redeemer!
-For our sins He suffered, and bled, and died.
-He our Rock, our hope of eternal salvation,
-Hail Him! hail Him! Jesus the Crucified.
-Sound His praises! Jesus who bore our sorrows,
-Love unbounded, wonderful, deep and strong.
+But should the surges rise, 
+And rest delay to come, 
+Blest be the sorrow, kind the storm, 
+Which drives us nearer home. 
+Blest be the sorrow, kind the storm, 
+Which drives us nearer home. 
 
 3.
-Praise Him! Praise Him! Jesus, our blessed Redeemer!
-Heavenly portals loud with hosannas ring!
-Jesus, Savior, reigneth forever and ever.
-Crown Him! Crown Him! Prophet, and Priest, and King!
-Christ is coming! over the world victorious,
-Power and glory unto the Lord belong.
+Soon shall our doubts and fears 
+All yield to thy control; 
+Thy tender mercies shall illume 
+The midnight of the soul, 
+Thy tender mercies shall illume 
+The midnight of the soul. 
+
+4.
+Teach us in every state, 
+To make thy will our own, 
+And when the joys of sense depart, 
+To live by faith alone, 
+And when the joys of sense depart, 
+To live by faith alone.
+
 ```
 
 - |   -  |

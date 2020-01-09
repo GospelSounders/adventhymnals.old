@@ -11,44 +11,44 @@ metadata:
 
 ```txt
 1.
-Ten thousand times ten thousand,
-In sparkling raiment bright,
-The armies of the ransomed saints
-Throng up the steeps of light.
-‘Tis finished, all is finished,
-Their fight with death and sin.
-Fling open wide the golden gates,
-And let the victors in.
+The church has one foundation
+Tis Jesus Christ her Lord;
+She is His new creation
+By water and the Word.
+From heaven He came and sought her
+To be His holy bride;
+With His own blood He bought her,
+And for her life He died. 
 
 2.
-What rush of hallelujahs
-Fills all the earth and sky!
-The ringing of a thousand harps
-Proclaims the triumph high.
-O day for which creation
-And all its tribes were made!
-O joy, for all its former woes
-A thousandfold repaid!
+Elect from every nation,
+Yet one o'er all the earth;
+Her charter of salvation,
+One Lord, one faith, one birth;
+One holy name she blesses,
+Partakes one holy food,
+And to one hope she presses,
+With every grace endued.
 
 3.
-O then what raptured greetings
-On Canaan’s happy shore!
-What knitting severed friendship where
-Death partings are no more!
-Then eyes with joy shall sparkle,
-That brimmed with tears of late;
-Orphans no longer fatherless,
-Nor widows desolate.
+Though with a scornful wonder
+We see her sore oppressed,
+By schisms rent asunder,
+By heresies distressed,
+Yet saints their watch are keeping;
+Their cry goes up, How long?
+And soon the night of weeping
+Shall be the morn of song.
 
 4.
-Bring near Thy great salvation,
-Thou Lamb for sinners slain,
-Fill up the roll of Thine elect,
-Then take Thy power and reign!
-Appear, Desire of nations,
-Thine exiles long for home;
-Show in the heavens Thy promised sign;
-Thou Prince and Savior come!
+'Mid toil and tribulation,
+And tumult of her war,
+She waits the consummation
+Of peace forevermore;
+Till, with the vision glorious,
+Her longing eyes are blest,
+And the great church victorious
+Shall be the church at rest.
 ```
 
 - |   -  |

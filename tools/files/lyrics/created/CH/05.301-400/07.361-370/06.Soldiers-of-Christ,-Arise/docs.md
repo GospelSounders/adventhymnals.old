@@ -11,23 +11,34 @@ metadata:
 
 ```txt
 1.
-O where are the reapers that garner in
-The sheaves of the good from the fields of sin?
-With sickles of truth must the work be done,
-And no one may rest till the “harvest home.”
-
+Soldiers of Christ,arise,
+And put your armor on,
+Strong in the strength which God supplies
+Through His eternal Son
+Strong in the Lord of hosts,
+And in His mighty power,
+Who in the strength of Jesus trusts
+Is more than conqueror.
 
 2.
-The fields all are ripening, and far and wide
-The world now is waiting the harvest tide:
-But reapers are few, and the work is great,
-And much will be lost should the harvest wait.
+Stand then in His great might,
+With all His strength endued,
+But take, to arm you for the fight,
+The panoply of God;
+That, having all things done,
+And all your conflicts passed,
+Ye may o'ercome through Christ alone,
+And stand entire at last.
 
 3.
-So come with your sickles, ye sons of men,
-And gather together the golden grain;
-Toil on till the Lord of the harvest come,
-Then share ye His joy in the “harvest home.”
+From strength to strength go on,
+Wrestle and fight and pray,
+Tread all the powers of darkness down
+And win the well-fought day.
+Still let the Spirit cry
+In all His soldiers, Come!
+Till Christ the Lord who reigns on high
+Shall take the conquerors home.
 ```
 
 - |   -  |

@@ -11,44 +11,57 @@ metadata:
 
 ```txt
 1.
-Come, all Christians, be committed
-To the service of the lord;
-Make your lives for him more fitted,
-Tune your hearts with one accord.
-Come into His courts with gladness,
-Each his sacred vows renew,
-Turn away from sin and sadness,
-Be transformed with life anew.
+One thing I of the Lord desire, 
+For all my paths have miry been, 
+Be it by water or by fire, 
+O make me clean, 
+O make me clean. 
+
+Refrain:
+So wash me Thou, without, within, 
+Or purge with fire, if that must be, 
+No matter how, if only sin 
+Die out in me, die out in me. 
 
 2.
-Of your time and talents give ye,
-They are gifts from God above;
-To be used by Christians freely
-To proclaim His wondrous love.
-Come again to serve the Savior,
-Tithes and off’rings with you bring.
-In your work, with Him find favor,
-And with joy His praises sing.
+If clearer vision Thou impart, 
+Grateful and glad my soul shall be; 
+But yet to have a purer heart, 
+Is more to me, 
+Is more to me. 
+
+Refrain:
+So wash me Thou, without, within, 
+Or purge with fire, if that must be, 
+No matter how, if only sin 
+Die out in me, die out in me. 
 
 3.
-God’s command to love each other
-Is required of every one;
-Showing mercy to one another
-Mirrors His redemptive plan.
-In compassion He has given
-Of His love that is divine;
-On the cross sins were forgiven;
-Joy and peace are fully thine.
+Yea, only as this heart is clean 
+May larger vision yet be mine, 
+For mirrored in Thy life are seen 
+The things divine, 
+The things divine 
+
+Refrain:
+So wash me Thou, without, within, 
+Or purge with fire, if that must be, 
+No matter how, if only sin 
+Die out in me, die out in me. 
 
 4.
-Come in praise and adoration,
-All who in Christ’s name believe;
-Worship Him with consecration,
-Grace and love you will receive.
-For His grace give Him the glory,
-For the Spirit and the Word,
-And repeat the gospel story
-Till mankind His name has heard.
+I watch to shun the miry way, 
+And stanch the springs of guilty thought, 
+But watch and struggle as I may, 
+Pure I am not, 
+Pure I am not.
+
+Refrain:
+So wash me Thou, without, within, 
+Or purge with fire, if that must be, 
+No matter how, if only sin 
+Die out in me, die out in me. 
+
 ```
 
 - |   -  |

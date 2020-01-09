@@ -11,44 +11,40 @@ metadata:
 
 ```txt
 1.
-O praise ye the Lord!
-Praise Him in the height;
-Rejoice in His word,
-Ye angels of light;
-Ye heavens, adore Him
-By whom ye were made,
-And worship before Him,
-In brightness arrayed.
+Lord of all being, throned afar,
+Thy glory flames from sun and star;
+Center and soul of every sphere
+Yet to each loving heart how near!
+Yet to each loving heart how near!
 
 2.
-O praise ye the Lord!
-Praise Him upon earth,
-In tuneful accord:
-Ye sons of new birth;
-Praise Him who hath brought
-you His grace from above,
-Praise Him who hath taught
-you To sing of His love.
+Sun of our life, Thy quickening ray
+Shed on our path the glow of day;
+Star of our hope, Thy softened light
+Cheers the long watches of the night,
+Cheers the long watches of the night.
 
 3.
-O praise ye the Lord,
-All things that give sound;
-Each jubilant chord,
-Re-echo around;
-Loud organs His glory
-Forth tell in deep tone,
-And sweet harp, the story
-Of what He hath done.
+Our midnight is Thy smile withdrawn;
+Our noontide is Thy gracious dawn;
+Our rainbow arch, Thy mercy's sign;
+All, save the clouds of sin, are Thine,
+All, save the clouds of sin, are Thine.
 
 4.
-O praise ye the Lord!
-Thanksgiving and song
-To Him be outpoured
-All ages along:
-For love in creation,
-For heaven restored.
-For grace of salvation,
-O praise ye the Lord!
+Lord of all life, below, above
+Whose light is truth, whose warmth is love,
+Before Thy ever-blazing throne
+We ask no luster of our own,
+We ask no luster of our own.
+
+5.
+Grant us Thy truth to make us free
+And kindling hearts that burn for Thee;
+Till all Thy living altars claim
+One holy light, one heavenly flame!
+One holy light, one heavenly flame.
+
 ```
 
 - |   -  |

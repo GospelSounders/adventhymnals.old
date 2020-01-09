@@ -11,34 +11,28 @@ metadata:
 
 ```txt
 1.
-Christ is the world’s true light,
-Its captain of salvation,
-The daystar clear and bright
-Of every man and nation;
-New life, new hope awakes
-Where’er men own His sway:
-Freedom her bondage breaks,
-And night is turned to day.
+Working, O Christ, with Thee, Working with Thee,
+Unworthy, sinful, weak, Though we may be;
+Our all to Thee we give, For Thee alone we live,
+And by Thy grace achieve, Working with Thee.
 
 2.
-In Christ all races meet,
-Their ancient feuds forgeting,
-The whole round world complete,
-From sunrise to its setting:
-When Christ is throned as Lord,
-Men shall forsake their fear,
-To plowshare beat the sword,
-To pruning hook the spear.
+Along the city's waste, Working with Thee,
+Our eager footsteps haste, Like Thee to be;
+The poor we gather in, The outcasts raise from sin,
+And labor souls to win, Working with Thee.
 
 3.
-One Lord, in one great name
-Unite us all who own Thee,
-Cast out our pride and shame
-That hinder to enthrone Thee;
-The world has waited long,
-Has travailed long in pain,
-To heal its ancient wrong,
-Come, Prince of Peace, and reign.
+Savior, we weary not, Working with Thee,
+As hard as Thine our lot Can never be;
+Our joy and comfort this, Thy grace sufficent is;
+This changes toil to bliss, Working with Thee.
+
+4.
+So let us labor on, Working with Thee,
+Till earth to Thee is won, From sin set free;
+Till men, from shore to shore, Receive Thee, and adore,
+And join us evermore, Working with Thee.
 ```
 
 - |   -  |

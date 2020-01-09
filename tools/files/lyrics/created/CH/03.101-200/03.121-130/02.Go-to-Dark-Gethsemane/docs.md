@@ -11,40 +11,29 @@ metadata:
 
 ```txt
 1.
-Hark! the herald angels sing,
-“Glory to the new born King,
-peace on earth, and mercy mild,
-God and sinners reconciled!”
-Joyful, all ye nations rise,
-join the triumph of the skies;
-with th’ angelic host proclaim,
-“Christ is born in Bethlehem!”
-Hark! the herald angels sing,
-“Glory to the new born King!”
+Go to dark Gethsemane,
+Ye who feel the tempter's power
+Your Redeemer's conflict see.
+Watch with him one bitter hour;
+Turn not from his griefs away;
+Learn from Jesus Christ to pray.
 
 2.
-Christ, by highest heaven adored;
-Christ, the everlasting Lord;
-late in time behold him come,
-offspring of a virgin’s womb.
-Veiled in flesh the Godhead see;
-hail th’ incarnate Deity,
-pleased with us in flesh to dwell,
-Jesus, our Emmanuel.
-Hark! the herald angels sing,
-“Glory to the new born King!”
+See Him at the judgment hall,
+Beaten, bound, reviled, arraigned;
+See Him meekly bearing all;
+Love to man His soul sustained!
+Shun not suffering, shame, or loss;
+Learn from him to bear the cross.
 
 3.
-Hail the heaven-born Prince of Peace!
-Hail the Sun of Righteousness!
-Light and life to all he brings,
-risen with healing in his wings.
-Mild he lays his glory by,
-born that we no more may die,
-born to raise us from the earth,
-born to give us second birth.
-Hark! the herald angels sing,
-“Glory to the new born King!”
+Calvary's mournful mountain climb;
+There, adoring at his feet,
+Mark that miracle of time,
+God's own sacrifice complete.
+"It is finished!" hear him cry;
+Learn from Jesus Christ to die.
+
 ```
 
 - |   -  |

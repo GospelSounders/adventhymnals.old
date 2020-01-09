@@ -11,34 +11,45 @@ metadata:
 
 ```txt
 1.
-The head that once was crowned with thorns
-Is crowned with glory now;
-A royal diadem adorns
-The mighty victor’s brow.
+We speak of the realms of the blest,
+That country so bright and so fair,
+And oft are its glories confessed-
+But what must it be to be there!
+We speak of its pathway of gold-
+Its walls decked with jewels so rare,
+Its wonders and pleasures untold-
+But what must it be to be there!
 
 2.
-The highest place that heaven affords
-Is His, is His by right;
-The King of kings, and Lord of lords,
-And heaven’s eternal light.
+We speak of its freedom of sin,
+From sorrow, temptation and care,
+From trials without and within---
+But what must it be to be there!
+We speak of its service of love,
+Of the robes which the glorified wear,
+Of the church of the First Born above-
+But what must it be to be there!
 
 3.
-The joy of all who dwell above,
-The joy of all below,
-To whom He manifests His love,
-And grants His name to know.
+Our mourning is all at an end,
+When, raised by the life-giving word,
+We see the new city descend,
+Adorned as a bride for her Lord;
+The city so holy and clean,
+No sorrow can breathe in the air;
+No gloom of affliction or sin,
+No shadow of evil, is there.
 
 4.
-To them the cross, with all its shame,
-With all its grace is given;
-Their name an everlasting name,
-Their joy the joy of heaven.
+Do Thou, midst temptation and woe,
+For heaven my spirit prepare;
+And shortly I also shall know
+And feel what it is to be there.
+Then o'er the bright fields we shall roam,
+In glory celestial and fair,
+With saints and with angels at home,
+And Jesus Himself will be there.
 
-5.
-To them the cross, with all its shame,
-With all its grace is given;
-Their name an everlasting name,
-Their joy the joy of heaven.
 ```
 
 - |   -  |

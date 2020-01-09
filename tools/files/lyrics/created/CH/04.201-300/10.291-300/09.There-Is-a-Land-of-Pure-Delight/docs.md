@@ -11,28 +11,24 @@ metadata:
 
 ```txt
 1.
-“Forgive our sins as we forgive,”
-You taught us, Lord, to pray;
-But You alone can grant us grace
-To live the words we say.
+There is a land of pure delight, 
+Where saints immortal reign, 
+Infinite day excludes the night, 
+And pleasures banish pain. 
+There everlasting spring abides, 
+And never withering flowers, 
+And but a little space divides 
+This heav'nly land from ours. 
 
 2.
-How can Your pardon reach and bless
-The unforgiving heart
-That broods on wrongs and will not let
-Old bitterness depart?
-
-3.
-In blazing light Your cross reveals
-The truth we dimly knew:
-How trifling others’ debts to us;
-How great our debt to You!
-
-4.
-Lord, cleanse the depths within our souls
-And bid resentment cease;
-Then, by Your mercy reconciled,
-Our lives will spread Your peace.
+O could we make our doubts remove, 
+Those gloomy thoughts that rise, 
+And see the Canaan that we love, 
+With unbeclouded eyes; 
+Could we but climb where Moses stood, 
+And view the landscape o'er, 
+Not all this world's pretended good 
+Could ever charm us more.
 ```
 
 - |   -  |

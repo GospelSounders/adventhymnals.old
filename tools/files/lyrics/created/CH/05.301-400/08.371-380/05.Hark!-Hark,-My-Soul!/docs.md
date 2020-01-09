@@ -11,34 +11,45 @@ metadata:
 
 ```txt
 1.
-Work for the night is coming,
-Work through the morning hours;
-Work while the dew is sparkling;
-Work ‘mid springing flow’rs.
-Work when the day grows brighter,
-Work in the glowing sun;
-Work for the night is coming,
-When man’s work is done.
+Hark! hark, my soul! angelic songs are swelling 
+O'er earth's green fields and ocean's wave-beat shore; 
+How sweet the truth those blessed strains are telling 
+Of that new life when sin shall be no more! 
+
+Refrain:
+Angels of Jesus, angels of light, 
+Singing to welcome the pilgrims of the night. 
 
 2.
-Work for the night is coming,
-Work thro’ the sunny noon;
-Fill brightest hours with labor,
-Rest comes sure and soon.
-Give every flying minute
-Something to keep in store;
-Work for the night is coming,
-When man works no more.
+Onward we go, for still we hear them singing, 
+"Come, weary souls, for Jesus bids you come;" 
+And through the dark, its echoes sweetly ringing, 
+The music of the gospel leads us home. 
+
+Refrain:
+Angels of Jesus, angels of light, 
+Singing to welcome the pilgrims of the night. 
 
 3.
-Work for the night is coming,
-Under the sunset skies;
-While their bright tints are glowing,
-Work for daylight flies.
-Work till the last beam fadeth,
-Fadeth to shine no more;
-Work while the night is dark’ning,
-When man’s work is o’er.
+Far, fur away, like bells at evening pealing, 
+The voice of Jesus sounds o'er land and sea; 
+And laden souls, by thousands meekly stealing, 
+Kind Shepherd, turn their weary steps to Thee. 
+
+Refrain:
+Angels of Jesus, angels of light, 
+Singing to welcome the pilgrims of the night. 
+
+4.
+Angels, sing on, your faithful watches keeping; 
+Sing us sweet fragment of the songs above, 
+Till morning's joy shall end the night of weeping, 
+And life's long shadows break in cloudless love.
+
+Refrain:
+Angels of Jesus, angels of light, 
+Singing to welcome the pilgrims of the night. 
+
 ```
 
 - |   -  |

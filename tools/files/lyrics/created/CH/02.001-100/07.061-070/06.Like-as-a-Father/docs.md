@@ -11,28 +11,33 @@ metadata:
 
 ```txt
 1.
-God be with you till we meet again;
-By His counsels guide, uphold you,
-With His sheep securely fold you:
-God be with you till we meet again.
+Like as a father pities his child, 
+So the Lord pities the sinner defiled; 
+Waiteth in kindness, 
+Pities our blindness, 
+Longeth to welcome, though often reviled. 
 
 2.
-God be with you till we meet again;
-Neath His wings securely hide you,
-Daily manna still provide you:
-God be with you till we meet again.
+Like as a father when we believe, 
+Merciful still, He will gladly receive; 
+Listens to hear us, 
+Blesses to cheer us, 
+Pities whenever His Spirit we grieve. 
 
 3.
-God be with you till we meet again;
-When life’s perils thick confound you,
-Put His arms unfailing round you:
-God be with you till we meet again.
+Like as a father, ever the same, 
+He hath created, and knoweth our frame; 
+Watcheth the straying, 
+Guardeth the praying, 
+Bids us to trust in His almighty name. 
 
 4.
-God be with you till we meet again;
-Keep love’s banner floating o’er you,
-Smite death’s threatening wave before you:
-God be with you till we meet again.
+Like as a father, constant is He, 
+God in compassion regardeth our plea; 
+In need He cometh, 
+Precious His promise: 
+Father in heaven forever to be.
+
 ```
 
 - |   -  |

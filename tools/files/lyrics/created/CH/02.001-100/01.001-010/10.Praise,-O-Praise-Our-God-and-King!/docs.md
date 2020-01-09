@@ -11,34 +11,22 @@ metadata:
 
 ```txt
 1.
-Come, Christians, join to sing,
-Alleluia! Amen!
-Loud praise to Christ our King;
-Alleluia! Amen!
-Let all, with heart and voice,
-Before His throne rejoice;
-Praise is His gracious choice:
-Alleluia! Amen!
+Praise, O praise our God and King! 
+Hymns of adoration sing; 
+For His mercies still endure, 
+Ever faithful, ever sure. 
 
 2.
-Come, lift your hearts on high;
-Alleluia! Amen!
-Let praises fill the sky;
-Alleluia! Amen!
-He is our Guide and Friend;
-To us He’ll condescend;
-His love shall never end:
-Alleluia! Amen!
+Praise Him that He made the sun 
+Day by day his course to run, 
+And the silver moon by night, 
+Shining with her gentle light. 
 
 3.
-Praise yet our Christ again;
-Alleluia! Amen!
-Life shall not end the strain;
-Alleluia! Amen!
-On heaven’s blissful shore
-His goodness we’ll adore,
-Singing forevermore,
-Alleluia! Amen!
+Praise Him for our harvest store; 
+He hath filled the garner floor; 
+And for richer food than this, 
+Pledge of everlasting bliss.
 ```
 
 - |   -  |

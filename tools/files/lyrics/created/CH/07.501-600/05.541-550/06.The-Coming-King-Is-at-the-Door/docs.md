@@ -10,45 +10,53 @@ metadata:
 ## 546. THE COMING KING IS AT THE DOOR
 
 ```txt
-1.
-The Lord’s my shepherd, I’ll not want
-He makes me down to lie
-In pastures green; he leadeth me
-The quiet waters by.
-He leadeth me, He leadeth me
-The quiet waters by.
+1.The coming King is at the door, 
+Who once for cross for sinners bore, 
+But now the righteous ones alone, 
+He comes to gather home. 
+
+Refrain:
+At the door, at the door, 
+At the door, yes even at the door, 
+He is coming, He is coming, 
+He is even at the door. 
 
 2.
-My soul he doth restore again
-And me to walk doth make
-Within the paths of righteousness
-Even for his own name’s sake.
-Within the paths of righteousness
-Even for his own name’s sake.
+The signs that show His coming near, 
+Are fast fulfilling year by year, 
+And soon we'll hail the glorious dawn, 
+Of heav'n's eternal morn. 
+
+Refrain:
+At the door, at the door, 
+At the door, yes even at the door, 
+He is coming, He is coming, 
+He is even at the door. 
 
 3.
-Yea, though I walk through death’s dark vale
-Yet will I fear no ill
-For thou art with me, and thy rod
-And staff me comfort still.
-For thou art with me, and thy rod
-And staff me comfort still.
+Look not on earth for strife to cease, 
+Look not below for joy and peace, 
+Until the Saviour comes again 
+To banish death and sin. 
+
+Refrain:
+At the door, at the door, 
+At the door, yes even at the door, 
+He is coming, He is coming, 
+He is even at the door. 
 
 4.
-My table thou has furnished
-In presence of my foes;
-My head thou dost with oil anoint
-And my cup overflows.
-My head thou dost with oil anoint
-And my cup overflows.
+Then in the glorious earth made new 
+We'll dwell the countless ages through; 
+This mortal shall immortal be, 
+And time, eternity.
 
-5.
-Goodness and mercy all my life
-Shall surely follow me,
-And in God’s house for evermore
-My dwelling-place shall be.
-And in God’s house for evermore
-My dwelling-place shall be.
+Refrain:
+At the door, at the door, 
+At the door, yes even at the door, 
+He is coming, He is coming, 
+He is even at the door. 
+
 ```
 
 - |   -  |

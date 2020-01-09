@@ -11,17 +11,34 @@ metadata:
 
 ```txt
 1.
-Don’t you see my Jesus coming,
-See Him come in yonder cloud?
-With ten thousand angels round Him,
-How they do my Jesus crowd!
-
+The morning light is breaking, 
+The darkness disappears; 
+The sons of earth are waking 
+To penitential tears; 
+Each breeze that sweeps the ocean 
+Brings tidings from afar 
+Of nations in commotion, 
+Prepared for Zion's war. 
 
 2.
-Don’t you see the saints ascending,
-Hear them shouting thro’ the air.
-Jesus smiling, trumpets sounding,
-Now His glory they shall share.
+See heathen nations bending 
+Before the God we love, 
+And thousand hearts ascending 
+In gratitude above; 
+While sinners, now confessing, 
+The gospel call obey, 
+And seek the Saviour's blessing, 
+A nation in a day. 
+
+3.
+Blest river of salvation, 
+Pursue thy onward way; 
+Flow thou to every nation, 
+Nor in thy richness stay 
+Stay not till all the lowly, 
+Triumphant reach their home; 
+Stay not till all the holy 
+Proclaim, "The Lord is come!"
 ```
 
 - |   -  |

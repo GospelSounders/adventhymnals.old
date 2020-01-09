@@ -11,44 +11,28 @@ metadata:
 
 ```txt
 1.
-I have a Friend so precious,
-So very dear to me,
-He loves me with such tender love,
-He loves so faithfully;
-I could not live apart form Him,
-I love to feel Him nigh,
-And so we dwell together,
-My Lord and I.
+Another six days' work is done, 
+Another Sabbath is begun; 
+Return, my soul, enjoy thy rest, 
+Improve the day that God has blessed. 
 
 2.
-Sometimes I’m faint and weary,
-He knows that I am weak,
-And as He bids me lean on Him,
-His help I gladly seek;
-He leads me in the paths of light,
-Beneath a sunny sky,
-And so we walk together,
-My Lord and I.
+Come, bless the Lord, whose love as signs 
+So sweet a rest to weary minds; 
+A blessed antepast is given, 
+On this day more than all the seven. 
 
 3.
-I tell Him all my sorrows,
-I tell Him all my joys,
-I tell Him all that pleases me,
-I tell Him what annoys;
-He tells me what I ought to do,
-He tells me how to try,
-And so we talk together,
-My Lord and I.
+O that our thoughts and thanks may rise 
+As grateful incense to the skies, 
+And draw from Christ that sweet repose 
+Which none but he who feels it knows. 
 
 4.
-He knows that I am longing
-Some weary soul to win,
-And so He bids me go and speak
-The loving word for Him;
-He bids me tell His wondrous love,
-And why He came to die,
-And so we work together,
-My Lord and I.
+This heavenly calm within the breast 
+Is the best pledge of glorious rest, 
+Which for the church of God remains, 
+The end of cares, the end of pains.
 ```
 
 - |   -  |

@@ -11,23 +11,34 @@ metadata:
 
 ```txt
 1.
-O soul, are you weary and troubled?
-No light in the darkness you see?
-There’s light for a look at the Savior,
-And life more abundant and free!
-
+O Lamb of God! still keep me 
+Near to Thy wounded side; 
+'Tis only there in safely 
+And peace I can abide! 
+What foes and snares surround me, 
+What doubts and fears within! 
+The grace that sought and found me, 
+Alone can keep me clean. 
 
 2.
-Through death into life everlasting
-He passed, and we follow Him there;
-Over us sin no more hath dominion—
-For more than conquerors we are!
+'Tis only in Thee hiding 
+I know my life secure' 
+Only in Thee abiding, 
+The conflict can endure. 
+Thine arm the victory gaineth 
+O'er every hateful foe; 
+Thy love my heart sustaineth 
+In all its care and woe. 
 
 3.
-His Word shall not fail you—He promised;
-Believe Him, and all will be well:
-Then go to a world that is dying,
-His perfect salvation to tell!
+Soon shall my eyes behold Thee, 
+With rapture, face to face; 
+One half hath not been told me 
+Of all Thy power and grace. 
+Thy beauty, Lord, and glory, 
+The wonders of Thy love, 
+Shall be the endless story 
+Of all the saints above.
 ```
 
 - |   -  |

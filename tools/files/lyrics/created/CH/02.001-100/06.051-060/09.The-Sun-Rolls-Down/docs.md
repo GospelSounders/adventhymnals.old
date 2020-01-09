@@ -11,36 +11,29 @@ metadata:
 
 ```txt
 1.
-Great our joy as now we gather
-Where the Master makes us one:
-Where we worship God the Father
-Thro’ the Spirit of His Son.
-All who search for His church
-Find it where His will is done.
+The sun rolls down the distant west. 
+Soft twilight steals abroad 
+To welcome in the day of rest, 
+The Sabbath of our Lord. 
 
 2.
-Precious is the tie that binds us
-To our God when faith grows cold;
-Precious all that now reminds us
-He is still our safe stronghold.
-Faithful love serves to prove
-Here the Shepherd has His fold.
+This holy day let us begin 
+With songs of praise to God, 
+Who pardons all our guilt and sin. 
+Through Jesus' precious blood. 
 
 3.
-May we learn from Christ’s example
-How to use this house of prayer:
-He who loved and cleansed His temple
-Wants us all to worship there.
-God the Son shuts out none:
-In His kingdom all may share.
+Now in this tranquil hour we lay 
+All worldly cares aside, 
+And hallow God's most holy day, 
+Though friends or foes may chide. 
 
 4.
-Lord, inspire us with Your vision
-Of a world which must be won!
-Glorious is the church’s mission,
-Long endeavoured, scarce begun!
-Faithful now – this is how
-God’s eternal will is done.
+'Tis not to seek the world's applause 
+That we from labor rest; 
+We strive to keep God's holy laws, 
+And He these moments blessed.
+
 ```
 
 - |   -  |

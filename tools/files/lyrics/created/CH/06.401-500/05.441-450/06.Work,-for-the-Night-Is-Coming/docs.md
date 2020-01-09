@@ -11,45 +11,34 @@ metadata:
 
 ```txt
 1.
-Lo, what a glorious sight appears
-To our believing eyes!
-The earth and seas are passed away
-And the old rolling skies.
-And the old rolling skies,
-And the old rolling skies;
-The earth and seas are passed away,
-And the old rolling skies.
-
+Work for the night is coming, 
+Work through the morning hours; 
+Work while the dew is sparkling; 
+Work 'mid springing flowers; 
+Work while the day grows brighter, 
+Work in the glowing sun; 
+Work for the night is coming, 
+When man's work is done. 
 
 2.
-Attending angels shout for joy
-And the bright armies sing-
-Mortals! Behold the sacred seat
-Of your descending King.
-Of your descending King,
-Of your descending King;
-Mortals! Behold the sacred seat
-Of your descending King.
+Work for the night is coming, 
+Work through the sunny noon; 
+Fill brightest hours with labor, 
+Rest comes sure and soon. 
+Give every flying minute 
+Something to keep in store; 
+Work for the night is coming, 
+When man works no more. 
 
 3.
-His own soft hand shall wipe the tears
-From every weeping eye;
-And pains, and groans, and griefs, and fears,
-And death itself shall die!
-And death itself shall die,
-And death itself shall die;
-And pains, and groans, and griefs, and fears,
-And death itself shall die.
-
-4.
-How long, dear Savior! Oh, how long
-Shall this bright hour delay?
-Fly swifter round, ye wheels of time!
-And bring the welcome day.
-And bring the welcome day,
-And bring the welcome day;
-Fly swifter round, ye wheels of time!
-And bring the welcome day.
+Work for the night is coming, 
+Under the sunset skies; 
+While their bright tints are glowing, 
+Work for daylight flies. 
+Work till the last beam fadeth, 
+Fadeth to shine no more; 
+Work while the night is darkening, 
+When man's work is o'er.
 ```
 
 - |   -  |

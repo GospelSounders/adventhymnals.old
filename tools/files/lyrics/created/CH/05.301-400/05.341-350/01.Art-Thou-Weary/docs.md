@@ -11,23 +11,46 @@ metadata:
 
 ```txt
 1.
-To God be the glory, great things he hath done!
-So loved he the world that he gave us his Son,
-who yielded his life an atonement for sin,
-and opened the lifegate that all may go in.
-
+Art thou weary, art thou languid, 
+Art thou sore distressed? 
+"Come to Me," saith One, "and coming, 
+Be at rest." 
 
 2.
-O perfect redemption, the purchase of blood,
-to every believer the promise of God;
-the vilest offender who truly believes,
-that moment from Jesus a pardon receives.
+Hath He marks to lead me to Him, 
+If He be my guide? 
+"In His feet and hands are wound prints, 
+And His side." 
 
 3.
-Great things he hath taught us, great things he hath done,
-and great our rejoicing thru Jesus the Son;
-but purer, and higher, and greater will be
-our wonder, our transport, when Jesus we see.
+Is there diadem, as monarch, 
+That His brow adorns? 
+"Yea, a crown, in very surety, 
+But of thorns." 
+
+4.
+If I find Him, if I follow, 
+What my portion here? 
+"Many a sorrow, many a labor, 
+Many a tear." 
+
+5.
+If I still hold closely to Him, 
+What hath He at last? 
+"Sorrow vanquished, labor ended, 
+Jordan passed. " 
+
+6.
+If I ask Him to receive me, 
+Will He say me nay? 
+"Not till earth and not till heaven 
+Pass away." 
+
+7.
+Finding, following, keeping, struggling, 
+Is He sure to bless? 
+"Saints, apostles, prophets, martyrs, 
+Answer, Yes."
 ```
 
 - |   -  |

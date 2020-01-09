@@ -33,6 +33,7 @@ These, though we bring them in trembling and fearfulness,
 He will accept for the name that is dear;
 Mornings of joy give for evenings of tearfulness,
 Trust for our trembling, and hope for our fear.
+
 ```
 
 - |   -  |

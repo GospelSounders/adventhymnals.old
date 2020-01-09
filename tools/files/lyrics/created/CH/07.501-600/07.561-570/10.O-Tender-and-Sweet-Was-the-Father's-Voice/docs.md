@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Not I, but Christ, be honored, loved, exalted;
-Not I, but Christ, be seen, be known, be heard;
-Not I, but Christ, in every look and action,
-Not I, but Christ, in every thought and word.
+O tender and sweet was the Father's voice 
+As He lovingly called to me, 
+"Come over the line, it is only a step; 
+I'm waiting, My child, for thee." 
+
+Refrain:
+"Over the line," hear the sweet refrain; 
+Angels are chanting the heavenly strain; 
+"Over the line"'Why should I remain 
+With a step between me and Jesus? 
 
 2.
-Not I, but Christ, to gently soothe in sorrow,
-Not I, but Christ, to wipe the falling tear;
-Not I, but Christ, to lift the weary burden,
-Not I, but Christ, to hush away all fear.
+"But my sins are so many, my faith so small"' 
+Lo! the answer came quick and clear, 
+"Thou needest not trust in thyself at all; 
+Step over the line. I'm here." 
+
+Refrain:
+"Over the line," hear the sweet refrain; 
+Angels are chanting the heavenly strain; 
+"Over the line"'Why should I remain 
+With a step between me and Jesus? 
 
 3.
-Christ, only Christ! No idle words e’er falling,
-Christ, only Christ; no needless bustling sound;
-Christ, only Christ, no self important bearing;
-Christ, only Christ, no trace of “I” be found.
+"But my flesh is so feeble," with tears I said, 
+"And the pathway I cannot see; 
+I fear if I try I may sadly fail, 
+And thus dishonor Thee." 
+
+Refrain:
+"Over the line," hear the sweet refrain; 
+Angels are chanting the heavenly strain; 
+"Over the line"'Why should I remain 
+With a step between me and Jesus? 
 
 4.
-Not I, but Christ, my every need supplying,
-Not I, but Christ, my strength and health to be;
-Christ, only Christ, for body, soul, and spirit,
-Christ, only Christ, here and eternally.
+The world is so cold I cannot go back, 
+Press forward I surely must; 
+I'll lay my weak hand in His wounded palm, 
+Step over the line and trust.
+
+Refrain:
+"Over the line," hear the sweet refrain; 
+Angels are chanting the heavenly strain; 
+"Over the line"'Why should I remain 
+With a step between me and Jesus? 
+
 ```
 
 - |   -  |

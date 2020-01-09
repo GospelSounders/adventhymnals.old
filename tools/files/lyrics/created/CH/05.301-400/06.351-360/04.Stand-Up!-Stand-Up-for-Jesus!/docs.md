@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Thy love, O God, has all mankind created,
-And led Thy people to this present hour;
-In Christ we see life’s glory consummated;
-Thy Spirit manifests His living power.
+Stand up, stand up for Jesus! Ye soldiers of the cross;
+Lift high His royal banner, It must not suffer loss:
+From vict'ry unto vict'ry, His army shall He lead,
+Till every foe is vanquished, And Christ is Lord indeed.
 
 2.
-From out the darkness of our hope’s frustration,
-From all the broken idols of our pride,
-We turn to seek Thy truth’s illumination,
-And find Thy mercy waiting at our side.
+Stand up, stand up for Jesus! The trumpet call obey:
+Forth to the mighty conflict, In this His glorious day;
+Ye that are men now serve Him Against unnumbered foes;
+Let courage rise with danger, And strength to strength oppose.
 
 3.
-In pity look upon Thy children’s striving
-For life and freedom, peace and brotherhood,
-Till at the fullness of Thy truth arriving,
-We find in Christ the crown of every good.
+Stand up, stand up for Jesus! Stand in His strength alone,
+The arm of flesh will fail you, Ye dare not trust your own;
+Put on the gospel armor, And watching unto prayer,
+Where calls the voice of duty, Be never wanting there.
 
 4.
-Inspire Thy church, mid earth’s discordant voices,
-To preach the gospel of her Lord above,
-Until the day this warring world rejoices
-To hear the mighty harmonies of love.
+Stand up, stand up for Jesus! The strife will not be long;
+This day the noise of battle, The next the victor's song;
+To him that overcometh A crown of life shall be;
+He with the King of glory Shall reign eternally.
 ```
 
 - |   -  |

@@ -11,28 +11,44 @@ metadata:
 
 ```txt
 1.
-Rock of Ages, cleft for me,
-Let me hide myself in Thee;
-Let the water and the blood,
-From Thy riven side which flowed,
-Be of sin the double cure,
-Cleanse me from its guilt and power.
+Jerusalem the golden, 
+With milk and honey blest, 
+Beneath thy contemplation 
+Sink heart and voice oppressed. 
+I know not, O I know not 
+What holy joys are there; 
+What radiancy of glory, 
+What bliss beyond compare. 
 
 2.
-Not the labor of my hands
-Can fulfill Thy law’s demands;
-Could my zeal no respite know,
-Could my tears forever flow,
-All for sin could not atone;
-Thou must save, and Thou alone.
+They stand, those hall of Zion, 
+All jubilant with song, 
+And bright with many an angel, 
+And all the martyr throng. 
+The Prince is ever in them, 
+The daylight is serene; 
+The pastures of the blessed 
+Are deck in glorious sheen. 
 
 3.
-When my pilgrimage I close;
-Victor o’er the last of foes,
-When I soar to worlds unknown,
-And behold Thee on Thy throne,
-Rock of Ages, cleft for me,
-Let me hide myself in Thee.
+There is the throne of David, 
+And there, from care released, 
+The song of them that triumph, 
+The shout of them that feast; 
+And they who, with their Leader, 
+Have conquered in the fight, 
+Forever and forever 
+Are clad in robes of white. 
+
+4.
+O sweet and blessed country, 
+The home of God's elect! 
+O sweet and blessed country, 
+That eager hearts expect! 
+Jesus, in mercy bring us 
+To that dear land of rest; 
+Who art, with God the Father, 
+And Spirit, ever blest.
 ```
 
 - |   -  |

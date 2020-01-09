@@ -11,23 +11,44 @@ metadata:
 
 ```txt
 1.
-I’m a pilgrim, and I’m a stranger;
-I can tarry, I can tarry but a night;
-Do not detain me, for I am going
-To where the fountains are ever flowing.
-
+Ho! reapers of life's harvest, 
+Why stand with rusty blade 
+Until the night draws round thee, 
+And day begins to fade? 
+Why stand ye idle, waiting 
+For reapers more to come? 
+The golden morn is passing; 
+Why sit ye idle, dumb? 
 
 2.
-There the glory is ever shining!
-O, my longing heart, my longing heart is there;
-Here in this country so dark and dreary,
-I long have wandered forlorn and weary.
+Thrust in your sharpened sickle, 
+And gather in the grain; 
+The night is fast approaching, 
+And soon will come again. 
+The Master calls for reapers, 
+And shall He call in vain? 
+Shall sheaves lie there ungathered, 
+And waste upon the plain? 
 
 3.
-There’s the city to which I journey;
-My Redeemer, my Redeemer is its light!
-There is no sorrow, nor any sighing,
-Nor any tears there, or any dying.
+Come down from hill and mountain, 
+In morning's ruddy glow, 
+Nor wait until the dial 
+Points to the noon below; 
+And come with the strong sinew, 
+Nor faint in heat or cold; 
+And pause not till the evening 
+Draws round its wealth of gold. 
+
+4.
+Mount up the heights of wisdom, 
+And crush each error low; 
+Keep back no words of knowledge 
+That human hearts should know. 
+Be faithful to thy mission, 
+In service of thy Lord, 
+And soon a golden chaplet 
+Will be thy rich reward.
 ```
 
 - |   -  |

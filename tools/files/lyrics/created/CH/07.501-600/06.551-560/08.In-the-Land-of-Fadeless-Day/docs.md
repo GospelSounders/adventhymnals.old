@@ -11,25 +11,53 @@ metadata:
 
 ```txt
 1.
-For the fruits of His creation, thanks be to God;
-For the gifts to every nation, thanks be to God;
-For the plowing, sowing, reaping,
-Silent growth while men are sleeping,
-Future needs in earth’s safe keeping, thanks be to God!
+In the land of fadeless day 
+Lies 'the city foursquare;' 
+It shall never pass away, 
+And there is 'no night there.' 
+
+Refrain:
+God shall 'wipe away all tears;' 
+There's no death, no pain, nor fears; 
+And they count not time by years, 
+For there is 'no night there.' 
 
 2.
-In the just reward of labor, God’s will is done;
-In the hop we give our neighbor, God’s will is done;
-In our worldwide take of caring
-For the hungry and despairing,
-In the harvests men are sharing, God’s will is done.
+All the gates of pearl are made, 
+In 'the city foursquare;' 
+All the streets with gold are laid, 
+And there is 'no night there.' 
+
+Refrain:
+God shall 'wipe away all tears;' 
+There's no death, no pain, nor fears; 
+And they count not time by years, 
+For there is 'no night there.' 
 
 3.
-For the harvests of His Spirit, thanks be to God;
-For the good all men inherit, thanks be to God;
-For the wonders that astound us,
-For the truths that still confound us,
-Most of all, that love has found us, thanks be to God!
+All the gates shall never close, 
+To 'the city foursquare;' 
+There life's crystal river flows, 
+And there is 'no night there.' 
+
+Refrain:
+God shall 'wipe away all tears;' 
+There's no death, no pain, nor fears; 
+And they count not time by years, 
+For there is 'no night there.' 
+
+4.
+There they need no sunshine bright, 
+In 'that city foursquare;' 
+For the Lamb is all the light, 
+And there is 'no night there.'
+
+Refrain:
+God shall 'wipe away all tears;' 
+There's no death, no pain, nor fears; 
+And they count not time by years, 
+For there is 'no night there.' 
+
 ```
 
 - |   -  |

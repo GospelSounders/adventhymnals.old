@@ -11,26 +11,28 @@ metadata:
 
 ```txt
 1.
-Be still, my soul:
-the Lord is on thy side;
-Bear patiently the cross of grief or pain;
-Leave to thy God to order and provide;
-In every change He faithful will remain.
-
+This is the day of rest; 
+Our failing strength renew; 
+On weary brain and troubled breast 
+Shed Thou Thy freshening dew. 
 
 2.
-Be still, my soul:
-thy God doth undertake
-To guide the future as He has the past.
-Thy hope, thy confidence let nothing shake;
-All now mysterious shall be bright at last.
+This is the day of peace; 
+Thy peace our spirits fill; 
+Bid Thou the blasts of discord cease, 
+The waves of strife be still. 
 
 3.
-Be still, my soul:
-the hour is hastening on
-When we shall be forever with the Lord,
-When disappointment, grief, and fear are gone,
-Sorrow forgot, love’s purest joys restored.
+This is the day of prayer; 
+Let earth to heaven draw near; 
+Lift up our hearts to seek Thee there; 
+Come down to meet us here. 
+
+4.
+This is the best of days; 
+Send forth Thy quickening breath, 
+And wake dead souls to love and praise, 
+O Vanquisher of death!
 ```
 
 - |   -  |

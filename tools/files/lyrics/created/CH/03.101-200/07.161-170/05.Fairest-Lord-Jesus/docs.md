@@ -11,44 +11,29 @@ metadata:
 
 ```txt
 1.
-Look, you saints, the sight is glorious,
-See the Man of sorrows now;
-From the fight returned victorious,
-Every knee to Him shall bow.
-Crown Him! Crown Him! Crown Him!
-Crown Him! Crown Him! Crown Him!
-Crowns become the victor’s brow.
-Crowns become the victor’s brow.
+Fairest Lord Jesus, ruler of all nature,
+O thou of God and man the Son!
+Thee will I cherish, Thee will I honor,
+thou, my soul's glory, joy, and crown.
 
 2.
-Crown the Savior! angels crown Him!
-Rich the trophies Jesus brings;
-On the seat of power enthrone Him
-While the vault of heaven rings.
-Crown Him! Crown Him! Crown Him!
-Crown Him! Crown Him! Crown Him!
-Crown the Savior, King of Kings.
-Crown the Savior, King of Kings.
+Fair are the meadows, fairer still the woodlands,
+robed in the blooming garb of spring:
+Jesus is fairer, Jesus is purer
+who makes the woeful heart to sing.
 
 3.
-Sinners in derision crowned Him,
-Mocking thus the Savior’s claim;
-Saints and angels crowd around Him,
-Own His title, praise His name.
-Crown Him! Crown Him! Crown Him!
-Crown Him! Crown Him! Crown Him!
-Spread abroad the victor’s fame!
-Spread abroad the victor’s fame!
+Fair is the sunshine, fairer still the moonlight,
+and all the twinkling starry host:
+Jesus shines brighter, Jesus shines purer
+than all the angels heaven can boast.
 
 4.
-Hark! those bursts of acclamation!
-Hark! those loud triumphant chords!
-Jesus takes the highest station;
-Oh, what joy the sight affords!
-Crown Him! Crown Him! Crown Him!
-Crown Him! Crown Him! Crown Him!
-King of kings and Lord of lords!
-King of kings and Lord of lords!
+Beautiful Savior! Lord of all the nations,
+Son of God and Son of Man!
+Glory and honor, praise, adoration,
+now and forevermore be thine!
+
 ```
 
 - |   -  |

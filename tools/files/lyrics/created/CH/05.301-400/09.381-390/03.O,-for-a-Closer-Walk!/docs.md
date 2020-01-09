@@ -11,34 +11,28 @@ metadata:
 
 ```txt
 1.
-O day of rest and gladness,
-O day of joy and light,
-O balm of care and sadness,
-Most beautiful, most bright,
-On thee the high and lowly
-Before th’ eternal throne
-Sing, “Holy, holy, holy,”
-To the great Three in One.
+O for a closer walk with God,
+A calm and heavenly frame,
+A light to shine upon the road
+That leads me to the Lamb!
 
 2.
-Thou art a port protected
-From storms that round us rise;
-A garden intersected
-With streams of paradise;
-Thou art a cooling fountain
-In life’s dry dreary sand;
-From Thee, like Pisgah’s mountain,
-We view our promised land.
+Return, O holy Dove, return,
+Sweet messenger of rest!
+I hate the sins that made Thee mourn
+And drove Thee from my breast.
 
 3.
-A day of sweet reflection
-Thou art, a day of love,
-A day to raise affection
-From earth to things above.
-New graces ever gaining
-From this our day of rest,
-We seek the rest remaining
-To mansions of the blest.
+What peaceful hours I once enjoyed!
+How sweet their memory still!
+But they have left an aching void
+The world can never fill.
+
+4.
+The dearest idol I have known,
+Whate'er that idol be
+Help me to tear it from Thy throne,
+And worship only Thee.
 ```
 
 - |   -  |

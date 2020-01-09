@@ -10,24 +10,7 @@ metadata:
 ## 358. MY SOUL, BE ON THY GUARD
 
 ```txt
-1.
-Far and near the fields are teeming
-with the sheaves of ripened grain;
-Far and near their gold is gleaming
-O’er the summy slope and plain.
 
-
-2.
-Send them forth with morn’s first beaming,
-Send them in the noon-tides’s glare;
-When the sun’s last rays are streaming,
-bid them gather everywhere.
-
-3.
-O thou, whom thy Lord is sending,
-gather now the sheaves of gold;
-Heavenward then at evening wending
-Thou shalt come with joy untold.
 ```
 
 - |   -  |
@@ -42,9 +25,9 @@ Composer| Lowell Mason |
 Hymnal|  - |
 Tune| LABAN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Life: Warfare |
 Texts |  |
 Print Texts | 

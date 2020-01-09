@@ -11,23 +11,34 @@ metadata:
 
 ```txt
 1.
-My heav’nly home is bright and fair,
-Nor pain nor death can enter there;
-It’s glitt’ring tow’rs the sun outshine,
-That heav’nly mansion shall me mine.
-
+Lord, her watch Thy church is keeping; 
+When shall earth Thy rule obey? 
+When shall end the night of weeping? 
+When shall break the promised day? 
+See the whitening harvest languish, 
+Waiting still the laborers' toil; 
+Was it vain, Thy Son's deep anguish? 
+Shall the strong retain the spoil? 
 
 2.
-My Father’s house is built on high,
-Far, far above the starry sky;
-When from this earthly prison free,
-That heav’nly mansion mine shall be.
+Tidings, sent for every creature, 
+Millions yet have never heard; 
+Can they hear without a preacher? 
+Lord Almighty, give the word; 
+Give the word; in every nation 
+Let the gospel trumpet sound, 
+Witnessing of Thy salvation 
+To the earth's remotest bound. 
 
 3.
-Let others seek a home below,
-Which flames devour or waves oe’r flow;
-Be mine a happier lot to own
-A heav’nly mansion near the throne.
+Then the end, Thy church completed, 
+All Thy chosen gathered in, 
+With their King in glory seated, 
+Satan bound, and banished sin; 
+Gone foreyer, parting, weeping, 
+Hunger, sorrow, death, and pain; 
+Lo! her watch Thy church is keeping; 
+Come, Lord Jesus; come to reign.
 ```
 
 - |   -  |

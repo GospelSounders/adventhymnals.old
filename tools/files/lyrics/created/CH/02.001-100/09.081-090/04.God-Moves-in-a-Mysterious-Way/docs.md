@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-God the Omnipotent! King, who ordainest
-Great winds Thy clarions, the lightnings Thy sword;
-Show forth Thy pity on high where Thou reignest,
-Give to us peace, O most merciful Lord.
+God moves in a mysterious way
+His wonders to perform;
+He plants His footsteps in the sea,
+And rides upon the storm.
 
 2.
-God the all merciful! earth hath forsaken
-Thy precepts holy, and slighted Thy word;
-Bid not Thy wrath in its terrors awaken;
-Give to us peace, O most merciful Lord.
+Ye fearful saints, fresh courage take;
+The clouds ye so much dread
+Are big with mercy, and shall break
+In blessings on your head.
 
 3.
-God the all righteousness One! man hath defied Thee;
-Yet to eternity standeth Thy word;
-Falsehood and wrong shall not tarry beside Thee;
-Prosper the right, O most merciful Lord.
+Judge not the Lord by feeble sense,
+But trust Him for His grace;
+Behind a frowning providence
+He hides a smiling face.
 
 4.
-So shall we render Thee thankful devotion,
-For Thy deliverance from peril and sword,
-Singing in chorus from ocean to ocean,
-“Thine is the power and the glory, O Lord.”
+His purposes will ripen fast,
+Unfolding every hour;
+The bud may have a bitter taste,
+But sweet will be the flower.
+
+5.
+Blind unbelief is sure to err,
+And scan His work in vain;
+God is His own interpreter,
+And He will make it plain.
+
 ```
 
 - |   -  |

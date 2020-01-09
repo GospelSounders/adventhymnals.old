@@ -11,37 +11,29 @@ metadata:
 
 ```txt
 1.
-And can it be that I should gain
-an interest in the Savior’s blood!
-Died he for me? who caused his pain!
-For me? who him to death pursued?
-Amazing love! How can it be
-that thou, my God, shouldst die for me?
-
+O lord of life, Thy kingdom is at hand, 
+Blest reign of love and liberty and light; 
+Time long foretold by seers of every land; 
+The cherished dream of watchers through the night. 
 
 2.
-He left his Father’s throne above
-so free, so infinite his grace!;
-emptied himself of all but love,
-and bled for Adam’s helpless race.
-‘Tis mercy all, immense and free,
-for O my God, it found out me!
+Lo! in our hearts shines forth the morning star, 
+Shedding its luster on our darkened way; 
+And we behold, as pilgrims from afar, 
+The holy dawning of Thy perfect day. 
 
 3.
-Long my imprisoned sprit lay,
-fast bound in sin and nature’s night;
-thine eye diffused a quickening ray;
-I woke, the dungeon flamed with light;
-my chains fell off, my heart was free,
-I rose, went forth, and followed thee.
+Now gleams at last upon our waiting eyes 
+The glory of the kingdom that shall be; 
+When truth in conquering grandeur shall arise, 
+And Christ shall rule the world with equity. 
 
 4.
-No condemnation now I dread;
-Jesus, and all in him, is mine;
-alive in him, my living Head,
-and clothed in righteousnes divine,
-bold I approach th’ eternal throne,
-and claim the crown, through Christ my own.
+Forward again we move at Thy command! 
+The flaming pillar leading on anew; 
+One in the faith of all Thy prophet band, 
+Onward we press to make the vision true.
+
 ```
 
 - |   -  |

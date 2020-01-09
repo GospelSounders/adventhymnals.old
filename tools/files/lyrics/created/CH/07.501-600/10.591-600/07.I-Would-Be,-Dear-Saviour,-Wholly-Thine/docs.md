@@ -11,28 +11,27 @@ metadata:
 
 ```txt
 1.
-Ye servants of the Lord,
-Each in his office wait,
-Observant of His heavenly Word,
-And watchful at His gate.
+I would be, dear Savior, wholly Thine;
+Teach me how, teach me how;
+I would do Thy will, O Lord, not mine;
+Help me, help me now.
+CHORUS:
+Wholly Thine, wholly Thine,
+Wholly Thine, this is my vow;
+Wholly Thine, wholly Thine,
+Wholly Thine, O Lord, just now.
 
 2.
-Let all your lamps be bright,
-And trim the golden flame,
-Gird up your loins as in His sight,
-His coming thus proclaim.
+What is worldly pleasure, wealth or fame,
+Without Thee, without Thee?
+I will leave them all for Thy dear Name,
+This my wealth shall be.
 
 3.
-Watch, ’tis your Lord’s command,
-And while we speak He’s near;
-Mark the first signal of His hand,
-And ready all appear.
-
-4.
-O happy servant, he,
-In such a posture found!
-He shall His Lord with rapture see,
-And be with honor crowned.
+As I cast earth.s transient joys behind,
+Come Thou near, come Thou near;
+In Thy presence all in all I find,
+.Tis my comfort here
 ```
 
 - |   -  |

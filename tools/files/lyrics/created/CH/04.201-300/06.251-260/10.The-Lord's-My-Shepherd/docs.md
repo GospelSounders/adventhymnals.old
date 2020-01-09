@@ -11,29 +11,45 @@ metadata:
 
 ```txt
 1.
-Hover o’er me, Holy Spirit,
-Bathe my trembling heart and brow;
-Fill me with Thy hallowed presence,
-Come, O come and fill me now.
-
+The Lord's my shepherd, I'll not want
+He makes me down to lie
+In pastures green; He leadeth me
+The quiet waters by.
+He leadeth me, He leadeth me
+The quiet waters by.
 
 2.
-Thou canst fill me, gracious Spirit,
-Though I cannot tell Thee how;
-But I need Thee, greatly need Thee;
-Come, O come and fill me now.
+My soul He doth restore again
+And me to walk doth make
+Within the paths of righteousness
+Even for His own name's sake.
+Within the paths of righteousness
+Even for His own name's sake.
 
 3.
-I am weakness, full of weakness;
-At Thy sacred feet I bow;
-Blest, divine, eternal Spirit,
-Fill with love, and fill me now.
+Yea, though I walk through death's dark vale
+Yet will I fear no ill
+For Thou art with me, and Thy rod
+And staff me comfort still.
+For Thou art with me, and Thy rod
+And staff me comfort still.
 
 4.
-Cleanse and comfort, bless and save me;
-Bathe, O, bathe my heart and brow;
-Thou art comforting and saving,
-Thou art sweetly filling now.
+My table Thou has furnished
+In presence of my foes;
+My head Thou dost with oil anoint
+And my cup overflows.
+My head Thou dost with oil anoint
+And my cup overflows.
+
+5.
+Goodness and mercy all my life
+Shall surely follow me,
+And in God's house for evermore
+My dwelling-place shall be.
+And in God's house for evermore
+My dwelling-place shall be.
+
 ```
 
 - |   -  |

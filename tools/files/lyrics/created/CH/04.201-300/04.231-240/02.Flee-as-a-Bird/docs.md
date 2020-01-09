@@ -11,34 +11,27 @@ metadata:
 
 ```txt
 1.
-At the name of Jesus every knee shall bow,
-Every tongue confess Him King of glory now;
-“Tis the Father’s pleasure we should call Him Lord,
-Who from the beginning was the mighty Word.
+Flee as a bird to your mountain, 
+Thou who art weary of sin; 
+Go to the clear flowing Fountain, 
+Where you may wash and be clean; 
+Fly, for th'avenger is near thee, 
+Call, and the Saviour will hear thee, 
+He on his bosom will bear thee; 
+O thou who art weary of sin, 
+O thou who art weary of sin. 
 
 2.
-At His voice creation sprang at once to sight,
-All the angel faces, All the hosts of light,
-Thrones and dominations stars upon their way,
-All the heavenly orders in their great array.
+He will protect thee forever, 
+Wipe every falling tear; 
+He will forsake thee, oh, never, 
+Sheltered so tenderly there! 
+Haste, then, the daylight is flying, 
+Spend not the moments in sighing, 
+Cease from your sorrow and crying, 
+The Saviour will wipe every tear, 
+Yes, Jesus will wipe every tear.
 
-3.
-Humbled for a season, To receive a name
-From the lips of sinners, Unto whom He came;
-He is God the Savior, He is Christ the Lord,
-Ever to be worshiped, Trusted and adored.
-
-4.
-In your hearts enthrone Him: There let Him subdue
-All that is not holy, All that is not true;
-Crown Him as your captain in temptation’s hour,
-Let His will enfold you in its light and power.
-
-5.
-Surely, this Lord Jesus shall return again,
-With His Father’s glory, With His angel train;
-For all wreaths of empire meet upon His brow,
-And our hearts confess Him King of glory now.
 ```
 
 - |   -  |

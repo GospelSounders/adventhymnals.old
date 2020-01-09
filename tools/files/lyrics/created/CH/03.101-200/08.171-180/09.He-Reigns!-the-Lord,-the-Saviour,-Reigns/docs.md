@@ -11,36 +11,29 @@ metadata:
 
 ```txt
 1.
-The wonders of redeeming love
-Our highest thoughts exceed;
-The Son of God comes from above
-For sinful man to bleed.
+He reigns! the Lord, the Savior reigns; 
+Sing to His name in lofty strains, 
+Let all the saints in songs rejoice, 
+And in His praise exalt their voice. 
 
 2.
-He gives Himself, His life, His all,
-A sinless sacrifice.
-For man He drains the cup of gall,
-For man the victim dies.
+Deep are his counsels, and unknown, 
+But grace and truth support His throne; 
+Though gloomy clouds His ways surround, 
+Justice is their eternal ground. 
 
 3.
-And now before His Father’s face
-His precious blood He pleads;
-For those who seek the throne of grace
-His love still intercedes.
+In robes of judgment, lo, he comes! 
+Shakes the wide earth and cleaves the tombs; 
+Before him burns devouring fire; 
+The mountains melt, the seas retire. 
 
 4.
-He knows the frailties of our frame,
-For He has borne our grief;
-Our great High Priest once felt the same,
-And He can send relief.
+His enemies, with wild dismay, 
+Fly from the sight, and shun the day; 
+Then lift your heads, ye saints, on high, 
+And sing, for your redemption's nigh.
 
-5.
-His love will not be satisfied,
-Till He in glory sees
-The faithful ones for whom He died
-From sin forever free.
-Posted by HYMNS at 05:34 0 comments
-Labels: The Wonders of Redeeming Love
 ```
 
 - |   -  |

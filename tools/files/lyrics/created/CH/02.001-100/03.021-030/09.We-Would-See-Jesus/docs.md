@@ -11,40 +11,29 @@ metadata:
 
 ```txt
 1.
-Sing praise to God who reigns above,
-the God of all creation,
-the God of power, the God of love,
-the God of our salvation.
-With healing balm my soul He fills,
-and every faithless murmur stills;
-To God all praise and glory!
+We would see Jesus; for the shadows lengthen
+Across the little landscape of our life;
+We would see Jesus, our weak faith to strengthen
+For the last conflict, in this mortal strife.
 
 2.
-What God’s almighty power hath made
-His gracious mercy keepeth;
-By morning glow or evening shade,
-His watchful eye ne’er sleepeth,
-Within the kingdom of his might,
-Lo! all is just, and all is right:
-To God all praise and glory!
+We would see Jesus, Rock of our salvation,
+Whereon our feet were set with sovereign grace;
+Not life, nor death, with all their agitation,
+Can thence remove us, gazing on His face.
 
 3.
-The Lord is never far away,
-throughout all grief distressing,
-an ever present help and stay,
-our peace and joy and blessing.
-As with a mother’s tender hand,
-He leads His own, His chosen band:
-To God all praise and glory!
+We would see Jesus; other lights are paling,
+Which for long years we did rejoice to see;
+The blessings of this sinful world are failing;
+We would not mourn them, in exchange for Thee.
 
 4.
-Then all my gladsome way along,
-I sing aloud thy praises,
-that men may hear the grateful song
-my voice unwearied raises:
-Be joyful in the Lord, my heart!
-both soul and body bear your part!
-To God all praise and glory.
+We would see Jesus; this is all we're needing-
+Strength, joy and willingness come with the sight;
+We would see Jesus, dying, risen, pleading,
+Soon to return and end this mortal night!
+
 ```
 
 - |   -  |

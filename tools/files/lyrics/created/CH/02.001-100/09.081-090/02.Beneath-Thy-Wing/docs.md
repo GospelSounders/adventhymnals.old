@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Before Jehovah’s awful throne,
-Ye nations, bow with sacred joy;
-Know that the Lord is God alone;
-He can create, and He destroy.
+Beneath Thy wing, O God, I rest, 
+Under Thy shadow safely lie, 
+By Thine own strength in peace possest, 
+While dreaded evils pass me by. 
 
 2.
-His sovereign power, without our aid,
-Made us of clay, and formed us men;
-and when like wandering sheep we strayed,
-He brought us to His fold again.
+With strong desire, I here can stay 
+To see Thy love its work complete; 
+Here can I wait a long delay, 
+Reposing at my Saviour's feet. 
 
 3.
-We’ll crowd His gates with thankful songs,
-High as the heavens our voices raise;
-And earth, with her ten thousand tongues,
-Shall fill His courts with sounding praise.
+My place of lowly service, too, 
+Beneath that sheltering wing I see; 
+For all the work I have to do, 
+Is done through strengthening trust in Thee. 
 
 4.
-Wide as the world is His command,
-Vast as Eternity His love;
-Firm as a rock His truth shall stand,
-When rolling years shall cease to move.
+In faith and patience is repose, 
+In faith and rest my strength shall be; 
+And, when Thy joy the Church o'erflows, 
+I know that it will visit me.
+
 ```
 
 - |   -  |

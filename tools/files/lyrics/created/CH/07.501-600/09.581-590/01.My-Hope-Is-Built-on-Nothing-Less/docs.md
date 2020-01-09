@@ -11,22 +11,32 @@ metadata:
 
 ```txt
 1.
-When the church of Jesus shuts its outer door,
-Lest the roar of traffic drown the voice of prayer:
-May our prayers, Lord make up ten times more aware
-That the world we banish is our Christian care.
+My hope is built on nothing less
+Than Jesus' blood and righteousness.
+I dare not trust the sweetest frame,
+But wholly lean on Jesus' name.
+CHORUS:
+On Christ the solid rock I stand;
+All other ground is sinking sand,
+All other ground is sinking sand.
 
 2.
-If our hearts are lifted where devotion soars
-High above this hungry suffering world of ours:
-Lest our hymns should drug us to forget its needs,
-Forge our Christian worship into Christian deeds.
+When Darkness seems to veil His face,
+I rest on His unchanging grace.
+In every high and stormy gale,
+My anchor holds within the veil.
 
 3.
-Lest the gifts we offer, money, talents, time,
-Serve to salve our conscience to our secret shame:
-Lord, reprove, inspire us by the way you give;
-Teach us, dying Savior, how true Christians live.
+His oath, His covenant, and blood
+Supports me in the whelming flood.
+When all around my soul gives way,
+He then is all my hope and stay.
+
+4.
+When He shall come with trumpet sound,
+O may I then in Him be found!
+Clad in His righteousness alone,
+Faultless to stand before the throne.
 ```
 
 - |   -  |

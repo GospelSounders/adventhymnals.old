@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-Live out Thy life within me, O Jesus, King of kings!
-Be Thou Thyself the answer To all my questionings;
-Live out Thy life within me, In all things have Thy way!
-I, the transparent medium Thy glory to display.
+Sweet hour of prayer! sweet hour of prayer! 
+That calls me from a world of care, 
+And bids me at my Father's throne
+Make all my wants and wishes known. 
+In seasons of distress and grief, 
+My soul has often found relief, 
+And oft escaped the tempter's snare
+By thy return, sweet hour of prayer! 
 
 2.
-The temple has been yielded, And purified of sin;
-Let Thy Shekinah glory Now shine forth from within,
-And all the earth keep silence, The body henceforth be
-Thy silent, gentle servant, Moved only as by Thee.
+Sweet hour of prayer! sweet hour of prayer! 
+Thy wings shall my petition bear 
+To Him whose truth and faithfulness 
+Engage the waiting soul to bless. 
+And since He bids me seek His face, 
+Believe His word, and trust His grace, 
+I'll cast on Him my every care,
+And wait for thee, sweet hour of prayer! 
 
 3.
-Its members every moment Held subject to Thy call,
-Ready to have Thee use them, Or not be used at all;
-Held without restless longing, Or strain, or stress, or fret
-Or chafings at Thy dealings, Or thoughts of vain regret.
-
-4.
-But restful, calm, and pliant, From bend and bias free,
-Awaiting Thy decision, When Thou hast need of me.
-Live out Thy life within me, O Jesus, King of kings!
-Be Thou the glorious answer To all my questionings.
+Sweet hour of prayer! sweet hour of prayer! 
+May I thy consolation share
+Till from Mount Pisgah's lofty height
+I view my home and take my flight.
+In my immortal flesh I'll rise
+To seize the everlasting prize.
+And shout while passing through the air,
+Farewell, farewell, sweet hour of prayer! 
 ```
 
 - |   -  |

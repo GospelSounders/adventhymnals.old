@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-Fire of God, Thou sacred flame,
-Spirit who in splendor came,
-Let Thy heat my soul refine
-Till it glows with love divine.
+Courage brother! do not stumble, 
+Though thy path be dark as night; 
+There's a star to guide the humble; 
+Trust in God, and do the right. 
+Though the road be long and dreary, 
+And the end be out of sight, 
+Tread it bravely, strong or weary; 
+Trust in God, trust in God, trust in God, and do the right. 
 
 2.
-Breath of God, that swept in power
-In the pentecostal hour,
-Holy Breath, be Thou in me
-Source of vital energy.
+Perish policy and cunning, 
+Perish all that fears the light, 
+Whether losing, whether winning, 
+Trust in God, and do the right. 
+Shun all forms of guilty passion, 
+Fiends can look like angels bright; 
+Heed no custom, school, nor fashion; 
+Trust in God, trust in God, trust in God, and do the right. 
 
 3.
-Strength of God, Thy might within
-Conquers sorrow, pain, and sin:
-Fortify from evil’s art
-All the gateways of my heart.
+Some will hate thee, some will love thee, 
+Some will flatter, some will slight; 
+Cease from man, and look above thee; 
+Trust in God, and do the right. 
+Simple rule and safest guiding, 
+Inward peace and shining light, 
+Star upon our path abiding; 
+Trust in God, trust in God, trust in God, and do the right.
 
-4.
-Truth of God, Thy piercing rays
-Penetrate my secret ways.
-May the light that shames my sin
-Guide me holier paths to win.
-
-5.
-Love of God, Thy grace profound
-Knoweth neither age nor bound:
-Come, my heart’s own guest to be,
-Dwell forevermore in me.
 ```
 
 - |   -  |

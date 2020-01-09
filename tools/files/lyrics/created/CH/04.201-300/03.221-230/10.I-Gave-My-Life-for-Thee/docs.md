@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-All glory, laud, and honor,
-to thee, Redeemer, King,
-to whom the lips of children
-made sweet hosannas ring.
-Thou art the King of Israel,
-thou David’s royal Son,
-who in the Lord’s name comest,
-the King and Blessed One.
+I gave my life for thee, 
+My precious blood I shed, 
+That thou might'st ransom be, 
+And quickened from the dead; 
+I gave, I gave my life for thee, 
+What hast thou given for me? 
+I gave, I gave my life for thee, 
+What hast thou given for me? 
 
 2.
-The company of angels
-are praising thee on high,
-and we with all creation
-in chorus make reply.
-The people of the Hebrews
-with psalms before thee went;
-our prayer and praise and anthems
-before thee we present.
+My Fathers house of light, 
+My glory circled throne, 
+I left for earthly night, 
+For wanderings sad and lone; 
+I left, I left it all for thee, 
+Hast thou left aught for me? 
+I left, I left it all for thee, 
+Hast thou left aught for me? 
 
 3.
-To thee, before thy passion,
-they sang their hymns of praise;
-to thee, now high exalted,
-our melody we raise.
-Thou didst accept their praises;
-accept the prayers we bring,
-who in all good delightest,
-thou good and gracious King.
+I suffered much for thee, 
+More than thy tongue can tell, 
+Of bitterest agony, 
+To rescue thee from hell; 
+I've borne, I've borne it all for thee, 
+What hast thou borne for me? 
+I've borne, I've borne it all for thee, 
+What hast thou borne for me?
+
 ```
 
 - |   -  |

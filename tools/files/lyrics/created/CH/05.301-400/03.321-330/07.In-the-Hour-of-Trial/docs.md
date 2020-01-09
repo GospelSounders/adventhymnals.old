@@ -11,23 +11,22 @@ metadata:
 
 ```txt
 1.
-I’d rather have Jesus than silver or gold;
-I’d rather be His than have riches untold;
-I’d rather have Jesus than houses or land;
-I’d rather be led by His nail-pierced hand:
-
+In the hour of trial, Jesus, plead for me,
+Lest by base denial I depart from Thee;
+When Thou see'st me waver, With a look recall,
+Nor, for fear or favor, Suffer me to fall.
 
 2.
-I’d rather have Jesus than men’s applause;
-I’d rather be faithful to His dear cause;
-I’d rather have Jesus than world-wide fame;
-I’d rather be true to His holy name:
+With forbidden pleasures Would this vain world charm;
+Or its sordid treasures Spread to work me harm;
+Bring to my remembrance Sad Gethsemane,
+Or, in darker semblance, Cross-crowned Calvary.
 
 3.
-He’s fairer than lilies of rarest bloom;
-He’s sweeter than honey from out the comb;
-He’s all that my hungering spirit needs –
-I’d rather have Jesus and let Him lead:
+Should Thy mercy send me Sorrow, toil, and woe,
+Or should pain attend me On my path below,
+Grant that I may never Fail Thy hand to see;
+Grant that I may ever Cast my care on Thee. 
 ```
 
 - |   -  |

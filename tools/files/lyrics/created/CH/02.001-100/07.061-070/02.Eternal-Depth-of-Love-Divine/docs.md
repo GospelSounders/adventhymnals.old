@@ -11,34 +11,33 @@ metadata:
 
 ```txt
 1.
-How lovely is Thy dwelling place,
-O Lord of hosts to me!
-The tabenacles of Thy grace
-How pleasant, Lord, they be!
+Eternal depth of love divine, 
+In Jesus, God with us, displayed; 
+How bright Thy beaming glories shine! 
+How wide Thy healing streams are spread, 
+How wide Thy healing streams are spread! 
 
 2.
-My thirsty soul longs ardently,
-Yea, faints Thy courts to see;
-My very heart and flesh cry out,
-O living God, for Thee.
+With whom dost Thou delight to dwell? 
+Sinners, a vile and thankless race! 
+O God, what tongue aright can tell 
+How vast Thy love, how great Thy grace? 
+How vast Thy love, how great Thy grace? 
 
 3.
-Behold the sparrow findeth out
-A house where-in to rest;
-The swallow also, for herself
-Provided hath a nest.
+The dictates of Thy sovereign will 
+With joy our grateful hearts receive: 
+All thy delight in us fulfil; 
+Lo, all we are to Thee we give. 
+Lo, all we are to Thee we give. 
 
 4.
-Ev’n Thine own altars, where she safe
-Her young ones forth may bring,
-O Thou, almighty Lord of hosts,
-Who art my God and King.
+To Thy sure love, Thy tender care, 
+Our flesh, soul, spirit, we resign: 
+O fix Thy sacred presence there, 
+And seal the abode for ever Thine! 
+And seal the abode for ever Thine!
 
-5.
-Blest are they in Thy house that dwell,
-They ever give Thee praise.
-Blest is the man whose strength Thou art,
-In whose heart are Thy ways.
 ```
 
 - |   -  |

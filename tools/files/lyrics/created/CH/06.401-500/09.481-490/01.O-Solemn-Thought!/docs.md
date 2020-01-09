@@ -11,39 +11,44 @@ metadata:
 
 ```txt
 1.
-Dear Lord and Father of mankind,
-forgive our foolish ways;
-reclothe us in our rightful mind,
-in purer lives thy service find,
-in deeper reverence, praise.
+O solemn thought and can it be
+The hour o judgment now is come
+Which soon must fix our destiny,
+And seal the sinner's fearful doom?
+Yes, it is so; the judgment hour
+Is swiftly hastening to its close;
+Then will the Judge, in mighty power,
+Descend in vengeance on His foes.
 
 2.
-In simple trust like theirs who heard,
-beside the Syrian sea,
-the gracious calling of the Lord,
-let us, like them, without a word,
-rise up and follow thee.
+He who came down to earth to die
+An offering for the sins of men,
+And then ascended up on high,
+And will e'er long return again,
+Is standing now before the ark,
+And mercy seat and cherubim,
+To plead His blood for saints, and make
+The last remembrance of their sin.
 
 3.
-O sabbath rest by Galilee,
-O calm of hills above,
-where Jesus knelt to share with thee
-the silence of eternity,
-interpreted by love!
+The solemn moment is at hand
+When we who have His name confessed,
+Each in his lot must singly stand
+And pass the final, searching test.
+Jesus! we hope in Thee alone;
+In mercy now upon us look,
+Confess our names before the throne,
+And blot our sins from out Thy book.
 
 4.
-Drop thy still dews of quietness,
-till all our strivings cease;
-take from our souls the strain and stress,
-and let our ordered lives confess
-the beauty of thy peace.
-
-5.
-Breathe through the heats of our desire
-thy coolness and thy balm;
-let sense be dumb, let flesh retire;
-speak through the earthquake, wind, and fire,
-O still, small voice of calm.
+O blessed Savior! may we feel
+The full importance of this hour.
+Inspire our hearts with holy zeal,
+And aid us by Thy Spirit's power,
+That we may in Thy strength be strong,
+And brave the conflict valiantly;
+Then, on Mount Zion, join the song,
+And swell the notes of victory.
 ```
 
 - |   -  |

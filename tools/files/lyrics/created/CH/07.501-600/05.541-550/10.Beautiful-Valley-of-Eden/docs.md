@@ -11,22 +11,27 @@ metadata:
 
 ```txt
 1.
-Every flow’r that grows, Every brook that flows,
-Tell of beauty God has giv’n for me:
-Throughout my life may beauty be
-Deep within a heart from sin set free.
+Beautiful valley of Eden, 
+Sweet is thy noontide calm; 
+Over the hearts of the weary, 
+Breathing thy waves of balm. 
+REFRAIN:
+Beautiful valley of Eden, 
+Home of the pure and blest, 
+How often amid the wild billows 
+I dream of thy rest, sweet rest! 
 
 2.
-Gracious Lord above, Looking down in love,
-Guide my thoughts, my life, in my walk with Thee,
-That day by day the world may see
-Christ, the Lord and Savior, lives in me.
+Over the heart of the mourner 
+Shineth the golden day, 
+Wafting the songs of the angels 
+Down from the far away. 
 
 3.
-All my earthly days, I shall sing and praise
-God the Father, Spirit, and Christ with the Son.
-Grant faith when life on earth is done,
-I shall sing with those whose rest is won.
+There is the home of my Saviour; 
+There, with the blood-washed throng, 
+Over the highlands of glory 
+Rolleth the great new song.
 ```
 
 - |   -  |

@@ -11,28 +11,24 @@ metadata:
 
 ```txt
 1.
-The day Thou gavest, Lord, is ended;
-the darkness falls at Thy behest;
-to Thee our morning hymns ascended;
-Thy praise shall hallow now our rest.
+Again, as evening's shadow falls, 
+We gather in these hallowed walls; 
+And vesper hymn and vesper prayer 
+Rise mingling on the holy air. 
 
 2.
-We thank Thee that Thy church, unsleeping
-while earth rolls onward into light,
-through all the world her watch is keeping,
-and rests not now by day or night.
+May struggling hearts that seek release 
+Here find the rest of God's own peace; 
+And, strengthened here by hymn and prayer, 
+Lay down the burden and the care. 
 
 3.
-As o’er each continent and island
-the dawn leads on another day,
-the voice of prayer is never silent,
-nor die the strains of praise away.
+O God, our Light! to Thee we bow; 
+Within all shadows standest Thou; 
+Give deeper calm than night can bring; 
+Give sweeter songs than lips can sing. 
+Amen.
 
-4.
-So be it, Lord; Thy throne shall never,
-like earth’s proud empires, pass away.
-Thy kingdom stands, and grows forever,
-till all Thy creatures own Thy sway.
 ```
 
 - |   -  |

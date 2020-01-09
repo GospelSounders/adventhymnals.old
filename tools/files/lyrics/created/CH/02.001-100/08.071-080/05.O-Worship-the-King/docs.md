@@ -11,17 +11,29 @@ metadata:
 
 ```txt
 1.
-There’s the wonder of sunset at evening,
-The wonder as sunrise I see;
-But the wonder of wonders that thrills my soul
-Is the wonder that God loves me.
-
+O worship the King, all glorious above,
+O gratefully sing His wonderful love;
+Our Shield and Defender, the Ancient of Days,
+Pavilioned in splendor, and girded with praise.
 
 2.
-There’s the wonder of springtime and harvest,
-The sky, the stars, the sun;
-But the wonder of wonders that thrills my soul
-Is the wonder that’s only begun.
+O tell of His might, O sing of His grace,
+Whose robe is the light, whose canopy space,
+His chariots of wrath the deep thunderclouds form,
+And dark is His path on the wings of the storm.
+
+3.
+Thy bountiful care, what tongue can recite?
+It breathes in the air, it shines in the light;
+It streams from the hills, it descends to the plain,
+And sweetly distills in the dew and the rain.
+
+4.
+Frail children of dust, and feeble as frail,
+In Thee do we trust, nor find Thee to fail;
+Thy mercies how tender, how firm to the end!
+Our Maker, Defender, Redeemer, and Friend.
+
 ```
 
 - |   -  |

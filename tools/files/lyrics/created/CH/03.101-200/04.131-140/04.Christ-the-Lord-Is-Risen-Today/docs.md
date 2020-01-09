@@ -11,32 +11,29 @@ metadata:
 
 ```txt
 1.
-O Jesus sweet, O Jesus mild,
-Thy Father’s will hast Thou fulfilled;
-For Thou hast left Thy heavenly throne
-Our lowly state to make Thine own.
-O Jesus sweet, O Jesus mild.
+Christ the Lord is risen today, Alleluia!
+Sons of man and angels say, Alleluia!
+Raise your joys and triumphs high, Alleluia!
+Sing, ye heavens, and earth reply, Alleluia!
 
 2.
-O Jesus sweet, O Jesus mild,
-With joy hast Thou the whole world filled;
-Thou comest down from heaven’s hall
-To comfort us whom tears enthrall.
-O Jesus sweet, O Jesus mild.
+Lives again our glorious King, Alleluia!
+Where, O death, is now thy sting? Alleluia!
+Once he died our souls to save, Alleluia!
+Where's thy victory, boasting grave? Alleluia!
 
 3.
-O Jesus sweet, O Jesus mild,
-Thou art love’s image undefiled.
-Inflame our hearts with love’s pure fire,
-That we may share Thy heart’s desire.
-O Jesus sweet, O Jesus mild.
+Love's redeeming work is done, Alleluia!
+Fought the fight, the battle won, Alleluia!
+Death in vain forbids him rise, Alleluia!
+Christ has opened paradise, Alleluia!
 
 4.
-O Jesus sweet, O Jesus mild,
-Help us to do as Thou hast willed.
-What’er we have belongs to Thee:
-O may we ever faithful be.
-O Jesus sweet, O Jesus mild.
+Soar we now where Christ has led, Alleluia!
+Following our exalted Head, Alleluia!
+Made like him, like him we rise, Alleluia!
+Ours the cross, the grave, the skies, Alleluia!
+
 ```
 
 - |   -  |

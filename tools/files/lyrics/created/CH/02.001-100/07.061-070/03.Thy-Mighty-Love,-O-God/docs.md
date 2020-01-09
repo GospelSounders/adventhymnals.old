@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-O come, let us sing to the Lord,
-Come let us every one
-A joyful noise make to the Rock
-Of our salvation.
+Thy mighty love, O God, constraineth me, 
+As some strong tide it presseth on its way, 
+Seeking a channel in my self-bound soul, 
+Yearning to sweep all barriers away. 
 
 2.
-Let us before His presence come
-With glad and thankful voice;
-Let us sing psalms of praise to Him,
-And make a joyful noise.
+Shall I not yield to that constraining power? 
+Shall I not say, O tide of love, flow in? 
+My God, Thy gentleness hath conquered me, 
+Life cannot be as it hath hither been. 
 
 3.
-For God, a great God and great King,
-Above all gods, He is;
-The depths of earth are in His hand,
-The strength of hills is His.
+Break through my nature, mighty, heavenly Love, 
+Clear every avenue of thought and brain, 
+Flood my affections, purify my will, 
+Let nothing but Thine own pure life remain. 
 
 4.
-To Him the ocean vast belongs,
-For He the sea did make;
-The dry land also from His hands,
-Its form at first did take.
+Thus wholly mastered and possessed by God, 
+Forth from my life, spontaneous and free, 
+Shall flow a stream of tenderness and grace, 
+Loving, because God loved, eternally.
 
-5.
-O come, bow down and worship Him,
-And kneeling, humbly pray,
-Come to our Maker and our God,
-And hear His voice today.
 ```
 
 - |   -  |

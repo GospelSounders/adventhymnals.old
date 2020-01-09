@@ -11,39 +11,40 @@ metadata:
 
 ```txt
 1.
-Dear Lord and Father of mankind,
-forgive our foolish ways;
-reclothe us in our rightful mind,
-in purer lives thy service find,
-in deeper reverence, praise.
+A year of precious blessings, 
+And glorious victories won, 
+Of earnest work progressing, 
+Its onward course has run; 
+To Thee, O God, our Refuge, 
+Whose goodness crowns our days, 
+Within Thy earthly temple 
+We lift our souls in praise; 
+Within Thy earthly temple 
+We lift our souls in praise. 
 
 2.
-In simple trust like theirs who heard,
-beside the Syrian sea,
-the gracious calling of the Lord,
-let us, like them, without a word,
-rise up and follow thee.
+Thou Master of assemblies, 
+In mighty power descend, 
+Behold our glad reunion, 
+Conduct it to the end; 
+Inspire our hearts with courage, 
+And deeper love for Thee, 
+That all Thy name may honor, 
+Where'er our field may be; 
+That all Thy name may honor, 
+Where'er our field may be. 
 
 3.
-O sabbath rest by Galilee,
-O calm of hills above,
-where Jesus knelt to share with thee
-the silence of eternity,
-interpreted by love!
-
-4.
-Drop thy still dews of quietness,
-till all our strivings cease;
-take from our souls the strain and stress,
-and let our ordered lives confess
-the beauty of thy peace.
-
-5.
-Breathe through the heats of our desire
-thy coolness and thy balm;
-let sense be dumb, let flesh retire;
-speak through the earthquake, wind, and fire,
-O still, small voice of calm.
+O church of God's Anointed, 
+March on the lost to win, 
+Lead forth Thy ranks victorious 
+Against the hosts of sin; 
+'Till at His throne in glory, 
+Where angels prostrate fall, 
+One hallelujah chorus 
+Shall crown Him Lord of all; 
+One hallelujah chorus 
+Shall crown Him Lord of all.
 ```
 
 - |   -  |

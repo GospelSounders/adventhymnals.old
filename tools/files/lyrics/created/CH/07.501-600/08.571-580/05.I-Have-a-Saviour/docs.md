@@ -11,34 +11,53 @@ metadata:
 
 ```txt
 1.
-Let your heart be broken for a world in need:
-Feed the mouths that hunger, soothe the wounds that bleed,
-Give the cup of water and the loaf of bread
-Be the hands of Jesus, serving in His stead.
+I have a Savior, He's pleading in glory, 
+A dear loving Savior, though earth friends be few; 
+And now He is watching in tenderness o'er me, 
+But oh, that my Savior were your Saviour, too. 
+
+Refrain:
+For you I am praying, 
+For you I am praying, 
+For you I am praying, 
+I'm praying for you. 
 
 2.
-Here on earth applying principles of love,
-Visible expression – God still rules above
-Living illustration of the Living Word
-To the minds of all who’ve Never seen or heard.
+I have a Father; to me He has given 
+A hope for eternity, blessed and true; 
+And soon He will call me to meet Him in heaven, 
+But oh that He'd let me bring you with me too! 
+
+Refrain:
+For you I am praying, 
+For you I am praying, 
+For you I am praying, 
+I'm praying for you. 
 
 3.
-Blest to be a blessing privileged to care,
-Challenged by the need apparent everywhere.
-Where mankind is wanting, fill the vacant place.
-Be the means through which the Lord reveals His grace.
+I have a robe; 'tis resplendent in whiteness, 
+Awaiting in glory my wondering view; 
+Oh, when I receive it, all shining in brightness, 
+Dear friend, could I see you receiving one, too! 
+
+Refrain:
+For you I am praying, 
+For you I am praying, 
+For you I am praying, 
+I'm praying for you. 
 
 4.
-Add to your believing deeds that prove it true,
-Knowing Christ as Savior, make Him Master, too.
-Follow in His footsteps, go where He has trod;
-In the world’s great trouble risk yourself for God.
+When Jesus has found you, tell others the story, 
+That my loving Saviour is your Saviour, too; 
+Then pray that your Saviour will bring them to glory, 
+And prayer will be answered''twas answered for you!
 
-5.
-Let your heart be tender and your vision clear;
-See mankind as God sees, serve Him far and near.
-Let your heart be broken by a brother’s pain;
-Share your rich resources, give and give again.
+Refrain:
+For you I am praying, 
+For you I am praying, 
+For you I am praying, 
+I'm praying for you. 
+
 ```
 
 - |   -  |

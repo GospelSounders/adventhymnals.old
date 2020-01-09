@@ -11,28 +11,45 @@ metadata:
 
 ```txt
 1.
-Good Christian friends, rejoice and sing!
-Now is the triumph of our King!
-To all the world glad news we bring:
-Alleluia! Alleluia! Alleluia!
+O brother be faithful! soon Jesus will come,
+For whom we have waited so long;
+O, soon we shall enter our glorious home,
+And join in the conqueror's song.
+O brother be faithful! for why should we prove
+Unfaithful to Him who had shown
+Such deep, such unbounded and infinite love
+Who died to redeem us His own.
 
 2.
-The Lord of life is risen for aye;
-Bring flowers of song to strew His way;
-Let all mankind rejoice and say:
-Alleluia! Alleluia! Alleluia!
+O brother be faithful! the city of gold,
+Prepared for the good and the blest, 
+Is waiting its portals of pearl to unfold,
+And welcome thee into thy rest.
+Then, brother be faithful! not long shall we stay
+In weariness here, and forlorn,
+Time's dark night of sorrow is wearing away,
+We haste to the glorious morn.
 
 3.
-Praise we in songs of victory
-That love, that life which cannot die,
-And sing with hearts uplifted high:
-Alleluia! Alleluia! Alleluia!
+O brother be faithful! He soon will descend,
+Creation's omnipotent King,
+While legions of angels His chariot attend,
+And palm wreaths, of victory bring.
+O brother be faithful! and soon shalt thou hear
+Thy Savior pronounce the glad word,
+Well done, faithful servant, thy title is clear,
+To enter the joy of thy Lord.
 
 4.
-Thy name we bless, O risen Lord,
-And sing today with one accord
-The life laid down, the life restored:
-Alleluia! Alleluia! Alleluia!
+O brother be faithful! eternity's years
+Shall tell for thy faithfulness now,
+When bright smiles of gladness shall scatter thy tears,
+A coronet gleam on thy brow.
+O brother be faithful! the promise is sure,
+That waits for the faithful and tried;
+To reign with the ransomed, immortal and pure,
+And ever with Jesus abide.
+
 ```
 
 - |   -  |

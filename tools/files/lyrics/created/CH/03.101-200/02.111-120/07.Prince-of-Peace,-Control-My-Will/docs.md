@@ -11,28 +11,23 @@ metadata:
 
 ```txt
 1.
-The advent of our God
-With eager prayers we greet,
-And singing haste upon His road
-His coming reign to meet.
+Prince of Peace, control my will,
+Bid this struggling heart be still;
+Bid my fears and doubtings cease,
+Hush my spirit into peace.
 
 2.
-The everlasting Son
-Was born to make us free;
-And He a servant’s form put on
-To gain our liberty.
+Thou hast bought me with Thy blood,
+Opened wide the gate to God;
+Peace, I ask, but peace must be,
+Lord, in being one with Thee.
 
 3.
-As Judge, on clouds of light,
-He soon will come again,
-His scattered people to unite
-With them in heaven to reign.
+May Thy will, not mine, be done,
+May Thy will and mine be one;
+Chase these doubtings from my heart,
+Now Thy perfect peace impart.
 
-4.
-Praise to the incarnate Son
-Who comes to set us free,
-With Father, Spirit, ever one,
-To all eternity.
 ```
 
 - |   -  |

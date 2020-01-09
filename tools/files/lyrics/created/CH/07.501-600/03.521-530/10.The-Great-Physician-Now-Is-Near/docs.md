@@ -10,24 +10,7 @@ metadata:
 ## 530. THE GREAT PHYSICIAN NOW IS NEAR
 
 ```txt
-1.
-When peace, like a river, attendeth my way,
-when sorrows like sea billows roll;
-whatever my lot, thou hast taught me to say,
-It is well, it is well with my soul.
 
-
-2.
-My sin–oh, the joy of this glorious thought–
-My sin, not in part but the whole,
-is nailed to the cross, and I bear it no more,
-praise the Lord, praise the Lord, O my soul!
-
-3.
-And, Lord, haste the day when my faith shall be sight,
-the clouds be rolled back as a scroll;
-the trump shall resound, and the Lord shall descend,
-even so, it is well with my soul.
 ```
 
 - |   -  |
@@ -42,9 +25,9 @@ Composer| J. H. Stockton |
 Hymnal|  - |
 Tune| The Great Physician now is near |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Sabbath School: Jesus' Love and Sympathy |
 Texts |  |
 Print Texts | 

@@ -11,35 +11,29 @@ metadata:
 
 ```txt
 1.
-The first noel the angel did say
-Was to certain poor shepherds in fields where they lay;
-In fields where they lay keeping their sheep,
-On a cold winter’s night that was so deep.
-
+When I survey the wondrous cross
+On which the Prince of glory died,
+My richest gain I count but loss,
+And pour contempt on all my pride.
 
 2.
-They looked up and say a star
-Shining in the east, beyond them far,
-And to the earth it gave great light,
-And so it continued both day and night.
+See, from His head, His feet,
+Sorrow and love flow mingled down;
+Did e'er such love and sorrow meet?
+Or thorns compose so rich a crown?
 
 3.
-And by the light of that same star,
-Three wise men came from country far,
-And to the earth it gave great light,
-And to follow the star wherever it went.
+Since I, who was undone and lost,
+Have pardon through His name and word;
+Forbid it, then, that I should boast,
+Save in the cross of Christ my Lord.
 
 4.
-This star drew nigh to the northwest,
-O’er Bethlehem it took its rest,
-And there it did both stop and stay,
-Right over the place where Jesus lay.
+Were the whole realm of nature mine,
+That were a tribute far too small;
+Love so amazing, so divine,
+Demands my life, my soul, my all.
 
-5.
-Then entered in those wise men three,
-Full reverently upon the knee,
-And offered there, in His presence,
-Their gold, and myrrh, and frankincense.
 ```
 
 - |   -  |

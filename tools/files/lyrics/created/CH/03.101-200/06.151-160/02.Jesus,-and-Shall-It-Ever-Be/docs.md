@@ -17,9 +17,14 @@ Tell me the story most precious,
 Sweetest that ever was heard.
 Tell how the angels in chorus,
 Sang as they welcomed His birth.
-“Glory to God in the highest!
-Peace and good tidings to earth.”
+"Glory to God in the highest!
+Peace and good tidings to earth."
 
+Refrain:
+Tell me the story of Jesus,
+Write on my heart every word.
+Tell me the story most precious,
+Sweetest that ever was heard.
 
 2.
 Fasting alone in the desert,
@@ -31,6 +36,12 @@ Tell of the sorrow He bore.
 He was despised and afflicted,
 Homeless, rejected and poor.
 
+Refrain:
+Tell me the story of Jesus,
+Write on my heart every word.
+Tell me the story most precious,
+Sweetest that ever was heard.
+
 3.
 Tell of the cross where they nailed Him,
 Writhing in anguish and pain.
@@ -40,6 +51,13 @@ Love in that story so tender,
 Clearer than ever I see.
 Stay, let me weep while you whisper,
 Love paid the ransom for me.
+
+Refrain:
+Tell me the story of Jesus,
+Write on my heart every word.
+Tell me the story most precious,
+Sweetest that ever was heard.
+
 ```
 
 - |   -  |

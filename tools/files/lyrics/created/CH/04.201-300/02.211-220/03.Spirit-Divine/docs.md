@@ -11,29 +11,35 @@ metadata:
 
 ```txt
 1.
-Lift up the trumpet, and loud let it ring:
-Jesus is coming again!
-Cheer up, ye pilgrims, be joyful and sing:
-Jesus is coming again!
-
+Spirit divine, attend our prayers,
+And make this house Thy home;
+Descend with all Thy gracious powers,
+O come, great Spirit, come!
 
 2.
-Echo it, hilltops; proclaim it, ye plains:
-Jesus is coming again!
-Coming in glory, the Lamb that was slain;
-Jesus is coming again!
+Come as the light; to us reveal
+Our emptiness and woe,
+And lead us in those paths of life
+Where-on the righteous go.
 
 3.
-Heavings of earth, tell the vast, wondering throng:
-Jesus is coming again!
-Tempests and whirlwinds, the anthem prolong;
-Jesus is coming again!
+Come as the fire, and purge our hearts
+Like sacrificial flame;
+Let our whole soul an off'ring be
+To our Redeemer's name.
 
 4.
-Nations are angry–by this we do know
-Jesus is coming again!
-Knowledge increases; men run to and fro;
-Jesus is coming again!
+Come as the dove, and spread Thy wings,
+The wings of peaceful love;
+And let Thy church on earth become
+Blest as the church above.
+
+5.
+Spirit divine, attend our prayers,
+Make a lost world Thy home;
+Descend with all Thy gracious powers,
+O come, great Spirit, come!
+
 ```
 
 - |   -  |

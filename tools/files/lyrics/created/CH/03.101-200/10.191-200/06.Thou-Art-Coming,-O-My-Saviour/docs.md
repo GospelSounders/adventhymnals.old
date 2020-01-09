@@ -11,23 +11,49 @@ metadata:
 
 ```txt
 1.
-Tell me the old, old story of unseen things above,
-Of Jesus and His glory, of Jesus and His love.
-Tell me the story simply, as to a little child,
-For I am weak and weary, and helpless and defiled.
-
+Thou art coming, O my Saviour, 
+Thou art coming, O my King, 
+In Thy beauty all resplendent, 
+In Thy glory all transcendent; 
+Well may we rejoice and sing: 
+Coming! in the opening east 
+Herald brightness slowly swells; 
+Coming! O my glorious Priest, 
+Hear we not Thy golden bells? 
 
 2.
-Tell me the story softly, with earnest tones and grave;
-Remember I’m the sinner whom Jesus came to save.
-Tell me the story always, if you would really be,
-In any time of trouble, a comforter to me.
+Thou art coming, Thou art coming; 
+We shall meet Thee on Thy way, 
+We shall see Thee, we shall know Thee, 
+We shall bless Thee, We shall show Thee 
+All our hearts could never say; 
+What an anthem that will be, 
+Ringing out our love to Thee, 
+Pouring out our rapture sweet 
+At Thine own allglorious feet. 
 
 3.
-Tell me the same old story when you have cause to fear
-That this world’s empty glory is costing me too dear.
-Yes, and when that world’s glory is dawning on my soul,
-Tell me the old, old story: “Christ Jesus makes thee whole.”
+Thou art coming; we are waiting 
+With a hope that cannot fail, 
+Asking not the day or hour, 
+Resting on Thy word of power, 
+Anchored safe within the veil. 
+Time appointed may be long, 
+But the vision must be sure; 
+Certainly must make us strong, 
+Joyful patience can endure. 
+
+4.
+O the joy to see Thee reigning, 
+Thee, our own belov'd Lord! 
+Every tongue Thy name, confessing, 
+Worship, honor, glory, blessing 
+Brought to Thee with one accord; 
+Thee, our Master and our Friend, 
+Vindicated and enthroned, 
+Unto earth's remotest end 
+Glorified, adored, and owned.
+
 ```
 
 - |   -  |

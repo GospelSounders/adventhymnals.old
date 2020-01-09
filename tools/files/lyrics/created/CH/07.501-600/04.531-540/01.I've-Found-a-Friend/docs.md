@@ -11,23 +11,44 @@ metadata:
 
 ```txt
 1.
-We’ll build on the Rock, the living Rock,
-On Jesus, the Rock of Ages;
-So shall we abide the fearful shock,
-When loud the tempest rages.
-
+I've found a Friend; oh, such a Friend!
+He loved me ere I knew Him;
+He drew me with the cords of love,
+And thus He bound me to Him.
+And 'round my heart still closely twine
+Those ties which nought can sever,
+For I am His, and He is mine,
+Forever and forever.
 
 2.
-Some build on the sinking sands of life,
-On visions of earthly treasure;
-Some build on the waves of sin and strife,
-Of fame, and worldly pleasure.
+I've found a Friend; oh, such a Friend!
+He bled, He died to save me;
+And not alone the gift of life,
+But His own self He gave me.
+Nought that I have my own I call,
+I hold it for the Giver;
+My heart, my strength, my life my all,
+Are His, and His forever.
 
 3.
-O build on the Rock, for ever sure,
-The firm and the true foundation;
-Its hope is the hope which shall endure,
-The hope of our salvation.
+I've found a Friend; oh, such a Friend!
+All power to Him is given;
+To guard me on my upward course,
+And bring me safe to heaven.
+The eternal glories gleam afar,
+To nerve my faint endeavor;
+So now to watch, to work, to war,
+And then to rest forever.
+
+4.
+I've found a Friend; oh, such a Friend!
+So kind, and true, and tender,
+So wise a counselor and guide,
+So mighty a defender.
+From Him, who loveth me so well,
+What power my soul can sever?
+Shall life or death, or earth, or hell?
+No; I am His forever.
 ```
 
 - |   -  |

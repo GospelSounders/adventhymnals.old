@@ -11,44 +11,53 @@ metadata:
 
 ```txt
 1.
-Come, ye thankful people, come,
-Raise the song of harvest home;
-All is safely gathered in,
-Ere the winter storms begin.
-God our Maker doth provide
-For our wants to be supplied;
-Come to God’s own temple, come;
-Raise the song of harvest home!
+Shall we meet beyond the river, 
+Where the surges cease to roll? 
+Where, in all the bright forever, 
+Sorrow ne'er shall press the soul? 
+
+Refrain:
+Shall we meet, shall we meet, 
+Shall we meet beyond the river? 
+Shall we meet beyond the river, 
+Where the surges cease to roll? 
 
 2.
-We ourselves are God’s own field,
-Fruit unto His praise to yield;
-Wheat and tares together sown,
-Unto joy or sorrow grown;
-First the blade and then the ear,
-Then the full corn shall appear;
-Grant, O harvest Lord, that we
-Wholesome grain and pure may be.
+Shall we meet in that blest harbor, 
+When our stormy voyage is o'er? 
+Shall we meet and cast the anchor 
+By the fair, celestial shore? 
+
+Refrain:
+Shall we meet, shall we meet, 
+Shall we meet beyond the river? 
+Shall we meet beyond the river, 
+Where the surges cease to roll? 
 
 3.
-For the Lord our God shall come,
-And shall take His harvest home;
-From His field shall purge away
-All that doth offend, that day;
-Give His angels charge at last
-In the fire the tares to cast;
-But the fruitful ears to store
-In His garner evermore.
+Shall we meet in yonder city, 
+Where the towers of crystal shine? 
+Where the walls are all of jasper, 
+Built by workmanship divine? 
+
+Refrain:
+Shall we meet, shall we meet, 
+Shall we meet beyond the river? 
+Shall we meet beyond the river, 
+Where the surges cease to roll? 
 
 4.
-Then, thou church triumphant, come,
-Raise the song of harvest home;
-All are safely gathered in,
-Free from sorrow, free from sin,
-There, forever purified,
-In God’s garner to abide;
-Come, ten thousand angels, come,
-Raise the glorious harvest home!
+Shall we meet with Christ, our Saviour, 
+When He comes to claim His own? 
+Shall we know His blessed favor, 
+And sit down upon His throne?
+
+Refrain:
+Shall we meet, shall we meet, 
+Shall we meet beyond the river? 
+Shall we meet beyond the river, 
+Where the surges cease to roll? 
+
 ```
 
 - |   -  |

@@ -15,13 +15,17 @@ I am coming to the cross;
 I am poor and weak and blind;
 I am counting all but dross;
 I shall full salvation find.
-
+CHORUS:
+I am trusting, Lord, in Thee.
+O thou Lamb of Calvary;
+Humbly at Thy cross I bow.
+Save me, Jesus, save me now.
 
 2.
 Long my heart has sighed for Thee;
 Long has evil reigned within;
 Jesus sweetly speaks to me:
-“I will cleanse you from all sin.”
+"I will cleanse you from all sin."
 
 3.
 Here I give my all to Thee:

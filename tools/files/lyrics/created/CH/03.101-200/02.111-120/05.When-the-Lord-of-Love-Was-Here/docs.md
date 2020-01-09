@@ -11,23 +11,45 @@ metadata:
 
 ```txt
 1.
-O come, O come, Emmanuel,
-And ransom captive Israel,
-That mourns in lonely exile here
-Until the Son of God appear.
-
+When the Lord of love was here, 
+Happy hearts to Him were dear, 
+Though His heart was sad; 
+Worn and lonely for our sake, 
+Yet he turned aside to make 
+All the weary glad. 
 
 2.
-O come, Thou Wisdom from on high,
-And order all things far and night;
-To us the path of knowledge show,
-And cause us in her ways to go.
+Meek and lowly were His ways, 
+From His loving grew His praise, 
+From His giving, prayer; 
+All the outcast thronged to hear, 
+All the sorrowful drew near 
+To enjoy His care. 
 
 3.
-O come, Desire of nations, bind
-In one the hearts of all mankind;
-Bid Thou our sad divisions cease,
-And be Thyself our King of Peace.
+When he walked the fields, He drew 
+From the flowers and birds and dew, 
+Parables of God; 
+For within His heart of love 
+All the soul of man did move, 
+God had His abode. 
+
+4.
+Lord, be ours Thy power to keep 
+In the very heart of grief, 
+And in trial, love. 
+In our meekness to be wise, 
+And through sorrows to arise 
+To' our God above. 
+
+5.
+Fill us with Thy deep desire 
+All the sinful to inspire, 
+With the Father's life; 
+Free us from the cares that press 
+On the heart of worldliness 
+From the fret and strife.
+
 ```
 
 - |   -  |

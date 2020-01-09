@@ -27,6 +27,7 @@ The Lord in Zion reigneth, these hours to Him belong;
 O enter now His temple gates, and fill His courts with song;
 Beneath His royal banner let every creature fall,
 Exalt the King of heaven and earth, and crown Him Lord of all.
+
 ```
 
 - |   -  |

@@ -11,28 +11,27 @@ metadata:
 
 ```txt
 1.
-Father, lead me day by day,
-Ever in Thine own sweet way;
-Teach me to be pure and true;
-Show me what I ought to do.
+The judgment has set, the books have been opened;
+How shall we stand in that great day,
+When every thought, and word, and action,
+God, the righteous Judge, shall weigh?
+CHORUS:
+How shall we stand in that great day?
+How shall we stand in that great day?
+Shall we be found before Him wanting?
+Or with our sins all washed away?
 
 2.
-When in danger, make me brave;
-Make me know that Thou canst save;
-Keep me safe by Thy dear side;
-Let me in Thy love abide.
+The work is begun with those who are sleeping,
+Soon will the living here be tried,
+Out of the books of God's remembrance,
+His decision to abide.
 
 3.
-When tempted to do wrong,
-Make me steadfast, wise, and strong;
-And when all alone I stand,
-Shield me with Thy mighty hand.
-
-4.
-May I do the good I know,
-Be Thy loving child below,
-Then at last go home to Thee,
-Evermore Thy child to be.
+O, how shall we stand that moment of searching,
+When all our sins those books reveal?
+When from that court, each case decided,
+Shall be granted no appeal?
 ```
 
 - |   -  |

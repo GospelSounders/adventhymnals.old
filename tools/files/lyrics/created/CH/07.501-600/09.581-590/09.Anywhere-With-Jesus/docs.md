@@ -11,40 +11,25 @@ metadata:
 
 ```txt
 1.
-Holy Spirit, gracious guest,
-Hear and grant our heart’s request
-For that gift supreme and best:
-Holy heav’nly love.
+Anywhere with Jesus I can safely go,
+Anywhere He leads me in this world below;
+Anywhere without Him dearest joys would fade;
+Anywhere with Jesus I am not afraid.
+CHORUS:
+Anywhere, anywhere! Fear I cannot know;
+Anywhere with Jesus I can safely go.
 
 2.
-Faith that mountains could remove,
-Tongues of earth or heaven above,
-Knowledge, all things, empty prove
-If I have no love.
+Anywhere with Jesus I am not alone;
+Other friends may fail me, He is still my own;
+Though His hand may lead me over dreary ways,
+Anywhere with Jesus is a house of praise.
 
 3.
-Though I as a martyr bleed,
-Give my goods the poor to feed,
-All is vain if love I need:
-Therefore give me love.
-
-4.
-Love is kind and suffers long,
-Love is pure and thinks no wrong,
-Love than death it self more strong:
-Therefore give us love.
-
-5.
-Prophecy will fade away,
-Melting in the light of day;
-Love will ever with us stay:
-Therefore give us love.
-
-6.
-Faith and hope and love we see
-Joining hand in hand agree-
-But the greatest of the three,
-And the best is love.
+Anywhere with Jesus I can go to sleep,
+When the darkening shadows round about me creep,
+Knowing I shall waken nevermore to roam;
+Anywhere with Jesus will be home, sweet home.
 ```
 
 - |   -  |

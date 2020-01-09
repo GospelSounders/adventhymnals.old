@@ -11,34 +11,34 @@ metadata:
 
 ```txt
 1.
-Come, thou Fount of every blessing,
-Tune my heart to sing thy grace;
-Streams of mercy, never ceasing,
-Call for songs of loudest praise.
-Teach me ever to adore Thee,
-May I still Thy goodness prove,
-While the hope of endless glory
-Fills my heart with joy and love.
+Calm me, my God, and keep me calm, 
+Reclining on Thy breast; 
+Soothe me with holy hymn and psalm, 
+And bid my spirit rest. 
 
 2.
-Here I raise mine Ebenezer;
-Hither by thy help I’ve come;
-And I hope, by thy good pleasure,
-Safely to arrive at home.
-Jesus sought me when a stranger,
-Wandering from the fold of God;
-He, to rescue me from danger,
-Interposed his precious blood.
+Yes, keep me calm, though loud and rude 
+The sounds my ear that greet, 
+Calm in the closet's solitude, 
+Calm in the bustling street. 
 
 3.
-O, to grace how great a debtor
-Daily I’m constrained to be!
-Let thy goodness, like a fetter,
-Bind me closer still to thee.
-Prone to wander, Lord, I feel it,
-Prone to leave the God I love;
-Here’s my heart–O, take and seal it,
-Seal it for thy courts above.
+Calm in the hour of buoyant health, 
+Calm in the hour of pain, 
+Calm in my poverty or wealth, 
+Calm in my loss or gain. 
+
+4.
+Calm in the sufferance of wrong, 
+Like Him who bore my shame; 
+Calm 'mid the threatening, taunting throng. 
+Who hate Thy holy name. 
+
+5.
+Calm as the ray of sun or star, 
+Which storms assail in vain, 
+Moving unruffled through earth's war, 
+Th' eternal calm to gain.
 ```
 
 - |   -  |

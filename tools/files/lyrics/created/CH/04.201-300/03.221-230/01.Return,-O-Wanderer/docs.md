@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Rejoice, the Lord is King! Your Lord and King adore!
-Rejoice, give thanks, and sing and triumph evermore
-Lift up your heart, lift up your voice!
-Rejoice, again I say, rejoice!
+Return, O wanderer, return, 
+And seek thy Father's face; 
+Those new desires which in thee burn, 
+Were kindled by His grace. 
 
 2.
-Jesus, the Savior, reigns, The God of truth and love;
-When He had purged our stains, He took His seat above
-Lift up your heart, lift up your voice!
-Rejoice, again I say, rejoice!
+Return, O wanderer, return; 
+He hears thy humble sigh; 
+He sees thy softened spirit mourn, 
+When no one else is nigh. 
 
 3.
-His kingdom cannot fail, He rules o’er earth and heaven
-The keys of death and grave Are to our Jesus given
-Lift up your heart, lift up your voice!
-Rejoice, again I say, rejoice!
+Return, O wanderer, return; 
+Thy Saviour bids thee live; 
+Come to his cross, and, grateful, learn 
+How freely He'll forgive. 
 
 4.
-Rejoice in glorious hope! Our Lord the judge shall come,
-And take His servants up To their eternal home
-Lift up your heart, lift up your voice!
-Rejoice, again I say, rejoice!
+Return, O wanderer, return; 
+And wipe the falling tear; 
+Thy Father calls-no longer mourn; 
+'Tis love invites thee near. 
+
+5.
+Return, O wanderer, return; 
+Regain thy long, sought rest; 
+The Saviour's melting mercies yearn 
+To clasp thee to his breast.
+
 ```
 
 - |   -  |

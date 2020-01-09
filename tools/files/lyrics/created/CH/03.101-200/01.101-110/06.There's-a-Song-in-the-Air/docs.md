@@ -11,28 +11,45 @@ metadata:
 
 ```txt
 1.
-Give to our God immortal praise;
-Mercy and truth are all His ways:
-Wonders of grace to God belong,
-Repeat His mercies in your song.
+There's a song in the air! 
+There's a star in the sky! 
+There's a mother's deep prayer 
+And a baby's low cry! 
+And the star rains its fire 
+While the beautiful sing, 
+For the manger of Bethlehem 
+Cradles a King! 
 
 2.
-Give to the Lord of lords renown,
-The King of kings with glory crown:
-His mercies ever shall endure
-When lords and kings are known no more.
+There's a tumult of joy 
+O'er the wonderful birth, 
+For the virgin's sweet boy 
+Is the Lord of the earth. 
+Aye! the star rains its fire 
+While the beautiful sing, 
+For the manger of Bethlehem 
+Cradles a King! 
 
 3.
-He sent His Son with power to save
-From guilt and darkness and the grave:
-Wonders of grace to God belong,
-Repeat His mercies in your song.
+In the light of that star 
+Lie the ages impearled; 
+And that song from afar 
+Has swept over the world. 
+Every hearth is aflame, 
+And the beautiful sing 
+In the homes of the nations 
+That Jesus is King! 
 
 4.
-Thro’ this vain world He guides our feet,
-And leads us to His heav’nly seat;
-His mercies ever shall endure,
-When this vain world shall be no more.
+We rejoice in the light, 
+And we echo the song 
+That comes down through the night 
+From the heavenly throng. 
+Aye! we shout to the lovely 
+Evangel they bring, 
+And we greet in his cradle 
+Our Savior and King!
+
 ```
 
 - |   -  |

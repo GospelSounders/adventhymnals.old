@@ -11,34 +11,45 @@ metadata:
 
 ```txt
 1.
-O for that flame of living fire
-Which shone so bright in saints of old;
-Which bade their souls to heaven aspire,
-Calm in distress, in danger bold!
+To thee, O dear, dear Saviour, 
+My spirit turns for rest; 
+My peace is in thy favor, 
+My pillow on thy breast; 
+Though all the world deceive me, 
+I know that I am thine, 
+And thou wilt never leave me, 
+O blessed Saviour mine. 
 
 2.
-Where is that spirit, Lord, which dwelt
-In Abram’s breast, and sealed Him Thine?
-Which made Paul’s heart with sorrow melt,
-And glow with energy divine?
+In thee my trust abideth, 
+On thee my hope relies, 
+O thou whose love provideth 
+For all beneath the skies; 
+O thou whose mercy found me, 
+From bondage set me free, 
+And then forever bound me 
+With threefold cords to thee. 
 
 3.
-That spirit which from age to age
-Proclaimed Thy love, and taught Thy ways?
-Brightened Isaiah’s vivid page,
-And breathed in David’s hallowed lays?
+Alas, that I should ever 
+Have failed in love to thee, 
+The only One who never 
+Forgat or slighted me! 
+O for a heart to love thee 
+More truly as I ought, 
+And nothing place above thee 
+In deed, or word, or thought. 
 
 4.
-Is not Thy grace as mighty now
-As when Elijah felt its power?
-When glory beamed from Moses’ brow,
-Or Job endured the trying hour?
+O for that choicest blessing 
+Of living in thy love, 
+And thus on earth possessing 
+The peace of heaven above! 
+O for the bliss that by it 
+The soul securely knows 
+The holy calm and quiet 
+Of faith's serene repose!
 
-5.
-Remember, Lord, the ancient days;
-Renew Thy work, Thy grace restore;
-And while to Thee our hearts we raise,
-On us Thy Holy Spirit pour.
 ```
 
 - |   -  |

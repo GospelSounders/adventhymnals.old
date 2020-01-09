@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-O love of God, how strong and true!
-Eternal, and yet ever new;
-Uncomprehended and unbought,
-Beyond all knowledge and all thought.
+Ere mountains reared their forms sublime, 
+Or heaven and earth in order stood, 
+Before the birth of ancient time, 
+From everlasting Thou art God. 
 
 2.
-O love of God, how deep and great,
-Far deeper than man’s deepest hate;
-Self-fed, self-kindled like the light,
-Changeless, eternal, infinite.
+A thousand years are in their flight, 
+With Thee but as a fleeting day; 
+Past, present, future, to Thy sight 
+At once their various scenes display. 
 
 3.
-We read thee best in Him who cam
-To bear for us the cross of shame;
-Sent by the Father from on high,
-Our life to live, our death to die.
+But our brief life's a shadowy dream, 
+A passing thought that soon is o'er, 
+That fades with morning's earliest beam, 
+And fills the musing mind no more. 
 
 4.
-We read thy power to bless and save,
-E’en in the darkness of the grave;
-Still more in resurrection light
-We read the fullness of thy might.
+To us, O Lord, the wisdom give 
+Each passing moment so to spend, 
+That we at length with Thee may live 
+Where life and bliss shall never end.
 
-5.
-O love of God, our shield and stay
-Through all the perils of our way!
-Eternal love, in thee we rest,
-Forever safe, forever blest.
 ```
 
 - |   -  |

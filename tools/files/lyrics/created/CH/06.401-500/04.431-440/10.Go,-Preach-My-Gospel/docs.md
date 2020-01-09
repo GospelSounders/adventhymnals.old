@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-How cheering is the Christian’s hope,
-While toiling here below!
-It bouys us up while this passing through
-This wilderness of woe,
+Go, preach My gospel, saith the Lord;
+Bid the whole world My grace receive;
+He shall be saved who trusts My word,
+And they condemned who disbelieve.
 
 2.
-It bouys us up while this passing through
-This wilderness of woe,
-It bouys us up while passing through
-This wilderness of woe.
+I'll make your great commission known,
+And ye shall prove My gospel true
+By all the works that I have done,
+By all the wonders ye shall do.
 
 3.
-It points us to a land of rest,
-Where saints with Christ will reign;
-Where we shall meet the loved of earth,
-And never part again.
+Teach all the nations My commands;
+I'm with you till the world shall end;
+All power is vested in My hands;
+I can destroy, and I defend.
 
 4.
-Fly, lingering moments, fly, O, fly,
-Dear Savior, quickly come!
-We long to see Thee as Thou art,
-And reach that blissful home.
+He spake, and light shone round His head;
+On a bright cloud to heaven He rode;
+They to the farthest nations spread
+The grace of their ascended Lord.
 ```
 
 - |   -  |

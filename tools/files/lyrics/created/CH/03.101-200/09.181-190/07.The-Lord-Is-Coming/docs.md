@@ -11,30 +11,61 @@ metadata:
 
 ```txt
 1.
-Jesus! what a Friend for sinners!
-Jesus! Lover of my soul;
-Friends may fail me, foes assail me,
-He, my Savior, makes me whole.
+The Lord is coming, let this be
+The herald note of jubilee;
+And when we meet and when we part
+The salutation from the heart.
 
+Refrain:
+The Lord is coming, let this be
+The herald note of jubilee,
+The herald note of jubilee.
 
 2.
-Jesus! what a Strength in weakness!
-Let me hide myself in Him.
-Tempted, tried, and sometimes failing,
-He, my Strength, my victory wins.
+The Lord is coming, sound it forth
+From east to west, from south to north;
+Speed on! Speed on the tidings glad,
+That none who love Him may be sad.
+Refrain:
+The Lord is coming, let this be
+The herald note of jubilee,
+The herald note of jubilee.
+
+Refrain:
+The Lord is coming, let this be
+The herald note of jubilee,
+The herald note of jubilee.
 
 3.
-Jesus! what a Help in sorrow!
-While the billows over me roll,
-Even when my heart is breaking,
-He, my Comfort, helps my soul.
+The Lord is coming, swift and sure
+And all His judgements shall endure,
+And none can hope to escape His wrath,
+Who walk not in the narrow path.
+Refrain:
+The Lord is coming, let this be
+The herald note of jubilee,
+The herald note of jubilee.
+
+Refrain:
+The Lord is coming, let this be
+The herald note of jubilee,
+The herald note of jubilee.
 
 4.
-Jesus! I do now receive Him,
-[or Jesus! I do now adore Him,]
-More than all in Him I find.
-He hath granted me forgiveness,
-I am His, and He is mine.
+This earth, with her ten thousand wrongs
+Will soon be tuned to nobler songs;
+Our praise shall then, in realms of light,
+With all His universe unite.
+Refrain:
+The Lord is coming, let this be
+The herald note of jubilee,
+The herald note of jubilee.
+
+Refrain:
+The Lord is coming, let this be
+The herald note of jubilee,
+The herald note of jubilee.
+
 ```
 
 - |   -  |

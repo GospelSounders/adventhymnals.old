@@ -11,24 +11,28 @@ metadata:
 
 ```txt
 1.
-When I can read my title clear
-To mansions in the skies
-I’ll bid farewell to every fear,
-And wipe my weeping eyes;
-And wipe my weeping eyes,
-And wipe my weeping eyes,
-I’ll bid farewell to every fear,
-And wipe my weeping eyes.
+Hail, happy day! thou day of holy rest; 
+What heavenly peace and transport fill our breast 
+When Christ, the Lord of grace, in love descends, 
+And kindly holds communion with His friends! 
 
 2.
-Should earth against my soul engage,
-And fiery darts be hurled,
-Then I can smile at Satan’s rage,
-And face a frowning world;
-And face a frowning world,
-And face a frowning world,
-Then I can smile at Satan’s rage,
-And face a frowning world.
+Let earth and all its vanities be gone, 
+Move from my sight, and leave my soul alone; 
+Its flattering, fading glories I despise, 
+And to immortal beauties turn my eyes. 
+
+3.
+Fain would I mount, and penetrate the skies, 
+And on my Saviour's glories fix my eyes; 
+O meet my rising soul, Thou God of love, 
+And waft it to the blissful realms above! 
+
+4.
+O Son of God, exalted on Thy throne, 
+Impart that grace which comes from Thee alone; 
+Thou, by whose love our light and peace are given, 
+Bring us, dear Saviour, to Thyself and heaven.
 ```
 
 - |   -  |

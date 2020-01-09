@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Fairest Lord Jesus, ruler of all nature,
-O thou of God and man the Son!
-Thee will I cherish, Thee will I honor,
-thou, my soul’s glory, joy, and crown.
+Show pity, Lord; O Lord, forgive! 
+Let a repenting sinner live; 
+Are not thy mercies large and free? 
+May not the guilty trust in thee? 
 
 2.
-Fair are the meadows, fairer still the woodlands,
-robed in the blooming garb of spring:
-Jesus is fairer, Jesus is purer
-who makes the woeful heart to sing.
+My crimes, though great, do not surpass 
+The power and glory of thy grace; 
+O, wash my soul from every sin, 
+And make my guilty conscience clean! 
 
 3.
-Fair is the sunshine, fairer still the moonlight,
-and all the twinkling starry host:
-Jesus shines brighter, Jesus shines purer
-than all the angels heaven can boast.
+My lips with shame my sins confess, 
+Against thy law, against thy grace; 
+Lord, should thy judgment be severe, 
+I am condemned, but thou art clear. 
 
 4.
-Beautiful Savior! Lord of all the nations,
-Son of God and Son of Man!
-Glory and honor, praise, adoration,
-now and forevermore be thine!
+Yet save a trembling sinner, Lord, 
+Whose hope, still hovering'round thy Word, 
+Would light on some sweet promise there, 
+Some sure support against despair.
+
 ```
 
 - |   -  |

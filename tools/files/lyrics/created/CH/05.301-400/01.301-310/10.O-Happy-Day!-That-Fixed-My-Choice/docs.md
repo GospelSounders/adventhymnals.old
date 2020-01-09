@@ -11,22 +11,75 @@ metadata:
 
 ```txt
 1.
-I would draw nearer to Jesus, In His sweet presence abide,
-Constantly trying to serve Him, Safe and secure at His side.
-I would draw nearer to Jesus, I would draw nearer to Him;
-Fully surrendered each moment, I would draw nearer to Him.
+O happy day! that fixed my choice 
+On Thee, my Saviour and my God; 
+Well may this glowing heart rejoice, 
+And tell its raptures all abroad. 
+
+Refrain:
+Happy day, happy day, 
+When Jesus washed my sins away! 
+He taught me how to watch and pray, 
+And live rejoicing every day; 
+Happy day, happy day, 
+When Jesus washed my sins away! 
 
 2.
-I would draw nearer to Jesus, Nothing withholding from Him,
-Knowing He loves to be gracious, I would draw nearer to Him.
-I would draw nearer to Jesus, I would draw nearer to Him;
-Fully surrendered each moment, I would draw nearer to Him.
+'Tis done, the great transaction's done; 
+I am my Lord's, and He is mine; 
+He drew me and I followed on, 
+Charmed to confess the voice divine. 
+
+Refrain:
+Happy day, happy day, 
+When Jesus washed my sins away! 
+He taught me how to watch and pray, 
+And live rejoicing every day; 
+Happy day, happy day, 
+When Jesus washed my sins away! 
 
 3.
-I would draw nearer to Jesus, Seeking Hi strength to be true,
-Willing to tell of His goodness, Gladly His blest will to do.
-I would draw nearer to Jesus, I would draw nearer to Him;
-Fully surrendered each moment, I would draw nearer to Him.
+Now rest, my long-divided heart, 
+Fixed on this blissful center, rest; 
+Nor ever from thy Lord depart, 
+With Him of every good possessed. 
+
+Refrain:
+Happy day, happy day, 
+When Jesus washed my sins away! 
+He taught me how to watch and pray, 
+And live rejoicing every day; 
+Happy day, happy day, 
+When Jesus washed my sins away! 
+
+4.
+High Heaven, that heard the solemn vow, 
+That vow renewed shall daily hear, 
+Till in time's latest hour I bow, 
+And bless at last a bond so dear. 
+
+Refrain:
+Happy day, happy day, 
+When Jesus washed my sins away! 
+He taught me how to watch and pray, 
+And live rejoicing every day; 
+Happy day, happy day, 
+When Jesus washed my sins away! 
+
+5.
+And when the bright celestial train. 
+From highest heaven to earth shall come; 
+Then with my Lord I'll rise, and reign 
+Forever in that happy home.
+
+Refrain:
+Happy day, happy day, 
+When Jesus washed my sins away! 
+He taught me how to watch and pray, 
+And live rejoicing every day; 
+Happy day, happy day, 
+When Jesus washed my sins away! 
+
 ```
 
 - |   -  |

@@ -11,44 +11,28 @@ metadata:
 
 ```txt
 1.
-God, be merciful to me,
-On Thy grace I rest my plea;
-Plenteous in compassion Thou,
-Blot out my transgressions now;
-Wash me, make me pure within,
-Cleanse, O cleanse me from my sin,
-Wash me, make me pure within,
-Cleanse, O cleanse me from my sin.
+Let heaven highest praises bring, 
+And earth her songs of gladness sing, 
+To magnify our Saviour, King, 
+Who bought us by His precious blood. 
 
 2.
-I am evil, born in sin;
-Thou desirest truth within.
-Thou alone my Savior art,
-Teach Thy wisdom to my heart;
-Make me pure, Thy grace bestow,
-Wash me whiter than the snow,
-Make me pure, Thy grace bestow,
-Wash me whiter than the snow.
+May all the suffering Thou hast borne, 
+The bleeding side, the cruel thorn, 
+Our hearts to Thee in sorrow turn, 
+And lead us safely home to God. 
 
 3.
-Gracious God, my heart renew,
-Make my spirit right and true;
-Cast me not away from Thee,
-Let Thy Spirit dwell in me;
-Thy salvation’s joy impart,
-Steadfast make my willing heart,
-Thy salvation’s joy impart,
-Steadfast make my willing heart.
+By scourgings, spittings, stripes, and scars, 
+Jesus, the Maker of the stars, 
+The gates of heaven for us unbars, 
+And bids us freely enter in. 
 
 4.
-Sinners then shall learn from me
-And return, O God, to Thee;
-Savior, all my guilt remove,
-And my tongue shall sing Thy love;
-Touch my silent lips, O Lord,
-And my mouth shall praise accord,
-Touch my silent lips, O Lord,
-And my mouth shall praise accord.
+Fill us, O Saviour, with Thy love, 
+Grant us eternal joys above, 
+Oh, faithful to Thy promise prove, 
+And cleanse us from our every sin.
 ```
 
 - |   -  |

@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-When I survey the wondrous cross
-on which the Prince of Glory died;
-my richest gain I count but loss,
-and pour contempt on all my pride.
+Jesus, Thou joy of loving hearts! 
+Thou fount of life! Thou light of men! 
+From the best bliss that earth imparts, 
+We turn unfilled to Thee again. 
 
 2.
-Forbid it, Lord, that I should boast,
-save in the death of Christ, my God;
-all the vain things that charm me most,
-I sacrifice them to his blood.
+Thy truth unchanged has ever stood; 
+Thou savest those that on Thee call; 
+To them that seek Thee, Thou art good, 
+To them that find Thee, all in all. 
 
 3.
-See, from his head, his hands, his feet,
-sorrow and love flow mingled down.
-Did e’er such love and sorrow meet,
-or thorns compose so rich a crown.
+We taste Thee, O Thou living Bread, 
+And long to feast upon Thee still; 
+We drink of Thee, the Fountainhead, 
+And thirst our souls from Thee to fill! 
 
 4.
-Were the whole realm of nature mine,
-that were an offering far too small;
-love so amazing, so divine,
-demands my soul, my life, my all.
+Our restless spirits yearn for Thee, 
+Where-e'r our changeful lot is cast; 
+Glad, when Thy gracious smile we see, 
+Blest, when our faith can hold Thee fast. 
+
+5.
+O Jesus, ever with us stay; 
+Make all our moments calm and bright; 
+Chase the dark night of sin away, 
+Shed o'r the world Thy holy light!
+
 ```
 
 - |   -  |

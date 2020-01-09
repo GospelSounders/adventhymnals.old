@@ -11,34 +11,49 @@ metadata:
 
 ```txt
 1.
-The Spirit of the Lord revealed
-His will to saints of old;
-Their heart and mind lips unsealed
-His glory to unfold.
-Amid the gloom of ancient night
-They hailed the dawning Word,
-And in the coming of the light
-Proclaimed the coming Lord.
+A mighty fortress is our God,
+A bulwark never failing;
+Our helper He amid the flood
+Of mortal ills prevaling.
+For still our ancient foe
+Doth seek to work us woe;
+His craft and power are great,
+And armed with cruel hate,
+On earth is not his equal.
 
 2.
-The prophets passed; at length there came
-To sojourn and abide,
-The Word incarnate, to whose name
-The prophets testified;
-And He, the twilight overpast,
-Himself, the Light of light,
-As man with man, revealed at last
-The Father to our sight.
+Did we in our own strength confide,
+Our striving would be losing,
+Were not the right man on our side,
+The man of God's own choosing.
+Dost ask who that may be?
+Christ Jesus, it is he;
+Lord Sabbaoth, His name,
+From age to age the same,
+And He must win the battle.
 
 3.
-Eternal Spirit, who dost speak
-To mind and conscience still,
-That we in this our day, may seek
-To do our Father’s will,
-To us the word of life impart,
-Of Christ, the living way;
-Give us the quiet, humble heart
-To hear and to obey.
+And though this world, with devils filled,
+Should threaten to undo us,
+We will not fear, for God hath willed
+His truth to triumph through us.
+The Prince of Darkness grim,
+We tremble not for him;
+His rage we can endure,
+For lo, his doom is sure;
+One little word shall fell him.
+
+4.
+That word above all earthly powers,
+No thanks to them, abideth;
+The Spirit and the gifts are ours,
+Thru him who with us sideth.
+Let goods and kindred go,
+This mortal life also;
+The body they may kill;
+God's truth abideth still;
+His kingdom is forever.
+
 ```
 
 - |   -  |

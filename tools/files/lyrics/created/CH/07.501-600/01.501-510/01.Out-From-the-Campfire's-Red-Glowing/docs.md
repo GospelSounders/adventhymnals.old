@@ -11,25 +11,53 @@ metadata:
 
 ```txt
 1.
-‘Tis the blessed hour of prayer, when our hearts lowly bend,
-And we gather to Jesus, our Savior and Friend;
-If we come to Him in faith, His protection to share,
+Out from the campfire's red glowing, 
+Cheerfully shedding its light, 
+On to the pickets we're going, 
+For the long watches of night; 
+Let us be careful that slumber 
+Press not our eyelids too hard' 
+Surely not one of our number 
+Must be found sleeping on guard. 
 
+Refrain:
+Yes, sleeping on guard, 
+Sleeping on guard, 
+No! surely not one of our number 
+Must be found sleeping on guard. 
 
 2.
-‘Tis the blessed hour of prayer, when the Savior draws near,
-With a tender compassion His children to hear;
-When He tells us we may cast at His feet every care,
+Yonder Rum's camp lights are burning; 
+Hark to the revelry there! 
+Waiting the conflict returning, 
+Scouts are abroad everywhere; 
+We must be watchful and ready, 
+See every entrance is barred, 
+Keeping our heads cool and steady' 
+All is lost, sleeping on guard. 
+
+Refrain:
+Yes, sleeping on guard, 
+Sleeping on guard, 
+No! surely not one of our number 
+Must be found sleeping on guard. 
 
 3.
-‘Tis the blessed hour of prayer, when the tempted and tried
-To the Savior who loves them their sorrows confide;
-With a sympathizing heart He removes every care;
+Our aim is vigilance ever, 
+We can allow no defeat; 
+Truehearted soldiers will never 
+Join in the coward's retreat; 
+Wary and watchful be keeping, 
+Though the task be e'er so hard, 
+Knowing what dangers come creeping 
+When we are sleeping on guard.
 
-4.
-‘Tis the blessed hour of prayer, trusting Him we believe,
-That the blessings we’re needing we’ll surely receive;
-In the fullness of this trust we shall lose every care;
+Refrain:
+Yes, sleeping on guard, 
+Sleeping on guard, 
+No! surely not one of our number 
+Must be found sleeping on guard. 
+
 ```
 
 - |   -  |

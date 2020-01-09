@@ -11,44 +11,22 @@ metadata:
 
 ```txt
 1.
-O Word of God incarnate,
-O Wisdom from on high,
-O Truth unchanged, unchanging,
-O Light of our dark sky:
-we praise you for the radiance
-that from the hallowed page,
-a lantern to our footsteps,
-shines on from age to age.
+Must Jesus bear the cross alone, 
+And all the world go free? 
+No, there's a cross for everyone,
+And there's a cross for me.
 
 2.
-The church from her dear Master
-received the gift divine,
-and still that light is lifted
-o’er all the earth to shine.
-It is the sacred vessel
-where gems of truth are stored;
-it is the heaven-drawn picture
-of Christ, the living Word.
+The consecrated cross I'll bear
+Till He shall set me free; 
+And then go home my crown to wear, 
+For there's a crown for me.
 
 3.
-It floateth like a banner
-before God’s host unfurled;
-it is a shining beacon
-above the darkling world.
-It is the chart and compass
-that o’er life’s surging tide,
-mid mists and rocks and quicksands,
-Still guides, O Christ, to Thee.
-
-4.
-O make Thy church, dear Savior,
-a lamp of purest gold,
-to bear before the nations
-your true light as of old.
-O teach your wandering pilgrims
-by this their path to trace,
-till, clouds and darkness ended,
-they see Thee face to face.
+Upon the crystal pavement, down 
+At Jesus' pierced feet,
+With joy I'll cast my golden crown,
+And His dear name repeat.
 ```
 
 - |   -  |

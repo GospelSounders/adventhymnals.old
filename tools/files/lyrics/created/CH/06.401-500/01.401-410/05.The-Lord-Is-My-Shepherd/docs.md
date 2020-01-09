@@ -11,26 +11,28 @@ metadata:
 
 ```txt
 1.
-O God, unseen, yet ever near,
-Reveal Thy presence now
-While we in love that hath no fear,
-Before Thy glory bow.
+The Lord is my Shepherd; no want shall I know; 
+I feed in green pastures, safe folded I rest; 
+He leadeth my soul where the still waters flow, 
+Restores me when wandering, redeems when oppressed, 
 
 2.
-Here may Thy faithful people know
-The blessings of Thy love,
-The streams that thro’ the dessert flow,
-The manna from above.
+Through the valley and shadow of death though I stray, 
+Since thou art my Guardian, no evil I fear; 
+Thy rod shall defend me, Thy staff be my stay. 
+No harm can befall with my Comforter near. 
 
 3.
-We come, obedient to Thy Word
-To feast on heav’nly food,
-Our meat, the body of our Lord,
-Our drink, His precious blood.
+In the midst of affliction my table is spread. 
+With blessings unmeasured my cup runneth o'er; 
+With perfume and oil thou anointest my head; 
+Oh, what shall I ask of thy providence more? 
 
 4.
-Thus may we all Thy words obey,
-For we, O God, are Thine,
+Let goodness and mercy, my bountiful God, 
+Still follow my steps till I meet Thee above; 
+I seek'by the path which my forefathers trod, 
+Through the land of their sojourn'Thy kingdom of love.
 ```
 
 - |   -  |

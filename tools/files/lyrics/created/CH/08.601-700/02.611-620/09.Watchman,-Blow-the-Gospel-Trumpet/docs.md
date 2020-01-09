@@ -11,34 +11,33 @@ metadata:
 
 ```txt
 1.
-Lead on, O King eternal,
-the day of march has come;
-henceforth in fields of conquest
-thy tents shall be our home.
-Through days of preparation
-thy grace has made us strong;
-and now, O King eternal,
-we lift our battle song.
+Watchman, blow the gospel trumpet,
+Every soul a warning give;
+Whosoever hears the message
+May repent, and, turn and live.
+CHORUS:
+Blow the trumpet, trusty watchman,
+Blow it loud o'er land and sea;
+God commissions, sound the message!
+Every captive may be free.
 
 2.
-Lead on, O King eternal,
-till sin’s fierce war shall cease,
-and holiness shall whisper
-the sweet amen of peace.
-For not with swords loud clashing,
-nor roll of stirring drums;
-with deeds of love and mercy
-the heavenly kingdom comes.
+Sound it loud o'er every hilltop,
+Gloomy shade and sunny plain;
+Ocean depths repeat the message,
+Full salvation's glad refrain.
 
 3.
-Lead on, O King eternal,
-we follow, not with fears,
-for gladness breaks like morning
-where’er thy face appears.
-Thy cross is lifted o’er us,
-we journey in its light;
-the crown awaits the conquest;
-lead on, O God of might.
+Sound it in the hedge and highway,
+Earth's dark spots where exiles roam;
+Let it tell all things are ready,
+Father waits to welcome home.
+
+4.
+Sound it for the heavy laden,
+Weary, longing to be free;
+Sound a Savior's invitation,
+Sweetly saying, Come to me.
 ```
 
 - |   -  |

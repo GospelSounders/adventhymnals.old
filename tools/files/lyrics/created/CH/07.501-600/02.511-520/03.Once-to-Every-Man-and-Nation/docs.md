@@ -11,22 +11,28 @@ metadata:
 
 ```txt
 1.
-In heavenly love abiding, No change my heart shall fear;
-And safe is such confiding, For nothing changes here.
-The storm may roar without me, My heart may low be laid;
-But God is round about me, And can I be dismayed?
+Once to every man and nation, Comes the moment to decide,
+In the strife of truth with falsehood, For the good or evil side;
+Some great cause, some great decision, Offering each the bloom or blight,
+And the choice goes by forever, 'Twixt that darkness and that light.
 
 2.
-Wherever He may guide me, No want shall turn me back;
-My Shepherd is besided me, And nothing can I lack.
-His wisdom ever waketh, His sight is never dim;
-He knows the way He taketh, And I will walk with Him.
+Then to side with truth is noble, When we share her wretched crust,
+Ere her cause bring fame and profit, And 'tis prosperous to be just;
+Then it is the brave man chooses While the coward stands aside,
+Till the multitude make virtue Of the faith they had denied.
 
 3.
-Green pastures are before me, Which yet I have not seen;
-Bright skies will soon be o’er me, Where darkest clouds have been.
-My hope I cannot measure, My path to life is free;
-My Savior has my teasure, And He will walk with me.
+By the light of burning martyrs, Christ, Thy bleeding feet we track,
+Toiling up new Calv'ries ever With the cross that turns not back;
+New occasions teach new duties, Time makes ancient good uncouth,
+They must upward still and onward, Who would keep abreast of truth.
+
+4.
+Though the cause of evil prosper, Yet the truth alone is strong;
+Though her portion be the scaffold, And upon the throne be wrong;
+Yet that scaffold sways the future, And behind the dim unknown,
+Standeth God within the shadow, Keeping watch above His own.
 ```
 
 - |   -  |

@@ -11,17 +11,41 @@ metadata:
 
 ```txt
 1.
-My heart can sing when I pause to remember,
-A heartache here is but a stepping stone.
-Along a trail, thats winding always upward,
-This troubled world, is not my final home.
+Closer to Thee, my Father, draw me, 
+I long for Thine embrace; 
+Closer within Thine arms enfold me, 
+I seek a resting place. 
 
+Refrain:
+Closer with the cords of love, 
+Draw me to Thyself above; 
+Closer draw me, 
+To Thyself above. 
 
 2.
-The things of earth will dim and lose their value,
-If we recall they’re borrowed for awhile;
-And things of earth that cause the heart to tremble,
-Remembered there, will only bring a smile.
+Closer to Thee, my Saviour, draw me 
+Nor let me leave Thee more; 
+Fain would I feel Thine arms around me, 
+And count my wanderings o'er. 
+
+Refrain:
+Closer with the cords of love, 
+Draw me to Thyself above; 
+Closer draw me, 
+To Thyself above. 
+
+3.
+Closer by Thy sweet Spirit draw me 
+Till I am all like Thee; 
+Quicken, refine, and wash, and cleanse me, 
+Till I am pure and free.
+
+Refrain:
+Closer with the cords of love, 
+Draw me to Thyself above; 
+Closer draw me, 
+To Thyself above. 
+
 ```
 
 - |   -  |

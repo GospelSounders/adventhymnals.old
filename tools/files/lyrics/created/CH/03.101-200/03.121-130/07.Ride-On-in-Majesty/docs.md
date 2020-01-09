@@ -11,24 +11,29 @@ metadata:
 
 ```txt
 1.
-Infant holy, infant lowly,
-For His bed a cattle stall;
-Oxen lowing, little knowing
-Christ the babe is Lord of all;
-Swift are winging angels singing,
-Noels ringing, tidings bringing,
-Christ the babe is Lord of all,
-Christ the babe is Lord of all.
+Ride on! ride on in majesty!
+Hark, all the tribes hosanna cry;
+O Savior meek, pursue Thy road
+With palms and scattered garments strowed.
 
 2.
-Flocks were sleeping, shepherds keeping
-Vigil till the morning new;
-Saw the glory, heard the story,
-Tidings of the gospel true;
-Thus rejoicing, free from sorrow,
-Praises voicing greet the morrow,
-Christ the babe was born for you,
-Christ the babe was born for you.
+Ride on! ride on in majesty!
+In lowly pomp ride on to die;
+O Christ, Thy triumphs now begin
+O'er captive death and conquered sin.
+
+3.
+Ride on! ride on in majesty!
+The winged squadrons of the sky
+Look down with sad and wondering eyes
+To see the approaching sacrifice.
+
+4.
+Ride on! ride on in majesty!
+In lowly pomp ride on to die;
+Bow Thy meek head to mortal pain,
+Then take, O God, Thy power and reign.
+
 ```
 
 - |   -  |

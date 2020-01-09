@@ -11,23 +11,16 @@ metadata:
 
 ```txt
 1.
-Days are filled with sorrow and care,
-Hearts are lonely and drear;
-Burdens are lifted at Calvary,
-Jesus is very near.
-
+Bread of the world in mercy broken,
+Wine of the soul in mercy shed,
+By whom the words of life are spoken,
+And in whose death our sins are dead;
 
 2.
-Cast your care on Jesus today,
-Leave your worry and fear;
-Burdens are lifted at Calvary,
-Jesus is very near.
-
-3.
-Troubled soul, the Saviour can see,
-Ev’ry heartache and tear;
-Burdens are lifted at Calvary
-Jesus is very near.
+Look on the heart by sorrow broken,
+Look on the tears by sinners shed;
+And be Thy feast to us the token
+That by Thy grace our souls are fed. Amen.
 ```
 
 - |   -  |

@@ -11,44 +11,34 @@ metadata:
 
 ```txt
 1.
-I am going to Calvary,
-Would you like to come with Me
-All the way and back again?
-You must follow the Leader then.
-You must follow the Leader,
-You must follow the Leader,
-All the way and back again,
-You must follow the Leader.
+O Jesus, I have promised 
+To serve Thee to the end; 
+Be Thou forever near me, 
+My Master and my Friend. 
+I shall not fear the battle 
+If Thou art by my side, 
+Nor wander from the pathway 
+If Thou wilt be my Guide. 
 
 2.
-If I want a thorny crown,
-If the soldiers knock me down
-Can I really be a king?
-Love will answer everything
-If you follow the Leader,
-If you follow the Leader,
-Love will answer everything,
-If you follow the Leader.
+O let me feel Thee near me! 
+The world is ever near; 
+I see the sights that dazzle, 
+The tempting sounds I hear; 
+My foes are ever near me, 
+Around me and within; 
+But Jesus, draw Thou nearer, 
+And shield my soul from sin. 
 
 3.
-When I go along the road,
-I shall lift a heavy load.
-I will carry a cross for you.
-You will learn to carry it too
-When you follow the Leader,
-When you follow the Leader,
-You will learn to carry it too
-When you follow the Leader.
-
-4.
-I am going to stretch My hands,
-Reaching out to all the lands.
-Can I really be a king?
-Love’s the lord of everything,
-When you follow the Leader,
-When you follow the Leader
-Love’s the lord of everything,
-When you follow the Leader.
+O Jesus, Thou hast promised 
+To all who follow Thee 
+That where Thou art in glory 
+There shall Thy servant be. 
+And Jesus, I have promised 
+To serve Thee to the end; 
+O give me grace to follow, 
+My Master and my Friend.
 ```
 
 - |   -  |

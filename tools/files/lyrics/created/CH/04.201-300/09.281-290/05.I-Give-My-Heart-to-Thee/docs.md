@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-Jesus calls us o’er the tumult
-of our life’s wild, restless sea;
-day by day his sweet voice soundeth,
-saying, “Christian, follow me!”
+I give my heart to Thee, 
+O Jesus most desired; 
+And heart for heart the gift shall be, 
+For Thou my soul hast fired. 
 
 2.
-Jesus calls us from the worship
-of the vain world’s golden store,
-from each idol that would keep us,
-saying, “Christian, love me more!”
+Thou hearts alone wouldst move, 
+Thou only hearts dost love; 
+I would love Thee as Thou lovest me, 
+O Jesus most desired. 
 
 3.
-In our joys and in our sorrows,
-days of toil and hours of ease,
-still he calls, in cares and pleasures,
-“Christian, love me more than these!”
+What offering can I make, 
+Dear Lord, to love like Thine' 
+That Thou, the Word, didst stoop to take 
+A human form like mine? 
 
 4.
-Jesus calls us! By thy mercies,
-Savior, may we hear thy call,
-give our hearts to thine obedience,
-serve and love thee best of all.
+Thy heart is opened wide, 
+Its offered love most free, 
+That heart to heart I may abide, 
+And hide myself in Thee. 
+
+5.
+Ah, how Thy love doth burn, 
+Till I that love return! 
+I would love Thee as Thou lovest me, 
+O Jesus most desired.
 ```
 
 - |   -  |

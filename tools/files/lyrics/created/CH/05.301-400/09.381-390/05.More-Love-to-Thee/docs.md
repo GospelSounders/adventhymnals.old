@@ -11,23 +11,28 @@ metadata:
 
 ```txt
 1.
-Crowning jewel of creation,
-Blest and hallowed, sanctified;
-Time and changes all transcending,
-Shared forever, glorified.
-
+More love to Thee, O Christ, More love to Thee!
+Hear thou the prayer I make on bended knee.
+This is my earnest plea: More love, O Christ, to Thee;
+More love to Thee, More love to Thee!
 
 2.
-Sin and sickness, prayer and weeping
-Cease at close of earthly days;
-But Thy Sabbath is eternal,
-Joyful thanks to Thee we raise!
+Once earthly joy I craved, Sought peace and rest;
+Now Thee alone I seek, Give what is best.
+This all my prayer shall be: More love, O Christ, to Thee;
+More love to Thee, More love to Thee!
 
 3.
-Teach us Lord, in storm or sunshine
-How to truly rest in Thee,
-May Thy Sabbath peace enfold us
-And our shelter ever be.
+Let sorrow do its work, Send grief or pain;
+Sweet are Thy messengers, Sweet their refrain,
+When they can sing with me: More love, O Christ, to Thee;
+More love to Thee, More love to Thee!
+
+4.
+Then shall my latest breath Whisper Thy praise;
+This be the parting cry My heart shall raise;
+This still its prayer shall be: More love, O Christ, to Thee;
+More love to Thee, More love to Thee!
 ```
 
 - |   -  |

@@ -11,34 +11,36 @@ metadata:
 
 ```txt
 1.
-For thee, O dear country,
-Mine eyes their vigils keep;
-For very love beholding
-Thy holy name, they weep.
+Once in royal David's city
+Stood a lowly cattle shed,
+Where a mother laid her Baby
+In a manger for His bed;
+Mary was that mother mild,
+Jesus Christ her little Child.
 
 2.
-O one, O only mansion!
-O Paradise of joy!
-Where tears are ever banish’d
-And smiles have no alloy;
+He came down to earth from heaven,
+Who is God and Lord of all,
+And His shelter was a stable,
+And His cradle was a stall;
+With the poor, and mean, and lowly,
+Lived on earth our Savior holy.
 
 3.
-With jasper glow thy burwarks,
-Thy streets with emeralds blaze;
-The sardius and the topaz
-Unite in thee their rays;
+And through all His wondrous childhood
+He would honor and obey,
+Love and watch the lowly mother
+In whose gentle arms He lay.
+Christian children all must be
+Mild, obedient, good as He.
 
 4.
-The cross is all thy splendor,
-The Crucified thy praise;
-His laud and benediction
-Thy ransom’d saints shall raise;
-
-5.
-O sweet and blessed country,
-The home of God’s elect!
-O sweet and blessed country
-That eager hearts expect!
+And our eyes at last shall see Him,
+Through His own redeeming love;
+For that Child so dear and gentle
+Is our Lord in heaven above;
+And He leads His children on
+To the place where He is gone.
 ```
 
 - |   -  |

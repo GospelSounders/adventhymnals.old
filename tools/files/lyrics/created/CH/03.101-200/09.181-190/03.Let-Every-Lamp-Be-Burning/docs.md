@@ -11,23 +11,34 @@ metadata:
 
 ```txt
 1.
-I Will sing of Jesus love,
-Sing of Him,who first loved me;
-for He left bright worlds above,
-And died on Calvary.
-
+Let every lamp be burning bright,
+The darkest hour is nearing;
+The darkest hour of earth's long night,
+Before the Lord's appearing.
+CHORUS:
+Then trim your lamps, my brethren dear,
+Then trim your lamps with godly fear;
+The Master's coming draweth near,
+Let every lamp be burning.
 
 2.
-O the depths of love divine!
-Earth or heaven can never know
-How that sin as dark as mine
-can be made as white as snow.
+Though thousands calmly slumber on,
+The last great message spurning,
+We'll rest our living faith upon
+His promise of returning.
 
 3.
-Nothing good for Him I’ve done;
-How could He such love bestow?
-Lord, I own my heart is won,
-help me now my love to show.
+His word our lamp, His truth our guide,
+We cannot be mistaken;
+Though dangers rise on every side,
+We shall not be forsaken.
+
+4.
+Then let good works with faith appear,
+To help the world around us;
+Obedience bring the blessing near
+When faith has firmly bound us.
+
 ```
 
 - |   -  |

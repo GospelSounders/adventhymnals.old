@@ -11,39 +11,28 @@ metadata:
 
 ```txt
 1.
-I lay my sins on Jesus,
-The spotless Lamb of God;
-He bears them all, and frees us
-From the accursed load,
-From the accursed load.
+Hark, my soul! it is the Lord; 
+'Tis thy Saviour, hear His word; 
+Jesus speaks, and speaks to thee, 
+"Say, poor sinner, lovest thou Me?" 
 
 2.
-I bring my guilt to Jesus,
-To wash my crimson stains
-White in His blood most precious
-Till not a stain remains,
-Till not a stain remains.
+"Mine is an unchanging love, 
+Higher than the heights above; 
+Deeper than the depths beneath, 
+Free and faithful, strong as death." 
 
 3.
-I lay my wants on Jesus,
-All fullness dwells in Him;
-He healeth my diseases
-He doth my soul redeem,
-He doth my soul redeem
+"Thou shalt see My glory soon, 
+When the work of grace is done; 
+Partner of My throne shalt be! 
+Say, poor sinner, lovest thou Me?" 
 
 4.
-I long to be with Jesus,
-Meek, loving, lowly, mild;
-I long to be like Jesus
-The Father’s holy child,
-The Father’s holy child.
-
-5.
-I long to be with Jesus
-Amid the heav’nly throng,
-To sing with them His praises,
-And learn the angels’ song.
-And learn the angels’ song.
+Lord, it is my chief complaint 
+That my love is weak and faint; 
+Yet I love Thee and adore; 
+O for grace to love more!
 ```
 
 - |   -  |

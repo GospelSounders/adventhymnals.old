@@ -11,29 +11,46 @@ metadata:
 
 ```txt
 1.
-Take the world, but give me Jesus;
-All its Joys are but a name,
-But His love abideth ever,
-Through eternal years the same.
-
+Speak, Lord, in the stillness, 
+While I wait on Thee; 
+Hushed my heart to listen, 
+In expectancy. 
 
 2.
-Take the world, but give me Jesus,
-Sweetest comfort of my soul;
-With my Savior watching o’er me,
-I can sing, though billows roll.
+Speak, O blessed Master, 
+In this quiet hour; 
+Let me see Thy face, Lord, 
+Feel Thy touch of power. 
 
 3.
-Take the world, but give me Jesus;
-Let me view his constant smile;
-Then throughout my pilgrim journey
-Light will cheer me all the while.
+For the words Thou speakest, 
+"They are life" indeed; 
+Living bread from heaven, 
+Now my spirit feed! 
 
 4.
-Take the world, but give me Jesus;
-In His cross my trust shall be,
-Till, with clearer, brighter vision
-Face to face my Lord I see.
+All to Thee is yielded, 
+I am not my own; 
+Blissful, glad surrender, 
+I am Thine alone. 
+
+5.
+Speak, Thy servant heareth, 
+Be not silent, Lord; 
+Waits my soul upon Thee 
+For the quickening word! 
+
+6.
+Fill me with the knowledge 
+Of Thy glorious will; 
+All Thine own good pleasure 
+In Thy child fulfill. 
+
+7.
+Like "a watered garden," 
+Full of fragrance rare, 
+Lingering in Thy presence, 
+Let my life appear.
 ```
 
 - |   -  |

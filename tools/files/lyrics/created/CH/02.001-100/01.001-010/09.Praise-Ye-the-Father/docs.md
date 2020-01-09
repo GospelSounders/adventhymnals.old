@@ -11,16 +11,22 @@ metadata:
 
 ```txt
 1.
-Let all the world in every corner sing, My God and King!
-The heavens are not too high, His praise may thither fly;
-The earth is not too low, His praises there may grow.
-Let all the world in every corner sing, My God and King!
+Praise ye the Father for His lovingkindness, 
+Tenderly cares He for His erring children; 
+Praise Him, ye angels, praise Him in the heavens; 
+Praise ye Jehovah!
 
 2.
-Let all the world in every corner sing, My God and King!
-The church with psalms must shout, No door can keep them out;
-But, above all, the heart must bear the longest part.
-Let all the world in every corner sing, My God and King!
+Praise ye the Saviour, great is His compassion, 
+Graciously cares He for His chosen people; 
+Young men and maidens, ye old men and children, 
+Praise ye the Saviour! 
+
+3.
+Praise ye the Spirit, Comforter of Israel, 
+Sent of the Father and the Son to bless us; 
+Praise ye the Father, Son, and Holy Spirit, 
+Praise the Eternal Three!
 ```
 
 - |   -  |

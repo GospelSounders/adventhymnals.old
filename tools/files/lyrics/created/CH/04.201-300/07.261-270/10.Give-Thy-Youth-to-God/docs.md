@@ -11,28 +11,24 @@ metadata:
 
 ```txt
 1.
-O holy Dove of God descending,
-You are the love that knows no ending.
-All of our shattered dreams You’re mending:
-Spirit, now live in me.
+Give thou thy youth to God, 
+With all its budding love; 
+Send up the opening heart to him, 
+Fix it on things above. 
 
 2.
-O holy Wind of God now blowing,
-You are the seed that God us sowing.
-You are the life that starts us growing:
-Spirit, now live in me.
+He seeks thy heart, my child; 
+He wants to make thee blest; 
+Thy soul with his own joy to fill, 
+To give thee peace and rest. 
 
 3.
-O holy Rain of God now falling,
-You make the Word of God enthralling,
-You are that inner voice now calling:
-Spirit, now live in me.
+Take thou the side of God, 
+In all things great or small; 
+So shall he ever take thy side, 
+And bear thee safe through all. 
+Guide me in the path to heaven.
 
-4.
-O holy Flame of God now burning,
-You are the power of Christ returning.
-You are the answer to our yearning:
-Spirit, now live in me.
 ```
 
 - |   -  |

@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-Take the Name of Jesus with you,
-Child of sorrow and of woe,
-It will joy and comfort give you;
-Take it then, where’er you go.
-
+Rock of Ages, cleft for me,
+Let me hide myself in Thee;
+Let the water and the blood,
+From Thy riven side which flowed,
+Be of sin the double cure,
+Cleanse me from its guilt and power.
 
 2.
-Take the Name of Jesus ever,
-As a shield from every snare;
-If temptations round you gather,
-Breathe that holy Name in prayer.
+Not the labor of my hands
+Can fulfill Thy law's demands;
+Could my zeal no respite know,
+Could my tears forever flow,
+All for sin could not atone;
+Thou must save, and Thou alone.
 
 3.
-O the precious Name of Jesus!
-How it thrills our souls with joy,
-When His loving arms receive us,
-And His songs our tongues employ!
-
-4.
-At the Name of Jesus bowing,
-Falling prostrate at His feet,
-King of kings in heav’n we’ll crown Him,
-When our journey is complete.
+When my pilgrimage I close;
+Victor o'er the last of foes,
+When I soar to worlds unknown,
+And behold Thee on Thy throne,
+Rock of Ages, cleft for me,
+Let me hide myself in Thee.
 ```
 
 - |   -  |

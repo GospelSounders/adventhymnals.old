@@ -11,24 +11,29 @@ metadata:
 
 ```txt
 1.
-Come, thou long expected Jesus!
-born to set thy people free;
-from our fears and sins release us,
-let us find our rest in thee.
-Israel’s strength and consolation,
-hope of all the earth thou art;
-dear desire of every nation,
-joy of every longing heart.
+Come, gracious Spirit, heav'nly Dove, 
+With light and comfort from above; 
+Be Thou our Guardian, Thou our Guide; 
+O'er all thoughts and step preside. 
 
 2.
-Born thy people to deliver,
-born a child and yet a King,
-born to reign in us forever,
-now thy gracious kingdom bring.
-By thine own eternal spirit
-rule in all our hearts alone;
-by thine all sufficient merit,
-raise us to thy glorious throne.
+To us the light of truth display, 
+And make us know and choose thy way; 
+Plant holy fear in every heart, 
+That we from God may ne'er depart. 
+
+3.
+Lead us to holiness'the road 
+That we must take to dwell with God; 
+Lead us to Christ, the living way, 
+Nor let us from his precepts stray. 
+
+4.
+Lead us to God, our final rest, 
+To be with him forever blest; 
+Lead us to heaven, its bliss to share 
+Fullness of joy forever there!
+
 ```
 
 - |   -  |

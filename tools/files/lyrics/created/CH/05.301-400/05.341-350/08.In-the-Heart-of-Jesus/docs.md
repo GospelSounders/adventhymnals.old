@@ -11,44 +11,28 @@ metadata:
 
 ```txt
 1.
-The church’s one foundation
-is Jesus Christ her Lord;
-she is his new creation
-by water and the Word.
-From heaven he came and sought her
-to be his holy bride;
-with his own blood he bought her,
-and for her life he died.
+In the heart of Jesus there is love for you, 
+Love most pure and tender, love most deep and true; 
+Why should you be lonely, why for friendship sigh, 
+When the heart of Jesus has a full supply? 
 
 2.
-Elect from every nation,
-yet one o’er all the earth;
-her charter of salvation,
-one Lord, one faith, one birth;
-one holy name she blesses,
-partakes one holy food,
-and to one hope she presses,
-with every grace endued.
+In the mind of Jesus there is thought for you, 
+Warm as summer sunshine, sweet as morning dew; 
+Why should you be fearful, why take anxious thought, 
+Since the mind of Jesus cares for those He bought? 
 
 3.
-Though with a scornful wonder
-we see her sore oppressed,
-by schisms rent asunder,
-by heresies distressed,
-yet saints their watch are keeping;
-their cry goes up, “How long?”
-And soon the night of weeping
-shall be the morn of song.
+In the field of Jesus there is work for you; 
+Such as even angels might rejoice to do; 
+Why stand idly sighing for some lifework grand, 
+While the field of Jesus seeks your reaping hand? 
 
 4.
-‘Mid toil and tribulation,
-and tumult of her war,
-she waits the consummation
-of peace forevermore;
-till, with the vision glorious,
-her longing eyes are blest,
-and the great church victorious
-shall be the church at rest.
+In the home of Jesus there's a place for you; 
+Glorious, bright, and joyous, calm and peaceful too; 
+Why then, like a wanderer, roam with weary pace, 
+If the home of Jesus holds for you a place?
 ```
 
 - |   -  |

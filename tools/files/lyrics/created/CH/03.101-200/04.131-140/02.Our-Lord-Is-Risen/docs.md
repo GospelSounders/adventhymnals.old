@@ -11,25 +11,35 @@ metadata:
 
 ```txt
 1.
-O come, all ye faithful, joyful and triumphant,
-O come ye, O come ye to Bethlehem!
-Come and behold Him, born the King of angels!
-O come, let us adore Him, O come, let us adore Him,
-O come, let us adore Him, Christ, the Lord!
+Our Lord is risen from the dead; 
+Our Jesus is gone up on high! 
+A captive host He joyful led, 
+To the bright portals of the sky. 
 
 2.
-Sing, choirs of angels sing in exultation,
-O sing all ye citizens of heaven above!
-Glory to God, all glory in the highest!
-O come, let us adore Him, O come, let us adore Him,
-O come, let us adore Him, Christ, the Lord!
+There His triumphal chariot waits, 
+And angels chant the solemn lay: 
+"Lift up your heads, ye heavenly gates; 
+Ye everlasting doors, give way." 
 
 3.
-Yea, Lord, we greet Thee, born this happy morning,
-Jesus, to Thee be all glory given;
-Word of the Father, now in flesh appearing!
-O come, let us adore Him, O come, let us adore Him,
-O come, let us adore Him, Christ, the Lord!
+Loose all your bars of golden light, 
+And wide unfold the beauteous scene; 
+He claims these mansions as His right, 
+Receive the King of glory in. 
+
+4.
+Who is this King of glory? Who? 
+The Lord, that all our foes o'ercame; 
+The world, sin, death, and hell o'erthrew; 
+And Jesus is the conqueror's name. 
+
+5.
+Who is this King of Glory, Who? 
+The Lord, of glorious power possessed; 
+The King of saints and angels, too; 
+God over all, forever blest.
+
 ```
 
 - |   -  |

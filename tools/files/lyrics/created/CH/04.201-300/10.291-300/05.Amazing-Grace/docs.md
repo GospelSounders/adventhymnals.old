@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Chief of sinners though I be,
-Jesus shed His blood for me;
-Died that I might live on high,
-Died that I might never die;
-As the brance is to the vine,
-I am His, and He is mine.
+Amazing grace! How sweet the sound
+that saved a wretch like me!
+I once was lost, but now am found;
+was blind, but now I see.
 
 2.
-O the height of Jesus’ love!
-Higher than the heaven above,
-Deeper than the deepest sea,
-Lasting as eternity;
-Love that found me-wondrous thought!
-Found me when I sought Him not!
+'Twas grace that taught my heart to fear,
+and grace my fears relieved;
+how precious did that grace appear
+the hour I first believed.
 
 3.
-Chief of sinners though I be,
-Christ is all in all to me;
-All my wants to Him are known,
-All my sorrows are His own;
-Safe with Him from earthly strife,
-He sustains the hidden life.
+The Lord has promised good to me,
+his word my hope secures;
+he will my shield and portion be,
+as long as life endures.
+
+4.
+Through many dangers, toils, and snares,
+I have already come;
+'tis grace hath brought me safe thus far,
+and grace will lead me home.
+
+5.
+When we've been there ten thousand years,
+bright shining as the sun,
+we've no less days to sing God's praise
+than when we first begun.
+
 ```
 
 - |   -  |

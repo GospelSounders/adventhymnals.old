@@ -11,23 +11,22 @@ metadata:
 
 ```txt
 1.
-I shall see the King where the angels sing,
-I shall see the King some day, in the better land,
-On that golden strand,
-And with Him shall ever stay.
-
+O holy Lord, content to fill 
+In lowly home the lowliest place; 
+Thy childhood's law, a mother's will; 
+Obedience meek, Thy brightest grace. 
 
 2.
-In the land of song, in the glory throng,
-Where there never comes a night,
-With my Lord once slain I shall ever reign
-In the glory land of light.
+Lead every child that bears Thy name 
+To walk in Thine own guileless way, 
+To dread the touch of sin and shame, 
+And humbly, like Thyself, obey. 
 
 3.
-I shall see the King, all my tributes bring,
-And shall look upon His face;
-Then my song shall be how He ransomed me
-And has kept me by His grace.
+So shall we, waiting here below, 
+Like Thee, our Lord, a little span, 
+In wisdom and in stature grow, 
+And favor with both God and man.
 ```
 
 - |   -  |

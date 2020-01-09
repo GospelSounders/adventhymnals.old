@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Silent night! holy night!
-All is calm, all is bright
-Round yon virgin mother and Child,
-Holy Infant so tender and mild,
-Sleep in heavenly peace,
-sleep in heavenly peace.
+The wonders of redeeming love
+Our highest thoughts exceed;
+The Son of God comes from above
+For sinful man to bleed.
 
 2.
-Silent night! holy night!
-Shepherds quake at the sight,
-glories stream from heaven afar,
-heavenly hosts sing Alleluia;
-Christ, the Savior is born,
-Christ, the Savior is born.
+He gives Himself, His life, His all,
+A sinless sacrifice.
+For man He drains the cup of gall,
+For man the victim dies.
 
 3.
-Silent night! holy night!
-Son of God, love’s pure light,
-Radiant beams from Thy holy face,
-with the dawn of redeeming grace,
-Jesus, Lord, at Thy birth,
-Jesus, Lord, at Thy birth.
+And now before His Father's face
+His precious blood He pleads;
+For those who seek the throne of grace
+His love still intercedes.
+
+4.
+He knows the frailties of our frame,
+For He has borne our grief;
+Our great High Priest once felt the same,
+And He can send relief.
+
+5.
+His love will not be satisfied,
+Till He in glory sees
+The faithful ones for whom He died
+From sin forever free.
+
 ```
 
 - |   -  |

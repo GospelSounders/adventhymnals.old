@@ -11,34 +11,44 @@ metadata:
 
 ```txt
 1.
-Day by day, and with each passing moment,
-Strength I find, to meet my trials here;
-Trusting in my Father’s wise bestowment,
-I’ve no cause for worry or for fear.
-He Whose heart is kind beyond all measure
-Gives unto each day what He deems best—
-Lovingly, its part of pain and pleasure,
-Mingling toil with peace and rest.
+I have a Friend so precious, 
+So very dear to me, 
+He loves me with a tender love, 
+He loves me faithfully; 
+I could not live apart from Him, 
+I love to feel Him nigh; 
+And so we dwell together, 
+My Lord and I. 
 
 2.
-Every day, the Lord Himself is near me
-With a special mercy for each hour;
-All my cares He fain would bear, and cheer me,
-He Whose Name is Counselor and Power;
-The protection of His child and treasure
-Is a charge that on Himself He laid;
-“As thy days, thy strength shall be in measure,”
-This the pledge to me He made.
+Sometimes I'm faint and weary, 
+He knows that I am weak; 
+And as He bids me lean on Him, 
+His help I'll gladly seek; 
+He leads me in the path of light, 
+Beneath a sunny sky; 
+And so we walk together, 
+My Lord and I. 
 
 3.
-Help me then in every tribulation
-So to trust Thy promises, O Lord,
-That I lose not faith’s sweet consolation
-Offered me within Thy holy Word.
-Help me, Lord, when toil and trouble meeting,
-Ever to take, as from a father’s hand,
-One by one, the days, the moments fleeting,
-Till I reach the promised land.
+I tell Him all my sorrows, 
+I tell Him all my joys, 
+I tell Him all that pleases me, 
+I tell Him what annoys; 
+He tells me what I ought to do, 
+Hs tells me how to try; 
+And so we talk together, 
+My Lord and I. 
+
+4.
+He knows how I am longing 
+Some weary soul to win, 
+And so He bids me go and speak 
+The loving word for Him; 
+He bids me tell His wondrous love, 
+And why He came to die; 
+And so we work together, 
+My Lord and I.
 ```
 
 - |   -  |

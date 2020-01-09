@@ -11,23 +11,27 @@ metadata:
 
 ```txt
 1.
-O, when shall I see Jesus and reign with Him above,
-And shall hear the trumpet sound in that morning?
-And from the flowing fountain drink everlasting love,
-And shall hear the trumpet sound in that morning.
-
+Far and near the fields are teeming
+With the sheaves of ripened grain;
+Far and near their gold is gleaming
+O'er the sunny slope and plain.
+CHORUS:
+Lord of harvest, send forth reapers!
+Hear us Lord, to Thee we cry;
+Send them now the sheaves to gather,
+Ere the harvest-time pass by.
 
 2.
-Gird on the gospel armor of faith and hope and love,
-And you’ll hear the trumpet sound in that morning.
-And when the combat’s ended He’ll carry you above,
-And you’ll hear the trumpet sound in that morning.
+Send them forth with morn's first beaming,
+Send them in the noon-tides's glare;
+When the sun's last rays are streaming,
+Bid them gather everywhere.
 
 3.
-Our ears shall hear with transport the host of heaven sing,
-And shall hear the trumpet sound in that morning.
-Our tongues shall chant the glories of our immortal King.
-And shall hear the trumpet sound in that morning,
+O thou, whom thy Lord is sending,
+Gather now the sheaves of gold;
+Heavenward then at evening wending
+Thou shalt come with joy untold.
 ```
 
 - |   -  |

@@ -11,16 +11,35 @@ metadata:
 
 ```txt
 1.
-Hark! the vesper hymn is stealing
-O’er the waters soft and clear;
-Jubilate, Jubilate, Jubilate,
-Amen.
+Our day of praise is done; 
+The evening shadows fall; 
+But pass not from us with the sun, 
+True Light that lightenest all. 
 
 2.
-Nearer yet, and nearer pealing,
-Soft it breaks upon the ear.
-Jubilate, Jubilate, Jubilate,
-Amen.
+Around the throne on high, 
+Where night can never be, 
+The white robed harpers of the sky 
+Bring ceaseless hymns to Thee. 
+
+3.
+Too faint our anthems here; 
+Too soon of praise we tire; 
+But O the strains, how full and clear, 
+Of that eternal choir! 
+
+4.
+'Tis Thine each soul to calm, 
+Each wayward thought reclaim, 
+And make our life a daily psalm 
+Of glory to Thy Name. 
+
+5.
+A little while, and then 
+Shall come the glorious end; 
+And songs of angels and of men 
+In perfect praise shall blend.
+
 ```
 
 - |   -  |

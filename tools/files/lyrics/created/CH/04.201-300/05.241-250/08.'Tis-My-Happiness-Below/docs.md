@@ -11,23 +11,29 @@ metadata:
 
 ```txt
 1.
-There is a Name I love to hear,
-I love to sing its worth;
-It sounds like music in my ears,
-The sweetest Name on earth.
-
+'Tis my happiness below 
+Not to live without the cross; 
+But the Saviour's power to know, 
+Sanctifying every loss. 
 
 2.
-It tells me of a Savior’s love,
-Who died to set me free;
-It tells me of a Savior’s blood,
-The sinners’ perfect plea.
+Trials must and will befall; 
+But with humble faith to see 
+Love inscribed upon them all' 
+This is happiness to me. 
 
 3.
-It tells of one whose loving heart
-Can feel my deepest woe;
-Who in each sorrow bears
-A part that none can bear below.
+Did I meet no trials here, 
+No chastisement by the way, 
+Might I not with reason fear 
+I should prove a castaway? 
+
+4.
+Trials make the promise sweet; 
+Trials give new life to prayer; 
+Trials bring me to his feet, 
+Lay me low, and keep me there.
+
 ```
 
 - |   -  |

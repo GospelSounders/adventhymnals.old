@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-O sing a song of Bethlehem,
-Of shepherds watching there,
-And of the news that came to them
-From angels in the air:
-The light that shone on Bethlehem
-Fills all the world today;
-Of Jesus’birth and peace on earth
-The angels sing alway.
+O love divine, that stooped to share 
+Our sharpest pang, our bitterest tear! 
+On Thee we cast each earthborn care; 
+We smile at pain while Thou art near. 
 
 2.
-O sing a song of Nazareth,
-Of sunny days of joy,
-O sing of fragrant flowers breath,
-And of the sinless Boy:
-For now the flowers of Nazareth
-In every heart may grow;
-Now spreads the fame of His dear name
-On all the winds that blow.
+Though long the weary way we tread, 
+And sorrow crown each lingering year, 
+No path we shun, no darkness dread; 
+Our hearts still whispering, 'Thou art near!' 
 
 3.
-O sing a song of Calvary,
-Its glory and dismay;
-Of Him who hung upon the tree,
-And took our sins away:
-For He who died on Calvary
-Is risen from the grave;
-And Christ, our Lord, by heaven adored,
-Is mighty now to save.
+When drooping pleasure turns to grief, 
+And trembling faith is changed to fear, 
+The murmuring wind, the quivering leaf, 
+Shall softly tell us, 'Thou art near!' 
+
+4.
+On Thee we fling our burdening woe, 
+O Love divine, forever dear; 
+Content to suffer while we know, 
+Living and dying, Thou art near!
+
 ```
 
 - |   -  |

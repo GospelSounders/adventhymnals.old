@@ -11,44 +11,35 @@ metadata:
 
 ```txt
 1.
-Christ is made the sure foundation,
-Christ the head and cornerstone,
-chosen of the Lord, and precious,
-binding all the Church in one;
-holy Zion’s help for ever,
-and her confidence alone.
+We stand in deep repentance, 
+Before thy throne of love; 
+O God of grace, forgive us, 
+The stain of guilt remove. 
 
 2.
-All that dedicated city,
-dearly loved of God on high,
-in exultant jubilation
-pours perpetual melody;
-God the One in Three adoring
-in glad hymns eternally.
+Behold us while with weeping 
+We lift our eyes to thee; 
+And, all our sins subduing, 
+Our Father, set us free! 
 
 3.
-To this temple, where we call thee,
-come, O Lord of Hosts, today;
-with thy wonted loving-kindness
-hear thy servants as they pray,
-and thy fullest benediction
-shed within its walls alway.
+O, shouldst thou from the fallen 
+Withhold thy grace to guide, 
+Forever we should wander, 
+From thee, and peace, aside. 
 
 4.
-Here vouchsafe to all thy servants
-what they ask of thee of gain;
-what they gain from thee, for ever
-with the blessèd to retain,
-and hereafter in thy glory
-evermore with thee to reign.
+Our souls'on thee we cast them, 
+Our only refuge thou! 
+Thy cheering words revive us, 
+When pressed with grief we bow. 
 
 5.
-Laud and honor to the Father,
-laud and honor to the Son,
-laud and honor to the Spirit,
-ever Three, and ever One,
-con-substantial, co-eternal,
-while unending ages run.
+Thou bearest the trusting spirit 
+Upon thy loving breast, 
+And givest all thy ransomed 
+A sweet, unending rest.
+
 ```
 
 - |   -  |

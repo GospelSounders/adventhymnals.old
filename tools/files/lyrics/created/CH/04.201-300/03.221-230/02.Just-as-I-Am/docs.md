@@ -11,34 +11,41 @@ metadata:
 
 ```txt
 1.
-Hark! ten thousand harps and voices
-Sound the note of praise above;
-Jesuse reigns, and heaven rejoices,
-Jesus reigns, the God of love:
-See, He sits on yonder throne;
-Jesus rules the world alone.
-Alleluia! Alleluia!
-Alleluia! Amen.
+Just as I am, without one plea,
+But that Thy blood was shed for me,
+And that Thou bidst me come to Thee,
+O Lamb of God, I come, I come.
 
 2.
-King of glory, reign forever,
-Thine an everlasting crown;
-Nothing from Thy love shall sever
-Those whom Thou hast made Thine own;
-Happy objects of Thy grace,
-Destined to behold Thy face.
-Alleluia! Alleluia!
-Alleluia! Amen.
+Just as I am, and waiting not
+To rid my soul of one dark blot,
+To Thee whose blood can cleanse each spot,
+O Lamb of God, I come, I come.
 
 3.
-Savior, hasten Thine appearing;
-Bring, O bring the glorious day,
-When, the awful summons hearing,
-Heaven and earth shall pass away:;
-Then, with golden harps we’ll sing,
-“Glory, glory to our King!”
-Alleluia! Alleluia!
-Alleluia! Amen.
+Just as I am, though tossed about
+With many a conflict, many a doubt,
+Fightings within, and fears without,
+O Lamb of God, I come, I come.
+
+4.
+Just as I am, poor, wretched, blind;
+Sight, riches, healing of the mind,
+Yea, all I need in Thee to find,
+O Lamb of God, I come, I come.
+
+5.
+Just as I am, Thou wilt receive,
+Wilt welcome, pardon, cleanse, relieve;
+Because Thy promise I believe,
+O Lamb of God, I come, I come.
+
+6.
+Just as I am, Thy love I own
+Has broken every barrier down;
+Now, to be Thine, and Thine alone,
+O Lamb of God, I come, I come.
+
 ```
 
 - |   -  |

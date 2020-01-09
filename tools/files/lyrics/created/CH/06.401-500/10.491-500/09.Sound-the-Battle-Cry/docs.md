@@ -11,34 +11,39 @@ metadata:
 
 ```txt
 1.
-What a friend we have in Jesus,
-All our sins and griefs to bear!
-What a privilege to carry
-Everything to God in prayer!
-Oh, what peace we often forfeit;
-Oh, what needless pain we bear
-All because we do not carry
-Everything to God in prayer!
+Sound the battle cry,
+See! the foe is nigh;
+Raise the standard high
+For the Lord;
+Gird your armor on,
+Stand firm, every one,
+Rest your cause upon His holy word.
+CHORUS:
+Rouse, then soldiers!
+Rally round the banner!
+Ready, steady, pass the word along;
+Onward, forward, shout aloud hosanna!
+Christ is Captain of the mighty throng.
 
 2.
-Have we trials and temptations?
-Is there trouble anywhere?
-We should never be discouraged
-Take it to the Lord in prayer.
-Can we find a friend so faithful
-Who will all our sorrows share?
-Jesus knows our every weakness
-Take it to the Lord in prayer.
+Strong to meet the foe,
+Marching on we go,
+While our cause we know
+Must prevail;
+Shield and banner bright,
+Gleaming in the light,
+Battling for the right,
+We ne'er can fail.
 
 3.
-Are we weak and heavy laden,
-Cumbered with a load of care?
-Precious Savior, still our refuge
-Take it to the Lord in prayer.
-Do your friends despise, forsake you?
-Take it to the Lord in prayer.
-In his arms he’ll take and shield you;
-You will find a solace there.
+O Thou God of all,
+Hear us when we call,
+Help us, one and all,
+By Thy grace;
+When the battle�s done,
+And the victory won,
+May we wear the crown
+Before Thy face.
 ```
 
 - |   -  |

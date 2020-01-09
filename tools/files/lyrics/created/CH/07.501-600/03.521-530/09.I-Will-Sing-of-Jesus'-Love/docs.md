@@ -11,23 +11,53 @@ metadata:
 
 ```txt
 1.
-Under His wings I am safely abiding;
-Though the night deepens and tempests are wild,
-Still I can trust Him; I know He will keep me;
-he has redeemed me, and I am His child.
+I Will sing of Jesus' love, 
+Sing of Him, who first loved me; 
+For He left bright worlds above, 
+And died on Calvary. 
 
+Refrain:
+I will sing of Jesus love 
+Endless praise my heart shall give; 
+He has died that I might live 
+I will sing His love to me. 
 
 2.
-Under His wings, what a refuge in sorrow!
-How the heart yearningly turns to its rest!
-Often when earth has no balm for my healing,
-There I find comfort, and there I am blest.
+Ere a tear had dimmed mine eyes, 
+Jesus' tears for me did flow; 
+Ere my first faint prayer could rise, 
+He had prayed in tones of woe. 
+
+Refrain:
+I will sing of Jesus love 
+Endless praise my heart shall give; 
+He has died that I might live 
+I will sing His love to me. 
 
 3.
-Under His wings, O what precious enjoyment!
-There will I hide till life’s trials are over;
-Sheltered, protected, no evil can harm me;
-Resting in Jesus I’m safe evermore.
+O the depths of love divine! 
+Earth or heaven can never know 
+How that sins as dark as mine 
+can be made as white as snow. 
+
+Refrain:
+I will sing of Jesus love 
+Endless praise my heart shall give; 
+He has died that I might live 
+I will sing His love to me. 
+
+4.
+Nothing good for Him I've done; 
+How could He such love bestow? 
+Lord, I own my heart is won, 
+Help me now my love to show.
+
+Refrain:
+I will sing of Jesus love 
+Endless praise my heart shall give; 
+He has died that I might live 
+I will sing His love to me. 
+
 ```
 
 - |   -  |

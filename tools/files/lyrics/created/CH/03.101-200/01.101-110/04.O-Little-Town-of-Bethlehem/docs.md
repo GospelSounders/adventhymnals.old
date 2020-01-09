@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-My Shepherd will supply my need,
-Jehovah is His name.
-In pastures fresh He makes me feed
-Beside the living stream.
-He brings my wand’ring spirit back
-When I forsake His ways,
-And leads, me for His mercy’s sake,
-In paths of truth and grace.
+O little town of Bethlehem, how still we see thee lie!
+Above thy deep and dreamless sleep the silent stars go by.
+Yet in thy dark streets shineth the everlasting Light;
+The hopes and fears of all the years are met in thee tonight.
 
 2.
-When I walk through the shades of death,
-Thy presence is my stay;
-A word of Thy supporting breath
-Drives all my fears away.
-Thy hand in sight of all my foes
-Doth still my table spread;
-My cup with blessings overflows,
-Thine oil anoints my head.
+For Christ is born of Mary, and gathered all above,
+While mortals sleep, the angels keep their watch of wondering love.
+O morning stars together, proclaim the holy birth,
+And praises sing to God the King, and peace to men on earth!
 
 3.
-The sure provisions of my God
-Attend me all my days;
-O may Thy house be mine abode
-And all my work be praise.
-There would I find a settled rest
-While others go and come;
-No more a stranger or a guest,
-But like a child at home.
+How silently, how silently, the wondrous Gift is giv'n;
+So God imparts to human hearts the blessings of His heav'n.
+No ear may hear His coming, but in this world of sin,
+Where meek souls will receive Him still, the dear Christ enters in.
+
+4.
+O holy Child of Bethlehem, descend to us, we pray;
+Cast out our sin, and enter in, be born in us today.
+We hear the Christmas angels the great glad tidings tell;
+O come to us, abide with us, our Lord Emmanuel!
+
 ```
 
 - |   -  |

@@ -11,36 +11,44 @@ metadata:
 
 ```txt
 1.
-All my hope on God is founded;
-He doth still my trust renew.
-Me through change and chance He guideth,
-Only good and only true.
-God unknown, He alone
-Calls my heart to be His own.
+God's free mercy streameth 
+Over all the world, 
+And His banner gleameth, 
+By His church unfurled; 
+Broad and deep and glorious, 
+As the heaven above, 
+Shines in might victorious 
+His eternal love. 
 
 2.
-Pride of man and earthly glory,
-Sword and crown betray his trust;
-What with care and toil he buildeth,
-Tower and temple fall to dust.
-But God’s power, hour by hour,
-Is my temple and my tower.
+Summer suns are glowing 
+Over land and sea; 
+Happy light is flowing, 
+Bountiful and free; 
+Everything rejoices 
+In the mellow rays; 
+Earth's ten thousand voices 
+Swell the psalm of praise.
 
 3.
-God’s great goodness aye endureth,
-Deep His wisdom, passing thought;
-Splendor, light and life attend Him,
-Beauty springeth out of naught.
-Love doth stand at His hand;
-Joy doth wait on His command.
+Lord, upon our blindness 
+Thy pure radiance pour; 
+For Thy lovingkindness 
+We would love Thee more; 
+And when clouds are drifting 
+Dark across the sky, 
+Then, the veil uplifting, 
+Father, be Thou nigh. 
 
 4.
-Still from man to God eternal,
-Sacrifice of praise be done.
-High above all praises praising,
-For the gift of Christ His son.
-Christ doth call one and all:
-Ye who follow shall not fall.
+We will never doubt Thee, 
+Tho' Thou veil Thy light; 
+Life is dark without Thee, 
+Death with Thee is bright. 
+Light of light, shine o'er us 
+On our pilgrim way, 
+Go Thou still before us 
+To the endless day.
 ```
 
 - |   -  |

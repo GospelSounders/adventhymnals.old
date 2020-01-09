@@ -11,44 +11,23 @@ metadata:
 
 ```txt
 1.
-Crown him with many crowns,
-the Lamb upon his throne,
-Hark! how the heavenly anthem drowns
-all music but its own.
-Awake, my soul, and sing
-of him who died for thee,
-and hail him as thy matchless King
-through all eternity.
+Come, ye disconsolate, where'er ye languish.
+Come to the mercy seat, fervently kneel.
+Here bring your wounded hearts, here tell your anguish;
+Earth has no sorrow that heaven cannot heal.
 
 2.
-Crown him the Lord of love!
-behold his hands and side,
-those wounds, yet visible above,
-in beauty glorified;
-No angel in the sky
-Can fully bear that sight,
-But downward bend his wondering eye
-At mysteries so great.
+Joy of the comfortless, light of the straying,
+Hope of the penitent, fadeless and pure!
+Here speaks the Comforter, tenderly saying,
+Earth has no sorrow that heaven cannot cure.
 
 3.
-Crown him the Lord of peace!
-whose power a scepter sways
-from pole to pole, that wars may cease,
-and all be prayer and praise.
-His reign shall know no end,
-and round his pierced feet
-fair flowers of paradise extend
-their fragrance ever sweet.
+Here see the bread of life; see waters flowing
+Forth from the throne of God, pure from above.
+Come to the feast of love; come, ever knowing
+Earth has no sorrow but heaven can remove.
 
-4.
-Crown him the Lord of years;
-The potentate of time,
-Creator of the rolling spheres,
-Ineffably sublime!
-All hail, Redeemer, hail!
-For thou hast died for me;
-thy praise shall never, never fail
-throughout eternity.
 ```
 
 - |   -  |

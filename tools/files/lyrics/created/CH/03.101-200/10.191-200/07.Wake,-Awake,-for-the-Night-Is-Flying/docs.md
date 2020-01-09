@@ -11,28 +11,42 @@ metadata:
 
 ```txt
 1.
-The King of love my Shepherd is,
-Whose goodness faileth never;
-I nothing lack if I am His,
-And He is mine forever.
+Wake, awake, for night is flying,
+The watchmen on the heights are crying,
+Awake, Jerusalem, arise!
+Midnight's solemn hour is tolling,
+His chariot wheels are nearer rolling,
+He comes; prepare, ye virgins wise.
+Rise up with willing feet
+Go forth, the Bridegroom meet; Alleluia!
+Bear through the night your well-trimmed light,
+Speed forth to join the marriage rite.
 
 2.
-Where streams of living water flow
-My ransomed soul He leadeth,
-And, where the verdant pastures grow,
-With food celestial feedeth.
+Zion hears the watchmen singing,
+Her heart with deep delight is springing,
+She wakes, she rises from her gloom;
+Forth her Bridegroom comes, all-glorious,
+In grace arrayed, by truth victorious;
+Her Star is risen, her Light is come!
+All hail, incarnate Lord,
+Our crown, and our reward! Alleluia!
+We haste along, in pomp and song,
+And gladsome join the marriage throng.
 
 3.
-Perverse and foolish, oft I strayed,
-But yet in love He sought me,
-And on His shoulder gently laid,
-And home, rejoicing, brought me.
+Lamb of God, the heavens adore Thee,
+And men and angels sing before Thee,
+With harp and cymbal's clearest tone.
+By the pearly gates in wonder
+We stand, and swell the voice of thunder,
+That echoes round Thy dazzling throne.
+No vision ever brought,
+No ear hath ever caught,
+Such bliss and joy;
+We raise the song, we swell the throng,
+To praise Thee ages all along.
 
-4.
-And so through all the length of days
-Thy goodness faileth never;
-Good Shepherd! I would sing Thy praise
-Within Thy house forever.
 ```
 
 - |   -  |

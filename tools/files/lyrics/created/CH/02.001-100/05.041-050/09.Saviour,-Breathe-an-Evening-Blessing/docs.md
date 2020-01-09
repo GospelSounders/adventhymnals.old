@@ -29,10 +29,11 @@ Angel guards from Thee Surround us,
 We are safe if Thou art nigh.
 
 4.
-Should swift death this night o’re-take us,
+Should swift death this night o're-take us,
 And our couch become our tomb,
 May the morn of glory wake us,
 Clad in light and deathless bloom.
+
 ```
 
 - |   -  |

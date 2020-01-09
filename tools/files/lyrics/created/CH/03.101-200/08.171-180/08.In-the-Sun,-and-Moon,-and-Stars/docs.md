@@ -11,23 +11,29 @@ metadata:
 
 ```txt
 1.
-Once our blessed Christ of beauty
-Was veiled off from human views;
-But through suffering, death, and sorrow
-He has rent the veil in two.
-
+In the sun, and moon, and stars, 
+Signs and wonders have appeared; 
+Earth has groaned with bloody wars, 
+And the hearts of men have feared. 
 
 2.
-Yes, He is with God, the Father,
-Interceding there for you;
-For He is the Well beloved
-Since He rent the veil in two.
+Soon shall ocean's hoary deep, 
+Tossed with stronger tempests, rise; 
+Darker storms the mountain sweep, 
+Fiercer lightning rend the skies. 
 
 3.
-Holy angels bow before Him,
-Men of earth give praises due;
-For He is the mighty Conqueror
-Since He rent the veil in two.
+Dread alarms shall shake the proud, 
+Pale amazement, restless fear; 
+And, amid the thunder-cloud, 
+Shall the Judge of men appear. 
+
+4.
+But, though from His awful face, 
+Heaven shall fade, and earth shall fly, 
+Fear not, ye, His chosen race, 
+Your redemption draweth nigh.
+
 ```
 
 - |   -  |

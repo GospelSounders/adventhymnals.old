@@ -11,23 +11,53 @@ metadata:
 
 ```txt
 1.
-There is beauty all around, When there’s love at home;
-There is joy in every sound, When there’s love at home.
-Peace and plenty here abide, Smiling fair on every side;
-Time doth softly, sweetly glide, When there’s love at home.
+"There shall be showers of blessing;"
+This is the promise of love;
+There shall be seasons refreshing,
+Sent from the Savior above.
 
+Refrain:
+Showers of blessing,
+Showers of blessing we need;
+Mercy drops round us are falling,
+But for the showers we plead.
 
 2.
-Kindly heaven smiles above, When there’s love at home;
-All the earth is fill’d with love, When there’s love at home.
-Sweeter sings the brooklet by, Brighter beams the azure sky;
-O, there’s One who smiles on high When there’s love at home.
+"There shall be showers of blessing;"
+Precious reviving again;
+Over the hills and the valleys,
+Sound of abundance of rain.
+
+Refrain:
+Showers of blessing,
+Showers of blessing we need;
+Mercy drops round us are falling,
+But for the showers we plead.
 
 3.
-Jesus, make me wholly Thine, Then there’s love at home;
-May Thy sacrifice be mine, Then there’s love at home.
-Safely from all harm I’ll rest, With no sinful care distress’d,
-Thro’ Thy tender mercy blessed, When there’s love at home.
+"There shall be showers of blessing;"
+Send them upon us, O Lord;
+Grant to us now a refreshing;
+Come, and now honor Thy word.
+
+Refrain:
+Showers of blessing,
+Showers of blessing we need;
+Mercy drops round us are falling,
+But for the showers we plead.
+
+4.
+"There shall be showers of blessing;"
+O that today they might fall,
+Now as to God we're confessing,
+Now as on Jesus we call!
+
+Refrain:
+Showers of blessing,
+Showers of blessing we need;
+Mercy drops round us are falling,
+But for the showers we plead.
+
 ```
 
 - |   -  |

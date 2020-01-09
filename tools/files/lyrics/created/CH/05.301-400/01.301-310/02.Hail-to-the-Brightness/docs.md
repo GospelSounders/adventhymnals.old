@@ -11,29 +11,23 @@ metadata:
 
 ```txt
 1.
-In the blood from the cross,
-I have been washed from sin;
-But to be free from dross,
-Still I would enter in.
-
+Hail to the brightness of Zion's glad morning! 
+Joy to the lands that in darkness have lain! 
+Hushed be the accents of sorrow and mourning; 
+Zion, in triumph, begins her mild reign. 
 
 2.
-Day by day, hour by hour,
-Blessings are sent to me;
-But for more of His power,
-Ever my prayer shall be.
+Lo, in the desert rich flowers are springing; 
+Streams ever copious are gliding along; 
+Loud, from the mountaintops echoes are ringing; 
+Wastes rise in verdure, and mingle in song. 
 
 3.
-Near to Christ I would live,
-Following Him each day;
-What I ask He will give;
-So then with faith I pray.
-
-4.
-Now I have peace, sweet peace,
-While in this world of sin;
-But to pray I’ll not cease
-Till I am pure within.
+See, the dead risen from land and from ocean; 
+Praise to Jehovah, ascending on high; 
+Fallen the engines of war and commotion, 
+Shouts of salvation are rending the sky. 
+Reign, reign for aye.
 ```
 
 - |   -  |

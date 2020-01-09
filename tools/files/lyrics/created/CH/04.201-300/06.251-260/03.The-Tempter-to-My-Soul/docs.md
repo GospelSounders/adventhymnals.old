@@ -11,35 +11,29 @@ metadata:
 
 ```txt
 1.
-There’s no other name like Jesus,
-‘Tis the dearest name we know,
-‘Tis the angel’s joy in heaven,
-‘Tis the Christian’s joy below.
-
+The tempter to my soul hath said, 
+"There is no help in God for thee;" 
+Lord! lift thou up thy servant's head; 
+My glory, shield, and solace be. 
 
 2.
-There’s no other name like Jesus
-When the heart with grief is sad,
-There’s no other name like Jesus
-When the heart is free and glad.
+Thus to the Lord I raised my cry; 
+He heard me from his holy hill; 
+At his command the waves rolled by; 
+He beckoned, and the winds were still. 
 
 3.
-‘Tis the hope that I shall see Him
-When in glory He appears,
-‘Tis the hope to hear His welcome
-That my fainting spirit cheers.
+I laid me down and slept, I woke' 
+Thou, Lord, my spirit didst sustain; 
+Bright, from the east, the morning broke; 
+Thy comforts rose on me again. 
 
 4.
-If He wills that I should labor
-In His vineyard day by day,
-Then ’tis well if only Jesus
-Blesses all I do or say.
+I will not fear, though armed throngs 
+Compass my steps in all their wrath; 
+Salvation to the Lord belongs; 
+His presence guards His people's path.
 
-5.
-If He wills that death’s cold finger
-Touch my feeble, mortal clay,
-Then ’tis well if only Jesus
-Is my dying trust and stay.
 ```
 
 - |   -  |

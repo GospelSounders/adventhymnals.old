@@ -11,39 +11,29 @@ metadata:
 
 ```txt
 1.
-O Lord my God
-When I in awesome wonder
-Consider all the worlds Thy Hands have made
-I see the stars
-I hear the rolling thunder
-Thy power throughout the universe displayed
-
+The King of love my Shepherd is,
+Whose goodness faileth never;
+I nothing lack if I am His,
+And He is mine forever.
 
 2.
-When through the woods
-And forest glades I wander
-And hear the birds sing sweetly in the trees
-When I look down
-From lofty mountain grandeur
-And see the brook and feel the gentle breeze
+Where streams of living water flow
+My ransomed soul He leadeth,
+And, where the verdant pastures grow,
+With food celestial feedeth.
 
 3.
-And when I think
-That God His Son not sparing
-Sent Him to die I scarce can take it in
-That on the Cross
-My burden gladly bearing
-He bled and died to take away my sin.
+Perverse and foolish, oft I strayed,
+But yet in love He sought me,
+And on His shoulder gently laid,
+And home, rejoicing, brought me.
 
 4.
-When Christ shall come
-With shouts of acclamation
-And take me home
-What joy shall fill my heart
-Then I shall bow
-In humble adoration
-And then proclaim
-“My God, how great Thou art!”
+And so through all the length of days
+Thy goodness faileth never;
+Good Shepherd! I would sing Thy praise
+Within Thy house forever.
+
 ```
 
 - |   -  |

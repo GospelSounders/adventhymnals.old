@@ -11,29 +11,37 @@ metadata:
 
 ```txt
 1.
-O sing a new song to the Lord
-For marvels He has done;
-His right hand and His holy arm
-The victory have won.
+Angel voices ever singing 
+Round Thy throne of light; 
+Angel harps, forever ringing, 
+Rest not day nor night. 
+Thousands only live to bless Thee, 
+And confess Thee Lord of might. 
 
 2.
-With harp, and voice of psalms
-Unto Jehovah sing;
-Let trumpets and the echoing horn
-Acclaim the Lord our King!
+Thou who art beyond the farthest 
+Mortal eye can scan, 
+Can it be that Thou regardest 
+Songs of sinful man? 
+Can we feel that Thou art near us, 
+And wilt hear us? Yea, we can. 
 
 3.
-Let seas with all their creatures roar,
-The world and dwellers there,
-And let the rivers clap their hands,
-The hills their joy declare.
+Yea, we know Thy love rejoices 
+O'er each work of Thine; 
+Thou didst ears and hands and voices 
+For Thy praise combine; 
+Craftsman's art and music's measure 
+For Thy pleasure Didst design. 
 
 4.
-Before the Lord: because He comes,
-To judge the earth come He;
-He’ll judge the world
-with righteousness,
-His folk with equity.
+Here, great God, today we offer 
+Of Thine own to Thee; 
+And for Thine acceptance proffer, 
+All unworthily, 
+Hearts and minds and hands and voices, 
+In our choicest Melody.
+
 ```
 
 - |   -  |

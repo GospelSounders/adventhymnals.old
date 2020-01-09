@@ -11,22 +11,29 @@ metadata:
 
 ```txt
 1.
-Lo, how a rose e’re blooming
-From tenderstem hath sprung,
-Of Jesse’s lineage coming
-As men of old have sung.
-It came, a floweret bright,
-Amid the cold of winter
-When half spent was the night.
+Hail the day that sees Him rise, Alleluia!
+Glorious to His native skies; Alleluia!
+Christ, awhile to mortals giv'n, Alleluia!
+Enters now the highest heav'n! Alleluia!
 
 2.
-Isaiah ’twas foretold it,
-The Rose I have in mind,
-With Mary we beheld it,
-The virgin mother kind.
-To show God’s love aright
-She bore to them a Savior,
-When half spent was the night.
+There the glorious triumph waits; Alleluia!
+Lift your heads, eternal gates! Alleluia!
+Wide unfold the radiant scene; Alleluia!
+Take the King of glory in! Alleluia!
+
+3.
+See! He lifts His hands above; Alleluia!
+See! He shows the prints of love: Alleluia!
+Hark! His gracious lips bestow, Alleluia!
+Blessings on His Church below. Alleluia!
+
+4.
+Lord beyond our mortal sight, Alleluia!
+Raise our hearts to reach Thy height, Alleluia!
+There Thy face unclouded see, Alleluia!
+Find our heav'n of heav'ns in Thee. Alleluia!
+
 ```
 
 - |   -  |

@@ -11,34 +11,53 @@ metadata:
 
 ```txt
 1.
-When on life a darkness falls,
-When the mist flows chilling,
-Paths and sign posts lost in doubt,
-Loveless, unfulfilling,
-Reach us, Jesus, from Your cross,
-Though we feel forsaken;
-Keep us through the aching night
-Till new dawns awaken.
+I'm pressing on the upward way, 
+New heights I'm gaining every day; 
+Still praying as I onward bound, 
+'Lord, plant my feet on higher ground.' 
+
+Refrain:
+Lord, lift me up, and I shall stand 
+By faith on heaven's tableland; 
+A higher plane than I have found; 
+Lord, plant my feet on higher ground. 
 
 2.
-When the dreams and vows of youth
-Painfully accuse us,
-Stab our conscience, steal our worth,
-Christ will not refuse us:
-Peace the world cannot provide,
-Daily resurrection,
-Strong companion at our side
-For each new direction.
+My heart has no desire to stay 
+Where doubts arise and fears dismay; 
+Though some may dwell where these abound, 
+My prayer, my aim, is higher ground. 
+
+Refrain:
+Lord, lift me up, and I shall stand 
+By faith on heaven's tableland; 
+A higher plane than I have found; 
+Lord, plant my feet on higher ground. 
 
 3.
-Come and meet Him, Friend and Lord,
-Thro’ the gospel story:
-Open door to life and peace,
-Window into glory.
-All who seek Him, soon are found,
-Made His close relation:
-Christ our pathway, Christ our home,
-Christ our sure foundation.
+I want to live above the world, 
+Though Satan's darts at me are hurled; 
+For faith has caught the joyful sound, 
+The song of saints on higher ground. 
+
+Refrain:
+Lord, lift me up, and I shall stand 
+By faith on heaven's tableland; 
+A higher plane than I have found; 
+Lord, plant my feet on higher ground. 
+
+4.
+I want to scale the utmost height, 
+And catch a gleam of glory bright; 
+But still I'll pray till heaven I've found, 
+'Lord, lead me on to higher ground.'
+
+Refrain:
+Lord, lift me up, and I shall stand 
+By faith on heaven's tableland; 
+A higher plane than I have found; 
+Lord, plant my feet on higher ground. 
+
 ```
 
 - |   -  |

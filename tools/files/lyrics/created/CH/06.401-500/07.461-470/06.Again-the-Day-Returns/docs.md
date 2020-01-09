@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-Far away in the depths of my spirit tonight,
-Rolls a melody sweeter than psalm;
-In celestial like strains it unceasingly falls
-O’er my soul like an infinite calm.
-
+Again the day returns of holy rest, 
+Which, when He made the world, Jehovah blest; 
+When, like His own, He bade our labors cease, 
+And all be piety, and all be peace. 
 
 2.
-What a treasure I have in this wonderful peace,
-Buried deep in my inner most soul,
-So secure that no power can mine it away,
-While the years of eternity roll!
+Let us devote this consecrated day 
+To learn His will, and all we learn obey; 
+So shall He hear, when fervently we raise 
+Our supplications, and our songs of praise. 
 
 3.
-I believe when I rise to that city of peace,
-Where the Author of peace I shall see,
-That one strain of the song which the ransomed will sing,
-In that heavenly kingdom will be-
+Lord of all worlds, incline Thy gracious ear; 
+Thy children's voice in tender mercy hear; 
+Bear Thy blest promise, fixed as hills, in mind, 
+And shed renewing grace on lost mankind. 
 
 4.
-Weary soul, without gladness or comfort or rest,
-Passing down the rough pathway of time!
-Make the Savior your friend ere the shadows grow dark;
-O accept of this peace so sublime.
+Father in heaven, in whom our hopes confide, 
+Whose power defends us, and whose precepts guide, 
+Through life our surest guardian, and friend, 
+Glory supreme be Thine till time shall end.
 ```
 
 - |   -  |

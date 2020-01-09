@@ -11,28 +11,22 @@ metadata:
 
 ```txt
 1.
-Fruitful trees, the Spirit’s sowing,
-May we ripen and increase,
-Fruit to life eternal growing,
-Rich in love and joy and peace.
+My God, how endless is Thy love! 
+Thy gifts are every evening new; 
+And morning mercies from above. 
+Gently distill like early dew. 
 
 2.
-Laden branches freely bearing
-Gifts the Giver loves to bless;
-Here is fruit that grows by sharing,
-Patience, kindness, gentleness.
+Thou spreadest the curtains of the night, 
+Great Guardian of my sleeping hours; 
+Thy sovereign word restores the light, 
+And quickens all my drowsy powers. 
 
 3.
-Rooted deep in Christ, our Master,
-Christ, our pattern and our goal,
-Teach us, as the years fly faster,
-Goodness, faith, and self control.
-
-4.
-Fruitful trees, the Spirit’s tending,
-May we grow till harvests cease;
-Till we taste, in life unending,
-Heaven’s love and joy and peace.
+I yield myself to Thy command; 
+To Thee I consecrate my days; 
+Perpetual blessings from Thy hand 
+Demand perpetual songs of praise.
 ```
 
 - |   -  |

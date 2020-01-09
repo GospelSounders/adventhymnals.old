@@ -11,16 +11,44 @@ metadata:
 
 ```txt
 1.
-Eternal Love, we have no good to bring Thee,
-No single good of all our hands have wrought,
-No worthy music have we found to sing Thee,
-No jewelled word, no quick up soaring thought.
+Come, ye thankful people, come,
+Raise the song of harvest home;
+All is safely gathered in,
+Ere the winter storms begin.
+God our Maker doth provide
+For our wants to be supplied;
+Come to God's own temple, come;
+Raise the song of harvest home!
 
 2.
-And yet we come; and when our faith would falter
-Show us, O Love, the quiet place of prayer,
-The golden censer and the golden altar,
-And the great angel waiting for us there.
+We ourselves are God's own field,
+Fruit unto His praise to yield;
+Wheat and tares together sown,
+Unto joy or sorrow grown;
+First the blade and then the ear,
+Then the full corn shall appear;
+Grant, O harvest Lord, that we
+Wholesome grain and pure may be.
+
+3.
+For the Lord our God shall come,
+And shall take His harvest home;
+From His field shall purge away
+All that doth offend, that day;
+Give His angels charge at last
+In the fire the tares to cast;
+But the fruitful ears to store
+In His garner evermore.
+
+4.
+Then, thou church triumphant, come,
+Raise the song of harvest home;
+All are safely gathered in,
+Free from sorrow, free from sin,
+There, forever purified,
+In God's garner to abide;
+Come, ten thousand angels, come,
+Raise the glorious harvest home!
 ```
 
 - |   -  |

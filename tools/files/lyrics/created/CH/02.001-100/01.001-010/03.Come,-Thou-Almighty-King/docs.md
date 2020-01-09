@@ -11,37 +11,31 @@ metadata:
 
 ```txt
 1.
-God Himself is with us;
-Let us all adore Him,
-And with awe appear before Him.
-God is here within us;
-Soul, in silence fear Him,
-Humbly, fervently draw near Him.
-Now His own who have known God,
-In worship lowly,
-Yield their spirits wholly.
+Come, Thou almighty King, 
+Help us Thy name to sing, 
+Help us to praise, 
+Father all glorious, 
+O'er all victorious, 
+Come and reign over us, 
+Ancient of days. 
 
 2.
-Come, abide within me;
-Let my soul, like Mary,
-Be Thine earthly sanctuary.
-Come, indwelling Spirit,
-With transfigured splendor;
-Love and honor will I render.
-Where I go here below,
-Let me bow before Thee,
-Know Thee and adore Thee.
+Come, holy Comforter, 
+Thy sacred witness bear 
+In this glad hour: 
+Thou who almighty art, 
+Rule now in every heart, 
+And ne'er from us depart, 
+Spirit of power. 
 
 3.
-Gladly we surrender
-Earth’s deceitful treasures,
-Pride of life and sinful pleasures:
-Gladly, Lord, we offer
-Thine to be forever,
-Soul and life and each endeavor.
-Thou alone shall be known
-Lord of all our being,
-Life’s true way decreeing.
+Thou art the mighty One, 
+On earth Thy will be done 
+From shore to shore. 
+Thy sovereign majesty 
+May we in glory see, 
+And to eternity 
+Love and adore.
 ```
 
 - |   -  |

@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-“We would see Jesus;” for the shadows lengthen
-Across the little landscape of our life;
-We would see Jesus, our weak faith to strengthen
-For the last conflict, in this mortal strife.
+He sleeps in Jesus'peaceful rest' 
+No mortal strife invades his breast; 
+No pain, nor sin, nor woe, nor care, 
+Can reach the silent slumberer there. 
 
 2.
-“We would see Jesus,” Rock of our salvation,
-Where on our feet were set with sovereign grace;
-Not life, nor death, with all their agitation,
-Can thence remove us, gazing on His face.
+He lived his Saviour to adore, 
+And meekly all his sufferings bore: 
+He loved, and all resigned to God, 
+Nor murmured at His chastening rod. 
 
 3.
-“We would see Jesus;” other lights are paling,
-Which for long years we did rejoice to see;
-The blessings of this sinful world are failing;
-We would not mourn them, in exchange for Thee.
+"Does earth attract thee here?" they cried; 
+The dying Christian thus replied, 
+While pointing upward to the sky, 
+"My treasure is laid up on high." 
 
 4.
-“We would see Jesus;” this is all we’re needing-
-Strength, joy and willingness come with the sight;
-We would see Jesus, dying, risen, pleading,
-Soon to return and end this mortal night!
+He sleeps in Jesus'soon to rise, 
+When the last trump shall rend the skies; 
+Then burst the fetters of the tomb, 
+To wake in full, immortal bloom. 
+
+5.
+He sleeps in Jesus'cease thy grief; 
+Let this afford thee sweet relief, 
+That, freed from death's triumphant reign, 
+In heaven he will live again.
 ```
 
 - |   -  |

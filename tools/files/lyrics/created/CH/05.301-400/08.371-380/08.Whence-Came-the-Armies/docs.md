@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-“Go, preach My gospel,” saith the Lord;
-“Bid the whole world My grace receive;
-He shall be saved who trusts My word,
-And they condemned who disbelieve.
+Whence came the armies of the sky, 
+John saw in vision bright? 
+Whence came their crowns, their robes, their palms, 
+Too pure for mortal sight? 
 
 2.
-“I’ll make your great commission known,
-And ye shall prove My gospel true
-By all the works that I have done,
-By all the wonders ye shall do.
+Were these tried soldiers of the cross 
+Victorious in the fight? 
+Were these the trophies they had won, 
+Reserved in worlds of light? 
 
 3.
-“Teach all the nations My commands;
-I’m with you till the world shall end;
-All power is vested in My hands;
-I can destroy, and I defend.”
+Once they were mourners here below, 
+And poured out cries and tears; 
+They wrestled hard, as we do now, 
+With sins, and doubts, and fears. 
 
 4.
-He spake, and light shone round His head;
-On a bright cloud to heaven He rode;
-They to the farthest nations spread
-The grace of their ascended Lord.
+They saw the star of Bethlehem 
+Arise in splendor bright; 
+They followed long its guiding ray, 
+Till beamed a clearer light. 
+
+5.
+From desert waste, and cities full, 
+From dungeons dark, they've come, 
+And now they claim their mansion fair, 
+They've found their long-sought home.
 ```
 
 - |   -  |

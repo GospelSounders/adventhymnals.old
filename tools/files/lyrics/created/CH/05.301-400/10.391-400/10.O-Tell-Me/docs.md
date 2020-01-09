@@ -11,39 +11,34 @@ metadata:
 
 ```txt
 1.
-I come with joy to meet my Lord,
-Forgiven, loved and free,
-In awe and wonder to recall
-His life laid down for me,
-His life laid down for me.
+O, tell me, Thou life and delight of my soul, 
+Where the flock of Thy pasture are feeding. 
+I seek Thy protection, I need Thy control; 
+I would go where my Shepherd is leading. 
 
 2.
-I come with Christians far and near
-To find, as all are fed,
-Our true community of love
-In Christ’s communion bread,
-In Christ’s communion bread.
+O, tell me the place where the flock are at rest, 
+Where the noontide will find them reposing; 
+The tempest now rages, my soul is distressed, 
+And the pathway of peace I am losing. 
 
 3.
-As Christ breaks bread for us to share
-Each proud division ends.
-That love that made us makes us one,
-And strangers now are friends,
-And strangers now are friends.
+And why should I stray with the flocks of Thy foes, 
+In the desert where now they are roving; 
+Where hunger and thirst, where contentions and woes, 
+Where fierce conflicts their ruin are proving? 
 
 4.
-And thus with joy we meet our Lord.
-His presence always near,
-Is in such friendship better known:
-We see and praise Him here,
-We see and praise Him here.
+Ah, when shall my woes and my wandering cease, 
+And the follies that fill me with weeping? 
+O Shepherd of Israel, restore me that peace 
+Thou dost give to the flock Thou art keeping! 
 
 5.
-Together met, together bound,
-We’ll go our diff’rent ways,
-And as His people in the world,
-We’ll live and speak His praise,
-We’ll live and speak His praise.
+A voice from the Shepherd now bids me return 
+By the way where the footprints are lying; 
+No longer to wander, no longer to mourn; 
+And homeward my spirit is flying.
 ```
 
 - |   -  |

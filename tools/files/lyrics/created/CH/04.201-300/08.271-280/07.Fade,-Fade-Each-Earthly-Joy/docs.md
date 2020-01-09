@@ -11,36 +11,32 @@ metadata:
 
 ```txt
 1.
-For Your holy book we thank You,
-And for all who served You well,
-Writing, guarding, and translating,
-That its pages might forth tell
-Your strong love and tender care
-For Your people everywhere.
+Fade, fade each earthly joy, Jesus is mine! 
+Break every tender tie, Jesus is mine! 
+Dark is the wilderness, 
+Earth has no resting place, 
+Jesus alone can bless, Jesus is mine! 
 
 2.
-For Your holy book we thank You,
-And for those who work today,
-That the people of all nations,
-Reading it and following may
-Know Your love and tender care
-For Your people everywhere.
+Tempt not my soul away, Jesus is mine! 
+Here would I ever stay, Jesus is mine! 
+Perishing things of clay, 
+Born but for one brief day, 
+Pass from my heart away, Jesus is mine! 
 
 3.
-For Your holy book we thank You,
-May its message be our guide,
-May we understand the wisdom
-Of the laws it will provide:
-And Your love and tender care
-For Your people everywhere.
+Farewell, ye dreams of night, Jesus is mine! 
+Lost in this dawning light, Jesus is mine! 
+All that my soul has tried, 
+Left but a dismal void, 
+Jesus has satisfied, Jesus is mine! 
 
 4.
-For Your holy book we thank You,
-May its message in our hearts
-Lead us now to see in Jesus
-All the grace Your word imparts:
-All Your love and tender care
-For Your people everywhere.
+Farewell, mortality, Jesus is mine! 
+Welcome eternity, Jesus is mine! 
+Welcome, O loved and blest, 
+Welcome, sweet scenes of rest, 
+Welsome my Saviour's breast, Jesus is mine!
 ```
 
 - |   -  |

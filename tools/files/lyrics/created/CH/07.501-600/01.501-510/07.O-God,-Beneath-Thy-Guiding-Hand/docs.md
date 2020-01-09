@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-Dying with Jesus, by death reckoned mine,
-Living with Jesus, a new life divine,
-Looking to Jesus till glory doth shine,
-Moment by moment, O Lord, I am Thine.
-
+O God, beneath Thy guiding hand 
+Our exiled fathers crossed the sea; 
+And when they trod the wintry strand, 
+With prayer and psalm they worshiped Thee. 
 
 2.
-Never a trial that He is not there,
-Never a burden that He doth not bear,
-Never a sorrow that He doth not share,
-Moment by moment I’m under His care.
+Thou heardest, well pleased, the song, the prayer; 
+Thy blessing came; and still its power 
+Shall onward, through all ages, bear 
+The memory of that holy hour. 
 
 3.
-Never a heart-ache, and never a groan,
-Never a teardrop and never a moan;
-Never a danger but there on teh throne,
-Moment by moment He thinks of His own.
+Laws, freedom, truth, and faith in God 
+Came with those exiles o'er the waves; 
+And, where their pilgrim feet have trod, 
+The God they trusted guards their graves. 
 
 4.
-Never a weakness that He doth not feel,
-Never a sickness that He cannot heal;
-Moment by moment, in woe or in weal,
-Jesus, my Savior, abides with me still.
+And here Thy Name, 0 God of love, 
+Their children's children shall adore, 
+Till these eternal hills remove, 
+And spring adorns the earth no more.
 ```
 
 - |   -  |

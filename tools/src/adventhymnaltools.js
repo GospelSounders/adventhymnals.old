@@ -66,11 +66,6 @@ class adventhymnaltools {
         }
         currentNote = `${currentNote}${scale}`
         return currentNote;
-        // }
-        /*
-         * notesbetween can be positive or negative
-         */
-
     }
 
     addRow = (rows, time) => {

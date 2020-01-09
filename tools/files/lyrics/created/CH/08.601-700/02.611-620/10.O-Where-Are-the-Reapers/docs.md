@@ -11,44 +11,27 @@ metadata:
 
 ```txt
 1.
-On Jordan’s stormy banks I stand,
-And cast a wishful eye
-To Canaan’s fair and happy land,
-Where my possessions lie.
-I am bound for the promised land,
-I am bound for the promised land;
-O who will come and go with me?
-I am bound for the promised land.
+O where are the reapers that garner in
+The sheaves of the good from the fields of sin?
+With sickles of truth must the work be done,
+And no one may rest till the harvest home.
+CHORUS:
+Where are the reapers? O who will come
+And share in the glory of the harvest home?
+O who will help us to garner in
+The sheaves of good from the fields of sin?
 
 2.
-O’er all those wide extended plain
-Shines one eternal day;
-There, Christ, the Sun, for ever reigns,
-And scatters night away.
-I am bound for the promised land,
-I am bound for the promised land;
-O who will come and go with me?
-I am bound for the promised land.
+The fields all are ripening, and far and wide
+The world now is waiting the harvest tide:
+But reapers are few, and the work is great,
+And much will be lost should the harvest wait.
 
 3.
-When shall I reach that happy place,
-And be forever blest?
-When shall I see my Father’s face,
-And in His kingdom rest?
-I am bound for the promised land,
-I am bound for the promised land;
-O who will come and go with me?
-I am bound for the promised land.
-
-4.
-Filled with delight, my raptured soul
-Would here no longer stay;
-Though Jordan’s waves around me roll,
-Fearless I’d launch away.
-I am bound for the promised land,
-I am bound for the promised land;
-O who will come and go with me?
-I am bound for the promised land.
+So come with your sickles, ye sons of men,
+And gather together the golden grain;
+Toil on till the Lord of the harvest come,
+Then share ye His joy in the harvest home.
 ```
 
 - |   -  |

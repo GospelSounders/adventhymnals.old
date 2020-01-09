@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-In times like these you need a Savior,
-In times like these you need and anchor;
-Be very sure, be very sure Your anchor holds and grips the Solid rock!
-This Rock is Jesus, Yes, He’s the One;
-This Rock is Jesus, The only One!
-Be very sure, be very sure Your anchor holds and grips the Solid rock!
+Look upon Jesus, sinless is He; 
+Father, impute His life unto me. 
+My life of scarlet, my sin and woe, 
+Cover with His life, whiter than snow. 
+
+Refrain:
+Cover with His life, whiter than snow; 
+Fullness of His life then shall I know; 
+My life of scarlet, my sin and woe, 
+Cover with His life, whiter than snow. 
 
 2.
-In times like these you need the Bible,
-In times like these O be not idle;
-Be very sure, be very sure Your anchor holds and grips the Solid rock!
-This Rock is Jesus, Yes, He’s the One;
-This Rock is Jesus, The only One!
-Be very sure, be very sure Your anchor holds and grips the Solid rock!
+Deep are the wounds transgression has made; 
+Red are the stains; my soul is afraid. 
+O to be covered, Jesus, with Thee, 
+Safe from the law that now judgeth me! 
+
+Refrain:
+Cover with His life, whiter than snow; 
+Fullness of His life then shall I know; 
+My life of scarlet, my sin and woe, 
+Cover with His life, whiter than snow. 
 
 3.
-In times like these I have a Savior,
-In times like these I have an anchor
-I’m very sure, be very sure Your anchor holds and grips the Solid rock!
-This Rock is Jesus, Yes, He’s the One;
-This Rock is Jesus, The only One!
-I’m very sure, be very sure Your anchor holds and grips the Solid rock!
+Longing the joy of pardon to know; 
+Jesus holds out a robe white as snow; 
+'Lord, I accept it! leaving my own, 
+Gladly I wear Thy pure life alone.' 
+
+Refrain:
+Cover with His life, whiter than snow; 
+Fullness of His life then shall I know; 
+My life of scarlet, my sin and woe, 
+Cover with His life, whiter than snow. 
+
+4.
+Reconciled by His death for my sin, 
+Justified by His life pure and clean, 
+Sanctified by obeying His Word, 
+Glorified when returneth my Lord.
+
+Refrain:
+Cover with His life, whiter than snow; 
+Fullness of His life then shall I know; 
+My life of scarlet, my sin and woe, 
+Cover with His life, whiter than snow. 
+
 ```
 
 - |   -  |

@@ -10,22 +10,7 @@ metadata:
 ## 483. ALL THINGS ARE THINE
 
 ```txt
-1.
-I need thee every hour, most gracious Lord;
-no tender voice like thine can peace afford.
 
-
-2.
-I need thee every hour; stay thou nearby;
-temptations lose their power when thou art nigh.
-
-3.
-I need thee every hour, in joy or pain;
-come quickly and abide, or life is vain.
-
-4.
-I need thee every hour; teach me thy will;
-and thy rich promises in me fulfill.
 ```
 
 - |   -  |
@@ -40,9 +25,9 @@ Composer| George Kingsley |
 Hymnal|  - |
 Tune| WARE |
 Metrical pattern | |
-# Stanzas | 4 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Special Occasions: Dedication |
 Texts |  |
 Print Texts | 

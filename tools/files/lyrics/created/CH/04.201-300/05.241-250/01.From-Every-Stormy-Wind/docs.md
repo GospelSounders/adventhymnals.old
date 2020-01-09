@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-Jesus, the very thought of thee
-with sweetness fills the breast;
-but sweeter far thy face to see,
-and in thy presence rest.
+From every stormy wind that blows, 
+From every swelling tide of woes, 
+There is a calm, a sure retreat; 
+'Tis found beneath the mercy seat. 
 
 2.
-No voice can sing, no heart can frame,
-Nor can the memory find
-A sweeter sound than Jesus’ name,
-The Savior of mankind.
+There is a place where Jesus sheds 
+The oil of gladness on our heads, 
+A place than all besides more sweet; 
+It is the blood-bought mercy seat. 
 
 3.
-O hope of every contrite heart!
-O joy of all the meek,
-to those who fall, how kind thou art!
-How good to those who seek!
+There is a scene where spirits blend, 
+Where friend holds fellowship with friend; 
+Though sundered far, by faith they meet 
+Around one common mercy seat. 
 
 4.
-But what to those who find? Ah, this
-nor tongue nor pen can show;
-the love of Jesus, what it is,
-none but his loved ones know.
+There, there, on angel's wings we soar, 
+And earthly cares molest no more, 
+And heaven comes down our souls to greet, 
+And glory crowns the mercy seat. 
 
 5.
-Jesus, our only joy be thou,
-as thou our prize wilt be;
-Jesus, be thou our glory now,
-and through eternity.
+Ah! whither should we flee for aid, 
+When tempted, desolate dismayed? 
+Or how the hosts of sin defeat, 
+Had suffering saints no mercy seat?
+
 ```
 
 - |   -  |

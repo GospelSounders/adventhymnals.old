@@ -11,35 +11,33 @@ metadata:
 
 ```txt
 1.
-Watch, ye saints, with eyelids waking;
-Lo! The powers of heaven are shaking;
-Keep your lamps all trimmed an burning,
-Ready for your Lord’s returning.
-
+Oh now I see the crimson wave,
+The fountain deep and wide;
+Jesus, my Lord, mighty to save,
+Points to His wounded side.
+CHORUS:
+The cleansing stream I see, I see,
+I plunge, and O, it cleanseth me!
+O praise the Lord! it cleanseth me,
+It cleanseth me, yes, cleanseth me.
 
 2.
-Lo! the promise of your Savior,
-Pardoned sin and purchased favor,
-Blood-washed robes and crowns of glory;
-Haste to tell redemption’s story.
+I see the new creation rise,
+I hear the speaking blood;
+It speaks polluted nature dies,
+Sinks 'neath the cleansing flood.
 
 3.
-Kingdoms at their base are crumbling,
-Hark! His chariot wheels are rumbling;
-Tell, O tell of grace abounding,
-While the seventh trump is sounding.
+I rise to walk in heaven's own light,
+Above the world and sin;
+With heart made pure and garments white,
+And Christ enthroned within.
 
 4.
-Nations wane, though proud and stately;
-Christ His kingdom hasteneth greatly;
-Earth her latest pangs is summing;
-Shout, ye saints, your Lord is coming.
-
-5.
-Sinners, come, while Christ is pleading;
-Now for you He’s interceding;
-Haste, ere grace and time diminished
-Shall proclaim the mystery finished.
+Amazing grace! 'tis heaven below
+To feel the blood applied,
+And Jesus, only Jesus, know,
+My Jesus crucified.
 ```
 
 - |   -  |

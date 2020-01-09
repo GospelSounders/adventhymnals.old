@@ -10,23 +10,7 @@ metadata:
 ## 477. WE GIVE THEE BUT THINE OWN
 
 ```txt
-1.
-Come, ye disconsolate, where’er ye languish.
-come to the mercy seat, fervently kneel.
-Here bring your wounded hearts, here tell your anguish;
-earth has no sorrow that heaven cannot heal.
 
-2.
-Joy of the desolate, light of the straying,
-hope of the penitent, fadeless and pure!
-Here speaks the Comforter, tenderly saying,
-“Earth has no sorrow that heaven cannot cure.”
-
-3.
-Here see the bread of life; waters flowing
-forth from the throne of God, pure from above.
-Come to the feast of love; come, ever knowing
-earth has no sorrow but heaven can remove.
 ```
 
 - |   -  |
@@ -41,9 +25,9 @@ Composer|  |
 Hymnal|  - |
 Tune| SCHUMANN |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Church and Doctrines: Tithes and Offerings |
 Texts |  |
 Print Texts | 

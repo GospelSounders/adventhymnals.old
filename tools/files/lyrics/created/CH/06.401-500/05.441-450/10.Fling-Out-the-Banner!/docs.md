@@ -11,22 +11,28 @@ metadata:
 
 ```txt
 1.
-Beautiful Zion, built above,
-Beautiful city that I love,
-Beautiful gates of pearly white,
-Beautiful temple, God its light.
+Fling out the banner! let it float 
+Skyward and seaward, high and wide; 
+Our glory only in the cross; 
+Our only hope, the Crucified. 
 
 2.
-Beautiful trees forever there,
-Beautiful fruit they always bear,
-Beautiful rivers gliding by,
-Beautiful fountains never dry.
+Fling out the banner! angels bend 
+In anxious silence o'er the sign, 
+And vainly seek to comprehend 
+The wonder of the love divine. 
 
 3.
-Beautiful crowns on every brow,
-Beautiful palms the conquerors show,
-Beautiful robes the ransomed wear,
-Beautiful all who enter there.
+Fling out the banner! sin-sick souls, 
+That sink and perish in the strife, 
+Shall touch in faith its radiant hem, 
+And spring immortal into life. 
+
+4.
+Fling out the banner! wide and high, 
+Seaward and skyward, let it shine; 
+Nor skill, nor might, nor merit ours; 
+We conquer only in that sign.
 ```
 
 - |   -  |

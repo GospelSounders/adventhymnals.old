@@ -11,23 +11,28 @@ metadata:
 
 ```txt
 1.
-Here in Christ we gather, love of Christ our calling.
-Christ, our love, is with us, gladness be His greeting.
-Let us fear Him, yes, and love Him, God eternal.
-Loving Him, let each love Christ in all his brethren.
-
+Faith of our fathers, living still,
+In spite of dungeon, fire and sword;
+O how our hearts beat high with joy
+Whenever we hear that glorious Word!
+Faith of our fathers, holy faith!
+We will be true to Thee till death.
 
 2.
-When we Christians gather, members of one body,
-Let there be in us no discord but one spirit.
-Banished now be anger, strife, and every quarrel.
-Christ, our God, be always present here among us.
+Our fathers, chained in prisons dark,
+Were still in heart and conscience free:
+How sweet would be their children's fate.
+If they, like them, could die for Thee!
+Faith of our fathers, holy faith!
+We will be true to Thee till death.
 
 3.
-Grant us love’s fulfillment, joy with all the blessed,
-When we see Your face, O Savior, in its glory.
-Shine on us, O purest Light of all creation,
-Be our bliss while endless ages sing Your praises.
+Faith of our fathers, we will love
+Both friend and foe in all our strife;
+And preach Thee, too, as love knows how
+By kindly words and virtuous life.
+Faith of our fathers, holy faith!
+We will be true to Thee till death.
 ```
 
 - |   -  |

@@ -11,32 +11,35 @@ metadata:
 
 ```txt
 1.
-That glorious day is coming,
-The hour is hastening on;
-Its radiant light is nearing,
-Far brighter than the sun;
-In yonder clouds of heaven,
-The Saviour will appear,
-And gather all His chosen,
-To meet Him in the air.
-The saints, then all victorious
-Will go to meet their Lord;
-An earth both bright and glorious,
-Will then be their reward;
-And God Himself there reigning,
-Will wipe all tears away;
-Nor clouds nor night remaining,
-But one eternal day.
+Come, Holy Spirit, heavenly Dove, 
+With all thy quickening powers; 
+Kindle a flame of sacred love 
+In these cold hearts of ours. 
 
 2.
-O Christian, keep from sleeping,
-And let your love abound;
-Be watchful, prayerful, faithful,
-The trumpet soon will sound!
-O sinner, hear the warning!
-To Jesus quickly fly!
-Then you, in that blest morning,
-May meet Him in the sky!
+O raise our thoughts from things below, 
+From vanities and toys! 
+Then shall we with fresh courage go 
+To reach eternal joys. 
+
+3.
+Awake our souls to joyful songs; 
+Let pure devotion rise; 
+Till praise employs our thankful tongues, 
+And doubt forever dies. 
+
+4.
+Father, we would no longer live 
+At this poor, dying rate; 
+To thee our tankful love we give, 
+For thine to us is great. 
+
+5.
+Come, Holy Spirit, heavenly Dove, 
+With all thy quickening powers; 
+Come, shed abroad the Saviour's love 
+And that shall kindle ours.
+
 ```
 
 - |   -  |

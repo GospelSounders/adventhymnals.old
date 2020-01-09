@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-All to Jesus I surrender;
-all to him I freely give;
-I will ever love and trust him,
-in his presence daily live.
-
+Jerusalem, my happy home,
+O how I long for thee!
+When will my sorrows have an end,
+The joys when shall I see?
 
 2.
-All to Jesus I surrender;
-humbly at his feet I bow,
-worldly pleasures all forsaken;
-take me, Jesus, take me now.
+The walls are all of precious stone,
+Most glorious to behold;
+Thy gates are richly set with pearl,
+Thy streets are paved with gold.
 
 3.
-All to Jesus I surrender;
-make me, Savior, wholly thine;
-fill me with thy love and power;
-truly know that thou art mine.
+Thy garden and thy pleasant walks
+My study long have been;
+Such dazzling views by human sight
+Have never yet been seen.
 
 4.
-All to Jesus I surrender;
-now I feel the sacred flame.
-O the joy of full salvation!
-Glory, glory, to his name!
+Lord, help us by Thy mighty grace,
+To keep in view the prize,
+Till Thou dost come to take us home
+To that blessed paradise.
 ```
 
 - |   -  |

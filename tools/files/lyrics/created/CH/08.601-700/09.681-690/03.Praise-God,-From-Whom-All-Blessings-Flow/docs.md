@@ -10,23 +10,7 @@ metadata:
 ## 683. PRAISE GOD, FROM WHOM ALL BLESSINGS FLOW
 
 ```txt
-1.
-Jesus, stand among us
-In Thy risen power;
-Let this time of worship
-Be a hallowed hour.
 
-2.
-Breathe the Holy Spirit
-Into every heart;
-Bid the fears and sorrows
-From each soul depart.
-
-3.
-Thus with quickened footsteps
-We pursue our way,
-Watching for the dawning
-Of eternal day.
 ```
 
 - |   -  |
@@ -41,9 +25,9 @@ Composer| Louis Bourgeois |
 Hymnal|  - |
 Tune| OLD HUNDREDTH |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Choir and Special |
 Texts |  |
 Print Texts | 

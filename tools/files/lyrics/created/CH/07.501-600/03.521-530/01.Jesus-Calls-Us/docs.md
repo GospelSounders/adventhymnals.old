@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Depth of mercy!–can there be
-Mercy still reserved for me?
-Can my God His wrath forbear?
-Me, the chief of sinners, spare?
+Jesus calls us o'er the tumult
+Of our life's wild, restless sea;
+Day by day His sweet voice soundeth,
+Saying, Christian, follow me!
 
 2.
-I have long withstood His grace,
-Long provoked Him to His face,
-Would not hearken to His calls,
-Grieved Him by a thousand falls.
+Jesus calls us from the worship
+Of the vain world's golden store,
+From each idol that would keep us,
+Saying, Christian, love me more!
 
 3.
-Now incline me to repent;
-Let me now my sins lament;
-Now my foul revolt deplore,
-Weep, believe, and sin no more.
+In our joys and in our sorrows,
+Days of toil and hours of ease,
+Still He calls, in cares and pleasures,
+Christian, love me more than these!
 
 4.
-There for me the Savior stands,
-Shows His wounds and spreads His hands;
-God is love! I know, I feel;
-Jesus weeps, and loves me still.
+Jesus calls us! By Thy mercies,
+Savior, may we hear Thy call,
+Give our hearts to Thine obedience,
+Serve and love Thee best of all.
 ```
 
 - |   -  |

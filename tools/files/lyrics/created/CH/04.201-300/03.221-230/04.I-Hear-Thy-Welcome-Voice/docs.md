@@ -11,46 +11,34 @@ metadata:
 
 ```txt
 1.
-Seek ye first the kingdom,
-‘Tis your Father’s will.
-So the voice of Jesus bids us follow still.
-Saviour, we would hear Thee,
-Follow, find, and see;
-And in life’s adventure Thy disciples be.
+I hear Thy welcome voice,
+That calls me, Lord, to Thee;
+For cleansing in Thy precious blood,
+That flowed on Calvary.
+CHORUS:
+I am coming, Lord!
+Coming now to Thee!
+Wash me, cleanse me, in the blood
+That flowed on Calvary.
 
 2.
-As for hidden treasure,
-Or for matchless pearl,
-When at last discovered,
-some will sell their all;
-So, when breaks the vision of that
-kingdom fair,
-Ours shall be its riches And its beauty rare.
+Though coming weak and vile,
+Thou dost my strength assure;
+Thou dost my vileness fully cleanse,
+Till spotless all, and pure.
 
 3.
-As the silent leaven works its secret way,
-Or as grows the seed grain
-through the night and day;
-Lord, so be the increase, peaceable but sure,
-Of Thy word within us,
-And Thy kingdom’s power.
+'Tis Jesus calls me on
+To perfect faith and love,
+To perfect hope, and peace, and trust,
+For earth and heaven above.
 
 4.
-As the tender seedling grows up
-tall and strong,
-And the birds of heaven to its
-branches throng; So shall all God’s children,
-from the east and west,
-Gather to His kingdom, In its shadow rest.
+All hail, atoning blood!
+All hail, redeeming grace!
+All hail! the gift of Christ, our Lord,
+Our Strength and Righteousness.
 
-5.
-Humblest shall be greatest,
-poor in spirit reign;
-Home shall come the childlike,
-born through Thee again;
-Eager hearts arrive there on the
-pilgrim’s road,
-Hail! The kingdom glorious of the living God!
 ```
 
 - |   -  |

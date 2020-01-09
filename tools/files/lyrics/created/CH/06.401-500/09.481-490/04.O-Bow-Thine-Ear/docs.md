@@ -11,22 +11,28 @@ metadata:
 
 ```txt
 1.
-I need Thee precious Jesus, for I am very poor;
-A stranger and a pilgrim, I have no earthly store.
-I need the love of Jesus to cheer me on my way,
-To guide my doubting foot steps, to be my strength and stay.
+O bow Thine ear, Eternal One! 
+On Thee each heart adoring calls; 
+To Thee the followers of Thy Son 
+Have raised, and now devote, these walls. 
 
 2.
-I need the heart of Jesus to feel each anxious care,
-To tell my every trial, and all my sorrows share.
-I need the Holy Spirit to teach me what I am,
-To show me more of Jesus, to point me to the Lamb.
+Here let Thy holy days be kept; 
+And be this place to worship given, 
+Like that bright spot where Jacob slept, 
+The house of God, the gate of heaven. 
 
 3.
-I need Thee precious Jesus, I hope to see Thee soon,
-Encircled with the rainbow, and seated on Thy throne.
-There with Thy blood-bought children, my joy shall ever be
-To sing Thy ceaseless praises, to gaze, my Lord, on Thee.
+Here may Thine honor dwell; and here 
+As incense, let Thy children's prayer, 
+From contrite hearts and lips sincere, 
+Rise on the still and holy air. 
+
+4.
+Here be Thy praise devoutly sung, 
+Here let Thy truth beam forth to save 
+As when of old Thy Spirit hung 
+On wings of light o'er Jordan's wave.
 ```
 
 - |   -  |

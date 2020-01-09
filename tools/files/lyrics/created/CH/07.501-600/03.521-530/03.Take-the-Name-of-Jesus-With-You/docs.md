@@ -11,29 +11,33 @@ metadata:
 
 ```txt
 1.
-My faith has found a resting place,
-Not in a manmade creed;
-I trust the ever living One,
-That He for me shall plead.
-
+Take the Name of Jesus with you,
+Child of sorrow and of woe,
+It will joy and comfort give you;
+Take it then, where'er you go.
+CHORUS:
+Precious Name, O how sweet!
+Hope of earth and joy of Heav'n.
+Precious Name, O how sweet!
+Hope of earth and joy of Heav'n.
 
 2.
-Enough for me that Jesus saves,
-This ends my fear and doubt;
-A sinful soul, I come to Him,
-He will not cast me out.
+Take the Name of Jesus ever,
+As a shield from every snare;
+If temptations round you gather,
+Breathe that holy Name in prayer.
 
 3.
-My soul is resting on the Word,
-The living Word of God,
-Salvation in my Savior’s name,
-Salvation through His blood.
+O the precious Name of Jesus!
+How it thrills our souls with joy,
+When His loving arms receive us,
+And His songs our tongues employ!
 
 4.
-My great Physician heals the sick,
-The lost He came to save;
-For me His precious blood He shed,
-For me His life He gave.
+At the Name of Jesus bowing,
+Falling prostrate at His feet,
+King of kings in heav'n we'll crown Him,
+When our journey is complete.
 ```
 
 - |   -  |

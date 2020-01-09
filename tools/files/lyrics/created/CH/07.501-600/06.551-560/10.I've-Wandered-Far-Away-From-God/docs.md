@@ -11,25 +11,39 @@ metadata:
 
 ```txt
 1.
-Let all things now living a song of thanksgiving
-To God the Creator triumphantly raise,
-Who fashioned and made us, protected and stayed us,
-Who guideth us on to the end of our days.
-His banners are o’er us,
-His light goes before us,
-A pillar of fire shining forth in the night,
-‘Til shadows have vanished and darkness is banished,
-as forward we travel from light into light.
+I've wandered far away from God, 
+Now I'm coming home; 
+The paths of sin too long I've trod; 
+Lord, I'm coming home. 
+REFRAIN:
+Coming home, coming home, 
+Nevermore to roam, 
+Open wide Thine arms of love, 
+Lord, I'm coming home. 
 
 2.
-His law He enforces: the stars in their courses,
-The sun in His orbit, obediently shine;
-The hills and the mountains, the rivers and fountains,
-The deeps of the ocean proclaim Him divine,
-We too should be voicing our love and rejoicing,
-With glad adoration a song let us raise,
-‘Til all things now living unite in thanksgiving
-To God in the highest, hosanna and praise.
+I've wasted many precious years, 
+Now I'm coming home; 
+I now repent with bitter tears; 
+Lord, I'm coming home. 
+
+3.
+I'm tired of sin and straying, Lord, 
+Now I'm coming home; 
+I'll trust Thy love, believe Thy Word; 
+Lord, I'm coming home. 
+
+4.
+My only hope, my only plea, 
+Now I'm coming home; 
+That Jesus died, and died for me; 
+Lord, I'm coming home. 
+
+5.
+I need His cleansing blood I know, 
+Now I'm coming home; 
+O wash me whiter than the snow; 
+Lord, I'm coming home.
 ```
 
 - |   -  |

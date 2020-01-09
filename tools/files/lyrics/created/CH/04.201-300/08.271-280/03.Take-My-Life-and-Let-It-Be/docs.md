@@ -11,28 +11,39 @@ metadata:
 
 ```txt
 1.
-Lord, I have made Thy word my choice,
-My lasting heritage;
-There shall my noblest powers rejoice,
-My warmest thoughts engage.
+Take my life, and let it be
+Consecrated, Lord, to Thee;
+Take my hands, and let them move
+At the impulse of Thy love;
+At the impulse of Thy love.
 
 2.
-I’ll read the histories of Thy love,
-And keep Thy laws in sight;
-While through Thy promises I rove,
-With ever fresh delight.
+Take my feet, and let them be
+Swift and beautiful for Thee.
+Take my voice, and let me sing
+Always, only, for my King;
+Always, only, for my King.
 
 3.
-In this broad land of wealth unknown,
-Where springs of life arise,
-Seeds of immortal bliss are sown,
-And hidden glory lies.
+Take my lips, and let them be
+Filled with messages from Thee.
+Take my silver and my gold:
+Not a mite would I withhold;
+Not a mite would I withhold.
 
 4.
-The best relief that mourners have,
-It makes our sorrows blest;
-Our fairest hope beyond the grave,
-And our eternal rest.
+Take my will, and make it Thine,
+It shall be no longer mine;
+Take my heart, it is Thine own,
+It shall be Thy royal throne.
+It shall be Thy royal throne.
+
+5.
+Take my love, my Lord, I pour
+At Thy feet its treasure store;
+Take myself, and I will be,
+Ever, only, all for Thee.
+Ever, only, all for Thee.
 ```
 
 - |   -  |

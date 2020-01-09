@@ -11,28 +11,22 @@ metadata:
 
 ```txt
 1.
-Dear Lord, we come at set of sun,
-And at Your feet we kneel
-To worship You, Creator, King,
-This day, Your sign and seal.
+Unshaken as the sacred hills, 
+And fixed as mountains stand, 
+Firm as a rock the soul shall rest 
+That trusts th' Almighty hand. 
 
 2.
-Our earthly tasks we lay aside,
-According to Your Word,
-To enter now Your holy rest,
-The Sabbath of the Lord.
+Not walls nor hills could guard so well 
+Fair Salem's happy ground 
+As those eternal arms of love 
+That every saint surround. 
 
 3.
-Sweet Sabbath rest, your sacred hours
-Are as a golden chain
-That reaches back to Eden’s gate
-And points us home again.
-
-4.
-And when this earth shall be renewed,
-And sin and death destroyed,
-Shall all redeemed each Sabbath day
-Still meet to praise their God.
+Do good, O Lord, do good to those 
+Who cleave to Thee in heart, 
+Who on Thy truth alone repose, 
+Nor from Thy law depart.
 ```
 
 - |   -  |

@@ -11,29 +11,29 @@ metadata:
 
 ```txt
 1.
-Abide with me, ’tis eventide!
-The day is past and gone;
-The shadows of the evening fall;
-The night is coming on!
-Within my heart a welcome guest,
-Within my home abide;
-
+Sweet is the work, my God, my King, 
+To praise Thy Name, give thanks and sing; 
+To show Thy love by morning light, 
+And talk of all Thy truth at night. 
 
 2.
-Abide with me, ’tis eventide!
-Thy walk today with me
-Has made my heart within me burn,
-As I communed with Thee.
-Thy earnest words have filled my soul
-And kept me near Thy side;
+Sweet is the day of sacred rest; 
+No mortal cares shall seize my breast; 
+O may my heart in tune be found, 
+Like David's harp of solemn sound! 
 
 3.
-Abide with me, ’tis eventide!
-And lone will be the night,
-If I cannot commune with Thee,
-Nor find in Thee my light.
-The darkness of the world, I fear,
-Would in my home abide;
+My heart shall triumph in my Lord, 
+And bless His works, and bless His Word. 
+Thy works of grace, how bright they shine! 
+How deep Thy counsels, how divine! 
+
+4.
+Then shall I see, and hear, and know 
+All I desired and wished below; 
+And every power find sweet employ 
+In that eternal world of joy.
+
 ```
 
 - |   -  |

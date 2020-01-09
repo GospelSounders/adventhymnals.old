@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-Though I speak with tongues of men and angels,
-Though I have the prophet’s gift,
-Though I hold the keys to hidden knowledge,
-Though my faith can mountains shift;
-Without love I am no better,
-Without love it’s all for naught;
-Lord, You spent Your life in loving others:
-What this means I would be taught.
+O God, our help in ages past,
+our hope for years to come,
+our shelter from the stormy blast,
+and our eternal home!
 
 2.
-Love is patient, knows no envy,
-Never gloats when others sin;
-Love is never glad to see injustice,
-Always wants the truth to win.
-There’s no end to love’s endurance,
-There’s no test it cannot face;
-Lord, You spent Your life in loving others:
-I shall fail without Your grace.
+Under the shadow of thy throne,
+still may we dwell secure;
+sufficient is thine arm alone,
+and our defense is sure.
 
 3.
-Though there’ll be an end to hidden knowledge,
-Visions, raptures, prophecy:
-Faith and hope and love shall last forever,
-Love the greatest of the three.
-Without love I am no better,
-Without love it’s all for naught;
-Lord, You gave Your life in saving others:
-What this means I would be taught.
+Before the hills in order stood,
+or earth received her frame,
+from everlasting, thou art God,
+to endless years the same.
+
+4.
+A thousand ages, in thy sight,
+are like an evening gone;
+short as the watch that ends the night,
+before the rising sun.
+
+5.
+O God, our help in ages past,
+our hope for years to come;
+be thou our guide while life shall last,
+and our eternal home!
+
 ```
 
 - |   -  |

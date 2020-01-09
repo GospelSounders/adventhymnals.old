@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-Now let us from this table rise
-Renewed in body, mind, and soul;
-With Christ we die and live again,
-His selfless love has made us whole.
+My Jesus, as Thou wilt; 
+O may Thy will be mine! 
+Into Thy hand of love 
+I would my all resign. 
+Through sorrow or through joy, 
+Conduct me as Thine own, 
+And help me still to say, 
+"My Lord, Thy will be done." 
 
 2.
-With minds alert, upheld by grace,
-To spread the word in speech and deed,
-We follow in the steps of Christ,
-At one with all in hope and need.
+My Jesus, as Thou wilt; 
+Though seen through many a tear, 
+Let not my star of hope 
+Grow dim or disappear. 
+Since Thou on earth hast wept 
+And sorrowed oft alone, 
+If I must weep with Thee, 
+"My Lord, Thy will be done." 
 
 3.
-To fill each human house with love,
-It is the sacrament of care;
-The work that Christ began to do
-We humbly pledge ourselves to share.
-
-4.
-Then grant us courage, Father God,
-To choose again the pilgrim way
-And help us to accept with joy
-The challenge of tomorrow’s day.
+My Jesus, as Thou wilt; 
+All shall be well for me; 
+Each changing future scene 
+I gladly trust with Thee. 
+Straight to my home above, 
+I travel calmly on, 
+And sing in life or death, 
+"My Lord, Thy will be done."
 ```
 
 - |   -  |

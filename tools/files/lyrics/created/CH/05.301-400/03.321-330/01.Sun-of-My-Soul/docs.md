@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-My Jesus, I love thee, I know thou art mine;
-for thee all the follies of sin I resign.
-My gracious Redeemer, my Savior art thou;
-if ever I loved thee, my Jesus, ’tis now.
+Sun of my soul, O Savior dear!
+It is not night if Thou be near;
+O may no earth-born cloud arise
+To hide Thee from Thy servant's eyes.
 
 2.
-I love thee because thou hast first loved me,
-and purchased my pardon on Calvary’s tree;
-I love thee for wearing the thorns on thy brow;
-if ever I loved thee, my Jesus, ’tis now.
+When soft the dews of kindly sleep
+My weary eyelids gently steep,
+Be my last thought how sweet to rest
+Forever on my Savior's breast!
 
 3.
-I’ll love Thee in life, I will love Thee ’til death,
-And praise Thee as long as Thou lendest me breath;
-And say when the death dew lies cold on my brow,
-if ever I loved thee, my Jesus, ’tis now.
+Abide with me from morn till eve,
+For without Thee I cannot live;
+Abide with me when night is nigh, 
+For without Thee I dare not die.
 
 4.
-In mansions of glory and endless delight;
-I’ll ever adore thee in heaven so bright;
-I’ll sing with the glittering crown on my brow;
-if ever I loved thee, my Jesus, ’tis now.
+Be near and bless me when I wake,
+Ere through the world my way I take;
+Till in the ocean of Thy love
+I lose myself in heaven above.
 ```
 
 - |   -  |

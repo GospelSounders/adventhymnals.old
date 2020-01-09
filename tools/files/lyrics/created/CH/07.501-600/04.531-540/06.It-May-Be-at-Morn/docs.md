@@ -11,34 +11,41 @@ metadata:
 
 ```txt
 1.
-God, who stretched the spangled heavens
-Infinite in time and place,
-Flung the suns in burning radiance
-Through the silent fields of space;
-We, Your children in Your likeness,
-Share inventive powers with You;
-Great Creator, still creating,
-Show us what we yet may do.
+It may be at morn, when the day is awaking,
+When sunlight through darkness and shadow is breaking,
+That Jesus will come in the fullness of glory
+To receive from the world His own.
+
+Refrain:
+O Lord Jesus, how long, how long
+Ere we shout the glad song?
+Christ returneth, Hallelujah!
+Hallelujah! Amen, Hallelujah! Amen.
 
 2.
-We have ventured worlds undreamed of
-Since the childhood of our race;
-Knowing the ecstasy of winging
-Through untraveled realms of space,
-Probed the secrets of the atom,
-Yielding unimagined power,
-Facing us with life’s destruction
-Or our most triumphant hour.
+It may be at midday, it may be at twilight,
+It may be, perchance, that the blackness of midnight
+Will burst into light in the blaze of His glory,
+When Jesus receives His own.
+
+Refrain:
+O Lord Jesus, how long, how long
+Ere we shout the glad song?
+Christ returneth, Hallelujah!
+Hallelujah! Amen, Hallelujah! Amen.
 
 3.
-As each far horizon beckons,
-May it challenge us anew:
-Children of creative purpose,
-Serving others, honoring You.
-May our dreams prove rich with promise;
-Each endeavor well begun;
-Great Creator, give us guidance
-Till our goals and Yours are one.
+O joy! O delight! should we go without dying,
+No sickness, no sadness, no dread, and no crying,
+Caught up through the clouds with our Lord into glory,
+When Jesus receives His own.
+
+Refrain:
+O Lord Jesus, how long, how long
+Ere we shout the glad song?
+Christ returneth, Hallelujah!
+Hallelujah! Amen, Hallelujah! Amen.
+
 ```
 
 - |   -  |

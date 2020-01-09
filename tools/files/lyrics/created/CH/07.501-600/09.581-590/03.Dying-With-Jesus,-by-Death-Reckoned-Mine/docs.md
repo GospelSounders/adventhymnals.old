@@ -11,34 +11,33 @@ metadata:
 
 ```txt
 1.
-You that know the Lord is gracious,
-You for whom a cornerstone
-Stands, of God elect and precious,
-Laid that you may build there-on,
-See that on that sure foundation
-You a living temple raise.
-Towers that may tell forth salvation,
-Walls that may reech-o praise.
+Dying with Jesus, by death reckoned mine,
+Living with Jesus, a new life divine,
+Looking to Jesus till glory doth shine,
+Moment by moment, O Lord, I am Thine.
+CHORUS:
+Moment by moment I'm kept in His love;
+Moment by moment I've life from above;
+Looking to Jesus till glory doth shine;
+Moment by moment, O Lord, I am Thine.
 
 2.
-Living stones by God appointed
-Each to his allotted place,
-Kings and priests, by God anointed,
-Shall you not declare His grace?
-You, a royal generation,
-Tell the tidings of your birth,
-Tidings of a new creation
-To an old and weary earth.
+Never a trial that He is not there,
+Never a burden that He doth not bear,
+Never a sorrow that He doth not share,
+Moment by moment I'm under His care.
 
 3.
-Tell the praise of Him who called you
-Out of darkness into light,
-Broke the fetters that enthralled you,
-Gave you freedom, peace, and sight:
-Tell the tale of sins forgiven,
-Strength renewed and hope restored,
-Till the earth, in tune with heaven,
-Praise and magnify the Lord.
+Never a heart-ache, and never a groan,
+Never a teardrop and never a moan;
+Never a danger but there on the throne,
+Moment by moment He thinks of His own.
+
+4.
+Never a weakness that He doth not feel,
+Never a sickness that He cannot heal;
+Moment by moment, in woe or in weal,
+Jesus, my Savior, abides with me still.
 ```
 
 - |   -  |

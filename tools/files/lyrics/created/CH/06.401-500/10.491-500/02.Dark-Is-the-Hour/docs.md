@@ -11,29 +11,44 @@ metadata:
 
 ```txt
 1.
-Teach, me, Father, what to say;
-Teach me, Father, how to pray;
-Teach me all along the way
-How to be like Jesus.
-
+Dark is the hour when death prevails, 
+And triumphs o'er the just' 
+A painful void within the breast, 
+When dust goes back to dust; 
+And solemn is the pall, the bier, 
+That bears them from our presence here. 
 
 2.
-Teach me as the days go by,
-Teach me not to reason why,
-Teach me that to do and die,
-Is to be like Jesus.
+But there's a bright, a glorious hope, 
+That scatters death's dark gloom; 
+It cheers the saddened spirits up, 
+It gilds the Christian's tomb; 
+It brings the resurrection near, 
+When those we love shall reappear. 
 
 3.
-Teach me that the time is short,
-Teach me how to live and work,
-Teach me that to never shirk
-Is to be like Jesus.
+Then mourn we not as those whose hopes 
+With fleeting life depart; 
+For we have heard a voice from heaven 
+To every stricken heart: 
+"Blest are the dead, forever blest, 
+Who from henceforth in Jesus rest." 
 
 4.
-Teach me how we may be one,
-Like the Father and the Son;
-And when all is overcome,
-I will be like Jesus.
+With kind regard the Lord beholds 
+His saints when called to die, 
+And precious in His holy sight 
+Their sacred dust shall lie 
+Till all these storms of life are o'er, 
+And they shall rise to die no more. 
+
+5.
+A few more days, and we shall meet 
+The loved whose toil is o'er, 
+And plant with joy our bounding feet 
+On Canaan's radiant shore, 
+Where, free from all earth's cares and fears, 
+We'll part no more through endless years.
 ```
 
 - |   -  |

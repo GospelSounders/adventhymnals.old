@@ -11,29 +11,65 @@ metadata:
 
 ```txt
 1.
-My hope is built on nothing less
-than Jesus’ blood and righteousness.
-I dare not trust the sweetest frame,
-but wholly lean on Jesus’ name.
+Now, just a word for Jesus; 
+Your dearest Friend so true, 
+Come, cheer our hearts and tell us 
+What He has done for you. 
 
+Refrain:
+Now just a word for Jesus 
+'Twill help us on our way; 
+One little word for Jesus, 
+O speak, or sing, or pray. 
 
 2.
-When Darkness veils his lovely face,
-I rest on his unchanging grace.
-in every high and stormy gale,
-my anchor holds within the veil.
+Now just a word for Jesus; 
+You feel your sins forgiven, 
+And by His grace are striving 
+To reach a home in heaven. 
+
+Refrain:
+Now just a word for Jesus 
+'Twill help us on our way; 
+One little word for Jesus, 
+O speak, or sing, or pray. 
 
 3.
-His oath, his covenant, his blood
-supports me in the whelming flood.
-When all around my soul gives way,
-he then is all my hope and stay.
+Now just a word for Jesus; 
+A cross it cannot be 
+To say, "I love my Saviour 
+Who gave His life for me." 
+
+Refrain:
+Now just a word for Jesus 
+'Twill help us on our way; 
+One little word for Jesus, 
+O speak, or sing, or pray. 
 
 4.
-When He shall come with trumpet sound,
-O may I then in him be found!
-Dressed in his righteousness alone,
-faultless to stand before the throne.
+Now just a word for Jesus; 
+Let not the time be lost; 
+The heart's neglected duty 
+Brings sorrow to its cost. 
+
+Refrain:
+Now just a word for Jesus 
+'Twill help us on our way; 
+One little word for Jesus, 
+O speak, or sing, or pray. 
+
+5.
+Now just a word for Jesus; 
+And if your faith be dim, 
+Arise in all your weakness, 
+And leave the rest to Him.
+
+Refrain:
+Now just a word for Jesus 
+'Twill help us on our way; 
+One little word for Jesus, 
+O speak, or sing, or pray. 
+
 ```
 
 - |   -  |

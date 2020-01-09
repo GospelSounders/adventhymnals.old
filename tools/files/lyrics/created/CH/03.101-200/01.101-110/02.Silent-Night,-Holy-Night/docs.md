@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Unto the hills around shall I lift up my longing eyes?
-O whence for me shall my salvation come, from whence arise?
-From God the Lord doth come my certain aid,
-From God the Lord, who heav’n and earth hath made.
+Silent night! holy night!
+All is calm, all is bright
+Round yon virgin mother and Child,
+Holy Infant so tender and mild,
+Sleep in heavenly peace,
+sleep in heavenly peace.
 
 2.
-He will not suffer that thy foot be moved; safe shalt Thou be.
-No careless slumber shall His eyelids close, who keepeth thee.
-Behold our God, the Lord, He slumbereth ne’er,
-Who keepeth Israel in His holy care.
+Silent night! holy night!
+Shepherds quake at the sight,
+glories stream from heaven afar,
+heavenly hosts sing Alleluia;
+Christ, the Savior is born,
+Christ, the Savior is born.
 
 3.
-Jehovah is Himself thy keeper true, thy changeless shade.
-Jehovah they defense on thy right hand Himself hath made.
-And thee no sun by day shall ever smite,
-No moon shall harm thee in the silent night.
+Silent night! holy night!
+Son of God, love's pure light,
+Radiant beams from Thy holy face,
+with the dawn of redeeming grace,
+Jesus, Lord, at Thy birth,
+Jesus, Lord, at Thy birth.
 
-4.
-From every evil shall He keep thy soul, from every sin;
-Jehovah shall preserve thy going our,n thy coming in.
-Above thee watching, He, whom we adore.,
-Shall keep thee henceforth, yea, forevermore.
 ```
 
 - |   -  |

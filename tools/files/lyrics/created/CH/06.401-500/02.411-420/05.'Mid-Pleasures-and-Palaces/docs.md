@@ -11,34 +11,38 @@ metadata:
 
 ```txt
 1.
-Christ, the Lord, all power possessing,
-Parting, mounted heaven’s height,
-Gracious hands outstretched in blessing,
-Clouds received His from their sight.
-Christ ascended, Christ ascended,
-Christ ascended on the clouds.
-(on the clouds)
-Christ ascended on the clouds.
+'Mid pleasures and palaces though we may roam, 
+Be it ever so humble, there's no place like home! 
+A charm from the skies seems to hallow us there, 
+Which, seek through the world, is ne'er met with elsewhere. 
+
+Refrain:
+Home, home, sweet, sweet home! 
+Be it ever so humble, 
+There's no place like home! 
 
 2.
-Daniel views earth’s judgment hour,
-Angels gathering open books.
-God enthroned inflaming power
-For His Son’s arrival looks.
-Christ approaches, Christ approaches,
-Christ approaches on the clouds.
-(on the clouds)
-Christ approaches on the clouds.
+An exile from home, splendor dazzles in vain' 
+O give me my lowly thatched cottage again; 
+The birds singing sweetly, that came at my call; 
+Give me, then, that peace of mind dearer than all. 
+
+Refrain:
+Home, home, sweet, sweet home! 
+Be it ever so humble, 
+There's no place like home! 
 
 3.
-Revelation’s word fulfilling,
-Trumpet, voices pierce the air.
-Saint and sinner fainting, thrilling,
-Every eye behold Him there.
-Christ is coming, Christ is coming,
-Christ is coming on the clouds.
-(on the clouds)
-Christ is coming on the clouds.
+To us, in despite of the absence of years, 
+How sweet the remembrance of home still appears; 
+From allurements abroad which but flatter the eye, 
+The unsatisfied heart turns and says with a sigh'
+
+Refrain:
+Home, home, sweet, sweet home! 
+Be it ever so humble, 
+There's no place like home! 
+
 ```
 
 - |   -  |

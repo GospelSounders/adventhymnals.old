@@ -11,28 +11,27 @@ metadata:
 
 ```txt
 1.
-Once to every man and nation, comes the moment to decide,
-In the strife of truth with falsehood, for the good or evil side;
-Some great cause, some great decision, offering each the bloom or blight,
-And the choice goes by forever, ’twixt that darkness and that light.
+I come to the garden alone,
+While the dew is still on the roses;
+And the voice I hear, falling on my ear,
+The Son of God discloses.
+CHORUS:
+And He walks with me, and He talks with me,
+And He tells me I am His own;
+And the joy we share as we tarry there,
+None other has ever known.
 
 2.
-Then to side with truth is noble, when we share her wretched crust,
-Ere her cause bring fame and profit, and ’tis prosperous to be just;
-Then it is the brave man chooses while the coward stands aside,
-Till the multitude make virtue of the faith they had denied.
+He speaks, and the sound of His voice
+Is so sweet the birds hush their singing,
+And the melody that He gave to me
+Within my heart is ringing.
 
 3.
-By the light of burning martyrs, Christ, Thy bleeding feet we track,
-Toiling up new Calv’ries ever with the cross that turns not back;
-New occasions teach new duties, time makes ancient good uncouth,
-They must upward still and onward, who would keep abreast of truth.
-
-4.
-Though the cause of evil prosper, yet the truth alone is strong;
-Though her portion be the scaffold, and upon the throne be wrong;
-Yet that scaffold sways the future, and behind the dim unknown,
-Standeth God within the shadow, keeping watch above His own.
+I'd stay in the garden with Him
+Though the night around me be falling,
+But He bids me go; through the voice of woe,
+His voice to me is calling.
 ```
 
 - |   -  |

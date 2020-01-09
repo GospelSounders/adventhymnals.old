@@ -11,29 +11,41 @@ metadata:
 
 ```txt
 1.
-Sing the wondrous love of Jesus;
-Sing his mercy and his grace.
-In the mansions bright and blessed
-He’ll prepare for us a place.
+O sometimes the shadows are deep, 
+And rough seems the path to the goal; 
+And sorrows, how often they sweep 
+Like tempests down over the soul! 
 
+Refrain:
+O, then to the Rock let me fly, 
+To the Rock that is higher than I. 
+O, then to the Rock let me fly, 
+To the Rock that is higher than I. 
 
 2.
-While we walk the pilgrim pathway,
-Clouds will overspread the sky;
-But when traveling days are over,
-Not a shadow, not a sigh.
+O sometimes how long seems the day, 
+And sometimes how heavy my feet; 
+But toiling in life's dusty way, 
+The Rock's blessed shadow, how sweet! 
+
+Refrain:
+O, then to the Rock let me fly, 
+To the Rock that is higher than I. 
+O, then to the Rock let me fly, 
+To the Rock that is higher than I. 
 
 3.
-Let us then be true and faithful,
-Trusting, serving every day;
-Just one glimpse of him in glory
-Will the toils of life repay.
+O near to the Rock let me keep, 
+Or blessings or sorrows prevail; 
+Or climbing the mountain way steep, 
+Or walking the shadowy vale.
 
-4.
-Onward to the prize before us!
-Soon his beauty we’ll behold;
-Soon the pearly gates will open;
-We shall tread the streets of gold.
+Refrain:
+O, then to the Rock let me fly, 
+To the Rock that is higher than I. 
+O, then to the Rock let me fly, 
+To the Rock that is higher than I. 
+
 ```
 
 - |   -  |

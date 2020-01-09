@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-The spacious firmament on high,
-With all the blue, ethereal sky,
-And spangled heavens, a shining frame,
-Their great Original proclaim.
-Th’unwearied sun from day to day
-Does his Creator’s power display,
-And publishes to every land
-The work of an almighty hand
+Glorious are the lofty mountains 
+In the early morning's gleam, 
+When the soft glow of the sunshine 
+Lights them with its golden beam. 
 
 2.
-Soon as the evening shades prevail,
-The moon takes up the wondrous tale;
-And nightly to the listening earth
-Repeats the story of her birth;
-While all the stars that round her burn,
-And all the planets in their turn,
-Confirm the tidings as they roll,
-And spread the truth from pole to pole
+How those vapors, gently floating, 
+Kiss the great snowcrested peaks! 
+In the splendor of the mountains 
+Our Creator surely speaks. 
 
 3.
-What though in solemn silence all
-Move round the dark terrestrial ball?
-What though no real voice nor sound
-Amid their radiant orbs be found?
-In reason’s ear they all rejoice
-And utter forth a glorious voice,
-Forever singing as they shine,
-“The hand that made us is divine.”
+Oft of old the psalmist David, 
+Playing harp of solemn sound, 
+Sung his songs of God's protection 
+When he viewed the hills around. 
+
+4.
+Sunset rays o'er Judah's mountains 
+Touched the clouds with heavenly light 
+Till they seemed like hosts of angels 
+Sent to guard him through the night. 
+
+5.
+Wondrous everlasting mountains! 
+Symbols of Jehovah's might! 
+There earth reaches up to heaven, 
+There heaven first gives earth its light.
+
 ```
 
 - |   -  |

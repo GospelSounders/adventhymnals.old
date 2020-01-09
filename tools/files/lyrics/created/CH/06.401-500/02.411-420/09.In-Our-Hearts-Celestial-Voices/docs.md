@@ -11,22 +11,40 @@ metadata:
 
 ```txt
 1.
-Soon shall the trump of God
-Give out the welcome sound,
-That shakes death’s silent chamber walls,
-And breaks the turf sealed ground.
+In our hearts celestial voices 
+Softly say: 
+"Day is passing, night is coming; 
+Kneel and pray," 
 
 2.
-You dwellers in the dust,
-Awake, come forth, and sing;
-Sharp has your frost of winter been,
-But bright shall be your spring.
+Father, we obey the summons; 
+Hear Our cry; 
+Pity us and help our weakness, 
+Thou Most High. 
 
 3.
-‘Twas sown in weakness here;
-‘Twill then be raised in power;
-That which was sown in earthly seed
-Shall rise a heav’nly flower.
+For the joys that most we cherish 
+Praised be Thou! 
+Good and gentle art Thou ever; 
+Hear us now. 
+
+4.
+Coming morrows we may never 
+Live to see; 
+All we ask Thee is to keep us, 
+Safe with Thee. 
+
+5.
+We are only little children 
+Kneeling here, 
+And we want our loving Father 
+Always near. 
+
+6.
+Take us in Thy arms and keep us 
+As Thine own; 
+Gather us like little sunbeams 
+Round Thy throne.
 ```
 
 - |   -  |

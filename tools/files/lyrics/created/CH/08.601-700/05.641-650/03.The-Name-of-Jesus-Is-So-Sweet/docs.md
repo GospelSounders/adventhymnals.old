@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Father, who on us do shower
-Gifts of plenty form Your dower,
-To Your people give the power
-All Your gifts to use aright.
+The name of Jesus is so sweet, 
+I love its music to repeat; 
+It makes my joys full and complete, 
+The precious name of Jesus. 
+
+Refrain:
+"Jesus," oh, how sweet the name! 
+"Jesus," every day the same; 
+"Jesus," let all saints proclaim 
+Its worthy praise forever. 
 
 2.
-Give pure happiness in leisure
-Temperance in every pleasure,
-Wholesome use of earthly treasure
-Bodies clean and spirits bright.
+I love the name of Him Whose heart 
+Knows all my grief's and bears a part; 
+Who bids all anxious fears depart' 
+I love the name of Jesus. 
+
+Refrain:
+"Jesus," oh, how sweet the name! 
+"Jesus," every day the same; 
+"Jesus," let all saints proclaim 
+Its worthy praise forever. 
 
 3.
-Lift from this and every nation
-All that brings us degradation;
-Quell the forces of temptation;
-Put Your enemies to flight.
+That name I fondly love to hear, 
+It never fails my heart to cheer, 
+Its music dries the falling tear; 
+Exalt the name of Jesus. 
+
+Refrain:
+"Jesus," oh, how sweet the name! 
+"Jesus," every day the same; 
+"Jesus," let all saints proclaim 
+Its worthy praise forever. 
 
 4.
-Father, You who sought and found us,
-Son of God, whose love has bound us,
-Holy Spirit, in us, round us,
-Hear us, Godhead infinite.
+No word of man can ever tell 
+How sweet the name I love so well; 
+Oh, let its praises ever swell; 
+Oh, praise the name of Jesus.
+
+Refrain:
+"Jesus," oh, how sweet the name! 
+"Jesus," every day the same; 
+"Jesus," let all saints proclaim 
+Its worthy praise forever. 
+
 ```
 
 - |   -  |

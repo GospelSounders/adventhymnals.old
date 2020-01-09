@@ -11,28 +11,23 @@ metadata:
 
 ```txt
 1.
-When in our music God is glorified,
-And adoration leaves no room for pride,
-It is as though the whole creation cried:
-Alleluia!
+Lord, at this closing hour 
+Establish every heart 
+Upon Thy word of truth and power, 
+To keep us when we part. 
 
 2.
-How oft, in making music, we have found
-A new dimension in the world of sound,
-As worship moved us to a more profound
-Alleluia!
+Peace to our brethren give; 
+Fill all our hearts with love; 
+In faith and patience may we live, 
+And seek our rest above. 
 
 3.
-And did not Jesus sing a psalm that night
-When utmost evil strove against the light?
-Then let us sing for whom He won the fight:
-Alleluia!
+Through changes, bright or drear, 
+We would Thy will pursue, 
+And toil to spread Thy kingdom here 
+Till we its glory view.
 
-4.
-Let every instrument be used for praise;
-Let all rejoice who have a voice to raise;
-And may God give us faith to sing always:
-Alleluia!
 ```
 
 - |   -  |

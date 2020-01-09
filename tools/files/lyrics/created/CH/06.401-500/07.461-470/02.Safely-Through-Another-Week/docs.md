@@ -11,23 +11,44 @@ metadata:
 
 ```txt
 1.
-Blessed assurance, Jesus is mine!
-O what a foretaste of glory divine!
-Heir of salvation, purchase of God,
-born of his Spirit, washed in his blood.
-
+Safely through another week
+God has brought us on our way;
+Let us now a blessing seek,
+Waiting in His courts today;
+Day of all the week the best,
+Emblem of eternal rest:
+Day of all the week the best,
+Emblem of eternal rest.
 
 2.
-Perfect submission, perfect delight,
-visions of rapture now burst on my sight;
-angels descending bring from above
-echoes of mercy, whispers of love.
+While we seek supplies of grace,
+Thro' the dear Redeemer's name,
+Show Thy reconciling face;
+Take away the sin and shame:
+From our worldly cares set free,
+May we rest this day in Thee:
+From our worldly cares set free,
+May we rest this day in Thee.
 
 3.
-Perfect submission, all is at rest;
-I in my Savior am happy and blest,
-watching and waiting, looking above,
-filled with his goodness, lost in his love.
+When the morn shall bid us rise,
+May we feel Thy presence near;
+May Thy glory meet our eyes,
+While we in Thy house appear:
+Here afford us, Lord, a taste
+Of our everlasting feast:
+Here afford us, Lord, a taste
+Of our everlasting feast.
+
+4.
+May the gospel's joyful sound
+Conquer sinners, comfort saints;
+Make the fruits of grace abound,
+Bring relief to all complaints:
+Thus may all our Sabbaths be,
+Till we we rise to reign with Thee.
+Thus may all our Sabbaths be,
+Till we we rise to reign with Thee.
 ```
 
 - |   -  |

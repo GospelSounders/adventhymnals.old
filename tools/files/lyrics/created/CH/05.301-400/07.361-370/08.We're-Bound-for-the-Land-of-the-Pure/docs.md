@@ -11,29 +11,55 @@ metadata:
 
 ```txt
 1.
-Watchman, blow the gospel trumpet,
-Every soul a warning give;
-Whosoever hears the message
-May repent, and, turn and live.
+We're bound for the land of the pure and the holy, 
+The home of the happy, the kingdom of love; 
+Ye wanderers from God, in the broad road of folly, 
+O say, will you go to the Eden above? 
 
+Refrain:
+Will you go, will you go, will you go, will you go? 
+O say, will you go to the Eden above? 
 
 2.
-Sound it loud oér every hilltop,
-Gloomy shade and sunny plain;
-Ocean depths repeat the message,
-Full salvation’s glad refrain.
+In that blessed land, neither sighing nor anguish 
+Can breathe in the fields where the glorified rove; 
+Ye heart-burdened ones, who in misery languish 
+O say, will you go to the Eden above? 
+
+Refrain:
+Will you go, will you go, will you go, will you go? 
+O say, will you go to the Eden above? 
 
 3.
-Sound it in the hedge and highway,
-Earth’s dark spots where exiles roam;
-Let it tell all things are ready,
-Father waits to welcome home.
+Nor fraud, nor deceit, nor the hand of oppression, 
+Can injure the dwellers in that holy grove; 
+No wickedness there, not a shade of transgression; 
+O say, will you go to the Eden above? 
+
+Refrain:
+Will you go, will you go, will you go, will you go? 
+O say, will you go to the Eden above? 
 
 4.
-Sound it for the heavy laden,
-Weary, longing to be free;
-Sound a Savior’s invitation,
-Sweetly saying, “Come to me.”
+No poverty there, no, the saints are all wealthy, 
+The heirs of His glory whose nature is love; 
+No sickness can reach them, that country is healthy; 
+O say, will you go to the Eden above? 
+
+Refrain:
+Will you go, will you go, will you go, will you go? 
+O say, will you go to the Eden above? 
+
+5.
+And yet, guilty sinner, we would not forsake thee, 
+We halt yet a moment as onward we move; 
+O, come to thy Lord! in His arms He will take thee, 
+And bear thee along to the Eden above.
+
+Refrain:
+Will you go, will you go, will you go, will you go? 
+O say, will you go to the Eden above? 
+
 ```
 
 - |   -  |

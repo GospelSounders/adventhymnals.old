@@ -11,29 +11,20 @@ metadata:
 
 ```txt
 1.
-Earthly pleasures vainly call me;
-I would be like Jesus;
-Nothing worldly shall enthrall me;
-I would be like Jesus.
-
+Peace, perfect peace, in this dark world of sin?
+The blood of Jesus whispers peace within.
 
 2.
-He has broken every fetter,
-I would be like Jesus;
-That my soul may serve Him better,
-I would be like Jesus.
+Peace, perfect peace, by thronging duties pressed?
+To do the will of Jesus: this is rest.
 
 3.
-All the way from earth to glory,
-I would be like Jesus;
-Telling o’er and o’er the story,
-I would be like Jesus.
+Peace, perfect peace, with loved ones far away?
+In Jesus' keeping we are safe, and they.
 
 4.
-That in Heaven He may meet me,
-I would be like Jesus;
-That His words “Well done” may greet me,
-I would be like Jesus.
+Peace, perfect peace, our future all unknown?
+Jesus we know, and He is on the throne. 
 ```
 
 - |   -  |

@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Nature with open volume stands,
-To spread its Maker’s praise abroad;
-And every labor of His hands
-Shows something worthy of our God.
+All beautiful the march of days, 
+As seasons come and go; 
+The Hand that shaped the rose hath wrought 
+The crystal of the snow; 
+Hath sent the hoary frost of heaven, 
+The flowing waters sealed, 
+And laid a silent loveliness 
+On hill and wood and field. 
 
 2.
-But in the grace that rescued us
-His brightest form of glory shines;
-‘Tis fairest drawn upon the cross
-In precious blood and crimson lines.
+O'er white expanses sparkling pure 
+The radiant morns unfold; 
+The solemn splendors of the night 
+Burn brighter through the cold; 
+Life mounts in every throbbing vein, 
+Love deepens round the hearth, 
+And clearer sounds the angel hymn, 
+'Good will to men on earth.' 
 
 3.
-Here His whole name appears complete.
-Nor wit can guess, nor reason prove,
-Which of the letters best is writ,
-The pow’r, the wisdom, or the love.
+O Thou from Whose unfathomed law 
+The year in beauty flows, 
+Thyself the vision passing by 
+In crystal and in rose, 
+Day unto day doth utter speech, 
+And night to night proclaim, 
+In ever changing words of light, 
+The wonder of Thy Name.
 
-4.
-We would forever speak His name
-In sounds to mortal ears unknown,
-With angels join to praise the Lamb,
-And worship at His Father’s throne.
 ```
 
 - |   -  |

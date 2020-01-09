@@ -11,24 +11,44 @@ metadata:
 
 ```txt
 1.
-Christian, seek not yet repose, Cast thy dreams of ease away;
-Thou aret in teh midst of foes; Watch and pray!
+Take time to be holy, 
+Speak oft with thy Lord; 
+Abide in him always, 
+And feed on his word. 
+Make friends of God's children, 
+Help those who are weak, 
+Forgetting in nothing 
+His blessing to seek. 
 
 2.
-Gird thy heavenly armor on, Wear it ever, night and day;
-Ambushed lies the evil one; Watch and pray!
+Take time to be holy, 
+The world rushes on; 
+Spend much time in secret 
+With Jesus alone. 
+By looking to Jesus, 
+Like him thou shalt be; 
+Thy friends in thy conduct 
+His likeness shall see. 
 
 3.
-Hear the victors who o’ercame; Still they mark each warrior’s way;
-All with one sweet voice exclaim: “Watch and pray!”
+Take time to be holy, 
+Let him be thy guide, 
+And run not before Him, 
+Whatever betide. 
+In joy or in sorrow, 
+Still follow thy Lord, 
+And, looking to Jesus, 
+Still trust in His word. 
 
 4.
-Hear, above all, hear thy Lord, Him thou lovest to obey;
-Hide within thy heart His word; “Watch and pray!”
-
-5.
-Watch, as if on that alone Hung the issue of teh day;
-Pray that help may be send down; Watch and pray!
+Take time to be holy, 
+Be calm in thy soul, 
+Each thought and each motive 
+Beneath His control; 
+Thus led by his spirit 
+To fountains of love, 
+Thou soon shalt be fitted 
+For service above.
 ```
 
 - |   -  |

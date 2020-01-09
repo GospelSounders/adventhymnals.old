@@ -10,45 +10,35 @@ metadata:
 ## 384. O GOD, MINE INMOST SOUL CONVERT
 
 ```txt
-1.
-Safely through another week
-God has brought us on our way;
-Let us now a blessing seek,
-Waiting in His courts today;
-Day of all the week the best,
-Emblem of eternal rest:
-Day of all the week the best,
-Emblem of eternal rest.
+1.O God, mine inmost soul convert, 
+And deeply on my thoughtful heart 
+Eternal things impress; 
+Give me to feel their solemn weigh, 
+And save me ere it be too late; 
+Wake me to righteousness. 
 
-2.
-While we seek supplies of grace,
-Thro’ the dear Redeemer’s name,
-Show Thy reconciling face;
-Take away the sin and shame:
-From our worldly cares set free,
-May we rest this day in Thee:
-From our worldly cares set free,
-May we rest this day in Thee.
+2.Before me place in dread array 
+The pomp of that tremendous day 
+When Thou with clouds shalt come 
+To judge the nations at Thy bar; 
+And tell me, Lord, shall I be there, 
+To hear Thy welcome home? 
 
 3.
-When the more shall bid us rise,
-May we feel Thy presence near;
-May Thy glory meet our eyes,
-While we in Thy house appear:
-Here afford us, Lord, a taste
-Of our everlasting feast:
-Here afford us, Lord, a taste
-Of our everlasting feast.
+Be this my one great business here, 
+With serious industry and fear 
+Eternal bliss t' ensure 
+Thy utmost counsel to fulfill, 
+And suffer all Thy righteousness will, 
+And to the end endure. 
 
 4.
-May the gospel’s joyful sound
-Conquer sinners, comfort saints;
-Make the fruits of grace abound,
-Bring relief to all complaints:
-Thus may all our Sabbaths be,
-Till we we rise to reign with Thee.
-Thus may all our Sabbaths be,
-Till we we rise to reign with Thee.
+Then, Father, then my soul receive, 
+Transported from this vale, to live 
+And reign with Thee above, 
+Where faith is sweetly lost in sight, 
+And hope in full, supreme delight, 
+And everlasting love.
 ```
 
 - |   -  |

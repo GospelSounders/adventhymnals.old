@@ -11,22 +11,28 @@ metadata:
 
 ```txt
 1.
-We give this child to You,
-Our precious gift of love.
-Help us to lead each step aright
-With guidance from above.
+There is a blessed hope, 
+More precious and more bright 
+Than all the joyless mockery 
+The world esteems delight. 
 
 2.
-O bless each child of Yours,
-And grant when they are grown,
-They will have learned to love Your way,
-And choose it for their own.
+There is a lovely star 
+That lights the darkest gloom, 
+And sheds a peaceful radiance o'er 
+The prospects of the tomb. 
 
 3.
-We give ourselves to You,
-And may Your Spirit fill
-Our hearts and home, that all we do
-Be subject to Your will.
+There is a cheering voice 
+That lifts the soul above, 
+Dispels the painful, anxious doubt, 
+And whispers, "God is love," 
+
+4.
+That voice from Calvary's height 
+Proclaims the forgiven; 
+That star is revelation's light, 
+That hope, the hope of heaven.
 ```
 
 - |   -  |

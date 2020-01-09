@@ -11,28 +11,41 @@ metadata:
 
 ```txt
 1.
-God in His love for us lent us this planet,
-Gave it a purpose in time and in space:
-Small as a spark from the fire of creation,
-Cradle of life and the home of our race.
+When all my labors and trials are o'er, 
+And I am safe on that beautiful shore, 
+Just to be near the dear Lord I adore, 
+Will through the ages be glory for me. 
+
+Refrain:
+O that will be glory for me, 
+Glory for me, glory for me; 
+When by His grace I shall look on His face, 
+That will be glory, be glory for me. 
 
 2.
-Thanks be to God for its bounty and beauty,
-Life that sustains us in body and mind:
-Plenty for all, if we learn how to share it,
-Riches undreamed of to fathom and find.
+When, by the gift of His infinite grace, 
+I am accorded in Heaven a place, 
+Just to be there and to look on His face, 
+Will through the ages be glory for me. 
+
+Refrain:
+O that will be glory for me, 
+Glory for me, glory for me; 
+When by His grace I shall look on His face, 
+That will be glory, be glory for me. 
 
 3.
-Long have our human wars ruined its harvest;
-Long has earth bowed to the terror of forced;
-Long have we wasted what others have need of,
-Poisoned the fountain of life at its source.
+Friends will be there I have loved long ago; 
+Joy like a river around me will flow; 
+Yet, just a smile from my Saviour, I know, 
+Will through the ages be glory for me.
 
-4.
-Earth is the Lord’s: it is ours to enjoy it,
-Ours, as His stewards, to farm and defend.
-From its pollution, misuse, and destruction,
-Good Lord, deliver us, world without end!
+Refrain:
+O that will be glory for me, 
+Glory for me, glory for me; 
+When by His grace I shall look on His face, 
+That will be glory, be glory for me. 
+
 ```
 
 - |   -  |

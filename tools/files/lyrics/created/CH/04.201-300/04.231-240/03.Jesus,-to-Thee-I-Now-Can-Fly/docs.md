@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Christ, whose glory fills the skies,
-Christ, the true, the only light,
-Sun of Righteousness, arise,
-triumph o’er the shades of night;
-Dayspring from on high, be near;
-Daystar, in my heart appear.
+Jesus, to thee I now can fly, 
+On whom my help is laid; 
+Oppressed by sins, I lift my eye, 
+And see the shadows fade. 
 
 2.
-Dark and cheerless is the morn
-unaccompanied by thee;
-joyless is the day’s return,
-till thy mercy’s beams I see;
-till they inward light impart,
-cheer my eyes and warm my heart.
+Believing on my Lord, I find 
+A sure and present aid; 
+On thee alone my constant mind 
+Be every moment stayed. 
 
 3.
-Visit then this soul of mine;
-pierce the gloom of sin and grief;
-fill me, Radiancy divine,
-scatter all my unbelief;
-more and more thyself display,
-shining to the perfect day.
+Whate'er in me seems wise, or good, 
+Or strong, I here disclaim; 
+I wash my garments in the blood 
+Of the atoning Lamb. 
+
+4.
+Jesus, my Strength, my Life, my Rest, 
+On thee will I depend, 
+Till summoned to the marriage-feast, 
+When faith in sight shall end.
+
 ```
 
 - |   -  |

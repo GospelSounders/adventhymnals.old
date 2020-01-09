@@ -11,29 +11,27 @@ metadata:
 
 ```txt
 1.
-I’m pressing on the upward way,
-New heights I’m gaining every day;
-Still praying as I’m onward bound,
-“Lord, plant my feet on higher ground.”
-
+Hark! 'tis the Shepherd's voice I hear,
+Out in the desert dark and drear,
+Calling the sheep who've gone astray,
+Far from the Shepherd's fold away.
+CHORUS:
+Bring them in, Bring them in,
+Bring them in from the fields of sin;
+Bring them in, Bring them in,
+Bring the wanderers to Jesus.
 
 2.
-My heart has no desire to stay
-Where doubts arise and fears dismay;
-Though some may dwell where those abound,
-My prayer, my aim, is higher ground.
+Who'll go and help the Shepherd kind,
+Help Him the wandering ones to find?
+Who'll bring them back into the fold,
+Where they'll be sheltered from the cold?
 
 3.
-I want to live above the world,
-Though Satan’s darts at me are hurled;
-For faith has caught the joyful sound,
-The song of saints on higher ground.
-
-4.
-I want to scale the utmost height
-And catch a gleam of glory bright;
-But still I’ll pray till Heav’n I’ve found,
-“Lord, plant my feet on higher ground.”
+Out in the desert hear their cry,
+Out on the mountain wild and high,
+Hark! 'tis the Master speaks to thee,
+Go, find My sheep where 'er they be.
 ```
 
 - |   -  |

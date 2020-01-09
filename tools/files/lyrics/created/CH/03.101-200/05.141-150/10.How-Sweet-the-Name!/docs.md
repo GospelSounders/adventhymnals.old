@@ -11,33 +11,35 @@ metadata:
 
 ```txt
 1.
-Who is He in yonder stall,
-At whose feet the shepherds fall?
-
+How sweet the name of Jesus sounds
+In a believer�s ear!
+It soothes his sorrows, heals his wounds,
+And drives away his fear.
 
 2.
-Who is He in deep distress,
-Fasting in the wilderness?
+It makes the wounded spirit whole,
+And calms the troubled breast;
+'Tis manna to the hungry soul,
+And to the weary, rest.
 
 3.
-Who is He, the gathering throng
-Greet with loud triumphant song?
+Dear name, the rock on which I build,
+My shield and hiding place,
+My neverfailing treasury, filled
+With boundless stores of grace.
 
 4.
-Lo, at midnight, who is He
-Prays in dark Gethsemane?
+Jesus! my Shepherd, Guardian, Friend,
+My Prophet, Priest, and King!
+My Lord, my life, my way, my end!
+Accept the praise I bring.
 
 5.
-Who is He on yonder tree
-Dies in shame and agony?
+Weak is the effort of my heart,
+And cold my warmest thought;
+But when I see Thee as Thou art,
+I'll praise Thee as I ought.
 
-6.
-Who is He that from the grave
-Comes to heal and help and save?
-
-7.
-Who is He that from His throne
-Rules through all the world alone?
 ```
 
 - |   -  |

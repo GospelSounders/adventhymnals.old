@@ -11,44 +11,35 @@ metadata:
 
 ```txt
 1.
-Blest be the King whose coming
-Is in the name of God!
-For Him let doors be opened,
-No hearts against Him barred!
-Not robed in royal splendor,
-In power and pomp comes He;
-But clad as are the poorest,
-Such His humility.
+O Jesus, thou art standing, 
+Outside the fast-closed door, 
+In lowly patience waiting 
+To pass the threshold o'er: 
+Shame on us, Christian brethren, 
+His Name and sign who bear, 
+O shame, thrice shame upon us, 
+To keep him standing there! 
 
 2.
-Blest be the King whose coming
-Is in the name of God!
-By those who truly listen
-His voice is truly heard;
-Pity the proud and haughty,
-Who have not learned to heed
-The Christ who is the promise,
-Who has atonement made.
+O Jesus, thou art knocking; 
+And lo, that hand is scarred, 
+And thorns thy brow encircle, 
+And tears thy face have marred. 
+O love that passeth knowledge, 
+So patiently to wait! 
+O sin that hath no equal, 
+So fast to bar the gate! 
 
 3.
-Blest be the King whose coming
-Is in the name of God!
-He only to the humble
-Reveals the face of God.
-All power is His, all glory!
-All things are in His hand,
-All ages and all peoples,
-‘Till time itself shall end.
+O Jesus, thou art pleading 
+In accents meek and low, 
+"I died for you, my children, 
+And will you treat me so?" 
+O Lord, with shame and sorrow 
+We open now the door; 
+Dear Saviour, enter, enter, 
+And leave us never more.
 
-4.
-Blest be the King whose coming
-Is in the name of God!
-He offers to the burdened
-The rest and grace they need.
-Gentle is He and humble!
-And light his Yoke shall be,
-For He would have us bear it,
-So He can made us free!
 ```
 
 - |   -  |

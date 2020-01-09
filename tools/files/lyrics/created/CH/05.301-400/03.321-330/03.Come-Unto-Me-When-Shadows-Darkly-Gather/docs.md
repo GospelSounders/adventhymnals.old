@@ -11,28 +11,22 @@ metadata:
 
 ```txt
 1.
-O for a heart to praise my God,
-A heart from sin set free,
-A heart that always feels Thy blood
-So freely shed for me.
+Come unto me when shadows darkly gather, 
+When the sad heart is weary and distressed; 
+Seeking for comfort from your heavenly Father, 
+Come unto me, and I will give you rest. 
 
 2.
-A heart resigned, submissive, meek,
-My dear Redeemer’s throne,
-Where only Christ is heard to speak,
-Where Jesus reigns alone.
+Large are the mansions in our Father's dwelling, 
+Glad are those homes that sorrows never dim; 
+Sweet are the harps in holy music swelling, 
+Soft are the tones that raise the heavenly hymn. 
 
 3.
-A heart in every thought renewed
-And full of love divine,
-Perfect and right and pure and good,
-A copy, Lord, of Thine.
-
-4.
-Thy nature, gracious Lord, impart;
-Come quickly from above;
-Write Thy new name upon my heart,
-Thy new, best name of Love.
+There, like an Eden blossoming in gladness, 
+Bloom the fair flowers by earth so rudely pressed; 
+Come unto Him all ye who droop in sadness, 
+"Come unto Me, and I will give you rest."
 ```
 
 - |   -  |

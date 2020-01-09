@@ -11,32 +11,65 @@ metadata:
 
 ```txt
 1.
-There’s a Spirit in the air, telling Christians everywhere
-“Praise the love that Christ revealed, living, working in our world.”
+Will your anchor hold in the storms of life, 
+When the clouds unfold their wings of strife? 
+When the strong tides lift, and the cables strain, 
+Will your anchor drift or firm remain? 
+
+Refrain:
+We have an anchor that keeps the soul 
+Steadfast and sure while the billows roll; 
+Fastened to the Rock which cannot move, 
+Grounded firm and deep in the Savior's love. 
 
 2.
-Lose your shyness, find your tongue; tell the world what God has done:
-God in Christ has come to stay, we can see His pow’r today.
+It is safely moored, 'twill the storm withstand, 
+For 'tis well secured by the Savior's hand; 
+And the cables, passed from His heart to thine, 
+Can defy the blast, through strength divine. 
+
+Refrain:
+We have an anchor that keeps the soul 
+Steadfast and sure while the billows roll; 
+Fastened to the Rock which cannot move, 
+Grounded firm and deep in the Savior's love. 
 
 3.
-When believers break the bread, when a hungry child is fed:
-Praise the love that Christ revealed, living, working in our world.
+It will firmly hold in the straits of Fear, 
+When the breakers tell that the reef is near; 
+Though the tempest rave and the wild winds blow, 
+Not an angry wave shall our bark o'erflow. 
+
+Refrain:
+We have an anchor that keeps the soul 
+Steadfast and sure while the billows roll; 
+Fastened to the Rock which cannot move, 
+Grounded firm and deep in the Savior's love. 
 
 4.
-Still His Spirit leads the fight, seeing wrong and setting right:
-God in Christ has come to stay, we can see His pow’r today.
+It will surely hold in the floods of death, 
+When the waters cold chill our latest breath; 
+On the rising tide it can never fail, 
+While our hopes abide within the veil. 
+
+Refrain:
+We have an anchor that keeps the soul 
+Steadfast and sure while the billows roll; 
+Fastened to the Rock which cannot move, 
+Grounded firm and deep in the Savior's love. 
 
 5.
-When a stranger’s not alone, where the homeless find a home,
-Praise the love that Christ revealed, living, working in our world.
+When our eyes behold, in the dawning light, 
+Shining gates of pearl, our harbor bright, 
+We shall anchor fast to the heavenly shore, 
+With the storms all past forevermore.
 
-6.
-May His Spirit fill our praise, guide our thoughts and change our ways.
-God in Christ has come to stay, we can see His power today.
+Refrain:
+We have an anchor that keeps the soul 
+Steadfast and sure while the billows roll; 
+Fastened to the Rock which cannot move, 
+Grounded firm and deep in the Savior's love. 
 
-7.
-There’s a Spirit in the air, calling people everywhere;
-Praise the love that Christ revealed: living, working in our world.
 ```
 
 - |   -  |

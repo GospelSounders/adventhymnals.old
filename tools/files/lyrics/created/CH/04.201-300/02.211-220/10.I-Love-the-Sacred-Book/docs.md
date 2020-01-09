@@ -11,29 +11,35 @@ metadata:
 
 ```txt
 1.
-When He comes,
-When He comes,
-We shall see the Lord in glory when He comes!
-As I read the gospel story,
-We shall see the Lord in glory,
-We shall see the Lord in glory when He comes!
-
+I love the sacred book of God, 
+No other can its place supply; 
+It points me to the saints' abode, 
+And bids me from destruction fly. 
 
 2.
-When He comes,
-When He comes,
-We shall hear the trumpet sounded when He comes!
-We shall hear the trumpet sounded,
-See the Lord by saints surrounded,
-We shall hear the trumpet sounded when He comes!
+Sweet book! in thee my eyes discern 
+The image of my absent Lord; 
+From thy instructive page I learn 
+The joys His presence will afford. 
 
 3.
-When He comes,
-When He comes,
-We shall all rise up to meet Him when He comes!
-We shall all rise up to meet Him,
-When He calls His own to greet Him
-We shall all rise up to meet Him when He comes!
+But while I'm here, thou shalt supply 
+His place, and tell me of His love; 
+I'll read with faith's discerning eye, 
+And thus partake of joys above. 
+
+4.
+Within thy sacred lids is found 
+A transcript of my Maker's will; 
+Treasures of knowledge here abound, 
+The deepest, loftiest mind to fill. 
+
+5.
+Light of the world, thy beams impart, 
+To lead my feet through life's dark way; 
+O, shine on this benighted heart, 
+Nor let me from thy guidance stray.
+
 ```
 
 - |   -  |

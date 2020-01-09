@@ -19,7 +19,7 @@ To Thee lift up mine eye-
 2.
 Up to the hills where Christ is gone
 To plead for all His saints,
-Presenting at His Father’s throne
+Presenting at His Father's throne
 Our songs and our complaints.
 
 3.
@@ -27,10 +27,12 @@ O may Thy Spirit guide my feet
 In ways of righteousness;
 Make every path of duty straight
 And plain before my face.
-4 The men that love and fear Thy name
+
+4.The men that love and fear Thy name
 Shall see their hopes fulfilled;
 The mighty God will compass them
 With favor as a shield.
+
 ```
 
 - |   -  |

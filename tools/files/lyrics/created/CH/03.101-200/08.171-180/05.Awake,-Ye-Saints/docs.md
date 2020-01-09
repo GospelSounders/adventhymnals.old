@@ -11,28 +11,37 @@ metadata:
 
 ```txt
 1.
-Now the green blade rises from the buried grain,
-What that in dark earth many days has lain;
-Love lives again, that with the dead has been;
-Love is come again like wheat arising green.
+Awake, ye saints, and raise your eyes, 
+And raise your voices high; 
+Awake, and praise that sovereign love, 
+That shows salvation nigh; 
+Awake, and praise that sovereign love, 
+That shows salvation nigh. 
 
 2.
-In the grave they laid Him, love by hatred slain,
-Thinking that He would never wake again,
-Laid in the earth like grain that sleeps unseen;
-Love is come again like wheat arising green.
+Swift on the wings of time it flies; 
+Each moment brings it near; 
+Then welcome each declining day, 
+Welcome each closing year; 
+Then welcome each declining day, 
+Welcome each closing year. 
 
 3.
-Forth He came in triumph, like the risen grain,
-He that for three days in the grave had lain;
-Raised from the dead, my living Lord is seen;
-Love is come again like wheat arising green.
+Not many years their round shall run, 
+Not many mornings rise, 
+Ere all its glories stand revealed 
+To our admiring eyes; 
+Ere all its glories stand revealed 
+To our admiring eyes. 
 
 4.
-When our hearts are wintry, grieving, or in pain,
-Your touch can call us back to life again,
-Field of our hearts that dead and bare have been;
-Love is come again like wheat arising green.
+Ye wheels of nature, speed your course! 
+Ye mortal powers, decay! 
+Haste! till the last glad morning rise 
+That brings eternal day; 
+Haste! till the last glad morning rise 
+That brings eternal day.
+
 ```
 
 - |   -  |

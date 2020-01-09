@@ -11,22 +11,35 @@ metadata:
 
 ```txt
 1.
-Prince of Peace, control my will,
-Bid this struggling heart be still;
-Bid my fears and doubtings cease,
-Hush my spirit into peace.
+Come, let us sing the song of songs' 
+The angels first began the strain' 
+The homage which to Christ belongs: 
+"Worthy the Lamb, for He was slain!" 
 
 2.
-Thou hast bought me with Thy blood,
-Opened wide the gate to God;
-Peace, I ask, but peace must be,
-Lord, in being one with Thee.
+Slain to redeem us by His blood, 
+To cleanse from every sinful stain, 
+And make us kings and priests to God: 
+"Worthy the Lamb, for He was slain!" 
 
 3.
-May Thy will, not mine, be done,
-May Thy will and mine be one;
-Chase these doubtings from my heart,
-Now Thy perfect peace impart.
+To Him who suffered on the tree, 
+Our souls, at His soul's price, to gain, 
+Blessing, and praise, and glory be: 
+"Worthy the Lamb, for He was slain!" 
+
+4.
+To Him, enthroned by filial right 
+All power in heaven and earth proclaim, 
+Honor, and majesty, and might: 
+"Worthy the Lamb, for He was slain!" 
+
+5.
+Long as we live, and when we die, 
+And while in heaven with Him we reign, 
+This song our song of songs shall be: 
+"Worthy the Lamb, for He was slain!"
+
 ```
 
 - |   -  |

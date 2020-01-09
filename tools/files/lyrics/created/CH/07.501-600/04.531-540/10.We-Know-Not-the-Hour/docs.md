@@ -11,28 +11,27 @@ metadata:
 
 ```txt
 1.
-Gentle Jesus, meek and mild,
-Look upon a little child;
-Pity my simplicity,
-Suffer me to come to Thee.
+We know not the hour of the Master's appearing;
+Yet signs all foretell that the moment is nearing
+When He shall return 'tis a promise most cheering
+But we know not the hour.
+CHORUS:
+He will come (He will come), let us watch and be ready;
+He will come (He will come), hallelujah! hallelujah!
+He will come in the clouds of His Father's bright glory--
+But we know not the hour.
 
 2.
-Lamb of God, I look to Thee;
-Thou shalt my example be;
-Thou art gentle, meek, and mild,
-Thou wast once a little child.
+There's light for the wise who are seeking salvation;
+There's truth in the book of the Lord's revelation;
+Each prophecy points to the great comsummation
+But we know not the hour.
 
 3.
-Fain I would be as Thou art;
-Give me Thy obedient heart;
-Thou art pitiful and kind,
-Let me have Thy loving mind.
-
-4.
-I shall then show forth Thy praise,
-Serve Thee all my happy days;
-Then the world shall always see
-Christ, the Holy Child, in me.
+We'll watch and we'll pray, with our lamps trimmed and burning;
+We'll work and we'll wait till the Master's returning;
+We'll sing and rejoice, every omen discerning
+But we know not the hour.
 ```
 
 - |   -  |

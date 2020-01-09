@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Praise we the Lord, who made all beauty
-For all our senses to enjoy;
-Owe we our humble thanks and duty
-That simple pleasures never cloy;
-Praise we the Lord, who made all beauty
-For all our senses to enjoy.
+Blest hour when mortal man retires 
+To hold communion with his God, 
+To send to heaven his warm desires, 
+And listen to the sacred word. 
 
 2.
-Praise Him who loves to see young lovers,
-Fresh hearts that swell with youthful pride;
-Thank Him who sends the sun above us,
-As bridegroom fit to meet his bride;
-Praise Him who loves to see young lovers,
-Fresh hearts that swell with youthful pride.
+Blest hour when earthly cares resign 
+Their empire o'er his anxious breast; 
+While all around, the calm divine 
+Proclaims the holy day of rest. 
 
 3.
-Praise Him who by a simple flower
-Lifts up our hearts to things above;
-Thank Him who gives to each one power
-To find a friend to know and love;
-Praise Him who by a simple flower
-Lifts up our hearts to things above.
+Blest hour when God Himself draws nigh, 
+Well pleased His people's voice to hear, 
+To hush the penitential sigh, 
+And wipe away the mourner's tear. 
+
+4.
+Blest hour! for where the Lord resorts 
+Foretastes of future bliss are given; 
+And mortals find His earthly courts 
+The house of God, the gate of heaven.
+
 ```
 
 - |   -  |

@@ -11,35 +11,23 @@ metadata:
 
 ```txt
 1.
-Wake the song of joy and gladness;
-Hither bring your noblest lays;
-Banish every thought of sadness,
-Pouring forth your highest praise.
-Sing to Him whose care has brought us
-Once again with friends to meet,
-And whose loving voice has taught us
-Of the way to Jesus’ feet.
-
+Saviour, again to Thy dear name we raise 
+With one accord our parting hymn of praise. 
+We stand to bless Thee ere our worship cease, 
+Then, lowly kneeling, wait Thy word of peace. 
 
 2.
-Joyfully with songs and banners,
-We will greet the festal day;
-Shout aloud our glad hosannas,
-And our grateful homage pay.
-We will chant our Savior’s glory
-while our thoughts we raise above,
-Telling still the old, old, story,
-Precious theme- redeeming love!
+Grant us Thy peace upon our homeward way; 
+With Thee began, with Thee shall end, the day. 
+Guard Thou the lips from sin, the heart from shame, 
+That in this house have called upon Thy name. 
 
 3.
-Thanks to Thee, O holy Father,
-For the mercies of the year;
-May each heart, as here we gather,
-Swell with gratitude sincere,
-Thanks to Thee, O loving Savior,
-For redemption through Thy blood.
-Breathe upon us, Holy Spirit,
-Sweetly draw us near to God.
+Grant us Thy peace throughout our earthly life, 
+Our balm in sorrow, and our stay in strife. 
+Then when Thy voice shall bid our conflict cease, 
+Call us, O Lord, to Thine eternal peace!
+
 ```
 
 - |   -  |

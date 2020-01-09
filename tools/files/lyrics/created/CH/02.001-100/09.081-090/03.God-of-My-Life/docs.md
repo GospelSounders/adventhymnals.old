@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-O worship the King, all glorious above,
-O gratefully sing His wonderful love;
-Our Shield and Defender, the Ancient of Days,
-Pavilioned in splendor, and girded with praise.
+God of my life, whose gracious power 
+Through varied scenes my soul hath led, 
+Or turned aside the fatal hour, 
+Or lifted up my sinking head. 
 
 2.
-O tell of His might, O sing of His grace,
-Whose robe is the light, whose canopy space,
-His chariots of wrath the deep thunderclouds form,
-And dark is His path on the wings of the storm.
+In all my ways Thy hand I own, 
+Thy ruling providence I see: 
+Assist me still my course to run, 
+And still direct my paths to thee. 
 
 3.
-Thy bountiful care, what tongue can recite?
-It breathes in the air, it shines in the light;
-It streams from the hills, it descends to the plain,
-And sweetly distills in the dew and the rain.
+How do Thy mercies close me round! 
+Forever be Thy name adored; 
+I blush in all things to abound; 
+The servant of a gracious Lord. 
 
 4.
-Frail children of dust, and feeble as frail,
-In Thee do we trust, nor find Thee to fail;
-Thy mercies how tender, how firm to the end!
-Our Maker, Defender, Redeemer, and Friend.
+I rest beneath Thy kindly shade; 
+My griefs expire, my troubles cease; 
+Thou, Lord, on whom my soul is stayed, 
+Wilt keep me still in perfect peace.
+
 ```
 
 - |   -  |

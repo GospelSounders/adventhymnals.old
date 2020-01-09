@@ -11,20 +11,29 @@ metadata:
 
 ```txt
 1.
-Lord, dismiss us with thy blessing;
-fill our hearts with joy and peace;
-let us each, thy love possessing,
-triumph in redeeming grace.
-O refresh us, O refresh us,
-traveling through this wilderness.
+How gentle God's commands! 
+How kind His precepts are! 
+Come, cast your burdens on the Lord, 
+And trust His constant care. 
 
 2.
-Thanks we give and adoration
-for thy gospel’s joyful sound.
-May the fruits of thy salvation
-in our hearts and lives abound;
-ever faithful, ever faithful
-to the truth may we be found.
+Beneath His watchful eye 
+His saints securely dwell; 
+That hand which bears all nature up 
+Shall guard His children well. 
+
+3.
+Why should this anxious load 
+Press down your weary mind? 
+Haste to your Heavenly Father's throne, 
+And sweet refreshment find. 
+
+4.
+His goodness stands approved 
+Through each succeeding day; 
+I'll drop my burden at His feet, 
+And bear a song away.
+
 ```
 
 - |   -  |

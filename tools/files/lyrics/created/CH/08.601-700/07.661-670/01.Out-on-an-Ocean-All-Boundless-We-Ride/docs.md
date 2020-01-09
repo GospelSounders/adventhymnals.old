@@ -11,16 +11,34 @@ metadata:
 
 ```txt
 1.
-Holy, holy, holy, Holy is the Lord!
-Holy, holy, holy, Holy is our God!
-He who always liveth, Evermore the same
-Heav’n and earth He ruleth, Come and praise His name!
+Out on an ocean all boundless we ride, 
+We're homeward bound, homeward bound. 
+Tossed on the waves of a rough, rest less tide, 
+We're homeward bound, homeward bound. 
+Far from the safe, quiet harbor we've rode, 
+Seeking our Father's celestial abode, 
+Promise of which on us each is be stowed, 
+We're homeward bound, homeward bound. 
 
 2.
-Holy, holy, holy, Holy is the Lord!
-Holy, holy, holy, Holy is our God!
-Glorious adn beloved Is the One adored!
-Holy, holy, holy, Holy is the Lord.
+Wildly the storm sweeps us on as it roars. 
+We're homeward bound, homeward bound; 
+Look! yonder lie the bright heavenly shores, 
+We're homeward bound. homeward bound. 
+Steady, O pilot! stand firm at the wheel; 
+Steady, we soon shall out weather the gale; 
+O, how we fly 'neath the loud-creaking sail! 
+We're homeward bound, homeward bound. 
+
+3.
+Into the harbor of heaven now we glide, 
+We're home at last, home at last; 
+Softly we drift on its bright silver tide, 
+We're home at last, home at last. 
+Glory to God! all our dangers are o'er, 
+We stand secure on the glorified shore; 
+Glory to God! we shall shout ever more; 
+We're home at last, home at last.
 ```
 
 - |   -  |

@@ -11,23 +11,33 @@ metadata:
 
 ```txt
 1.
-O safe to the Rock that is higher than I,
-My soul in its conflicts and sorrows would fly;
-So sinful, so weary, Thine, Thine, would I be;
-Thou blest “Rock of Ages,” I’m hiding in Thee.
-
+Baptize us anew 
+With power from on high,
+With love, O refresh us! 
+Dear Savior, draw nigh.
+CHORUS:
+We humbly beseech Thee, Lord Jesus, we pray,
+With love and the Spirit Baptize us today.
+We praise Thee, we bless Thee, dear Lamb that was slain
+We laud and adore Thee, Amen and Amen.
 
 2.
-In the calm of the noontide, in sorrow’s lone hour,
-In times when temptation casts over me its power;
-In the tempests of life, on its wide, heaving sea,
-Thou blest “Rock of Ages,“ I’m hiding in Thee.
+Unworthy we cry, 
+Unholy, unclean,
+O wash us and cleanse us 
+From sin's guilty stain.
 
 3.
-How oft in the conflict, when pressed by the foe,
-I have fled to my refuge and breathed out my woe;
-How often, when trials like sea billows roll,
-Have I hidden in Thee, O Thou Rock of my soul.
+O heavenly Dove, 
+Descend from on high!
+We plead Thy rich blessing; 
+In mercy draw nigh.
+
+4.
+O list the glad voice! 
+From heaven it came:
+Thou art My beloved, 
+Well pleased I am.
 ```
 
 - |   -  |

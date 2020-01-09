@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-This is my Father’s world,
-and to my listening ears
-all nature sings, and round me rings
-the music of the spheres.
-This is my Father’s world:
-I rest me in the thought
-of rocks and trees, of skies and seas;
-his hand the wonders wrought.
+There is a book that all may read, 
+Which heavenly truth imparts; 
+And all the lore its scholars need, 
+Pure eyes and Christian hearts. 
 
 2.
-This is my Father’s world,
-the birds their carols raise,
-the morning light, the lily white,
-declare their maker’s praise.
-This is my Father’s world:
-he shines in all that’s fair;
-in the rustling grass I hear him pass;
-he speaks to me everywhere.
+The works of God above, below, 
+Within us, and around, 
+Are pages in that book, to show 
+How God Himself is found. 
 
 3.
-This is my Father’s world.
-O let me ne’er forget
-that though the wrong seems oft so strong,
-God is the ruler yet.
-This is my Father’s world:
-why should my heart be sad?
-The Lord is King; let the heavens ring!
-God reigns; let the earth be glad!
+The glorious sky, embracing all, 
+Is like the Maker's love, 
+Wherewith encompassed, great and small 
+In peace and order move. 
+
+4.
+The dew of Heaven is like Thy grace, 
+It steals in silence down; 
+But where it falls, the favored place 
+By richest fruits is known. 
+
+5.
+Thou, who hast given me eyes to see, 
+And love for what is fair, 
+Give me a heart to find out Thee, 
+And read Thee everywhere.
+
 ```
 
 - |   -  |

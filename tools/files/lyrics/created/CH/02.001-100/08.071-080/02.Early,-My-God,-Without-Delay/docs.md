@@ -11,23 +11,29 @@ metadata:
 
 ```txt
 1.
-Creator of the stars of night,
-Thy people’s everlasting light,
-O Christ, Thou Saviour of us all,
-We pray Thee, hear us when we call.
+Early my God, without delay 
+I haste to seek Thy face; 
+My thirsty spirit faints away 
+Without Thy cheering grace. 
 
 2.
-At the great name of Jesus, now
-All knees must bend, all hearts must bow;
-And things celestial Thee shall own,
-And things terrestrial, Lord alone.
+So pilgrims on the scorching sand, 
+Beneath a burning sky, 
+Long for a cooling stream at hand, 
+And they must drink or die. 
 
 3.
-To God the Father, God the Son,
-And God the Spirit, Three in One,
-Laud, honour, might, and glory be
-From age to age eternally.
-Amen.
+I've seen Thy glory and Thy power 
+Through all Thy temple shine; 
+My God, repeat that heavenly hour, 
+That vision so divine. 
+
+4.
+Not life itself, with all its joys, 
+Can my best passions move, 
+Or raise so high my cheerful voice 
+As Thy forgiving love.
+
 ```
 
 - |   -  |

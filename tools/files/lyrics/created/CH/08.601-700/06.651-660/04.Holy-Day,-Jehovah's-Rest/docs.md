@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Lord, bless our homes with peace and love and laughter,
-With understanding and with loyalty.
-May we together follow Christ the Master
-And know the blessing of His sov’reignty.
+Holy day, Jehovah's rest, 
+Of creation's week the best; 
+Last of all the chosen seven, 
+Blessed of God, to man 'twas given. 
+
+Refrain:
+Welcome, welcome, welcome, welcome; 
+Glad we hail its presence blest, 
+'Tis the great Jehovah's rest. 
 
 2.
-May every heart receive His loving spirit
-And know the t4ruth that makes life truly free;
-Then, in that spirit may we live united,
-And find in God our deep security.
+First His six days' work was done, 
+Then the Sabbath was begun; 
+Thus He blessed the seventh day, 
+Thus in resting we obey. 
+
+Refrain:
+Welcome, welcome, welcome, welcome; 
+Glad we hail its presence blest, 
+'Tis the great Jehovah's rest. 
 
 3.
-Forgive the hurts our selfishness inflicted
-On whose we love and those who love us best.
-Christ, heal the scars and draw us all together
-In Him whose will is peace and joy and rest.
+Thousands have His plan reversed, 
+Resting now upon the first; 
+Search the Book and you shall know 
+There's no scripture tells them so. 
+
+Refrain:
+Welcome, welcome, welcome, welcome; 
+Glad we hail its presence blest, 
+'Tis the great Jehovah's rest. 
 
 4.
-Father, in gratitude for homes and loved one,
-We open now our hearts to all mankind.
-Grand us Your spirit love for one another
-So in Your peace may we our concord find.
+All who speak the truth must say 
+It was man who changed the day; 
+In God's word no change appears 
+Through the whole six thousand years! 
+Thus I searched; and when I saw 
+Only one great Sabbath law, 
+Then I hastened to obey' 
+Plainly, 'twas the only way.
+
+Refrain:
+Welcome, welcome, welcome, welcome; 
+Glad we hail its presence blest, 
+'Tis the great Jehovah's rest. 
+
 ```
 
 - |   -  |

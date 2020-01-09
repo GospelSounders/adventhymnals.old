@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Lord of the boundless curves of space
-And time’s deep mystery,
-To Your creative might we trace
-All nature’s energy.
+Lord of the ocean vast and deep, 
+With sovereign power Thy children keep; 
+Thy glorious sun that reigns on high 
+Is rivaled by Thy watchful eye. 
 
 2.
-Your mind conceived the galaxy,
-Each atom’s secret planned,
-And every age of history
-Your purpose, Lord, has spanned.
+Lord of the storm, supreme in power, 
+Send forth Thy light in earth's dark hour; 
+As flashing lightning speeds through space, 
+Advance Thy truth o'er all our race. 
 
 3.
-Yours is the image stamped on man,
-Though marred by man’s own sin;
-And Yours the liberating plan
-Again his soul to win.
+Lord of the bounds of east and west, 
+Speed on Thy great millennial rest 
+Till saints of every age and clime 
+Behold Thy glorious form divine. 
 
 4.
-Give us to know Your truth; but more,
-The strength to do Your will;
-Until the love our souls adore
-Shall all our being fill.
+O Sovereign Lord, omniscient, reign 
+Supreme o'er all Thy vast domain; 
+Let universal voices sing 
+Earth's loveliest anthem to her King.
+
 ```
 
 - |   -  |

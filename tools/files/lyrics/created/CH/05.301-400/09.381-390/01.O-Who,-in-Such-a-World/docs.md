@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-Holy Sabbath day of rest,
-By our Master richly blest,
-God created and divine,
-Set aside for holy time.
-
+O who, in such a world as this, 
+Could bear his lot of pain, 
+Did not one radiant hope of bliss 
+Unclouded yet remain? 
 
 2.
-Seek not pleasures of this earth,
-With its folly, noise, and mirth,
-There are better things in store,
-Over on the other shore.
+That hope the sovereign Lord has given 
+Who reigns above the skies; 
+Hope that unites the soul to heaven 
+By faith's endearing ties. 
 
 3.
-As the Sabbath draweth on
-Friday eve at set of sun,
-Christian household then should meet,
-Sing and pray at Jesus’feet.
+Each care, each ill of mortal birth, 
+Is sent in pitying love, 
+To lift the hungering heart from earth 
+And speed its flight above. 
 
 4.
-Asking Him for saving grace,
-Also vict’ry in the race,
-And to help us by His pow’r,
-To keep holy every hour.
+And every pang that wrings the breast, 
+And every joy that dies, 
+Bids us to seek a purer rest 
+And trust to holier ties.
 ```
 
 - |   -  |

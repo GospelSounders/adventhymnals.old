@@ -11,44 +11,44 @@ metadata:
 
 ```txt
 1.
-Life is great! So sing about it,
-As we can and as we should-
-Shop and buses, towns and people,
-Village, farmland, field and wood,
-Life is great and life is given;
-Life is lovely, free and good.
+The dawn of God's dear Sabbath
+Breaks o'er the earth again,
+As some sweet summer morning
+After a night of pain;
+It comes as cooling showers
+To some exhausted land,
+As shade of clustered palm trees
+'Mid weary wastes of sand.
 
 2.
-Life is great! What ever happens,
-Snow or sunshine, joy or pain,
-Hardship, grief or disillusion,
-Suffering that I can’t explain
-Life is great if someone loves me,
-Holds my hand and calls my name.
+Lord, we would bring for offering,
+Though marred with earthly soil,
+A week of earnest labor,
+Of steady, faithful toil,
+Fair fruits of self denial,
+Of strong, deep love to Thee,
+Fostered by Thine own Spirit,
+In true humility.
 
 3.
-Love is great! The love of lovers,
-Whispered words and longing eyes;
-Love that gazes at the cradle
-Where a child of loving lies;
-Love that lasts when youth has faded,
-Bends with age, but never dies.
+And we would bring our burden
+Of sinful thought and deed,
+In Thy pure presence kneeling,
+From bondage to be freed,
+Our heart's most bitter sorrow
+For all Thy work undone-
+So many talents wasted!
+So few bright laurels won!
 
 4.
-Love is giving and receiving
-Boy and girl, or friend with friend;
-Love is bearing and forgiving
-All the hurts that hate can send;
-Love’s the greatest way of living,
-Hoping, trusting to the end.
-
-5.
-God is great! in Christ He loved us,
-As we should, but never can-
-Love that suffered, hoped and trusted
-When disciples turned and ran,
-Love that broke through death forever.
-Praise that loving, living Man!
+And with that sorrow mingling,
+A steadfast faith, and sure,
+And love so deep and fervent,
+For Thee to make it pure,
+In Thy dear presence finding
+The pardon that we need,
+And then the peace so lasting-
+Celestial peace indeed.
 ```
 
 - |   -  |

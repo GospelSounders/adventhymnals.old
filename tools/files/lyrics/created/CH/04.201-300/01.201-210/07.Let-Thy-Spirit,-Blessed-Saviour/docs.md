@@ -11,23 +11,29 @@ metadata:
 
 ```txt
 1.
-It may be at morn, when the day is awaking,
-When sunlight through darkness and shadow is breaking,
-That Jesus will come in the fullness of glory
-To receive from the world His own.
-
+Let thy Spirit, blessed Saviour, 
+Come and bid our doubtings cease; 
+Come, O, come with love and favor, 
+Fill us all with joy and peace. 
 
 2.
-It may be at midday, it may be at twilight,
-It may be, perchance, that the blackness of midnight
-Will burst into light in the blaze of His glory,
-When Jesus receives His own.
+Fearful dangers are around us, 
+Satan watches to destroy; 
+Lord, our foes would fain confound us; 
+O, for us thy might employ! 
 
 3.
-O joy! O delight! should we go without dying,
-No sickness, no sadness, no dread, and no crying,
-Caught up through the clouds with our Lord into glory,
-When Jesus receives His own.
+On thy word our souls are resting; 
+Taught by thee, thy name we love; 
+Sweetest of all names is Jesus; 
+How it doth our spirits move! 
+
+4.
+Let us not, O Lord, be weary 
+Of the roughness of the way; 
+Though the road be often dreary, 
+Thou shalt drive our gloom away.
+
 ```
 
 - |   -  |

@@ -11,23 +11,37 @@ metadata:
 
 ```txt
 1.
-There’ll be no dark valleys when Jesus comes,
-There’ll be no dark valleys when Jesus comes,
-There’ll be no dark valleys when Jesus comes,
-To gather His loved ones home.
-
+Lord, I hear of showers of blessing, 
+Thou art scattering full and free; 
+Showers, the thirsty soul refreshing; 
+Let some drops now fall on me, 
+Even me, even me, 
+Let some drops now fall on me. 
 
 2.
-There’ll be no more sorrow when Jesus comes,
-There’ll be no more sorrow when Jesus comes,
-There’ll be a happy tomorrow when Jesus comes,
-To gather His loved ones home.
+Pass me not, O gracious Father! 
+Sinful though my heart may be; 
+Thou might'st leave me, but the rather 
+Let thy mercy rest on me. 
+Even me, even me, 
+Let some drops now fall on me. 
 
 3.
-There’ll be songs of greeting when Jesus comes,
-There’ll be songs of greeting when Jesus comes,
-There’ll be songs of greeting when Jesus comes,
-To gather His loved ones home.
+Have I long in sin been sleeping? 
+Long been slighting, grieving, thee? 
+Has the world my heart been keeping? 
+O forgive and rescue me! 
+Even me, even me, 
+Let some drops now fall on me. 
+
+4.
+Pass me not, O Holy Spirit! 
+Thou canst make the blind to see; 
+Testify of Jesus' merit, 
+Speak the word of peace to me. 
+Even me, even me, 
+Let some drops now fall on me.
+
 ```
 
 - |   -  |

@@ -11,32 +11,33 @@ metadata:
 
 ```txt
 1.
-Lord of the Sabbath and its light,
-I hail Thy hallowed day of rest;
-It is my weary soul’s delight,
-The solace of my careworn breast,
-The solace of my careworn breast.
+He leadeth me: O blessed thought! 
+O words with heavenly comfort fraught! 
+Whate'er I do, where'er I be,
+Still 'tis God's hand that leadeth me.
+CHORUS:
+He leadeth me, He leadeth me, 
+By His own hand He leadeth me; 
+His faithful follower I would be, 
+For by His hand He leadeth me.
 
 2.
-O sacred day of peace and joy,
-Thy hours are ever dear to me;
-Ne’er may a sinful thought destroy
-The holy calm I find in thee,
-The holy calm I find in thee.
+Sometimes mid scenes of deepest gloom, 
+Sometimes where Eden's bowers bloom,
+By waters still, o'er troubled sea,
+Still 'tis His hand that leadeth me.
 
 3.
-How sweetly now they glide along!
-How hallowed is the calm they yield!
-Transporting is their rapturous song,
-And heavenly visions seem revealed,
-And heavenly visions seem revealed.
+Lord, I would place my hand in Thine, 
+Nor ever murmur nor repine; 
+Content, whatever lot I see, 
+Since 'tis my God that leadeth me.
 
 4.
-O Jesus, let me ever hail
-Thy presence with the day of rest;
-Then will Thy servant never fail
-To deem Thy Sabbath doubly blest,
-To deem Thy Sabbath doubly blest.
+And when my task on earth is done, 
+When by Thy grace the victory's won,
+E'en death's cold wave I will not flee,
+Since God through Jordan leadeth me. 
 ```
 
 - |   -  |

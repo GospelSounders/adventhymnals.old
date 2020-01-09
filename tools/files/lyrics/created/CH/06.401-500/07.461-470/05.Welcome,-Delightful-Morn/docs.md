@@ -11,34 +11,31 @@ metadata:
 
 ```txt
 1.
-I heard the voice of Jesus say,
-“Come unto Me and rest;
-Lay down, thou weary one, lay down
-Thy head upon My breast.”
-I came to Jesus as I was,
-Weary and worn and sad;
-I found in Him a resting place,
-And He has made me glad.
+Welcome, delightful morn, 
+Thou day of sacred rest! 
+I hail thy kind return; 
+Lord, make these moments blest; 
+From the low plane of mortal toys 
+I soar to reach immortal joys, 
+I soar to reach immortal joys. 
 
 2.
-I heard the voice of Jesus say,
-“Behold, I freely give
-The living water; thirsty one,
-Stoop down and drink and live.”
-I came to Jesus, and I drank
-Of that life giving stream;
-My thirst was quench’d, my soul revived,
-And now I live in Him.
+Now may the King descend, 
+And fill His throne with grace; 
+Thy scepter, Lord, extend, 
+While saints address Thy face; 
+Let sinners feel Thy quickening word, 
+And learn to know and fear the Lord, 
+And learn to know and fear the Lord. 
 
 3.
-I heard the voice of Jesus say,
-“I am this dark world’s light;
-Look unto Me, thy morn shall rise,
-And all thy day be bright.”
-I looked to Jesus, and I found
-In Him my star, my sun;
-And in that light of life I’ll walk,
-Till trav’ling days are done.
+Descend, celestial Dove, 
+With all Thy quickening powers; 
+Disclose a Saviour's love, 
+And bless the sacred hours; 
+Then shall my soul new life obtain, 
+Nor Sabbaths be enjoyed in vain, 
+Nor Sabbaths be enjoyed in vain.
 ```
 
 - |   -  |

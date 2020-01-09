@@ -11,29 +11,22 @@ metadata:
 
 ```txt
 1.
-The Lord is my light; then why should I fear?
-By day and by night His presence is near;
-He is my salvation from sorrow and sin;
-This blessed persuasion the Spirit brings in.
-
+Jesus, where'er Thy people meet, 
+There they behold Thy mercy seat; 
+Where'er they seek Thee, Thou art found, 
+And every place is hallowed ground; 
 
 2.
-The Lord is my light; though clods may arise,
-Faith, stronger than sight, looks up to the skies
-Where Jesus forever in glory doth reign:
-Then how can I ever in darkness remain?
+For Thou, within no walls confined, 
+Dost dwell with those of humble mind; 
+Such ever bring Thee where they come, 
+And, going, take Thee to their home. 
 
 3.
-The Lord is my light, the Lord is my strength;
-I know in His might I’ll conquer at length;
-My weakness in mercy He covers with power,
-And, walking by faith, He upholds me each hour.
-
-4.
-The lord is my light, my all and in all;
-There is in His sight no darkness at all;
-He is my Redeemer, my Savior and King;
-With saints and with angels His praises I sing.
+Great Shepherd of Thy chosen few, 
+Thy former mercies now renew; 
+And to our waiting hearts proclaim 
+The sweetness of Thy saving name.
 ```
 
 - |   -  |

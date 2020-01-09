@@ -11,31 +11,22 @@ metadata:
 
 ```txt
 1.
-As water to the thirsty,
-As beauty to the eyes,
-As strength that follows weakness,
-As truth instead of lies;
-As song-time and springtime and summertime to be,
-So is my Lord, my living Lord,
-So is my Lord to me.
+How sweet the light of Sabbath eve! 
+How soft the sunbeams lingering there! 
+For these blest hours the world I leave, 
+Wafted on wings of faith and prayer. 
 
 2.
-Like calm in place of clamor
-Like peace that follows pain,
-Like meeting after parting,
-Like sunshine after rain;
-Like moonlight and starlight and sunlight on the sea,
-So is my Lord, my living Lord,
-So is my Lord to me.
+Season of rest! the tranquil soul 
+Feels the sweet calm, and melts in love; 
+And while these sacred moments roll, 
+Faith sees a smiling heaven above. 
 
 3.
-As sleep that follows fever,
-As gold instead of grey,
-As freedom after bondage,
-As sunrise to the day;
-As home to the trav’ler and all he longs to see,
-So is my Lord, my living Lord,
-So is my Lord to me.
+Nor will our days of toil be long; 
+Our pilgrimage will soon be trod; 
+And we shall join the ceaseless song, 
+The endless Sabbath of our God.
 ```
 
 - |   -  |

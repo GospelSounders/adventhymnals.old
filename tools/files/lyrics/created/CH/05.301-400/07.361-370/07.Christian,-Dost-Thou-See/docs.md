@@ -11,23 +11,44 @@ metadata:
 
 ```txt
 1.
-Rescue the perishing, care for the dying,
-snatch them in pity from sin and the grave;
-weep o’er the erring one, lift up the fallen,
-tell them of Jesus, the mighty to save.
-
+Christian, dost thou see them 
+On the holy ground, 
+How the powers of darkness 
+Rage thy steps around? 
+Christian, up and smite them, 
+Counting gain but loss, 
+In the strength God giveth, 
+Soldier of the cross! 
 
 2.
-Though they are slighting him, still he is waiting,
-waiting the penitent child to receive;
-plead with them earnestly, plead with them gently;
-he will forgive if they only believe.
+Christian, dost thou see them, 
+How they work within, 
+Striving, tempting, luring, 
+Goading into sin? 
+Christian, never tremble; 
+Never be downcast; 
+Gird thee for the battle, 
+Watch and pray and fast. 
 
 3.
-Rescue the perishing, duty demands it;
-strength for thy labor the Lord will provide;
-back to the narrow way patiently win them;
-tell the poor wanderer a Savior has died.
+Christian, dost thou see them, 
+How they speak thee fair? 
+"Always fast and vigil? 
+Always watch and prayer?" 
+Christian, answer boldly, 
+"While I breathe I pray!" 
+Peace shall follow battle, 
+Night shall end in day. 
+
+4.
+Hear the words of Jesus: 
+"O My servant true; 
+Thou art very weary 
+I was weary too; 
+But that toil shall make thee 
+Someday all Mine own, 
+And the end of sorrow 
+Shall be near My throne." Amen.
 ```
 
 - |   -  |

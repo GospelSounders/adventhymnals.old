@@ -11,34 +11,28 @@ metadata:
 
 ```txt
 1.
-Is this a day of new beginnings,
-Time to remember and move on,
-Time too believe what love is bringing,
-Laying to rest the pain that’s gone?
+Ye servants of God, your Master proclaim, 
+And publish abroad His wonderful name; 
+The name all-victorious of Jesus extol, 
+His kingdom is glorious and rules over all. 
 
 2.
-How can the seasons of a planet
-Mindlessly spinning round its sun
-With just a human name and number
-Say that some new thing has begun?
+God ruleth on high, almighty to save, 
+And still He is nigh, His presence we have; 
+The great congregation His triumph shall sing, 
+Ascribing salvation to Jesus, our King.
 
 3.
-Yet through the life and death of Jesus
-Love’s mighty Spirit, now as then,
-Can make for us a world of difference
-As faith and hope are born again.
+Salvation to God, who sits on the throne! 
+Let all cry aloud and honor the Son; 
+The praises of Jesus the angels proclaim, 
+Fall down on their faces and worship the Lamb.
 
 4.
-Then let us, with the Spirit’s daring,
-Step from the past and leave behind
-Its disappointment, guilt, and grieving,
-Seeking new paths, and sure to find.
-
-5.
-Christ is alive, and goes before us
-To show and share what love can do.
-This is a day of new beginnings;
-Our God is making all things new.
+Then let us adore and give him His right, 
+All glory and power, all wisdom and might; 
+All honor and blessing with angels above, 
+And thanks never ceasing and infinite love.
 ```
 
 - |   -  |

@@ -11,28 +11,37 @@ metadata:
 
 ```txt
 1.
-Let us with a gladsome mind
-Praise the Lord, for He is kind:
-For His mercies shall endure,
-Ever faithful, ever sure.
+As with gladness men of old
+Did the guiding star behold,
+As with joy they hailed its light,
+Leading onward, beaming bright,
+So, most gracious Lord, may we
+Evermore be led to Thee.
 
 2.
-He, with all commanding might,
-Filled the new made world with light:
-For His mercies shall endure,
-Ever faithful, ever sure.
+As with joyful steps they sped
+To that lowly manger bed,
+There to bend the knee before
+Him whom heav'n and earth adore,
+So may we with willing feet
+Ever seek Thy mercy seat.
 
 3.
-All things living He does feed;
-His full hand supplies their need:
-For His mercies shall endure,
-Ever faithful, ever sure.
+As they offered gifts most rare
+At that manger rude and bare,
+So may we with holy joy,
+Pure, and free from sin's alloy,
+All our costliest treasures bring,
+Christ, to Thee our heav'nly King.
 
 4.
-Let us then with gladsome mind
-Praise the Lord, for He is kind:
-For His mercies shall endure,
-Ever faithful, ever sure.
+Holy Jesus, every day
+Keep us in the narrow way;
+And, when earthly things are past,
+Bring our ransomed souls at last
+Where they need no star to guide,
+Where no clouds Thy glory hide.
+
 ```
 
 - |   -  |

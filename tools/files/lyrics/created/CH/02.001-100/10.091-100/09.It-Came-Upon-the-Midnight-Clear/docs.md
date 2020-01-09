@@ -11,29 +11,35 @@ metadata:
 
 ```txt
 1.
-Be not dismayed whate’er betide,
-God will take care of you;
-beneath his wings of love abide,
-God will take care of you.
-
+It came upon the midnight clear, 
+That glorious song of old, 
+From angels bending near the earth, 
+To touch their harps of gold: 
+"Peace on the earth, goodwill to men 
+From heavens all gracious King;" 
+The world in solemn stillness lay, 
+To hear the angels sing. 
 
 2.
-Through days of toil when heart doth fail,
-God will take care of you;
-when dangers fierce your path assail,
-God will take care of you.
+Still through the cloven skies they come, 
+With peaceful wings unfurled; 
+And still their heavenly music floats 
+O'er all the weary world: 
+Above its sad and lowly plains 
+They bend on hovering wing, 
+And ever o'er its Babel sounds 
+The blessed angels sing. 
 
 3.
-All you may need he will provide,
-God will take care of you;
-nothing you ask will be denied,
-God will take care of you.
+And ye, beneath life's crushing load, 
+Whose forms are bending low, 
+Who toil along the climbing way 
+With painful steps and slow' 
+Look now! for glad and golden hours 
+Come swiftly on the wing; 
+O rest beside the weary road, 
+And hear the angels sing.
 
-4.
-No matter what may be the test,
-God will take care of you;
-lean, weary one, upon his breast,
-God will take care of you.
 ```
 
 - |   -  |

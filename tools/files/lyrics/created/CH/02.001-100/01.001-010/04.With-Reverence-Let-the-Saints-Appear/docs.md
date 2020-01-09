@@ -11,36 +11,32 @@ metadata:
 
 ```txt
 1.
-Praise, my soul, the King of heaven;
-To his feet thy tribute bring;
-Ransomed, healed, restored, forgiven,
-Who like thee His praise should sing?
-Praise Him, praise Him, alleluia!
-Praise the everlasting King.
+With reverence let the saints appear, 
+And bow before the Lord; 
+His high commands with reverence hear, 
+And tremble at His word; 
+And tremble at His word.
 
 2.
-Praise him for his grace and favor
-To our fathers in distress;
-Praise him still the same forever,
-Slow to chide and swift to bless:
-Praise Him, praise Him, alleluia!
-Glorious in His faithfulness.
+How terrible Thy glories be! 
+How bright Thine armies shine! 
+Where is the power that vies with Thee, 
+Or truth compared with Thine? 
+Or truth compared with Thine? 
 
 3.
-Tenderly He shields and spares us;
-Well our feeble frame he knows;
-In his hands He gently bears us,
-Rescues us from all our foes.
-Praise Him, praise Him, alleluia!
-Widely yet his mercy flows.
+Sing, all ye ransomed of the Lord, 
+Your great Deliverer sing; 
+Ye pilgrims now for Zion bound, 
+Be joyful in your King; 
+Be joyful in your King. 
 
 4.
-Angels, help us to adore him;
-Ye behold him face to face;
-Sun and moon, bow down before him,
-Dwellers all in time and space.
-Praise Him, praise Him, alleluia!
-Praise with us the God of grace.
+O Jesus, Lord of earth and heaven, 
+Our life and joy, to Thee 
+Be honor, thanks, and blessing given 
+Through all eternity; 
+Through all eternity.
 ```
 
 - |   -  |

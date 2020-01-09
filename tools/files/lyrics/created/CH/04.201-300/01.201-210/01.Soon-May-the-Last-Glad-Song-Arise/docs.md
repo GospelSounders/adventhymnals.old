@@ -11,34 +11,23 @@ metadata:
 
 ```txt
 1.
-Christ is coming! let creation
-Bid her groans and travail cease;
-Let the glorious proclamation
-Hope restore and faith increase;
-Christ is coming! Christ is coming!
-Come, Thou blessed Prince of Peace!
-(Prince of Peace!)
-Come, Thou blessed Prince of Peace!
+Soon may the last glad song arise 
+Through all the millions of the skies; 
+That song of triumph which records 
+That all the earth is now the Lord's. 
 
 2.
-Earth can now but tell the story
-Of Thy bitter cross and pain;
-She shall yet behold Thy glory
-When Thou comest back to reign;
-Christ is coming! Christ is coming!
-Let each heart repeat the strain.
-(repeat the strain)
-Let each heart repeat the strain.
+Let thrones and powers and kingdoms be 
+Obedient, mighty God, to Thee; 
+And over land and stream and main 
+Wave Thou the scepter of Thy reign. 
 
 3.
-With that “blessed hope” before us,
-Let no harp remain unstrung;
-Let the mighty advent chorus
-Onward roll from tongue to tongue:
-Christ is coming! Christ is coming!
-Come, Lord Jesus, quickly come!
-(quickly come!)
-Come, Lord Jesus, quickly come!
+O let the anthem now might swell, 
+And host to host the triumph tell, 
+Till not one rebel heart remains, 
+But over all the Savior reigns!
+
 ```
 
 - |   -  |

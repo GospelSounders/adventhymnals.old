@@ -11,22 +11,32 @@ metadata:
 
 ```txt
 1.
-O perfect Love, all human thought transcending,
-lowly we kneel in prayer before thy throne,
-that theirs may be the love which knows no ending,
-whom thou forevermore dost join in one.
+A glory in the word we find 
+When grace restores our sight; 
+But sin has darkened all the mind, 
+And veiled the heavenly light, 
+And veiled the heavenly light. 
 
 2.
-O perfect Life, be thou their full assurance
-of tender charity and steadfast faith,
-of patient hope and quiet, brave endurance,
-with childlike trust that fears nor pain nor death.
+When God's own Spirit clears our view, 
+How bright the doctrines shine! 
+Their holy fruits and sweetness show 
+The author is divine, 
+The author is divine. 
 
 3.
-Grant them the joy which brightens earthly sorrow;
-grant them the peace which calms all earthly strife,
-and to life’s day the glorious unknown morrow
-that dawns upon eternal love and life.
+How blest are we, with open face 
+To view Thy glory, Lord, 
+And all Thy image here to trace, 
+Reflected in Thy word! 
+Reflected in Thy word! 
+
+4.
+O teach us, as we look, to grow 
+In holiness and love. 
+That we may long to see and know 
+Thy glorious face above, 
+Thy glorious face above.
 ```
 
 - |   -  |

@@ -11,23 +11,41 @@ metadata:
 
 ```txt
 1.
-My Father is omnipotent
-And that you can’t deny;
-A God of might and miracles;
-‘Tis written in the sky.
-
+Hark! the herald angels sing,
+"Glory to the new born King,
+peace on earth, and mercy mild,
+God and sinners reconciled!"
+Joyful, all ye nations rise,
+join the triumph of the skies;
+with th' angelic host proclaim,
+"Christ is born in Bethlehem!"
+Hark! the herald angels sing,
+"Glory to the new born King!"
 
 2.
-Though here His glory has been shown,
-We still can’t fully see
-The wonders of His might, His throne;
-‘Till eternity.
+Christ, by highest heaven adored;
+Christ, the everlasting Lord;
+late in time behold him come,
+offspring of a virgin's womb.
+Veiled in flesh the Godhead see;
+hail th' incarnate Deity,
+pleased with us in flesh to dwell,
+Jesus, our Emmanuel.
+Hark! the herald angels sing,
+"Glory to the new born King!"
 
 3.
-The Bible tells us of His power
-And wisdom all way through;
-And every little bird and flower
-Are testimonies, too.
+Hail the heaven-born Prince of Peace!
+Hail the Sun of Righteousness!
+Light and life to all he brings,
+risen with healing in his wings.
+Mild he lays his glory by,
+born that we no more may die,
+born to raise us from the earth,
+born to give us second birth.
+Hark! the herald angels sing,
+"Glory to the new born King!"
+
 ```
 
 - |   -  |

@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Be Thou my Vision, O Lord of my heart;
-Naught be all else to me, save that Thou art
-Thou my best Thought, by day or by night,
-Waking or sleeping, Thy presence my light.
+The golden morning is fast approaching; 
+Jesus soon will come 
+To take His faithful and happy children 
+To their promised home. 
+
+Refrain:
+O, we see the gleams of the golden morning 
+Piercing through this night of gloom! 
+O, we see the gleams of the golden morning 
+That will burst the tomb. 
 
 2.
-Be Thou my Wisdom, and Thou my true Word;
-I ever with Thee and Thou with me, Lord;
-Thou my great Father, I Thy true son;
-Thou in me dwelling, and I with Thee one.
+The Gospel summons will soon be carried 
+To the nations round; 
+The Bridegroom then will cease to tarry 
+And the trumpet sound. 
+
+Refrain:
+O, we see the gleams of the golden morning 
+Piercing through this night of gloom! 
+O, we see the gleams of the golden morning 
+That will burst the tomb. 
 
 3.
-Riches I heed not, nor man’s empty praise,
-Thou mine Inheritance, now and always:
-Thou and Thou only, first in my heart,
-High King of Heaven, my Treasure Thou art.
+Attended by all the shining angels, 
+Down the flaming sky 
+The Judge will come, and will take His people 
+Where they will not die. 
+
+Refrain:
+O, we see the gleams of the golden morning 
+Piercing through this night of gloom! 
+O, we see the gleams of the golden morning 
+That will burst the tomb. 
 
 4.
-High King of Heaven, my victory won,
-May I reach Heaven’s joys, O bright Heaven’s Sun!
-Heart of my own heart, whatever befall,
-Still be my Vision, O Ruler of all.
+There those loved ones who have long been parted 
+Will all meet that day; 
+The tears of those who are brokenhearted 
+Will be wiped away.
+
+Refrain:
+O, we see the gleams of the golden morning 
+Piercing through this night of gloom! 
+O, we see the gleams of the golden morning 
+That will burst the tomb. 
+
 ```
 
 - |   -  |

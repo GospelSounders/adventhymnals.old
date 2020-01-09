@@ -11,34 +11,44 @@ metadata:
 
 ```txt
 1.
-Lord, whose love in humble service
-Bore the weight of human need,
-Who upon the cross, forsaken,
-Worked Your mercy’s perfect deed:
-We, Your servants, bring the worship
-Not of voice alone, but heart;
-Consecrating to Your purpose
-Every gift which You impart.
+O Master! When Thou Callest 
+No voice may say Thee "Nay;" 
+For blest are they that follow 
+Where Thou dost lead the way; 
+In freshest prime of morning, 
+Or fullest glow of noon, 
+The note of heavenly warning 
+Can never come too soon. 
 
 2.
-Still Your children wander homeless;
-Still the hungry cry for bread;
-Still the captives long for freedom;
-Still in grief we mourn our dead.
-As you, Lord, in deep compassion
-Healed the sick and freed the soul,
-By Your Spirit send Your power
-To our world to make it whole.
+O Master! When Thou Callest 
+No foot may shrink in fear; 
+For they who trust Thee wholly 
+Shall find Thee ever near; 
+And chamber still and lonely, 
+Or busy harvest field, 
+Where Thou, Lord, rulest only, 
+Shall precious produce yield. 
 
 3.
-As we worship, grant us vision,
-Till your love’s revealing light
-In its height and depth and greatness
-Dawns upon our quickened sight,
-Making known the needs and burdens
-Your compassion bids us bear,
-Stirring us to ardent service,
-Your abundant life to share.
+O Master! When Thou Callest 
+No heart may dare refuse; 
+'Tis honor, highest honor 
+Where Thou dost deign to use 
+Our brightest and our fairest, 
+Our dearest-all are Thine; 
+Thou who for each one carest, 
+We hail Thy love's design. 
+
+4.
+They who go forth to serve Thee, 
+We, too, who serve at home, 
+May watch and pray together 
+Until Thy kingdom come. 
+In Thee for aye united, 
+Our song of hope we raise, 
+Till that blest shore is sighted. 
+Where all shall turn to praise!
 ```
 
 - |   -  |

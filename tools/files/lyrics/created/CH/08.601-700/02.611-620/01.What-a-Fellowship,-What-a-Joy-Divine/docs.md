@@ -11,28 +11,27 @@ metadata:
 
 ```txt
 1.
-Awake, my soul! stretch every nerve,
-And press with vigor on;
-A heavenly race demands thy zeal,
-And an immortal crown.
+What a fellowship, what a joy divine,
+Leaning on the everlasting arms;
+What a blessedness, what a peace is mine,
+Leaning on the everlasting arms.
+CHORUS:
+Leaning, leaning,
+Safe and secure from all alarms;
+Leaning, leaning,
+Leaning on the everlasting arms.
 
 2.
-’Tis God’s all animating voice
-That calls thee from on high;
-’Tis He whose hand presents the prize
-To thine aspiring eye.
+O how sweet to walk in this pilgrim way,
+Leaning on the everlasting arms;
+O how bright the path grows from day to day,
+Leaning on the everlasting arms.
 
 3.
-A cloud of witnesses around
-Hold thee in full survey;
-Forget the steps already trod,
-And onward urge thy way.
-
-4.
-Blest Savior, introduced by Thee,
-Our race have we begun;
-And, crowned with victory, at Thy feet
-We’ll lay our trophies down.
+What have I to dread, what have I to fear,
+Leaning on the everlasting arms?
+I have blessed peace with my Lord so near,
+Leaning on the everlasting arms.
 ```
 
 - |   -  |

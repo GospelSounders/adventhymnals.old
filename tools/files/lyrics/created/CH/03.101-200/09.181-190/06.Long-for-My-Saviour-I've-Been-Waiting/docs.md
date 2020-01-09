@@ -11,44 +11,53 @@ metadata:
 
 ```txt
 1.
-I’ve found a Friend; oh, such a Friend!
-He loved me ere I knew Him;
-He drew me with the cords of love,
-And thus He bound me to Him.
-And ’round my heart still closely twine
-Those ties which nought can sever,
-For I am His, and He is mine,
-Forever and forever.
+Long for my Saviour I've been waiting, 
+Long time have watched by night and day; 
+Feared, lest my faith and hope abating, 
+I should lose courage by the way. 
+
+Refrain:
+Jesus soon is coming; 
+This is my song' 
+Cheers the heart when joys depart, 
+And foes are pressing strong. 
 
 2.
-I’ve found a Friend; oh, such a Friend!
-He bled, He died to save me;
-And not alone the gift of life,
-But His own self He gave me.
-Nought that I have my own I call,
-I hold it for the Giver;
-My heart, my strength, my life my all,
-Are His, and His forever.
+Here in this vale of sin and sorrow 
+I have been wandering many years, 
+Still looking for that happy morrow 
+When God would wipe away my tears. 
+
+Refrain:
+Jesus soon is coming; 
+This is my song' 
+Cheers the heart when joys depart, 
+And foes are pressing strong. 
 
 3.
-I’ve found a Friend; oh, such a Friend!
-All power to Him is given;
-To guard me on my upward course,
-And bring me safe to heaven.
-The eternal glories gleam afar,
-To nerve my faint endeavor;
-So now to watch, to work, to war,
-And then to rest forever.
+Oftimes the tempter comes in power, 
+Fain then would lead my steps astray; 
+But when the clouds begin to lower, 
+Hope turns the darkness into day. 
+
+Refrain:
+Jesus soon is coming; 
+This is my song' 
+Cheers the heart when joys depart, 
+And foes are pressing strong. 
 
 4.
-I’ve found a Friend; oh, such a Friend!
-So kind, and true, and tender,
-So wise a counselor and guide,
-So mighty a defender.
-From Him, who loveth me so well,
-What power my soul can sever?
-Shall life or death, or earth, or hell?
-No; I am His forever.
+O it will be but little longer 
+I must these many woes endure; 
+Then let my faith and hope grow stronger; 
+My Father's promise still is sure.
+
+Refrain:
+Jesus soon is coming; 
+This is my song' 
+Cheers the heart when joys depart, 
+And foes are pressing strong. 
+
 ```
 
 - |   -  |

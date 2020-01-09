@@ -11,34 +11,23 @@ metadata:
 
 ```txt
 1.
-Joyful, joyful, we adore Thee,
-God of glory, Lord of love;
-Hearts unfold like flow’rs before Thee,
-Hail Thee as the sun above.
-Melt the clouds of sin and sadness,
-Drive the dark of doubt away;
-Giver of immortal gladness,
-Fill us with the light of day!
+Praise to the Lord, the Almighty, the King of creation!
+O my soul, praise Him, for He is thy health and salvation!
+All ye who hear, now to His temple draw near;
+Join ye in glad adoration!
 
 2.
-All Thy works with joy surround Thee,
-Earth and heav’n reflect Thy rays,
-Stars and angels sing around Thee,
-Center of unbroken praise;
-Field and forest, vale and mountain,
-Bloss’ming meadow, flashing sea,
-Chanting bird and flowing fountain
-Call us to rejoice in Thee.
+Praise to the Lord, Who o'er all things so wondrously reigneth,
+Shieldeth thee under His wings, yea, so gently sustaineth!
+Hast thou not seen how thy desires e'er have been
+Granted in what He ordaineth?
 
 3.
-Thou art giving and forgiving,
-Ever blessing, ever blest,
-Wellspring of the joy of living,
-Oceandepth of happy rest!
-Thou the father, Christ our Brother –
-All who live in love are Thine:
-Teach us how to love each other,
-Lift us to the joy divine.
+Praise to the Lord, who doth prosper thy work and defend thee;
+Surely His goodness and mercy here daily attend thee.
+Ponder anew what the Almighty can do,
+If with His love He befriend thee.
+
 ```
 
 - |   -  |

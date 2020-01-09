@@ -11,16 +11,28 @@ metadata:
 
 ```txt
 1.
-Bread of the world in mercy broken,
-Wine of the soul in mercy shed,
-By whom the words of life are spoken,
-And in whose death our sins are dead;
+Jesus, Savior, pilot me
+Over life's tempestuous sea;
+Unknown waves before me roll,
+Hiding rock and treacherous shoal.
+Chart and compass come from Thee;
+Jesus, Savior, pilot me.
 
 2.
-Look on the heart by sorrow broken,
-Look on the tears by sinners shed;
-And be Thy feast to us the token
-That by Thy grace our souls are fed. Amen.
+As a mother stills Her child,
+Thou canst hush the ocean wild;
+Boisterous waves obey Thy will,
+When Thou sayest to them, Be still!
+Wondrous sovreign of the sea,
+Jesus, Savior, pilot me.
+
+3.
+When at last I near the shore,
+And the fearful breakers roar
+'Twixt me and the peaceful rest,
+Then, while leaning on Thy breast,
+May I hear Thee say to me,
+Fear not, I will pilot thee.
 ```
 
 - |   -  |

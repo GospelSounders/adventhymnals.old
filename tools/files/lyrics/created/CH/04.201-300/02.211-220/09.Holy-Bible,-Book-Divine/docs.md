@@ -11,44 +11,30 @@ metadata:
 
 ```txt
 1.
-When Jesus comes in glory,
-As Lord and King of kings,
-O what a wondrous story
-The blessed Bible brings:
-His face will shine like the sunlight,
-His head be white as snow,
-His eyes like flaming firelight,
-His feet like brass aglow.
+Holy Bible! Book divine! 
+Precious treasure, thou art mine! 
+Mine to tell me whence I came; 
+Mine to teach me what I am. 
 
 2.
-His voice like rushing waters
-Will reach with mighty sound
-Into the deepest quarters
-Of all creation round;
-And at this wondrous greeting
-The dead in Christ shall rise,
-Their Lord and Saviour meeting
-In glory in the skies.
+Mine to chide me when I rove; 
+Mine to show a Savior's love; 
+Mine to guide my wayward feet; 
+Mine to judge, condemn, acquit. 
 
 3.
-And we who believing
-And His appearing love,
-Shall know we are receiving
-His glory from above;
-His resurrection power
-Will raise us to the place
-Where we that wondrous hour
-Shall see Him face to face.
+Mine to comfort in distress; 
+If the Holy Spirit bless; 
+Mine to show by living faith, 
+Man can triumph over death. 
 
 4.
-O hasten Thine appearing
-Thou bright and Morning Star!
-Lord, may we soon be hearing
-The trumpet sound afar;
-They people all are yearning
-To be Thy raptured bride,
-To be Thy own returning
-Be caught up to Thy side.
+Mine to tell of joys to come, 
+In the saint's eternal home: 
+O thou holy Book divine, 
+Precious treasure, thou art mine! 
+I win the strife.
+
 ```
 
 - |   -  |

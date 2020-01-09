@@ -11,52 +11,53 @@ metadata:
 
 ```txt
 1.
-O gracious Father of mankind,
-Our spirits’ unseen friend;
-High heaven’s Lord, our hearts’ dear guest,
-To Thee our prayers ascend.
+ Standing by a purpose true, 
+Heeding God's command, 
+Honor them, the faithful few, 
+All hail to Daniel's band! 
+
+Refrain:
+Dare to be a Daniel, 
+Dare to stand alone! 
+Dare to have a purpose firm! 
+Dare to make it known! 
 
 2.
-Thou dost not wait till human speech
-Thy gifts divine implore;
-Our dreams, our aims, our work, our lives
-Are prayers Thou lovest more.
+Many mighty men are lost, 
+Daring not to stand, 
+Who for God had been a host 
+By joining Daniel's band! 
+
+Refrain:
+Dare to be a Daniel, 
+Dare to stand alone! 
+Dare to have a purpose firm! 
+Dare to make it known! 
 
 3.
-Thou hearest these, the good and ill,
-Deep buried in each breast;
-The secret thought, the hidden plan,
-Wrought out our unexpressed.
+Many giants great and tall, 
+Stalking through the land, 
+Headlong to the earth would fall 
+If met by Daniel's band! 
+
+Refrain:
+Dare to be a Daniel, 
+Dare to stand alone! 
+Dare to have a purpose firm! 
+Dare to make it known! 
 
 4.
-O cleanse our prayers from human dross,
-Attune our lives to Thee,
-Until we labor for those gifts
-We ask on bended knee.
+Hold the temperance banner high! 
+On to victory grand! 
+Satan and his host defy, 
+And shout for Daniel's band!
 
-5.
-Our best is but Thyself in us,
-Our highest thought Thy will;
-To hear Thy voice we need but love,
-And listen, and be still.
+Refrain:
+Dare to be a Daniel, 
+Dare to stand alone! 
+Dare to have a purpose firm! 
+Dare to make it known! 
 
-6.
-We would not bend Thy will to ours,
-But blend our wills to Thine;
-Not dreams, our aims, our work, our lives
-Are prayers Thou lovest more.
-
-7.
-Thou seekest us in love and truth
-More than our minds seek Thee;
-Through open gates Thy power flows in
-Like flood tides from the sea.
-
-8.
-No more we seek Thee from afar,
-Nor ask Thee for a sign,
-Content to pray in life and love
-And toil, till all are Thine.
 ```
 
 - |   -  |

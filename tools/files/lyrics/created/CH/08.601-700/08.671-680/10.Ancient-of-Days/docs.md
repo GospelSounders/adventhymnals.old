@@ -11,22 +11,34 @@ metadata:
 
 ```txt
 1.
-Holy Spirit, hear us;
-Help us while we sing;
-Breath into the music
-Of the praise we bring.
+Ancient of days, who sittest throned in glory, 
+To Thee all knees are bent, all voices pray; 
+Thy love has blessed the wide world's wondrous story 
+With light and life since Eden's dawning day. 
 
 2.
-Holy Spirit, prompt us
-When we kneel to pray;
-Nearer come, and teach us
-What we ought to say.
+O Holy Father, who hast led Thy children 
+In all the ages, with the fire and cloud, 
+Through seas dry shod, through weary wastes bewildering; 
+To Thee, in reverent love, our hearts are bowed. 
 
 3.
-Holy Spirit, shine Thou
-On the Book we read;
-Gild it’s holy pages
-With the light we need.
+O Holy Jesus, Prince of Peace and Saviour, 
+To Thee we owe the peace that still prevails, 
+Stilling the rude wills of men's wild behavior, 
+And calming passion's fierce and stormy gales. 
+
+4.
+O Holy Ghost, the Lord and the Life giver, 
+Thine is the quickening power that gives increase; 
+From Thee have flowed, as from a pleasant river, 
+Our plenty, wealth, prosperity, and peace. 
+
+5.
+O Triune God, with heart and voice adoring, 
+Praise we the goodness that doth crown our days; 
+Pray we that Thou wilt hear us, still imploring 
+Thy love and favor kept to us al ways.
 ```
 
 - |   -  |

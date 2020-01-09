@@ -11,23 +11,41 @@ metadata:
 
 ```txt
 1.
-Alas! and did my Savior bleed,
-and did my Sovereign die?
-Would he devote that sacred head
-for sinners such as I?
-
+There is a fountain filled with blood drawn from Emmanuel's veins;
+And sinners plunged beneath that flood lose all their guilty stains.
+Lose all their guilty stains, lose all their guilty stains;
+And sinners plunged beneath that flood lose all their guilty stains.
 
 2.
-Was it for crimes that I have done,
-he groaned upon the tree?
-Amazing pity! Grace unknown!
-And love beyond degree!
+The dying thief rejoiced to see that fountain in his day;
+And there may I, though vile as he, wash all my sins away.
+Wash all my sins away, wash all my sins away;
+And there may I, though vile as he, wash all my sins away.
 
 3.
-But drops of grief can ne’er repay
-the debt of love I owe:
-Here, Lord, I give myself away;
-’tis all that I can do!
+Thou dying Lamb, Thy precious blood shall never lose its power
+Till all the ransomed church of God are saved, to sin no more.
+Are saved, to sin no more, are saved, to sin no more;
+Till all the ransomed church of God are saved, to sin no more.
+
+4.
+E'er since, by faith, I saw the stream Thy flowing wounds supply,
+Redeeming love has been my theme, and shall be till I die.
+And shall be till I die, and shall be till I die;
+Redeeming love has been my theme, and shall be till I die.
+
+5.
+Lord, I believe Thou hast prepared, unworthy though I be,
+For me a blood-bought free reward, a golden harp for me!
+A golden harp for me! A golden harp for me!
+For me a blood-bought free reward, a golden harp for me!
+
+6.
+There in a nobler, sweeter song, I'll sing Thy power to save,
+When this poor lisping, stammering tongue is ransomed from the the grave.
+Is ransomed from the grave, is ransomed from the grace;
+When this poor lisping, stammering tongue is ransomed from the the grave.
+
 ```
 
 - |   -  |

@@ -11,28 +11,23 @@ metadata:
 
 ```txt
 1.
-I love Thee, I love Thee, I love Thee,my Lord;
-I love Thee, my Savior, I love Thee, my God.
-I love Thee, I love Thee, and that Thou dost know;
-But how much I love Thee my actions will show.
+Lord! at thy feet we humbly lie, 
+And knock at mercy's door; 
+With heavy heart and downcast eye 
+Thy favor we implore. 
 
 2.
-I’m happy, I’m happy, O, wondrous account!
-My joys are immortal, I stand on the mount!
-I gaze on my treasure and long to be there,
-With Jesus and angels, and kindred so dear.
+'Tis mercy, we implore; 
+We would thy pity move; 
+Thy grace is an exhaustless store, 
+And thou thyself art love. 
 
 3.
-O Jesus, my Savior, with Thee I am blest,
-My life and salvation, my joy and my rest:
-Thy name be my theme, and Thy love be my song;
-Thy grace shall inspire both my heart and my tongue.
+O, for thine own, for Jesus' sake, 
+Our numerous sins forgive! 
+Thy grace our stony hearts can break; 
+Heal us, and bid us live.
 
-4.
-O, who’s like my Savior? He’s Salem’s bright King;
-He smiles, and He loves me, and helps me to sing.
-I’ll praise Him, I’ll praise Him, with notes loud and clear
-While rivers of pleasure my spirit do cheer.
 ```
 
 - |   -  |

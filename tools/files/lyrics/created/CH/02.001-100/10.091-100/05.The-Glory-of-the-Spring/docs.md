@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-Spring has now unwrapped the flowers,
-Day is fast reviving,
-Life in all her growing powers
-Towards the light is striving:
-Gone the iron touch of cold,
-Winter time and frost time,
-Seedlings, working through the mould,
-Now make up for lost time.
+The glory of the spring how sweet, 
+The new-born life how glad; 
+What joy the happy earth to greet 
+In new, bright raiment clad. 
+Divine Redeemer, Thee I bless; 
+I greet Thy going forth; 
+I love Thee in the loveliness 
+Of Thy renewed earth. 
 
 2.
-Herb and plant that winter long,
-Slumbered at their leisurek,
-Now be stirring, green and strong,
-Find in growth their pleasure:
-All the world with beauty fills,
-Gold the green enhacing;
-Flowers make glee among the hills,
-Set the meadows dancing.
+But O these wonders of Thy grace, 
+These nobler works of Thine, 
+These marvels sweeter far to trace, 
+These new births more divine. 
+This new-born glow of faith so strong, 
+This bloom of love so fair, 
+This new-born ecstasy of song 
+And fragrancy of prayer! 
 
 3.
-Through each wonder of fair days
-God Himself expresses;
-Beauty follows all His ways,
-As the world He blesses:
-So, as He renews the earth,
-Artist without rival,
-In His grace of glad new birth
-We must seek revival.
+Creator Spirit, work in me 
+These wonders sweet of Thine; 
+Divine Redeemer, graciously 
+Renew this heart of mine. 
+Still let new life and strength upspring, 
+Still let new joy be given; 
+And grant the glad new song to ring 
+Through the new earth and heaven.
+
 ```
 
 - |   -  |

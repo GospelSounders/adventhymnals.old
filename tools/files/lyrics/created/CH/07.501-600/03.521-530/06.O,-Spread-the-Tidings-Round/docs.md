@@ -11,17 +11,41 @@ metadata:
 
 ```txt
 1.
-God sent His Son, they called Him Jesus,
-He came to love, heal, and forgive;
-He lived and died to buy my pardon,
-An empty grave is there to prove my Savior lives.
 
+0. spread the tidings round, 
+Wherever man is found, 
+Wherever human hearts 
+And human woes abound; 
+Let every Christian tongue 
+Proclaim the joyful sound: 
+The Comforter has come! 
 
 2.
-How sweet to hold a newborn baby,
-And feel the pride, and joy He gives;
-But greater still the calm assurance,
-This child can face uncertain days because He lives.
+The long, long night is past, 
+The morning breaks at last; 
+And hushed the dreadful wail 
+And fury of the blast, 
+As o'er the golden hills 
+The day advances fast. 
+The Comforter has come! 
+
+3.
+O boundless Love divine! 
+How shall this tongue of mine 
+To wondering mortals tell 
+The matchless grace divine' 
+That I, a child of sin, 
+Should in His image shine! 
+The Comforter has come! 
+
+4.
+Sing, 'till the echoes fly 
+Above the vaulted sky, 
+And all the saints above 
+To all below reply, 
+In strains of endless love, 
+The song that ne'er will die: 
+The Comforter has come!
 ```
 
 - |   -  |

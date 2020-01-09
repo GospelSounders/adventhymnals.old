@@ -11,29 +11,31 @@ metadata:
 
 ```txt
 1.
-Together let us sweetly live,
-I am bound for the land of Canaan.
-Together love to Jesus give;
-I am bound for the land of Canaan.
-
+Thou whose almighty word 
+Chaos and darkness heard, 
+And took their flight, 
+Hear us, we humbly pray, 
+And where the gospel's day 
+Sheds not its glorious ray, 
+Let there be light! 
 
 2.
-Together let us watch and pray;
-I am bound for the land of Canaan.
-And wait redemption’s joyous day;
-I am bound for the land of Canaan.
+Thou who didst come to bring 
+On Thy redeeming wing 
+Healing and sight, 
+Health to the sick in mind, 
+Sight to the inly blind, 
+O now to all mankind, 
+Let there be light! 
 
 3.
-Our songs of praise shall fill the skies;
-I am bound for the land of Canaan.
-While higher still our joys shall rise;
-I am bound for the land of Canaan.
-
-4.
-Then come with me, beloved friend;
-I am bound for the land of Canaan.
-The joys to come shall never end;
-I am bound for the land of Canaan.
+Spirit of truth and love, 
+Lifegiving, holy Dove, 
+Speed forth Thy flight; 
+Move o'er the water's face, 
+Bearing the lamp of grace, 
+And, in earth's darkest place, 
+Let there be light!
 ```
 
 - |   -  |

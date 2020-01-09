@@ -11,32 +11,34 @@ metadata:
 
 ```txt
 1.
-Nearer, still nearer, close to Thy heart,
-Draw me, my Savior, so precious Thou art;
-Fold me, O fold me close to Thy breast,
-Shelter me safe in that haven of rest,
-Shelter me safe in that haven of rest.
+There is a happy land, 
+Far, far away, 
+Where saints in glory stand, 
+Bright, bright as day. 
+O! how they sweetly sing, 
+"Worthy is our Saviour King;" 
+Loud let His praises ring, 
+Praise, praise for aye. 
 
 2.
-Nearer, still nearer, nothing I bring,
-Nought as an offering to Jesus my King-
-Only my sinful now contrite heart,
-Grant me the cleansing Thy blood doth impart,
-Grant me the cleansing Thy blood doth impart.
+Come to that happy land 
+Come, come away; 
+Why will ye doubting stand? 
+Why still delay? 
+O! we shall happy be, 
+From all sin and sorrow free; 
+Lord, we shall live with Thee, 
+Blest, blest for aye. 
 
 3.
-Nearer, still nearer, Lord, to be Thine;
-Sin, with its follies, I gladly resign,
-All of its pleasures, pomp and its pride;
-Give me but Jesus, my Lord crucified,
-Give me but Jesus, my Lord crucified.
-
-4.
-Nearer, still nearer, while life shall last;
-Till safe in glory my anchor is cast;
-Through endless ages, ever to be,
-Nearer, my Savior, still nearer to Thee,
-Nearer, my Savior, still nearer to Thee.
+Bright in that happy land 
+Beams every eye; 
+Kept by a Father's hand, 
+Love cannot die; 
+Then shall Thy kingdom come, 
+Saints have a glorious home; 
+And, brighter than the sun, 
+Reign, reign for aye.
 ```
 
 - |   -  |

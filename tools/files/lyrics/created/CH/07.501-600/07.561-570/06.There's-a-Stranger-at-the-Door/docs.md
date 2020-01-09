@@ -11,24 +11,32 @@ metadata:
 
 ```txt
 1.
-Father, we thank You for the light that shines all the day;
-For the bright sky You have given most like Your heaven;
-Father, we thank You.
+There's a Stranger at the door, Let Him in; 
+He has been there oft before, Let Him in; 
+Let Him in, ere He is gone, 
+Let Him in, the Holy One, 
+Jesus Christ, the Father's Son, Let Him in. 
 
 2.
-Father, we thank You for the lamps that lighten the way;
-For human skill’s exploration of Your creation;
-Father, we thank You.
+Open now to Him your heart, Let Him in; 
+If you wait He will depart, Let Him in; 
+Let Him in, He is your friend, 
+And your soul He will defend; 
+He will keep you to the end, Let Him in. 
 
 3.
-Father, we thank You for the friends who brighten our play;
-For Your command to call others sisters and brothers;
-Father, we thank You.
+Hear you now His pleading voice? Let Him in; 
+Now, O now make Him your choice, Let Him in; 
+He is standing at the door, 
+Joy to you He will restore, 
+And His name you will adore, Let Him in. 
 
 4.
-Father, we thank You for Your love in Jesus today,
-Giving us hope for tomorrow through joy and sorrow;
-Father, we thank You.
+Now admit the heavenly guest, Let Him in; 
+He will make for you a feast, Let Him in; 
+He will speak your sins forgiven, 
+And when earth ties all are riven, 
+He will take you home to heaven, Let Him in.
 ```
 
 - |   -  |

@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Still, still with Thee, when purple morning breaketh,
-When the bird waketh, and the shadows flee;
-Fairer than morning, lovelier than daylight,
-Dawns the sweet consciousness, I am with Thee.
+Yield not to temptation, 
+For yielding is sin, 
+Each victory will help you 
+Some other to win; 
+Fight manfully onward, 
+Dark passions subdue, 
+Look ever to Jesus, 
+He'll carry you through. 
+
+Refrain:
+Ask the Saviour to help you, 
+Comfort, strengthen, and keep you; 
+He is willing to aid you, 
+He will carry you through. 
 
 2.
-Alone with Thee, amid the mystic shadows,
-The solemn hush of nature newly born;
-Alone with Thee in breathless adoration,
-In the calm dew and freshness of the morn.
+Shun evil companions, 
+Bad language disdain, 
+God's name hold in reverence, 
+Nor take it in vain; 
+Be thoughtful and earnest, 
+Kindhearted and true, 
+Look ever to Jesus, 
+He'll carry you through. 
+
+Refrain:
+Ask the Saviour to help you, 
+Comfort, strengthen, and keep you; 
+He is willing to aid you, 
+He will carry you through. 
 
 3.
-Still, still with Thee! As to each newborn morning
-A fresh and solemn splendor still is given,
-So does this blessed consciousness, awaking,
-Breathe each day nearness unto Thee and heaven.
+To him that o'ercometh 
+God giveth a crown, 
+Through faith we shall conquer, 
+Though often cast down; 
+He who is our Saviour 
+Our strength will renew, 
+Look ever to Jesus, 
+He'll carry you through.
 
-4.
-So shall it be at last, in that bright morning,
-When the soul waketh and life’s shadows flee;
-O in that hour, fairer than daylight dawning,
-Shall rise the glorious thought, I am with Thee.
+Refrain:
+Ask the Saviour to help you, 
+Comfort, strengthen, and keep you; 
+He is willing to aid you, 
+He will carry you through. 
+
 ```
 
 - |   -  |

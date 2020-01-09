@@ -11,54 +11,35 @@ metadata:
 
 ```txt
 1.
-Come, you faithful, raise the strain
-Of triumphant gladness;
-God has brought His Israel
-Into joy from sadness;
-Loosed from Pharoah’s bitter yoke
-Jacob’s sons and daughters;
-Led them with unmoistened foot
-Through the Red Sea waters.
+Beyond the starry skies, 
+Far as th'eternal hills, 
+There, in the soundless world of light 
+Our great Redeemer dwells. 
+Around Him angels fair, 
+In countless armies shine; 
+And ever, in exalted lays, 
+They offer songs divine. 
 
 2.
-‘Tis the spring of souls today;
-Christ has burst His prison,
-And from three days’sleep in death
-As a sun has risen;
-All the winter of our sins,
-Long and dark, is flying
-From His light, to whom is giv’n
-Laud and praise undying.
+"Hail, Prince of life!" they cry, 
+"Whose unexampled love 
+Moved Thee to quit those glorious realms 
+And royalties above." 
+And when He stooped to earth, 
+And suffered rude disdain, 
+They cast their honors at His feet, 
+And waited in His train. 
 
 3.
-Now the queen of seasons, bright
-With the day of splendor,
-With the royal feast of feasts,
-Comes its joy to render;
-Comes to gladden faithful hearts
-Which with true affection
-Welcome in unwearied strain
-Jesus’resurrection.
+They saw Him on the cross, 
+While darkness veiled the skies; 
+And when He burst the gates of death, 
+They saw the Conqueror rise. 
+They thronged His chariot wheels, 
+And bore Him to His throne; 
+Then swept their golden harps and sang, 
+"That glorious work is done."
 
-4.
-For today among the twelve
-Christ appeared, be stowing
-His deep peace, which evermore
-Passes human knowing.
-Neither could the gates of death,
-Nor the tomb’s dark portal,
-Nor the watchers, nor the seal,
-Hold Him as a mortal.
-
-5.
-“Alleluia!” now we cry
-To our King immortal,
-Who, triumphant, burst the bars
-Of the tomb’s dark portal;
-“Alleluia” with the Son,
-God the Father praising;
-“Alleluia!” yet again
-To the Spirit raising.
 ```
 
 - |   -  |

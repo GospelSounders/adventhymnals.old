@@ -11,34 +11,40 @@ metadata:
 
 ```txt
 1.
-The Lord’s my Shepherd, I’ll not want.
-He makes me down to lie
-In pastures green; He leadeth me
-The quiet waters by.
+I will sing you a song of that beautiful land, 
+The faraway home of the soul, 
+Where no storms ever beat on the glittering strand, 
+While the years of eternity roll, 
+While the years of eternity roll; 
+Where no storms ever beat on the glittering strand, 
+While the years of eternity roll. 
 
 2.
-My soul He doth restore again.
-And me to walk doth make
-Within the paths of righteousness,
-E’en for His own name’s sake.
+O, that home of the soul! in my visions and dreams 
+Its bright, jasper walls I can see, 
+Till I fancy but thinly the veil intervenes 
+Between the fair city and me, 
+Between the fair city and me; 
+Till I fancy but thinly the veil intervenes 
+Between the fair city and me. 
 
 3.
-Yea, though I walk in death’s dark vale,
-Yet will I fear no ill,
-For Thou art with me; and Thy rod
-And staff me comfort still.
+That unchangeable home is for you and for me, 
+Where Jesus of Nazareth stands; 
+The King of all kingdoms forever is He, 
+And He holdeth our crowns in His hands, 
+And He holdeth our crowns in His hands; 
+The King of all kingdoms forever is He, 
+And He holdeth our crowns in His hands. 
 
 4.
-My table Thou hast furnished
-In presence of my foes;
-My head Thou dost with oil anoint,
-And my cup overflows.
-
-5.
-Goodness and mercy all my life
-Shall surely follow me;
-And in God’s house forevermore
-My dwelling place shall be.
+O, how sweet it will be in that beautiful land, 
+So free from all sorrow and pain; 
+With songs on our lips and with harps in our hands, 
+To meet one another again! 
+To meet one another again! 
+With songs on our lips and with harps in our hands, 
+To meet one another again!
 ```
 
 - |   -  |

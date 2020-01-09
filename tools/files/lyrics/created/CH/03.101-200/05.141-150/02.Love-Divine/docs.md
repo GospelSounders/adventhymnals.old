@@ -11,29 +11,45 @@ metadata:
 
 ```txt
 1.
-Angels we have heard on high
-Sweetly singing o’er the plains,
-And the mountains in reply
-Echoing their joyous strains.
-
+Love divine, all loves excelling, 
+Joy of heaven, to earth come down; 
+Fix in us Thy humble dwelling; 
+All Thy faithful mercies crown! 
+Jesus Thou art all compassion, 
+Pure, unbounded love Thou art; 
+Visit us with Thy salvation; 
+Enter every trembling heart. 
 
 2.
-Shepherds, why this jubilee?
-Why your joyous strains prolong?
-What the gladsome tidings be
-Which inspire your heavenly song?
+Breathe, O breathe Thy loving Spirit 
+Into every troubled breast! 
+Let us all in thee inherit, 
+Let us find the promised rest; 
+Take away our bent to sinning; 
+Alpha and Omega be; 
+End of faith, as its beginning, 
+Set our hearts at liberty. 
 
 3.
-Come to Bethlehem and see
-Christ Whose birth the angels sing;
-Come, adore on bended knee,
-Christ the Lord, the newborn King.
+Come, Almighty to deliver, 
+Let us all Thy grace receive; 
+Suddenly return and never, 
+Nevermore Thy temples leave. 
+Thee we would be always blessing, 
+Serve Thee as Thy hosts above, 
+Pray and praise Thee without ceasing, 
+Glory in Thy perfect love. 
 
 4.
-See Him in a manger laid,
-Whom the choirs of angels praise;
-Mary, Joseph, lend your aid,
-While our hearts in love we raise.
+Finish, then, Thy new creation; 
+Pure and spotless let us be; 
+Let us see Thy great salvation 
+Perfectly restored in Thee; 
+Changed from glory into glory, 
+Till in heaven we take our place, 
+Till we cast our crowns before Thee, 
+Lost in wonder, love, and praise.
+
 ```
 
 - |   -  |

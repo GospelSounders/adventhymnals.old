@@ -11,34 +11,32 @@ metadata:
 
 ```txt
 1.
-Now thank we all our God
-with heart and hands and voices,
-who wondrous things hath done,
-in whom His world rejoices;
-Who, from our mothers’ arms
-hath blessed us on our way
-with countless gifts of love,
-and still is ours today.
+Pass me not, O gentle Savior, 
+Hear my humble cry; 
+While on others Thou art calling, 
+Do not pass me by. 
+REFRAIN:
+Savior, Savior, hear my humble cry, 
+While on others Thou art calling, 
+Do not pass me by. 
 
 2.
-O may this bounteous God
-through all our life be near us,
-with ever joyful hearts
-and blessed peace to cheer us;
-and keep us still in grace,
-and guide us when perplexed;
-and free us from all ills,
-in this world and the next.
+Let me at Thy throne of mercy 
+Find a sweet relief; 
+Kneeling there in deep contrition, 
+Help my unbelief. 
 
 3.
-All praise and thanks to God
-the Father now be given;
-the Son, and Him who reigns
-with them in highest heaven;
-the one eternal God,
-whom earth and heaven adore;
-for thus it was, is now,
-and shall be evermore.
+Trusting only in Thy merit, 
+Would I seek Thy face; 
+Heal my wounded, broken spirit, 
+Save me by Thy grace. 
+
+4.
+Thou the spring of all my comfort, 
+More than life to me, 
+Whom have I on earth beside Thee? 
+Whom in heaven but Thee?
 ```
 
 - |   -  |

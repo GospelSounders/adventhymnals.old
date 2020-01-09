@@ -11,34 +11,28 @@ metadata:
 
 ```txt
 1.
-O Jesus, thou art standing,
-outside the fast closed door,
-in lowly patience waiting
-to pass the threshold o’er:
-O shame, professing Christians,
-his Name and sign who bear,
-O shame, thrice shame upon us,
-to keep him standing there!
+Saviour! Thy dying love Thou gavest me, 
+Nor should I aught withhold, Dear Lord, from Thee; 
+In love my soul would bow, My heart fulfill its vow, 
+Some offering bring Thee now, Something for Thee. 
 
 2.
-O Jesus, thou art knocking;
-and lo, that hand is scarred,
-and thorns thy brow encircle,
-and tears thy face have marred:
-O love that passeth knowledge,
-so patiently to wait!
-O sin that hath no equal,
-so fast to bar the gate!
+At the blest mercy seat, Pleading for me, 
+My feeble faith looks up, Jesus, to Thee; 
+Help me the cross to bear, Thy wondrous love declare, 
+Some song to raise, or prayer, Something for Thee. 
 
 3.
-O Jesus, thou art pleading
-in accents meek and low,
-“I died for you, my children,
-and will you treat me so?”
-O Lord, with shame and sorrow
-we open now the door;
-dear Savior, enter, enter,
-and leave us never more.
+Give me a faithful heart, Likeness to Thee, 
+That each departing day henceforth may see 
+Some work of love begun, some deed of kindness done, 
+Some wanderer sought and won, Something for Thee. 
+
+4.
+All that I am and have, Thy gifts so free, 
+In joy, in grief, through life, Dear Lord, for Thee! 
+And when Thy face I see, my ransomed soul shall be. 
+Through all eternity Something for Thee.
 ```
 
 - |   -  |

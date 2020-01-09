@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Eternal God, whose power upholds Both flower and flaming star,
-To whom there is no here nor there, No time, no near nor far,
-No alien race, no foreign shore, No child unsought, unknown:
-O send us forth, Your prophets true, To make all lands Your own!
+Now thank we all our God
+With heart and hands and voices,
+Who wondrous things hath done,
+In whom His world rejoices;
+Who, from our mothers' arms
+Hath blessed us on our way
+With countless gifts of love,
+And still is ours today.
 
 2.
-O God of truth, whom science seeks And reverent souls adore,
-Illumine every earnest mind Of every clime and shore:
-Dispel the gloom of error’s night, Of ignorance and fear,
-Until true wisdom from above Shall make life’s pathway clear!
+O may this bounteous God
+Through all our life be near us,
+With ever joyful hearts
+And blessed peace to cheer us;
+And keep us still in grace,
+And guide us when perplexed;
+And free us from all ills,
+In this world and the next.
 
 3.
-O God of beauty, oft revealed In dreams of human art,
-In speech that flows to melody, In holiness of heart:
-Teach us to ban al ugliness, And all disharmony,
-Till all shall know the loveliness Of lives made fair and free!
+All praise and thanks to God
+The Father now be given;
+The Son, and Him who reigns
+With them in highest heaven;
+The one eternal God,
+Whom earth and heaven adore;
+For thus it was, is now,
+And shall be evermore.
 
-4.
-O God of righteousness and grace, Seen in the Christ, Your Son,
-Whose life and death reveal Your face, By whom Your will was done;
-Help us to spread Your gracious reign Till greed and hate shall cease,
-And kindness dwell in human hearts, And all the earth find peace!
 ```
 
 - |   -  |

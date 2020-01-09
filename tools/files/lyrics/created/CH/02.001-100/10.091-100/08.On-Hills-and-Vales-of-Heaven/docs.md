@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-Can you count the stars that brightly
-Twinkle in the midnight sky?
-Can you count the clouds, so lightly
-O’er the meadows floating by?
-God, the Lord, doth mark their number
-With His eyes that never slumber;
-He hath made every one,
-He hath made them every one.
+On hills and vales of heaven, 
+Where falls no shade of gloom, 
+Where all is peace and glory, 
+Are wondrous flowers in bloom. 
+But Thou, oh, Thou art fairer 
+Than any flower that grows, 
+Our lily of the valley 
+And Sharon's fadeless rose. 
 
 2.
-Can you count the wings now flashing
-In the sunshine’s golden light?
-Can you count the fishes splashing
-In the cooling waters bright?
-God, the Lord, a name hath given,
-To all creatures under heaven;
-He hath named them every one,
-He hath named them every one.
+Within the many mansions 
+Are jewels heavenly fair; 
+But Thou art far more precious 
+Than all the treasures there; 
+Most perfect in Thy beauty 
+Of all that heaven knows, 
+Our pearl of price forever, 
+And Sharon's fadeless rose. 
 
 3.
-Do you know how many children
-Rise each morning blithe and gay?
-Can you count their jolly voices,
-Singing sweetly day by day?
-God hears all the happy voices,
-In their merry songs rejoices;
-And He loves them, every one,
-And He loves them, every one.
+The flowers of earth have perished, 
+Its glories all have died; 
+For where all joys were transient 
+No beauty could abide; 
+But Thou art ours forever, 
+Where life's bright river flows, 
+Our lily of the valley 
+And Sharon's fadeless rose.
+
 ```
 
 - |   -  |

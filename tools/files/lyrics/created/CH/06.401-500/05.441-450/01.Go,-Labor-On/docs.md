@@ -11,44 +11,28 @@ metadata:
 
 ```txt
 1.
-I saw one weary, sad, and torn,
-With eager steps press on the way,
-Who long the hallowed cross had born,
-Still looking for the promised day;
-While many a line of grief and care,
-Upon his brow was furrowed there;
-I asked what buoyed his spirits up,
-“O this” said he-“the blessed hope.”
+Go, labor on, while yet 'tis day; 
+The world's dark night is hastening on; 
+Speed, speed thy work, cast sloth away! 
+It is not thus that souls are won. 
 
 2.
-And one I saw, with sword and shield,
-Who boldly braved the world’s cold frown,
-And fought, unyielding, on the field,
-To win an everlasting crown.
-Though worn with toil, oppressed by foes,
-No murmur from his heart arose;
-I asked what buoyed his spirits up,
-“O this!” said he-“the blessed hope.”
+Men die in darkness at your side 
+Without a hope to cheer the tomb; 
+Take up the torch and wave it wide' 
+The torch that lights time's thickest gloom. 
 
 3.
-And there was one who left behind
-The cherished friends of early years,
-And honor, pleasure, wealth re-signed,
-To tread the path bedewed with tears.
-Through trials deep and conflict sore,
-Yet still a smile of joy he wore;
-O! what can bouy the spirit up?
-‘Tis this alone-the blessed hope.
+Toil on, faint not, keep watch, and pray! 
+Be wise the erring soul to win, 
+Go forth into the world's highway, 
+Compel the wanderer to come in. 
 
 4.
-While pilgrims here we journey on
-In this dark vale of sin and gloom,
-Through tribulation, hate, and scorn,
-Or through the portals of the tomb,
-Till our returning King shall come
-To tkae His exile captives home,
-O! what can bouy the spirits up?
-‘Tis this alone– the blessed hope.
+Go, labor on; your hands are weak, 
+Your knees are faint, your soul cast down; 
+Yet falter not; the prize you seek 
+Is near'a kingdom and a crown!
 ```
 
 - |   -  |

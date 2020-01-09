@@ -11,28 +11,37 @@ metadata:
 
 ```txt
 1.
-Go to dark Gethsemane,
-Ye who feel the tempter’s power
-Your Redeemer’s conflict see.
-Watch with him one bitter hour;
-Turn not from his griefs away;
-Learn from Jesus Christ to pray.
+All hail the power of Jesus' name! 
+Let angels prostrate fall; 
+Bring forth the royal diadem, 
+And crown Him Lord of all! 
+Bring forth the royal diadem, 
+And crown Him Lord of all. 
 
 2.
-See Him at the judgment hall,
-Beaten, bound, reviled, arraigned;
-See Him meekly bearing all;
-Love to man His soul sustained!
-Shun not suffering, shame, or loss;
-Learn from him to bear the cross.
+Ye seed of Israel's chosen race, 
+Ye ransomed from the fall, 
+Hail Him who saves you by His grace, 
+And crown Him Lord of all! 
+Hail Him who saves you by His grace, 
+And crown Him Lord of all. 
 
 3.
-Calvary’s mournful mountain climb;
-There, adoring at his feet,
-Mark that miracle of time,
-God’s own sacrifice complete.
-“It is finished!” hear him cry;
-Learn from Jesus Christ to die.
+Let every kindred, every tribe, 
+On this terrestrial ball 
+To Him all majesty ascribe, 
+And crown Him Lord of all! 
+To Him all majesty ascribe, 
+And crown Him Lord of all. 
+
+4.
+Oh, that with yonder sacred throng 
+We at His feet may fall, 
+Join in the everlasting song, 
+And crown Him Lord of all! 
+Join in the everlasting song, 
+And crown Him Lord of all.
+
 ```
 
 - |   -  |

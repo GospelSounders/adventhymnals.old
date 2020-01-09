@@ -11,29 +11,35 @@ metadata:
 
 ```txt
 1.
-‘Tis so sweet to trust in Jesus,
-and to take him at his word;
-just to rest upon his promise,
-and to know, “Thus saith the Lord.”
+Tell me the old, old story of unseen things above,
+Of Jesus and His glory, of Jesus and His love.
+Tell me the story simply, as to a little child,
+For I am weak and weary, and helpless and defiled.
 
+Refrain:
+Tell me the old, old story, tell me the old, old story,
+Tell me the old, old story, of Jesus and His love.
 
 2.
-O how sweet to trust in Jesus,
-just to trust his cleansing blood;
-and in simple faith to plunge me
-neath the healing, cleansing flood!
+Tell me the story softly, with earnest tones and grave;
+Remember I'm the sinner whom Jesus came to save.
+Tell me the story always, if you would really be,
+In any time of trouble, a comforter to me.
+
+Refrain:
+Tell me the old, old story, tell me the old, old story,
+Tell me the old, old story, of Jesus and His love.
 
 3.
-Yes, ’tis sweet to trust in Jesus,
-just from sin and self to cease;
-just from Jesus simply taking
-life and rest, and joy and peace.
+Tell me the same old story when you have cause to fear
+That this world's empty glory is costing me too dear.
+Yes, and when that world's glory is dawning on my soul,
+Tell me the old, old story: "Christ Jesus makes thee whole."
 
-4.
-I’m so glad I learned to trust thee,
-precious Jesus, Savior, friend;
-and I know that thou art with me,
-wilt be with me to the end.
+Refrain:
+Tell me the old, old story, tell me the old, old story,
+Tell me the old, old story, of Jesus and His love.
+
 ```
 
 - |   -  |

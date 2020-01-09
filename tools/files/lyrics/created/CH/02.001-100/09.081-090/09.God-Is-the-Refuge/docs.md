@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Let all on earth their voices raise,
-To sing the great Jehovah’s praise,
-And bless His holy name:
-His glory let the people know,
-His wonders to the nations show,
-His saving grace proclaim.
+God is the refuge of His saints, 
+When storms of sharp distress invade; 
+Ere we can offer our complaints, 
+Behold him present with His aid. 
 
 2.
-He framed the globe; He built the sky;
-He made the shining worlds on high,
-And reigns in glory there:
-His beams are majesty and light;
-His beauties, how divinely bright!
-His dwelling place, how fair!
+Loud may the troubled ocean roar; 
+In sacred peace our souls abide; 
+While every nation, every shore, 
+Trembles, and dreads the swelling tide. 
 
 3.
-Come, the great day, the glorious hour,
-When earth shall feel His saving power,
-All nations fear His name;
-Then shall the race of men confess
-The beauty of His holiness,
-His saving grace proclaim.
+There is a stream, whose gentle flow 
+Supplies the city of our God, 
+Life, love, and joy still gliding through, 
+And watering our divine abode. 
+
+4.
+That sacred stream, Thy holy word, 
+Our grief allays, our fear controls; 
+Sweet peace Thy promises afford, 
+And give new strength to fainting souls. 
+
+5.
+Zion enjoys her Monarch's love, 
+Secure against a threatening hour; 
+Nor can her firm foundation move, 
+Built on His truth, and armed with power.
+
 ```
 
 - |   -  |

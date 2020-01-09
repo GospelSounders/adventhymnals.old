@@ -11,28 +11,23 @@ metadata:
 
 ```txt
 1.
-Tell out my soul, the greatness of the Lord:
-Unnumbered blessings, give my spirit voice;
-Tender to me the promise of His Word;
-In God my Saviour shall my heart rejoice.
+Eternal Father, God of love, 
+Creator of the universe, 
+Pour out Thy Spirit from above, 
+As from Thy temple we disperse. 
 
 2.
-Tell out, my soul, the greatness of His name:
-Make known His might, the deeds His arm has done;
-His mercy sure, from age to age the same;
-His holy name, the Lord, the Mighty One.
+Keep Thou our lips, that all we say 
+May honor Thee, our God and King; 
+That our example day by day 
+May teach the sacred truths we sing. 
 
 3.
-Tell out, my soul, the greatness of His might:
-Pow’rs and dominions lay their glory by;
-Proud hearts and stubborn wills are put to flight,
-The hungry fed, the humble lifted high.
+Direct our wayward steps aright, 
+Our guide and guard forever be; 
+In Thine eternal arms of might 
+Enfold and draw us nearer Thee.
 
-4.
-Tell out, my soul, the glories of His word:
-Firm is His promise, and His mercy sure.
-Tell out, my soul, the greatness of the Lord
-To children’s children and forevermore.
 ```
 
 - |   -  |

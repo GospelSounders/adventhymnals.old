@@ -11,32 +11,28 @@ metadata:
 
 ```txt
 1.
-Open my eyes, that I may see
-Glimpses of truth Thou hast for me;
-Place in my hands the wonderful key
-That shall unclasp and set me free.
-Silently now I wait for Thee,
-Ready, my God, Thy will to see;
-Open my eyes,
-illumine me, Spirit Divine!
+Still, still with Thee, when purple morning breaketh,
+When the bird waketh, and the shadows flee;
+Fairer than morning, lovelier than daylight,
+Dawns the sweet consciousness, I am with Thee.
 
 2.
-Open my ears that I may hear
-Voices of truth Thou sendest clear;
-and while the wavenotes fall on my ear,
-Everything false will disappear.
-Silently now I wait for Thee,
-Ready, my God, Thy will to see;
-Open my ears, illumine me, Spirit Divine!
+Alone with Thee, amid the mystic shadows,
+The solemn hush of nature newly born;
+Alone with Thee in breathless adoration,
+In the calm dew and freshness of the morn.
 
 3.
-Open my mouth, and let me bear
-Gladly the warm truth everywhere;
-Open my heart, and let me prepare
-Love with Thy children thus to share.
-Silently now I wait for Thee,
-Ready, my God, Thy will to see;
-Open my heart, illumine me, Spirit Divine!
+Still, still with Thee! As to each newborn morning
+A fresh and solemn splendor still is given,
+So does this blessed consciousness, awaking,
+Breathe each day nearness unto Thee and heaven.
+
+4.
+So shall it be at last, in that bright morning,
+When the soul waketh and life's shadows flee;
+O in that hour, fairer than daylight dawning,
+Shall rise the glorious thought, I am with Thee.
 ```
 
 - |   -  |

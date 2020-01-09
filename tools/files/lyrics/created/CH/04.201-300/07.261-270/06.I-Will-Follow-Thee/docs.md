@@ -11,34 +11,40 @@ metadata:
 
 ```txt
 1.
-Spirit of God, descend upon my heart;
-wean it from earth; through all its pulses move;
-stoop to my weakness, mighty as thou art,
-and make me love thee as I ought to love.
+I will follow Thee, my Savior,
+Wheresoe'er my lot may be.
+Where thou goest I will follow;
+Yes, my Lord, I'll follow Thee.
+CHORUS:
+I will follow Thee, my Saviour,
+Thou didst shed Thy blood for me;
+And though all men should forsake Thee;
+By Thy grace I'll follow Thee.
 
 2.
-I ask no dream, no prophet ecstasies,
-no sudden rending of the veil of clay,
-no angel visitant, no opening skies;
-but take the dimness of my soul away.
+Though the road be rough and thorny,
+Trackless as the foaming sea,
+Thou hast trod this way before me,
+And I'll gladly follow Thee.
 
 3.
-Has thou not bid me love thee, God and King?
-All, all thine own, soul, heart and strength and mind.
-I see thy cross; there teach my heart to cling.
-O let me seek thee, and O let me find.
+Though I meet with tribulations,
+Sorely tempted though I be;
+I remember Thou wast tempted,
+And rejoice to follow Thee.
 
 4.
-Teach me to feel that thou art always nigh;
-teach me the struggles of the soul to bear.
-To check the rising doubt, the rebel sigh,
-teach me the patience of unanswered prayer.
+Though Thou leadest me through affliction,
+Poor, forsaken though I be;
+Thou wast destitute, afflicted,
+And I only follow Thee.
 
 5.
-Teach me to love thee as thine angels love,
-one holy passion filling all my frame;
-the kindling of the heaven-descended Dove,
-my heart an altar, and thy love the flame.
+Though to Jordan's rolling billows,
+Cold and deep, Thou leadest me,
+Thou hast crossed the waves before me,
+And I still will follow Thee.
+
 ```
 
 - |   -  |

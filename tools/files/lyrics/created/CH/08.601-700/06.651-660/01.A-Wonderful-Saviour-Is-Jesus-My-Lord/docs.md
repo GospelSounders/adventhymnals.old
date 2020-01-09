@@ -11,22 +11,57 @@ metadata:
 
 ```txt
 1.
-Happy the home that welcomes You, Lord Jesus,
-Truest of friends, most honored guest of all,
-Where hearts and eyes are bright with joy to greet You,
-Your lightest wishes eager to fulfill.
+A wonderful Saviour is Jesus my Lord, 
+A wonderful Saviour to me, 
+He hideth my soul in the cleft of the rock, 
+Where rivers of pleasure I see. 
+
+Refrain:
+He hideth my soul in the cleft of the rock 
+That shadows a dry, thirsty land; 
+He hideth my life in the depths of His love, 
+And covers me there with His hand, 
+And covers me there with His hand. 
 
 2.
-Happy the home where men and wife together
-Are of one mind believing in Your love:
-Through love and pain, prosperity and hardship,
-Through good and evil days Your care they prove.
+A wonderful Saviour is Jesus my Lord, 
+He taketh my burden away; 
+He holdeth me up and I shall not be moved, 
+He giveth me strength as my day. 
+
+Refrain:
+He hideth my soul in the cleft of the rock 
+That shadows a dry, thirsty land; 
+He hideth my life in the depths of His love, 
+And covers me there with His hand, 
+And covers me there with His hand. 
 
 3.
-Happy the home, O loving Friend of children,
-Where they are giv’n to You with hands of prayer,
-Where at Your feet they early learn to listen
-To Your own words, and thank You for Your care.
+With numberless blessings each moment He crowns, 
+And, filled with His fulness divine, 
+I sing in my rapture, oh, glory to God, 
+For such a Redeemer as mine. 
+
+Refrain:
+He hideth my soul in the cleft of the rock 
+That shadows a dry, thirsty land; 
+He hideth my life in the depths of His love, 
+And covers me there with His hand, 
+And covers me there with His hand. 
+
+4.
+When clothed in His brightness, transported I rise 
+To meet Him in clouds of the sky, 
+His perfect salvation, His wonderful love, 
+I'll shout with the millions on high.
+
+Refrain:
+He hideth my soul in the cleft of the rock 
+That shadows a dry, thirsty land; 
+He hideth my life in the depths of His love, 
+And covers me there with His hand, 
+And covers me there with His hand. 
+
 ```
 
 - |   -  |

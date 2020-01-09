@@ -11,32 +11,29 @@ metadata:
 
 ```txt
 1.
-Joy to the world, the Lord is come!
-Let earth receive her King;
-Let every heart prepare Him room,
-And heaven and nature sing, And heaven and nature sing,
-And heaven, and heaven and nature sing.
+In the cross of Christ I glory,
+towering o'er the wrecks of time;
+all the light of sacred story
+gathers round its head sublime.
 
 2.
-Joy to the earth, the Savior reigns!
-Let men their songs employ;
-While fields and floods, rocks, hills, and plains,
-Repeat the sounding joy, Repeat the sounding joy,
-Repeat, repeat the sounding joy.
+When the woes of life o'ertake me,
+hopes deceive, and fears annoy,
+never shall the cross forsake me.
+Lo! it glows with peace and joy.
 
 3.
-No more let sin and sorrow grow,
-Nor thorns infest the ground;
-He comes to make His blessings flow
-Far as the curse is found, Far as the curse is found,
-Far as, far as the curse is found.
+When the sun of bliss is beaming
+light and love upon my way,
+from the cross the radiance streaming
+adds more luster to the day.
 
 4.
-He rules the world with truth and grace,
-And makes the nations prove
-The glories of His righteousness,
-And wonders of His love, And wonders of His love,
-And wonders, and wonders of His love.
+Bane and blessing, pain and pleasure,
+by the cross are sanctified;
+peace is there that knows no measure,
+joys that through all time abide.
+
 ```
 
 - |   -  |

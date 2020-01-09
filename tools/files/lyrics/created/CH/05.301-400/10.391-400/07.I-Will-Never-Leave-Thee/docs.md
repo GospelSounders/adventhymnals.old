@@ -11,28 +11,36 @@ metadata:
 
 ```txt
 1.
-An upper room did our Lord prepare
-For those loved until the end:
-And His disciples still gather there,
-To celebrate their risen Friend.
+I will never, never leave thee, 
+I will never, never thee forsake; 
+I will guide, and save, and keep thee. 
+For My name and mercy's sake. 
+Fear no evil, Fear no evil, 
+Only all My counsel take. 
 
 2.
-And after supper He washed their feet,
-For service, too, is sacrament.
-In Him our joy shall be made complete
-Sent out to serve, as He was sent.
+When the storm is raging round thee, 
+Call on Me in humble prayer; 
+Il will fold My arms around thee, 
+Guard thee with the tenderest care; 
+In the trial, in the trial, 
+I will make thy pathway clear. 
 
 3.
-A lasting gift Jesus gave His own:
-To share His bread, His loving cup.
-Whatever burdens may bow us down,
-He by His cross shall lift us up.
+When the sky above is glowing, 
+And around thee all is bright. 
+Pleasure like a river flowing, 
+All things tending to delight; 
+I'll be with thee, I'll be with thee, 
+I will guide thy steps aright. 
 
 4.
-No end there is! we depart in peace.
-He loves beyond our uttermost:
-In every room in our Father’s house,
-He will be there, as Lord and host.
+When thy soul is dark and clouded, 
+Filled with doubt, and grief, and care, 
+Through the mists by which 'tis shrouded, 
+I will make the light appear, 
+And the banner, and the banner, 
+Of My love I will uprear.
 ```
 
 - |   -  |

@@ -11,28 +11,44 @@ metadata:
 
 ```txt
 1.
-Lord, I want to be a Christian in my heart, in my heart,
-Lord, I want to be a Christian in my heart, in my heart.
-In my heart, in my heart,
-Lord, I want to be a Christian in my heart, in my heart.
+Prayer is the soul's sincere desire, 
+Unuttered or expressed; 
+The motion of a hidden fire 
+That trembles in the breast. 
+He prayeth best who loveth best 
+All things both great and small; 
+For the dear God who loveth us, 
+He made and loveth all. 
 
 2.
-Lord, I want to be more loving in my heart, in my heart,
-Lord, I want to be more loving in my heart, in my heart.
-In my heart, in my heart,
-Lord, I want to be more loving in my heart, in my heart.
+Prayer is the burden of a sigh, 
+The falling of a tear, 
+The upward glancing of an eye 
+When none but God is near. 
+He prayeth best who loveth best 
+All things both great and small; 
+For the dear God who loveth us, 
+He made and loveth all. 
 
 3.
-Lord, I want to be more holy in my heart, in my heart,
-Lord, I want to be more holy in my heart, in my heart.
-In my heart, in my heart,
-Lord, I want to be more holy in my heart, in my heart.
+Prayer is the simplest form of speech 
+That infant lips can try; 
+Prayer the sublimest strains that reach 
+The Majesty on high. 
+He prayeth best who loveth best 
+All things both great and small; 
+For the dear God who loveth us, 
+He made and loveth all. 
 
 4.
-Lord, I want to be more like Jesus in my heart, in my heart,
-Lord, I want to be more like Jesus in my heart, in my heart.
-In my heart, in my heart,
-Lord, I want to be more like Jesus in my heart, in my heart.
+Prayer is the Christian's vital breath, 
+The Christian's native air, 
+His watchword at the gates of death; 
+He enters heaven with prayer. 
+O Thou, by whom we come to God, 
+The life, the truth, the way, 
+The path of prayer Thyself hast trod; 
+Lord, teach us how to pray.
 ```
 
 - |   -  |

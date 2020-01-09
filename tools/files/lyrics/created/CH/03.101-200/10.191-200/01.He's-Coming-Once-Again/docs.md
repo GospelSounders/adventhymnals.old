@@ -11,44 +11,35 @@ metadata:
 
 ```txt
 1.
-Love divine, all loves excelling,
-joy of heaven, to earth come down;
-fix in us thy humble dwelling;
-all thy faithful mercies crown!
-Jesus thou art all compassion,
-pure, unbounded love thou art;
-visit us with thy salvation;
-enter every trembling heart.
+He's coming once again, 
+To set His people free; 
+That where He is, in glory bright, 
+His saints may also be. 
+Then lift the drooping head, 
+Look up, rejoice and sing; 
+He comes, in majesty sublime, 
+Salvation's glorious King! 
 
 2.
-Breathe, O breathe thy loving Spirit
-into every troubled breast!
-Let us all in thee inherit;
-let us find the promised rest.
-Take away our bent to sinning;
-Alpha and Omega be;
-end of faith, as its beginning,
-set our hearts at liberty.
+The earth shall quake with fear, 
+The heavens shall flee away; 
+And where shall guilty man appear 
+In that tremendous day? 
+No refuge then is nigh, 
+No shelter from the blast; 
+The night of vengeance veils the sky 
+When mercy's day is past. 
 
 3.
-Come, Almighty to deliver,
-let us all thy grace receive;
-suddenly return and never,
-nevermore thy temples leave.
-Thee we would be always blessing,
-serve thee as thy hosts above,
-pray and praise thee without ceasing,
-glory in thy perfect love.
+His eyes of living flame 
+The wicked shall devour; 
+No tongue will lightly speak the name 
+Of Jesus in that hour. 
+No scorn, no words of hate 
+For His meek followers then; 
+But prayers and tears that come too late 
+Will mark earth's mighty men.
 
-4.
-Finish, then, thy new creation;
-pure and spotless let us be.
-Let us see thy great salvation
-perfectly restored in thee;
-changed from glory into glory,
-till in heaven we take our place,
-till we cast our crowns before thee,
-lost in wonder, love, and praise.
 ```
 
 - |   -  |

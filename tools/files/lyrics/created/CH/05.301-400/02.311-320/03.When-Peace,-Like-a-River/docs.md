@@ -11,40 +11,28 @@ metadata:
 
 ```txt
 1.
-Just as I am, without one plea,
-But that Thy blood was shed for me,
-And that Thou bidst me come to Thee,
-O Lamb of God, I come, I come.
+When peace, like a river, attendeth my way, 
+When sorrows like sea billows roll; 
+Whatever my lot, thou hast taught me to say, 
+It is well, it is well with my soul. 
 
 2.
-Just as I am, and waiting not
-To rid my soul of one dark blot,
-To Thee whose blood can cleanse each spot,
-O Lamb of God, I come, I come.
+Though Satan should buffet, though trials should come, 
+Let this blest assurance control, 
+That Christ hath regarded my helpless estate, 
+And hath shed His own blood for my soul. 
 
 3.
-Just as I am, though tossed about
-With many a conflict, many a doubt,
-“Fightings within, and fears without,”
-O Lamb of God, I come, I come.
+My sin' O the bliss of this glorious thought! 
+My sin' not in part but the whole, 
+Is nailed to His cross, and I bear it no more; 
+Praise the Lord, praise the Lord, O my soul! 
 
 4.
-Just as I am, poor, wretched, blind;
-Sight, riches, healing of the mind,
-Yea, all I need in Thee to find,
-O Lamb of God, I come, I come.
-
-5.
-Just as I am, Thou wilt receive,
-Wilt welcome, pardon, cleanse, relieve;
-Because Thy promise I believe,
-O Lamb of God, I come, I come.
-
-6.
-Just as I am, Thy love I own
-Has broken every barrier down;
-Now, to be Thine, and Thine alone,
-O Lamb of God, I come, I come.
+And, Lord, haste the day when the faith shall be sight, 
+The clouds be rolled back as a scroll, 
+The trump shall resound, and the Lord shall descend; 
+"Even so," it is well with my soul.
 ```
 
 - |   -  |

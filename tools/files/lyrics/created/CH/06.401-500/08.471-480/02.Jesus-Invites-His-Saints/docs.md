@@ -11,35 +11,28 @@ metadata:
 
 ```txt
 1.
-Sometimes I hear strange music,
-Like none e’er heard before,
-Come floating softly earthward
-As thro’ heav’n’s open door:
-It seems like angel voices,
-In strains of and love,
-That swell the mighty chorus
-Around the throne above.
-
+Jesus invites His saints
+To meet around His board,
+And sup in memory of the death
+And sufferings of their Lord.
 
 2.
-Now soft, and low, and restful,
-It floods my soul with peace,
-As if God’s benediction
-Bade all earth’s troubles cease.
-Then grander than the voices,
-Of wind, and wave, and sea-
-It fills the dome of heaven
-With glorious harmony.
+We take the bread and wine
+As emblems of Thy death;
+Lord, raise our souls above the sign,
+To feast on Thee by faith.
 
-3.
-This music haunts me ever,
-Like something heard in dreams-
-It seems to catch the cadence
-Of heav’nly winds and streams,
-My heart is filled with rapture,
-To think, some day to come,
-I’ll sing it with the angels-
-The song of heav’n and home.
+2.
+Faith eats the bread of life,
+And drinks the living wine;
+It looks beyond this scene of strife
+Unites us to the Vine.
+
+4.
+Soon shall the night be gone,
+Our Lord will come again;
+The marriage supper of the Lamb
+Will usher in His reign.
 ```
 
 - |   -  |

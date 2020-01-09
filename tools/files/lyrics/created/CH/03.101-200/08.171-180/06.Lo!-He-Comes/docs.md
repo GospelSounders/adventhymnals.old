@@ -11,28 +11,37 @@ metadata:
 
 ```txt
 1.
-Hail the day that sees Him rise, Alleluia!
-Glorious to His native skies; Alleluia!
-Christ, awhile to mortals giv’n, Alleluia!
-Enters now the highest heav’n! Alleluia!
+Lo! He comes, with clouds descending,
+Once for favored sinners slain;
+Countless angels, Him attending,
+Swell the triumph of His train:
+Hallelujah! Hallelujah!
+Jesus comes, and comes to reign.
 
 2.
-There the glorious triumph waits; Alleluia!
-Lift your heads, eternal gates! Alleluia!
-Wide unfold the radiant scene; Alleluia!
-Take the King of glory in! Alleluia!
+Every eye shall now behold Him
+Robed in dreadful majesty!
+Those who set at nought and sold Him,
+Pierced, and nailed Him to the tree,
+Deeply wailing, Deeply wailing,
+Shall the true Mesiah see!
 
 3.
-See! He lifts His hands above; Alleluia!
-See! He shows the prints of love: Alleluia!
-Hark! His gracious lips bestow, Alleluia!
-Blessings on His Church below. Alleluia!
+When the solemn trump has sounded,
+Heaven and earth shall flee away;
+All who hate Him, must, confounded,
+Hear the summons of that day-
+"Come to judgment! Come to judgment!
+Come to judgment! Come away!"
 
 4.
-Lord beyond our mortal sight, Alleluia!
-Raise our hearts to reach Thy height, Alleluia!
-There Thy face unclouded see, Alleluia!
-Find our heav’n of heav’ns in Thee. Alleluia!
+Yea, amen! let all adore Thee,
+High on Thy eternal throne!
+Savior, take the power and glory,
+Make Thy righteous sentence known;
+O come quickly, O come quickly,
+Claim the kingdom for Thine own!
+
 ```
 
 - |   -  |

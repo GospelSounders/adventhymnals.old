@@ -11,28 +11,23 @@ metadata:
 
 ```txt
 1.
-O splendor of God’s glory bright,
-From light eternal bringing light;
-O Light of life, light’s living spring,
-True day, all days illumining.
+O Christ, with each returning morn 
+Thine image to our hearts be borne; 
+And may we ever clearly see 
+Our dearest treasure, Lord, in Thee ! 
 
 2.
-O Thou true Sun, on us Thy glance
-Let fall in royal radiance;
-The Spirit’s sanctifying beam
-Upon our earthly senses stream.
+All hallowed be our walk this day; 
+May meekness form our morning ray, 
+And faithful love our noontide light, 
+And hope our sunset, calm and bright. 
 
 3.
-O joyful be the passing day
-With thoughts as clear as morning’s ray,
-With faith like noontide shining bright,
-Our souls unshadowed by the night.
+May grace each idle thought control, 
+And sanctify each wayward soul; 
+May guile depart, and malice cease, 
+And all within be joy and peace.
 
-4.
-Dawn’s glory gilds the earth and skies;
-Let Him, our perfect morn, arise;
-The Father’s help His children claim,
-And sing the Father’s glorious name. Amen.
 ```
 
 - |   -  |

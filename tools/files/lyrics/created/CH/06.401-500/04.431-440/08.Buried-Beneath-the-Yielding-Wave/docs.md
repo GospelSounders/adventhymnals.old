@@ -11,35 +11,28 @@ metadata:
 
 ```txt
 1.
-You will see your Lord a-coming,
-You will see your Lord a-coming,
-You will see your Lord a-coming
-In a few more days.
-
+Buried beneath the yielding wave 
+The great Redeemer lies; 
+Faith views Him in the watery grave, 
+And hence beholds Him rise. 
 
 2.
-Gabriel sounds his mighty trumpet,
-Gabriel sounds his mighty trumpet,
-Gabriel sounds his mighty trumpet
-In a few more days.
+Thus do these willing souls today 
+Their ardent zeal express, 
+And in the Lord's appointed way 
+Fulfill all righteousness. 
 
 3.
-You will see the saints arising,
-You will see the saints arising,
-You will see the saints arising
-In a few more days.
+With joy we in His footsteps tread, 
+And would His cause maintain; 
+Like Him be numbered with the dead, 
+And with Him rise and reign. 
 
 4.
-Angels bear them to the Savior,
-Angels bear them to the Savior,
-Angels bear them to the Savior
-In a few more days.
-
-5.
-Then we’ll shout, our suff’ring over,
-Then we’ll shout, our suff’ring over,
-Then we’ll shout, our suff’ring over
-In a few more days.
+His presence oft revives our hearts, 
+And drives our fears away; 
+When He commands, and strength imparts, 
+We cheerfully obey.
 ```
 
 - |   -  |

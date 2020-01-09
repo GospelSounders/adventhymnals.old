@@ -11,28 +11,57 @@ metadata:
 
 ```txt
 1.
-In our work and in our play,
-Jesus, ever with us stay;
-May be always strive to be
-True and faithful unto Thee.
-Then we truthfully can sing,
-We are children of the King.
+I know my heavenly Father knows 
+The storms that would my way oppose; 
+But He can drive the clouds away. 
+And turn my darkness into day, 
+And turn my darkness into day. 
+
+Refrain:
+He knows, He knows 
+The storms that would my way oppose; 
+He knows, He knows, 
+And tempers every wind that blows. 
 
 2.
-May we in Thy strength subdue
-Evil tempers, words untrue,
-Thoughts impure, and deeds unkind,
-All things hateful to Thy mind.
-Then we truthfully can sing,
-We are children of the King.
+I know my heavenly Father knows 
+The balm I need to soothe my woes; 
+And with His touch of love divine 
+He heals this wounded soul of mine, 
+He heals this wounded soul of mine. 
+
+Refrain:
+He knows, He knows 
+The storms that would my way oppose; 
+He knows, He knows, 
+And tempers every wind that blows. 
 
 3.
-Children of the King are we!
-May we loyal to Him be;
-Try to please Him every day,
-In our work and in our play.
-Then we truthfully can sing,
-We are children of the King.
+I know my heavenly Father knows 
+How frail I am to meet my foes; 
+But He my cause will e'er defend, 
+Uphold and keep me to the end, 
+Uphold and keep me to the end. 
+
+Refrain:
+He knows, He knows 
+The storms that would my way oppose; 
+He knows, He knows, 
+And tempers every wind that blows. 
+
+4.
+I know my heavenly Father knows 
+The hour my journey here will close; 
+And may that hour, O faithful Guide, 
+Find me safe sheltered by Thy side, 
+Find me safe sheltered by Thy side.
+
+Refrain:
+He knows, He knows 
+The storms that would my way oppose; 
+He knows, He knows, 
+And tempers every wind that blows. 
+
 ```
 
 - |   -  |

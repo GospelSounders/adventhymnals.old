@@ -11,34 +11,53 @@ metadata:
 
 ```txt
 1.
-With songs and honors sounding loud,
-Address the Lord on high;
-Over the heavens He spreads His cloud,
-And waters veil the sky.
+God be with you till we meet again;
+By His counsels guide, uphold you,
+With His sheep securely fold you;
+God be with you till we meet again.
+
+Refrain:
+Till we meet, till we meet,
+Till we meet at Jesus' feet;
+Till we meet, till we meet,
+God be with you till we meet again.
 
 2.
-He sends His showers of blessing down
-To cheer the plains below;
-He makes the grass the mountains crown,
-And corning valleys grow.
+God be with you till we meet again;
+'Neath His wings securely hide you;
+Daily manna still provide you;
+God be with you till we meet again.
+
+Refrain:
+Till we meet, till we meet,
+Till we meet at Jesus' feet;
+Till we meet, till we meet,
+God be with you till we meet again.
 
 3.
-His steady counsels change the face
-Of the declining year;
-He bids the sun cut short his race,
-And wintry days appear.
+God be with you till we meet again;
+When life's perils thick confound you;
+Put His arms unfailing round you;
+God be with you till we meet again.
+
+Refrain:
+Till we meet, till we meet,
+Till we meet at Jesus' feet;
+Till we meet, till we meet,
+God be with you till we meet again.
 
 4.
-He sends His word, and melts the snow;
-The fields no longer mourn;
-He calls the warmer gales to blow,
-And bids the spring return.
+God be with you till we meet again;
+Keep love's banner floating over you,
+Strike death's threatening wave before you;
+God be with you till we meet again.
 
-5.
-The changing wind, the flying cloud,
-Obey His mighty word:
-With songs and honors sounding loud
-Praise ye the sovereign Lord!
+Refrain:
+Till we meet, till we meet,
+Till we meet at Jesus' feet;
+Till we meet, till we meet,
+God be with you till we meet again.
+
 ```
 
 - |   -  |

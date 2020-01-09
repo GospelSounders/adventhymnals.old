@@ -11,32 +11,36 @@ metadata:
 
 ```txt
 1.
-Lord, enthroned in heav’nly splendor,
-First begotten from the dead,
-You alone, our strong defender,
-Lifting up Your people’s head.
-Alleluia, Jesus, true and living Bread!
+Lord, Thy children guide and keep, 
+As with feeble steps they press, 
+On the pathway rough and steep, 
+Through this weary wilderness: 
+Holy Jesus, day by day 
+Lead us in the narrow way. 
 
 2.
-Tho’ the lowliest form now veil You
-As of old in Bethlehem,
-Here as there Your angels hail You
-Branch and flow’r of Jesse’s stem.
-Alleluia, We in worship join with them.
+There are sandy wastes that lie 
+Cold and sunless, vast and drear, 
+Where the feeble faint and die; 
+Grant us grace to persevere. 
+Holy Jesus, day by day 
+Lead us in the narrow way. 
 
 3.
-Paschal Lamb, Your off’ring finished
-Once for all when You were slain,
-In its fullness undiminished
-Shall forever more remain.
-Alleluia, Cleansing souls from every stain.
+There are soft and flowery glades 
+Decked with golden fruited trees, 
+Sunny slopes and scented shades; 
+Keep us, Lord, from slothful ease; 
+Holy Jesus, day by day 
+Lead us in the narrow way. 
 
 4.
-Life imparting heav’nly manna,
-Stricken rock with streaming side,
-Heav’n and earth with loud hosanna
-Worship You the Lamb who died.
-Alleluia, Ris’n, ascended, glorified!
+Upward still to purer heights, 
+Onward yet to scenes more blest, 
+Calmer regions, clearer lights, 
+Till we reach the promised rest; 
+Holy Jesus, day by day 
+Lead us in the narrow way.
 ```
 
 - |   -  |

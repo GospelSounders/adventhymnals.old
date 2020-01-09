@@ -11,23 +11,28 @@ metadata:
 
 ```txt
 1.
-When all my labors and trails are o’er,
-And I am safe on that beautiful shore,
-Just to be near the Lord I adore,
-Will through the ages be glory for me.
-
+O where are kings and empires now 
+Of old that went and came? 
+But, Lord, Thy church is praying yet, 
+A thousand years the same. 
 
 2.
-When, by the gift of His infinite grace,
-I am accorded in heaven a place,
-Just to be there and to look on His face,
-Will through the ages be glory for me.
+We mark her goodly battlements, 
+And her foundations strong; 
+We hear within the solemn voice 
+Of her unending song. 
 
 3.
-Friends will be there I have loved long ago;
-Joy like a river around me will flow,
-Yet, just a smile form my Savior, I know,
-Will through the ages be glory for me.
+For not like kingdoms of the world 
+Thy holy church, 0 God; 
+Though earthquake shocks are threatening her, 
+And tempests are abroad; 
+
+4.
+Unshaken as eternal hills, 
+Immovable she stands, 
+A mountain that shall fill the earth, 
+A house not made by hands.
 ```
 
 - |   -  |

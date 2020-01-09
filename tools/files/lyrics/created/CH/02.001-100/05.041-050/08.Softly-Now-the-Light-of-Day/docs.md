@@ -27,6 +27,7 @@ Soon from us the light of day
 Shall forever pass away;
 Then, from sin and sorrow free,
 Take us, Lord, to dwell with Thee.
+
 ```
 
 - |   -  |

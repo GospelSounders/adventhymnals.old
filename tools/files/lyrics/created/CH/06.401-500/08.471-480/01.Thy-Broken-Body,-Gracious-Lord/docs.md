@@ -11,35 +11,22 @@ metadata:
 
 ```txt
 1.
-Dona nobis pacem, pacem;
-Dona nobis pacem.
-Dona nobis pacem;
-Dona nobis pacem.
-Dona nobis pacem;
-Dona nobis pacem.
+Thy broken body, gracious Lord,
+Is shadowed by this broken bread;
+The wine which in this cup is poured,
+Points to the blood which Thou hast shed.
 
 2.
-Father grant us, grant us Your peace;
-Oh, loving Father, grant us Your peace.
-Grant us, grant us peace;
-Grant us, grant us, grant Your peace;
-Grant us, grant us peace;
-Loving Father, grant us Your peace.
+And while we meet together thus,
+We show that we are one in Thee;
+Thy precious blood was shed for us,
+Thy death, O Lord, hast set us free!
 
 3.
-Accordenous ta paix, ta paix, Accordenous ta paix.
-Accordenous ta paix;
-Accordenous ta paix.
-Accordenous ta paix,
-Accordenous ta paix.
-
-4.
-Padre, danos tupaz, tupaz;
-Padre, danos, danos tupaz
-Padre, danos, tupaz.
-Padre, danos, danos tupaz
-Padre, danos tupaz.
-Padre, danos, danos tupaz.
+We have one hope that Thou wilt come,
+Thee in the air we wait to see;
+When Thou wilt give Thy saints a home,
+And we shall ever reign with Thee.
 ```
 
 - |   -  |

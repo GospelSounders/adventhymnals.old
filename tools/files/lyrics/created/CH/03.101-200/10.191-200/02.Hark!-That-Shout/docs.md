@@ -11,37 +11,33 @@ metadata:
 
 ```txt
 1.
-O Shepherd divine, I know Thou art mine;
-Thy search in the night was for me.
-This bleak world is cold, but warm is Thy fold;
-My Shepherd, I follow Thee.
-Thy beautiful lamp shineth bright o’er my way,
-Thy glorious light unto Thy perfect day.
-Thro’ pastures serene,
-Thro’ valleys of green,
-My Shepherd, I follow Thee.
+Hark! that shout of rapture high, 
+Bursting forth from yonder cloud; 
+Jesus comes, and, through the sky, 
+Angels tell their joy aloud, 
+Angels tell their joy aloud. 
 
 2.
-O Shepherd divine, I know Thou art mine;
-Thy great heart was broken for me.
-Thy grace and Thy law I picture in awe;
-They kissed upon Calvary.
-Ah! Life that was given to ransom my soul,
-Ah! Heart that was broken to make sinners whole,
-This world is but loss
-In view of Thy cross,
-My Shepherd, I follow Thee.
+Hark! the trumpet's awful voice 
+Sounds abroad o'er sea and land; 
+Let His people now rejoice; 
+Their redemption is at hand, 
+Their redemption is at hand. 
 
 3.
-O Shepherd divine, I know Thou art mine;
-I hear Thee say, “Follow thou Me.”
-Thy message today illumines my way;
-The Spirit of Prophecy.
-I thrill at Thy marvellous love to Thy sheep,
-The way Thou dost lead to the still waters deep,
-One staff and one rod,
-One fold and one God;
-My Shepherd, I follow Thee.
+See, the Lord appears in view; 
+Heaven and earth before Him fly; 
+Rise, ye saints, He comes for you; 
+Rise, to meet Him in the sky, 
+Rise, to meet Him in the sky. 
+
+4.
+Go and dwell with Him above, 
+Where no foe can e'er molest; 
+Happy in the Saviour's love, 
+Ever blessing, ever blest, 
+Ever blessing, ever blest.
+
 ```
 
 - |   -  |

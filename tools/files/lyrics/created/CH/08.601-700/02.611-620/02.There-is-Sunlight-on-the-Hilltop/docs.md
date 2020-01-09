@@ -11,29 +11,53 @@ metadata:
 
 ```txt
 1.
-Onward, Christian soldiers, marching as to war,
-with the cross of Jesus going on before.
-Christ, the royal Master, leads against the foe;
-forward into battle see his banners go!
+There is sunlight on the hilltop, 
+There is sunlight on the sea; 
+And the golden beams are sleeping, 
+On the soft and verdant lea; 
+But a richer light is filling 
+All the chambers of my heart; 
+For Thou dwellest there, my Saviour, 
+And 'tis sunlight where Thou art. 
 
+Refrain:
+O the sunlight! beautiful sunlight! 
+O the sunlight in the heart! 
+Jesus' smile can banish sadness; 
+It is sunlight in the heart. 
 
 2.
-Like a mighty army moves the church of God;
-brothers, we are treading where the saints have trod.
-We are not divided, all one body we,
-one in hope and doctrine, one in charity.
+In the dust I leave my sadness, 
+As the garb of other days; 
+For Thou robest me with gladness, 
+And Thou fillest me with praise; 
+And to that bright home of glory 
+Which Thy love hath won for me, 
+In my heart and mind ascending, 
+My glad spirit follows Thee. 
+
+Refrain:
+O the sunlight! beautiful sunlight! 
+O the sunlight in the heart! 
+Jesus' smile can banish sadness; 
+It is sunlight in the heart. 
 
 3.
-Crowns and thrones my perish, kingdoms rise and wane,
-but the church of Jesus constant will remain.
-Gates of hell can never ‘gainst that church prevail;
-we have Christ’s own promise, and that cannot fail.
+Loving Saviour, Thou hast bought me, 
+And my life, my all, is Thine; 
+Let the lamp Thy love hath lighted 
+To Thy praise and glory shine; 
+And to that bright home of glory 
+Which Thy love hath won for me, 
+In my heart and mind ascending, 
+My glad spirit follows Thee.
 
-4.
-Onward then, ye people, join our happy throng,
-blend with ours your voices in the triumph song.
-Glory, laud, and honor unto Christ the King,
-this through countless ages men and angels sing.
+Refrain:
+O the sunlight! beautiful sunlight! 
+O the sunlight in the heart! 
+Jesus' smile can banish sadness; 
+It is sunlight in the heart. 
+
 ```
 
 - |   -  |

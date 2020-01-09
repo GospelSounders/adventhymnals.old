@@ -11,22 +11,28 @@ metadata:
 
 ```txt
 1.
-Let us break bread together on our knees,
-let us break bread together on our knees.
-When I fall on my knees with my face to the rising sun,
-O Lord, have mercy on me.
+Lead, kindly Light, amid the encircling gloom, 
+Lead Thou me on; 
+The night is dark, and I am far from home; 
+Lead Thou me on. 
+Keep Thou my feet; I do not ask to see 
+The distant scene; one step's enough for me. 
 
 2.
-Let us drink wine together on our knees,
-let us drink wine together on our knees.
-When I fall on my knees with my face to the rising sun,
-O Lord, have mercy on me.
+I was not ever thus, nor prayed that Thou 
+Shouldst lead me on; 
+I loved to choose and see my path; but now 
+Lead Thou me on. 
+I loved the garish day, and, spite of fears, 
+Pride ruled my will, Remember not past years. 
 
 3.
-Let us praise God together on our knees,
-let us praise God together on our knees.
-When I fall on my knees with my face to the rising sun,
-O Lord, have mercy on me.
+So long Thy power hath blest me, sure it still 
+Will lead me on 
+O'er moor and fen, o'er crag and torrent, till 
+The night is gone; 
+And with the morn those angel faces smile, 
+Which I have loved long since, and lost awhile.
 ```
 
 - |   -  |

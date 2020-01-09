@@ -11,36 +11,35 @@ metadata:
 
 ```txt
 1.
-Throned upon the awful tree,
-Lamb of God, Your grief we see.
-Darkness veils Your anguished face;
-None its lines of woe can trace.
-None can tell what pangs unknown
-Hold You silent and alone.
+Jesus, the very thought of Thee, 
+With sweetness fills the breast; 
+But sweeter far Thy face to see, 
+And in thy presence rest. 
 
 2.
-Silent through those three dread hours,
-Wrestling with the evil powers,
-Left alone with human sin,
-Gloom around You and within,
-Till th’appointed time is nigh,
-Till the Lamb of God may die.
+No voice can sing, no heart can frame, 
+Nor can the memory find 
+A sweeter sound than Jesus' name, 
+The Savior of mankind. 
 
 3.
-Hark, that cry that peals aloud
-Upward through the whelming cloud!
-You, the Father’s only Son,
-You, His own anointed one,
-You are asking- can it be?
-“Why have You forsaken Me?”
+O hope of every contrite heart! 
+O joy of all the meek, 
+To those who fall, how kind thou art! 
+How good to those who seek! 
 
 4.
-Lord, should fear and anguish roll
-Darkly o’er our sinful soul,
-You, who once were thus bereft
-That Your own might ne’er be left,
-Teach us by that bitter cry
-In the gloom to know You nigh.
+But what to those who find? Ah, this 
+Nor tongue nor pen can show: 
+The love of Jesus'what it is, 
+None but his loved ones know. 
+
+5.
+Jesus, our only joy be Thou, 
+As Thou our prize wilt be; 
+In Thee be all our glory now, 
+And through eternity.
+
 ```
 
 - |   -  |

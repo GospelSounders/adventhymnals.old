@@ -11,22 +11,22 @@ metadata:
 
 ```txt
 1.
-In the hour of trial, Jesus, plead for me,
-Lest by base denial I depart from Thee;
-When Thou see’st me waver, with a look recall,
-Nor, for fear or favor, suffer me to fall.
+See the leaves around us falling, 
+Dry and withered to the ground; 
+Thus to thoughtless mortals calling, 
+In a sad and solemn sound: 
 
 2.
-With forbidden pleasures would this vain world charm;
-Or its sordid treasures spread to work me harm;
-Bring to my remembrance sad Gethsemane,
-Or, in darker semblance, cross-crowned Calvary.
+"Youth on length of days presuming, 
+Who the paths of pleasure tread, 
+View us, late in beauty blooming, 
+Numbered now among the dead. 
 
 3.
-Should Thy mercy send me sorrow, toil, and woe,
-Or should pain attend me on my path below,
-Grant that I may never fail Thy hand to see;
-Grant that I may ever cast my care on Thee.
+"Yearly in our course appearing, 
+Messengers of shortest stay, 
+Thus we preach in mortal hearing' 
+Ye, like us, shall pass away."
 ```
 
 - |   -  |

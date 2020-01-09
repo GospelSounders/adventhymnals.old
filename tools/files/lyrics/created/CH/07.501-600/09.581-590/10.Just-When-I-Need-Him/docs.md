@@ -11,45 +11,44 @@ metadata:
 
 ```txt
 1.
-When we walk with the Lord
-in the light of his word,
-what a glory he sheds on our way!
-While we do his good will,
-he abides with us still,
-and with all who will trust and obey.
-
+Just when I need Him, Jesus is near,
+Just when I falter, just when I fear;
+Ready to help me, ready to cheer,
+Just when I need Him most.
+Just when I need Him most,
+Just when I need Him most,
+Jesus is near to comfort and cheer,
+Just when I need Him most.
 
 2.
-Not a shadow can rise,
-not a cloud in the skies,
-but his smile quickly drives it away;
-not a doubt nor a fear,
-not a sigh nor a tear,
-can abide while we trust and obey.
+Just when I need Him, Jesus is true,
+Never forsaking, all the way through,
+Giving for burdens pleasures anew,
+Just when I need Him most.
+Just when I need Him most,
+Just when I need Him most,
+Jesus is near to comfort and cheer,
+Just when I need Him most.
 
 3.
-Not a burden we bear,
-not a sorrow we share,
-but our toil he doth richly repay;
-not a grief or a loss,
-not a frown or a cross,
-but is blest if we trust and obey.
+Just when I need Him, Jesus is strong,
+Bearing my burdens all the day long;
+For all my sorrow giving a song,
+Just when I need Him most.
+Just when I need Him most,
+Just when I need Him most,
+Jesus is near to comfort and cheer,
+Just when I need Him most.
 
 4.
-But we never can prove
-the delights of his love
-until all on the altar we lay;
-for the favor he shows,
-and the joy he bestows,
-are for them who will trust and obey.
-
-5.
-Then in fellowship sweet
-we will sit at his feet,
-or we’ll walk by his side in the way;
-what he says we will do,
-where he sends we will go;
-never fear, only trust and obey.
+Just when I need Him, He is my all,
+Answering when upon Him I call;
+Tenderly watching lest I should fall,
+Just when I need Him most.
+Just when I need Him most,
+Just when I need Him most,
+Jesus is near to comfort and cheer,
+Just when I need Him most.
 ```
 
 - |   -  |

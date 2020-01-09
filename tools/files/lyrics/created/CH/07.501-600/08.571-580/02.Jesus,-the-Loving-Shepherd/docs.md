@@ -11,35 +11,53 @@ metadata:
 
 ```txt
 1.
-Give of your best to the master,
-Give of the strength of your youth;
-Throw your soul’s fresh, glowing ardor
-Into the battle for truth.
-Jesus has set the example –
-Dauntless was He, young and brave;
-Give Him your loyal devotion,
-Give Him the best that you have.
+Jesus, the loving Shepherd, 
+Calleth thee now to come 
+Into the fold of safety, 
+Where there is rest and room; 
+Come in the strength of manhood, 
+Come in the morn of youth, 
+Enter the fold of safety, 
+Enter the way of truth. 
 
+Refrain:
+Lovingly, tenderly calling is He: 
+Wanderer, wanderer, come unto me; 
+Patiently standing there, waiting. I see 
+Jesus my Shepherd divine. 
 
 2.
-Give of your best to the Master,
-Give Him first place in your heart;
-Give Him first place in your service,
-Consecrate every part.
-Give, and to you shall be given –
-God His beloved Son gave;
-Gratefully seeking to serve Him,
-Give Him the best that you have.
+Jesus, the loving Shepherd, 
+Gave His dear life for thee; 
+Tenderly now He's calling, 
+Wanderer, come to Me; 
+Haste, for without is danger, 
+Come, cries the Shepherd blest, 
+Enter the fold of safety, 
+Enter the place of rest. 
+
+Refrain:
+Lovingly, tenderly calling is He: 
+Wanderer, wanderer, come unto me; 
+Patiently standing there, waiting. I see 
+Jesus my Shepherd divine. 
 
 3.
-Give of your best to the Master,
-Naught else is worthy His love;
-He gave Himself for your ransom,
-Have up His glory above;
-Laid down His life without murmur,
-You from sin’s ruin to save;
-Give Him your heart’s adoration,
-Give Him the best that you have.
+Lingering is but folly; 
+Wolves are abroad today, 
+Seeking the sheep now straying, 
+Seeking the lambs to slay; 
+Jesus, the loving Shepherd, 
+Calleth thee now to come 
+Into the fold of safety, 
+Where there is rest and room.
+
+Refrain:
+Lovingly, tenderly calling is He: 
+Wanderer, wanderer, come unto me; 
+Patiently standing there, waiting. I see 
+Jesus my Shepherd divine. 
+
 ```
 
 - |   -  |

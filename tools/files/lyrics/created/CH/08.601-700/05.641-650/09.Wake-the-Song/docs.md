@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Lord, while for all mankind we pray
-Of every clime and coast,
-O hear us for our native land,
-The land we love the most!
+Wake the song of joy and gladness;
+Hither bring your noblest lays;
+Banish every thought of sadness,
+Pouring forth your highest praise.
+Sing to Him whose care has brought us
+Once again with friends to meet,
+And whose loving voice has taught us
+Of the way to Jesus' feet.
+
+Refrain:
+Wake the song, wake the song,
+The song of joy and gladness,
+Wake the song, wake the song,
+The song of Jubilee.
 
 2.
-O guard our shores from every foe,
-With peace our borders bless;
-With prosperous times our cities crown,
-Our fields with plenteousness!
+Joyfully with songs and banners,
+We will greet the festal day;
+Shout aloud our glad hosannas,
+And our grateful homage pay.
+We will chant our Savior's glory
+while our thoughts we raise above,
+Telling still the old, old, story,
+Precious theme- redeeming love!
+
+Refrain:
+Wake the song, wake the song,
+The song of joy and gladness,
+Wake the song, wake the song,
+The song of Jubilee.
 
 3.
-Unite us in the sacred love
-Of knowledge, truth, and Thee;
-And let our hills and valleys shout
-The songs of liberty.
+Thanks to Thee, O holy Father,
+For the mercies of the year;
+May each heart, as here we gather,
+Swell with gratitude sincere,
+Thanks to Thee, O loving Savior,
+For redemption through Thy blood.
+Breathe upon us, Holy Spirit,
+Sweetly draw us near to God.
 
-4.
-Lord of the nations, thus to Thee
-Our country we commend;
-Be Thou her Refuge and her trust,
-Her everlasting friend.
+Refrain:
+Wake the song, wake the song,
+The song of joy and gladness,
+Wake the song, wake the song,
+The song of Jubilee.
+
 ```
 
 - |   -  |

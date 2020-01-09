@@ -11,29 +11,34 @@ metadata:
 
 ```txt
 1.
-I hear Thy welcome voice,
-That calls me, Lord, to Thee;
-For cleansing in Thy precious blood,
-That flowed on Calvary.
-
+Thine forever! God of love, 
+Hear us from Thy throne above; 
+Thine forever may we be, 
+Here and in eternity. 
 
 2.
-Though coming weak and vile,
-Thou dost my strength assure;
-Thou dost my vileness fully cleanse,
-Till spotless all, and pure.
+Thine forever! Lord of life, 
+Shield us through our earthly strife; 
+Thou the life, the truth, the way, 
+Guide us to the realms of day. 
 
 3.
-‘Tis Jesus calls me on
-To perfect faith and love,
-To perfect hope, and peace, and trust,
-For earth and heaven above.
+Thine forever! Oh how blest 
+They who find in Thee their rest! 
+Saviour, Guardian, heavenly Friend, 
+O defend us to the end. 
 
 4.
-All hail, atoning blood!
-All hail, redeeming grace!
-All hail! the gift of Christ, our Lord,
-Our Strength and Righteousness.
+Thine forever! Saviour, keep 
+These Thy frail and trembling sheep; 
+Safe alone beneath Thy care, 
+Let us all Thy goodness share. 
+
+5.
+Thine forever! Thou our Guide, 
+All our wants by Thee supplied, 
+All our sins by Thee forgiven, 
+Lead us, Lord, from earth to heaven.
 ```
 
 - |   -  |

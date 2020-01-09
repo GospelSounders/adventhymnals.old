@@ -11,29 +11,35 @@ metadata:
 
 ```txt
 1.
-The golden morning is fast approaching;
-Jesus soon will come
-To take his faithful and happy children
-to their promised home
-
+Come, Holy Spirit, come, 
+Let thy bright beams arise, 
+Dispel the sorrow from our minds, 
+The darkness from our eyes. 
 
 2.
-The gospel summons will soon be carried
-to the nations round;
-The Bridegroom then will cease to tarry
-and the trumpet sound.
+Convince us all of sin, 
+Then lead to Jesus' blood, 
+And to our wondering view reveal 
+The mercies of our God. 
 
 3.
-Attended by all the shining angels,
-Down the flaming sky
-the Judge will come, and will take his people
-where they will not die.
+Revive our drooping faith, 
+Our doubts and fears remove, 
+And kindle in our breasts the flame 
+Of never dying love. 
 
 4.
-The lov’d of earth who have long been parted,
-Meet in that glad day;
-The tears of those who are broken hearted
-shall be wiped away.
+'Tis Thine to cleanse the heart, 
+To sanctify the soul, 
+To pour fresh life in every part, 
+And new create the whole. 
+
+5.
+Come, Holy Spirit, come, 
+Our minds from bondage free; 
+Then we shall know, and praise, and love, 
+The Father, Son, and Thee.
+
 ```
 
 - |   -  |

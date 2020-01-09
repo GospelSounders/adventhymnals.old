@@ -11,23 +11,33 @@ metadata:
 
 ```txt
 1.
-We plow the fields, and scatter the good seed on the land,
-But it is fed and watered by God’s almighty hand.
-He sends the snow in winter, the warmth to swell the grain,
-The breezes and the sunshine, and soft refreshing rain.
-
+There is a gate that stands ajar, 
+And through its portals gleaming, 
+A radiance from the cross afar, 
+The Saviour's love revealing. 
+REFRAIN:
+O depth of mercy! can it be 
+That gate was left ajar for me? 
+For me, for me? 
+Was left ajar for me? 
 
 2.
-He only is the Maker of all things near and far;
-He paints the wayside flower, He lights the evening star.
-The winds and waves obey Him, by Him the birds are fed;
-Much more, to us His children, He gives our daily bread.
+That gate ajar stands free for all 
+Who seek through it salvation; 
+The rich and poor, the great and small 
+Of every tribe and nation. 
 
 3.
-We thank Thee then, O Father, for all things bright and good,
-The seed-time and the harvest, our life, our health, and food.
-Accept the gifts we to offer for all Thy love imparts,
-And, what Thou most desirest, our humble, thankful hearts.
+Press onward, then, though foes may frown; 
+While mercy's gate is open 
+Accept the cross, and win the crown, 
+Love's everlasting token. 
+
+4.
+Beyond the river's brink we'll lay 
+The cross that here is given, 
+And bear the crown of life away, 
+And love Him more in heaven.
 ```
 
 - |   -  |

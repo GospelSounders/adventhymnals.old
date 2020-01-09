@@ -11,23 +11,36 @@ metadata:
 
 ```txt
 1.
-There’s a land that is fairer than day,
-And by faith we can see it afar;
-For the Father waits over the way
-To prepare us a dwelling place there.
-
+Hushed was the evening hymn, 
+The temple courts were dark, 
+The lamp was burning dim 
+Before the sacred ark, 
+When suddenly a voice divine 
+Rang through the silence of the shrine. 
 
 2.
-We shall sing on that beautiful shore
-The melodious songs of the blest,
-And our spirits shall sorrow no more
-Not a sigh for the blessing of rest.
+O give me Samuel's ear. 
+The open ear, O Lord, 
+Alive and quick to hear 
+Each whisper of Thy word! 
+Like him to answer at Thy call 
+And to obey Thee first of all. 
 
 3.
-To our bountiful father above
-We will offer our tribute of praise;
-For the glorious gift of His love
-And the blessings that hallow our days.
+O give me Samuel's heart, 
+A lowly heart, that waits 
+Where in Thy house Thou art, 
+Or watches at Thy gates! 
+By day and night, a heart that still 
+Moves at the breathing of Thy will. 
+
+4.
+O give me Samuel's mind, 
+A sweet, unmurmuring faith, 
+Obedient and resigned 
+To Thee in life and death! 
+That I may read with childlike eyes 
+Truths that are hidden from the wise.
 ```
 
 - |   -  |

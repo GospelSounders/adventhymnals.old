@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Lead them, my God, to Thee, Lead them to Thee,
-These children dear of mine, Thou gavest me;
-O, by Thy love divine, Lead them, my God, to Thee;
-Lead them, my God, to Thee, Lead them to Thee.
+Don't forget the Sabbath, 
+The Lord our God hath blest, 
+Of all the week the brightest, 
+Of all the week the best; 
+It brings repose from labor, 
+It tells of joy divine, 
+Its beams of light descending, 
+With heavenly beauty shine. 
+
+Refrain:
+Welcome, welcome, ever welcome, 
+Blessed Sabbath day, 
+Welcome, welcome, ever welcome, 
+Blessed Sabbath day. 
 
 2.
-When earth looks bright and fair, Festive and gay,
-Let no delusive snare Lure them astray;
-But from temptation’s power, Lead them, my God, to Thee,
-Lead them, my God, to Thee, Lead them to Thee.
+Keep the Sabbath holy, 
+And worship Him today, 
+Who said to His disciples, 
+"I am the living way;" 
+And if we meekly follow 
+Our Savior here below, 
+He'll give us of the fountain 
+Whose streams eternal flow. 
+
+Refrain:
+Welcome, welcome, ever welcome, 
+Blessed Sabbath day, 
+Welcome, welcome, ever welcome, 
+Blessed Sabbath day. 
 
 3.
-E’en for such little ones, Christ came a child,
-And in this world of sin Lived undefiled.
-O, for His sake, I pray, Lead them, my God, to Thee,
-Lead them, my God, to Thee, Lead them to Thee.
+Day of sacred pleasure! 
+Its golden hours we'll spend 
+In thankful hymns to Jesus, 
+The children's dearest Friend; 
+O gentle loving, Saviour, 
+How good and kind Thou art, 
+How precious is Thy promise 
+To dwell in every heart!
 
-4.
-Yea, though my faith be dim, I would believe
-That Thou this precious gift Wilt now receive;
-O take their young hearts now, Lead them my God to Thee,
-Lead them, my God, to Thee, Lead them to Thee.
+Refrain:
+Welcome, welcome, ever welcome, 
+Blessed Sabbath day, 
+Welcome, welcome, ever welcome, 
+Blessed Sabbath day. 
+
 ```
 
 - |   -  |

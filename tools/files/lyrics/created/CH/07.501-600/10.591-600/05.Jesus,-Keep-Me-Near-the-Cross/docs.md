@@ -11,29 +11,53 @@ metadata:
 
 ```txt
 1.
-Let every lamp be burning bright,
-The darkest hour is nearing;
-The darkest hour of earth’s long night,
-Before the Lord’s appearing.
+Jesus, keep me near the cross, 
+There a precious fountain 
+Free to all, a healing stream, 
+Flows from Calvary's mountain. 
 
+Refrain:
+In the cross, in the cross, 
+Be my glory ever, 
+Till my raptured soul shall find 
+Rest beyond the river. 
 
 2.
-Though thousands calmly slumber on,
-The last great message spuring,
-Wel’ll rest our living faith upon
-His promise of returning.
+Near the cross, a trembling soul, 
+Love and mercy found me; 
+There the bright and Morning Star 
+Sheds its beams around me. 
+
+Refrain:
+In the cross, in the cross, 
+Be my glory ever, 
+Till my raptured soul shall find 
+Rest beyond the river. 
 
 3.
-His word our lamp, His truth our guide,
-We cannot be mistaken;
-Though dangers rise on every side,
-We shall not be forsaken.
+Near the cross! O Lamb of God, 
+Bring its scenes before me; 
+Help me walk from day to day, 
+With its shadow o'er me. 
+
+Refrain:
+In the cross, in the cross, 
+Be my glory ever, 
+Till my raptured soul shall find 
+Rest beyond the river. 
 
 4.
-Then let good works with faith appear,
-To help the world atound us;
-Obedience bring the blessing near
-When faith has firmly bound us.
+Near the cross I'll watch and wait, 
+Hoping, trusting ever, 
+Till I reach the golden strand, 
+Just beyond the river.
+
+Refrain:
+In the cross, in the cross, 
+Be my glory ever, 
+Till my raptured soul shall find 
+Rest beyond the river. 
+
 ```
 
 - |   -  |

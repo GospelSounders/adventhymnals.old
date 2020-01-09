@@ -11,21 +11,22 @@ metadata:
 
 ```txt
 1.
-I know not why God’s wondrous grace To me He hath made known,
-Nor why, unworthy, Christ in love Redeemed me for His own.
-
+Gentle Peace, from heaven descended, 
+We would live beneath Thy law; 
+Thou hast home and life befriended, 
+Born of nobler deeds than war. 
 
 2.
-I know not how this saving faith To me He did impart,
-Nor how believing in His word Wrought peace within my heart.
+Thou hast thrown a smile of beauty 
+O'er the meadow, hill, and grove; 
+Thou hast quickened us to duty, 
+Thou hast warmed our hearts to love. 
 
 3.
-I know not how the Spirit moves, Convincing men of sin,
-Revealing Jesus through the word, Creating faith in Him.
-
-4.
-I know not when my Lord may come, At night or noonday fair,
-Nor if I walk the vale with Him, Or meet Him in the air.
+Stay Thou with us, still replenish 
+Fields with fruit, ourselves with love; 
+Discord and dissension banish, 
+Peaceful Spirit from above.
 ```
 
 - |   -  |

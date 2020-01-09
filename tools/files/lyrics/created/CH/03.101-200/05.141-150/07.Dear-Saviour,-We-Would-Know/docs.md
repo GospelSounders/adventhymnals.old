@@ -11,41 +11,22 @@ metadata:
 
 ```txt
 1.
-Christ upon the mountain peak
-Stands alone in glory blazing;
-Let us, if we dare to speak,
-With the saints and angels praise Him:
-
+Dear Saviour, we would know Thy love 
+Which yet no measure knows; 
+For us it led Thee once to die; 
+From thence salvation flows. 
 
 2.
-Trembling at His feet we saw
-Moses and Elijah speaking;
-All the prophets and the law
-Shout thro’ them their joyful greeting:
-
-Refrain:
-Alleluia, Alleluia, Alleluia.
+Fain would we strike the golden harp, 
+And wear the promised crown, 
+And at Thy feet, while bending low, 
+Would sing what grace hath done. 
 
 3.
-Swift the cloud of glory came,
-God proclaiming in the thunder
-Jesus as His Son by name;
-Nations cry aloud in wonder!
-
-Refrain:
-Alleluia, Alleluia, Alleluia.
-
-4.
-This is God’s beloved Son:
-Law and prophets fade before Him;
-First and last, the only One,
-Let creation now adore Him.
-
-Refrain:
-Alleluia, Alleluia, Alleluia.
-
-Refrain:
-Alleluia, Alleluia, Alleluia.
+Then leave us not in this dark world, 
+As strangers long to roam; 
+Come, Lord, and take us to Thyself, 
+Come, jesus, quickly come!
 
 ```
 

@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Jesus, I my cross have taken, all to leave and follow Thee.
-All things else I have forsaken, Thou from hence my all shall be.
-Perish every fond ambition, all I’ve sought or hoped or known.
-Yet how rich is my condition! God and Heaven are still mine own.
+My God, is any hour so sweet, 
+From blush of morn to evening star, 
+As that which calls me to Thy feet, 
+The hour of prayer? 
 
 2.
-Let the world despise and leave me, they have left my Savior, too.
-Human hearts and looks deceive me; Thou art faithful, Thou art true.
-O, ‘tis not in grief to harm me, while thy love is left to me;
-O, ‘twere not in joy to charm me, If that love be hid from me.
+No words can tell, what sweet relief 
+Here for my every want, I find; 
+What strength for warfare, balm for grief, 
+What peace of mind. 
 
 3.
-Soul, then know thy full salvation; rise o’er sin, and fear, and care;
-Joy to find in every station something still to do or bear:
-Think what Spirit dwells within thee; Think what Father’s smiles are thine;
-Think that Jesus died to win thee, child of heaven, canst thou repine?
+Hushed is each doubt, gone every fear; 
+My spirit seems in heaven to stay; 
+And e'en the penitential tear 
+Is wiped away. 
 
 4.
-Haste then on from grace to glory, armed by faith, and winged by prayer,
-Heaven’s eternal day’s before thee, God’s own hand shall guide thee there.
-Soon shall close thy earthly mission, soon shall pass thy pilgrim days;
-Hope soon change to glad fruition, faith to sight, and prayer to praise.
+Lord, till I reach that blissful shore, 
+No privilege so dear shall be 
+A thus my inmost soul to pour 
+In prayer to Thee.
 ```
 
 - |   -  |

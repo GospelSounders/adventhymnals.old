@@ -11,40 +11,34 @@ metadata:
 
 ```txt
 1.
-All the way my Savior leads me;
-What have I to ask beside?
-Can I doubt His tender mercy,
-Who through life has been my guide?
-Heavenly peace, divinest comfort,
-Here by faith in Him to dwell;
-For I know whate’er befall me,
-Jesus doeth all things well;
-For I know whate’er befall me,
-Jesus doeth all things well.
+Sweet the time, exceeding sweet! 
+When the saints together meet, 
+When the Saviour is the theme, 
+When they join to sing of Him. 
 
 2.
-All the way my Savior leads me;
-Cheers each winding path I tread;
-Gives me grace for every trial,
-Feeds me with the living bread;
-Though my weary steps may falter,
-And my soul athirst may be,
-Gushing from the Rock before me,
-Lo, a spring of joy I see;
-Gushing from the Rock before me,
-Lo, a spring of joy I see.
+Sing we then eternal love, 
+Such as did the Father move; 
+He beheld the world undone, 
+Loved the world and gave His Son. 
 
 3.
-All the way my Savior leads me;
-O the fullness of His love!
-Perfect rest to me is promised
-In my Father’s house above;
-When I wake to life immortal,
-Wing my flight to realms of day,
-This my song through endless ages,
-Jesus led me all the way;
-This my song through endless ages,
-Jesus led me all the way.
+Sing the Son's amazing love; 
+How He left the realms above, 
+Took our nature and our place, 
+Lived and died to save our race. 
+
+4.
+Sing we, too, the Spirit's love; 
+With our stubborn hearts He strove, 
+Filled our minds with grief and fear, 
+Brought the precious Saviour near. 
+
+5.
+Sweet the time, exceeding sweet, 
+When the saints in heaven shall meet; 
+Jesus still will be the theme, 
+They shall always sing of Him. 
 ```
 
 - |   -  |

@@ -11,16 +11,34 @@ metadata:
 
 ```txt
 1.
-For sunrise hope and sunset calm, and all that lies between,
-For all the sweetness and the balm that is and that has been,
-For comradeship for peace in strife, and light on darkened days;
-For work to do and strength for life we sing our hymn of praise.
+While Jesus whispers to you, 
+Come, sinner, come! 
+While we are praying for you, 
+Come, sinner, come! 
+Now is the time to own Him, 
+Come, sinner, come! 
+Now is the time to know Him, 
+Come, sinner, come! 
 
 2.
-But O, we press far, far above these gifts of pure delight,
-And find in Thee, and in Thy love contentment infinite.
-O Lord, beloved, in whom are found all joys of time and place,
-What will it be when joy is crowned by vision of Thy face?
+Are you too heavy laden? 
+Come, sinner, come! 
+Jesus will bear your burden, 
+Come, sinner, come! 
+Jesus will not deceive you, 
+Come, sinner, come! 
+Jesus can now redeem you, 
+Come, sinner, come! 
+
+3.
+O hear His tender pleading, 
+Come, sinner, come! 
+Come and receive the blessing, 
+Come, sinner, come! 
+While Jesus whispers to you, 
+Come, sinner, come! 
+While we are praying for you, 
+Come, sinner, come!
 ```
 
 - |   -  |

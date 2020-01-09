@@ -11,32 +11,35 @@ metadata:
 
 ```txt
 1.
-O Love that wilt not let me go,
-I rest my weary soul in thee;
-I give thee back the life I owe,
-that in thine ocean depths
-its flow may richer, fuller be.
+The God of Abraham praise,
+Who reigns enthroned above;
+Ancient of everlasting days,
+And God of love;
+Jehovah! Great I AM!
+By earth and heaven confessed;
+I bow and bless the sacred name,
+Forever blest.
 
 2.
-O Light that followest all my way,
-I yield my flickering torch to thee;
-my heart restores its borrowed ray,
-that in they sunshine’s blaze
-its day may brighter, fairer be.
+The God of Abraham praise,
+At whose supreme command
+From earth I rise, and seek the joys
+At His right hand;
+I all on earth forsake,
+Its wisdom, fame and power;
+And Him my only portion make,
+My shield and tower.
 
 3.
-O Joy that seekest me through pain,
-I cannot close my heart to thee;
-I trace the rainbow thru the rain,
-and feel the promise is not vain,
-that morn shall tearless be.
+The whole triumphant host
+Give thanks to God on high;
+"Hail, Father, Son, and Holy Ghost!"
+They ever cry;
+Hail, Abraham's God and mine!
+I join the heavenly lays;
+All might and majesty are Thine,
+And endless praise.
 
-4.
-O Cross that liftest up my head,
-I dare not ask to fly from thee;
-I lay in dust life’s glory dead,
-and from the ground there blossoms
-red life that shall endless be.
 ```
 
 - |   -  |

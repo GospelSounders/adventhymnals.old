@@ -11,34 +11,57 @@ metadata:
 
 ```txt
 1.
-wise may bring their learning,
-The rich may bring their wealth,
-And some may bring their greatness,
-And some their strength and health:
-We too would bring our treasures
-To offer to the King,
-We have no wealth or learning—
-What shall we children bring?
+I have a song I love to sing, 
+Since I have been redeemed; 
+Of my Redeemer, Saviour, King, 
+Since I have been redeemed. 
+
+Refrain:
+Since I have been redeemed, 
+Since I have been redeemed, 
+I will glory in His name, 
+Since I have been redeemed, 
+I will glory in my Saviour's name 
 
 2.
-We’ll bring Him hearts that love Him,
-We’ll bring Him thankful praise,
-And young souls meekly striving
-To follow in His ways:
-And these be the treasures
-We offer to the King,
-And these are gifts that ever
-The poorest child may bring.
+I have a Christ that satisfies, 
+Since I have been redeemed; 
+To do His will my highest prize, 
+Since I have been redeemed. 
+
+Refrain:
+Since I have been redeemed, 
+Since I have been redeemed, 
+I will glory in His name, 
+Since I have been redeemed, 
+I will glory in my Saviour's name 
 
 3.
-We’ll bring the little duties
-We have to do each day;
-We’ll try our best to please Him
-At home, at school, at play:
-And better are these treasures
-To offer to the King
-Than richest gift without them:
-Yet these a child may bring.
+I have a witness bright and clear, 
+Since I have been redeemed; 
+Dispelling every doubt and fear, 
+Since I have been redeemed. 
+
+Refrain:
+Since I have been redeemed, 
+Since I have been redeemed, 
+I will glory in His name, 
+Since I have been redeemed, 
+I will glory in my Saviour's name 
+
+4.
+I have a home prepared for me, 
+Since I have been redeemed; 
+Where I shall dwell eternally, 
+Since I have been redeemed.
+
+Refrain:
+Since I have been redeemed, 
+Since I have been redeemed, 
+I will glory in His name, 
+Since I have been redeemed, 
+I will glory in my Saviour's name 
+
 ```
 
 - |   -  |

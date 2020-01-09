@@ -11,24 +11,34 @@ metadata:
 
 ```txt
 1.
-Come, Christians, follow where our Captain trod,
-Our King victorious, Christ, the Son of God.
+Lead on, O King eternal,
+The day of march has come;
+Henceforth in fields of conquest
+Thy tents shall be our home.
+Through days of preparation
+Thy grace has made us strong;
+And now, O King eternal,
+We lift our battle song.
 
 2.
-Led on their way by this triumphant sign,
-The hosts of God in conquering ranks combine.
+Lead on, O King eternal,
+Till sin's fierce war shall cease,
+And holiness shall whisper
+The sweet amen of peace.
+For not with swords loud clashing,
+Nor roll of stirring drums;
+With deeds of love and mercy
+The heavenly kingdom comes.
 
 3.
-All newborn soldiers of the Crucified
-Bear on their brows the seal of Him Who died.
-
-4.
-O Lord, once lifted on the glorious tree,
-As Thou hast promised, draw us all to Thee.
-
-5.
-So shall our song of triumph ever be:
-Praise to the Crucified for victory!
+Lead on, O King eternal,
+We follow, not with fears,
+For gladness breaks like morning
+Where'er Thy face appears.
+Thy cross is lifted o'er us,
+We journey in its light;
+The crown awaits the conquest;
+Lead on, O God of might.
 ```
 
 - |   -  |

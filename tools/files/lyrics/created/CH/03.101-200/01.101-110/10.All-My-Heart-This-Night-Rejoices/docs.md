@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-God’s free mercy streameth over all the world,
-And His banner gleameth, By His church unfuried;
-Broad and deep and glorious, As the heaven above,
-Shines in might victorious His eternal love.
+All my heart this night rejoices, 
+As I hear, 
+Far and near, 
+Sweetest angel voices; 
+"Christ is born," their choirs are singing, 
+Till the air, 
+Everywhere, 
+Now with joy is ringing. 
 
 2.
-Summer suns are glowing over land and sea;
-Happy light is flowing, Bountiful and free;
-Everything rejoices in the mellow rays;
-Earth’s ten thousand voices swell the psalm of praise.
+Hark! a voice from yonder manger, 
+Soft and sweet, 
+Doth entreat: 
+"Flee from woe and danger; 
+Brethren, come; from all that grieves you, 
+You are freed; 
+All you need 
+I will surely give you." 
 
 3.
-Lord, upon our blindness thy pure radiance pour;
-For Thy loving kindness we would love Thee more;
-And when clouds are drifting dark across the sky,
-Then, the veil uplifting, father, be Thou nigh.
+Come, then, let us hasten yonder; 
+Here let all, 
+Great and small, 
+Kneel in awe and wonder; 
+Love Him who with love is yearning; 
+Hail the star, 
+That from far 
+Bright with hope is burning!
 
-4.
-We will never doubt Thee, tho’ veil Thy light;
-Life is dark without Thee, death with Thee is bright.
-Light of light, shine o’er us on our pilgrim way,
-Go Thou still before us to the endless day.
 ```
 
 - |   -  |

@@ -11,23 +11,22 @@ metadata:
 
 ```txt
 1.
-Nothing between my soul and my Savior,
-naught of this world’s delusive dream;
-I have renounced all sinful pleasure;
-Jesus is mine, there’s nothing between.
-
+O, could I find, from day to day, 
+A nearness to my God, 
+Then would my hours glide sweet away. 
+While leaning on His word. 
 
 2.
-Nothing between, like worldly pleasure;
-habits of life, though harmless they seem,
-must not my heart from him ever sever;
-he is my all, there’s nothing between.
+Lord, I desire with Thee to live 
+Anew from day to day, 
+In joys the world can never give, 
+Nor ever take away. 
 
 3.
-Nothing between, e’en many hard trials,
-though the whole world against me convene;
-watching with prayer and much self denial,
-I’ll triumph at last, there’s nothing between.
+Blest Jesus, come, and rule my heart, 
+And make me wholly Thine, 
+That I may nevermore depart, 
+Nor grieve Thy love divine.
 ```
 
 - |   -  |

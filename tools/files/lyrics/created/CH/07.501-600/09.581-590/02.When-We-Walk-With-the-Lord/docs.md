@@ -11,28 +11,47 @@ metadata:
 
 ```txt
 1.
-Working, O Christ, with Thee, working with Thee,
-Unworthy, sinful, weak, though we may be;
-Our all to Thee we give, for Thee alone we live,
-And by Thy grace achieve, working with Thee.
+When we walk with the Lord
+In the light of His word,
+What a glory He sheds on our way!
+While we do His good will,
+He abides with us still,
+And with all who will trust and obey.
+CHORUS:
+Trust and obey, for there's no other way
+To be happy in Jesus, but to trust and obey.
 
 2.
-Along the city’s waste, working with Thee,
-Our eager footsteps haste, like Thee to be;
-The poor we gather in, the outcasts raise from sin,
-And labor souls to win, working with Thee.
+Not a shadow can rise,
+Not a cloud in the skies,
+But His smile quickly drives it away;
+Not a doubt nor a fear,
+Not a sigh nor a tear,
+Can abide while we trust and obey.
 
 3.
-Savior, we weary not, working with Thee,
-As hard as Thine our lot can never be;
-Our joy and comfort this, “Thy grace sufficent is;”
-This changes toil to bliss, working with Thee.
+Not a burden we bear,
+Not a sorrow we share,
+But our toil He doth richly repay;
+Not a grief or a loss,
+Not a frown or a cross,
+But is blest if we trust and obey.
 
 4.
-So let us labor on, working with Thee,
-Till earth to Thee is won, from sin set free;
-Till men, from shore to shore, receive Thee, and adore,
-And join us evermore, working with Thee.
+But we never can prove
+The delights of His love
+Until all on the altar we lay;
+For the favor He shows,
+And the joy He bestows,
+Are for them who will trust and obey.
+
+5.
+Then in fellowship sweet
+We will sit at His feet,
+Or we'll walk by His side in the way;
+What He says we will do,
+Where He sends we will go;
+Never fear, only trust and obey.
 ```
 
 - |   -  |

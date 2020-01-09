@@ -11,22 +11,39 @@ metadata:
 
 ```txt
 1.
-Loving Shepherd of Thy sheep,
-Keep Thy lamb, in safety keep;
-Nothing can Thy power withstand;
-None can pluck me from Thy hand.
+Watch, ye saints, with eyelids waking;
+Lo! The powers of heaven are shaking;
+Keep your lamps all trimmed and burning, 
+Ready for your Lord's returning.
+CHORUS:
+Lo! He comes, lo! Jesus comes;
+Lo! He come, He comes all glorious!
+Jesus comes to reign victorious,
+Lo! He comes, yes, Jesus comes.
 
 2.
-Loving Shepherd, ever near,
-Teach Thy lamb Thy voice to hear;
-Suffer not my steps to stray
-From the straight and narrow way.
+Lo! the promise of your Savior, 
+Pardoned sin and purchased favor,
+Blood-washed robes and crowns of glory;
+Haste to tell redemption's story.
 
 3.
-Where Thou leadest I would go,
-Walking in Thy steps below,
-Till within the heavenly fold
-I my Shepherd shall behold.
+Kingdoms at their base are crumbling,
+Hark! His chariot wheels are rumbling;
+Tell, O tell of grace abounding,
+While the seventh trump is sounding.
+
+4.
+Nations wane, though proud and stately;
+Christ His kingdom hasteneth greatly;
+Earth her latest pangs is summing;
+Shout, ye saints, your Lord is coming.
+
+5.
+Sinners, come, while Christ is pleading;
+Now for you He's interceding;
+Haste, ere grace and time diminished
+Shall proclaim the mystery finished.
 ```
 
 - |   -  |

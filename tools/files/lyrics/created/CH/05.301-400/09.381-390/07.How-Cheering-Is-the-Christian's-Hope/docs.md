@@ -11,24 +11,28 @@ metadata:
 
 ```txt
 1.
-Peace and healing on thy wing;
-And to every troubled breast
-Speak of the divine behest:
-Thou shalt rest, Thou shalt rest!
+How cheering is the Christian's hope,
+While toiling here below!
+It bouys us up while this passing through
+This wilderness of woe,
 
 2.
-Earthly longings bid retire,
-Quench the passions’ hurtful fire;
-To the wayward, sin oppressed,
-Bring thou thy divine behest:
-Thou shalt rest, Thou shalt rest!
+It bouys us up while passing through
+This wilderness of woe,
+It bouys us up while passing through
+This wilderness of woe.
 
 3.
-Wipe from every cheek the tear,
-Banish care and silence fear;
-All things working for the best,
-Teach us the divine behest:
-Thou shalt rest, Thou shalt rest!
+It points us to a land of rest,
+Where saints with Christ will reign;
+Where we shall meet the loved of earth,
+And never part again.
+
+4.
+Fly, lingering moments, fly, O, fly,
+Dear Savior, quickly come!
+We long to see Thee as Thou art,
+And reach that blissful home.
 ```
 
 - |   -  |

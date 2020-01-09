@@ -11,35 +11,27 @@ metadata:
 
 ```txt
 1.
-Encamped along the hills of light,
-Ye Christian soldiers, rise,
-And press the battle ere the night
-Shall veil the glowing skies.
-Against the foe in vales below,
-Let all our strength be hurled;
-Faith is the victory, we know,
-That overcomes the world.
-
+Blessed assurance, Jesus is mine!
+O what a foretaste of glory divine!
+Heir of salvation, purchase of God,
+Born of His Spirit, washed in His blood.
+CHORUS:
+This is my story, this is my song,
+Praising my Savior all the day long;
+This is my story, this is my song,
+Praising my Savior all the day long.
 
 2.
-His banner over us in love,
-Our sword the Word of God;
-We tread the road the saints above
-With shouts of triumph trod.
-By faith they, like whirlwind’s breath,
-Swept on o’er ev’ry field;
-The faith by which they conquered death
-Is still our shining shield.
+Perfect submission, perfect delight,
+Visions of rapture now burst on my sight;
+Angels descending bring from above
+Echoes of mercy, whispers of love.
 
 3.
-To him who overcomes the foe
-White raiment shall be giv’n;
-Before the angels he shall know
-His name confessed in heav’n.
-Then onward from the hills of light,
-Our hearts with love aflame;
-We’ll vanquish all the hosts of night,
-In Jesus’ conq’ring name.
+Perfect submission, all is at rest;
+I in my Savior am happy and blest,
+Watching and waiting, looking above,
+Filled with His goodness, lost in His love.
 ```
 
 - |   -  |

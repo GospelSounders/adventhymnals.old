@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-In the bleak midwinter
-Frosty wind made moan;
-Earth stood hard as iron,
-Water like a stone;
-Snow had fallen, snow on snow,
-Snow on snow,
-In the bleak midwinter,
-Long ago.
+There is a green hill far away,
+Without a city wall,
+Where the dear Lord was crucified,
+Who died to save us all.
 
 2.
-Angels and archangels
-May have gathered there,
-Cherubim and seraphim
-Thronged the air:
-But His mother only
-In her maiden bliss,
-Worshipped the beloved
-With a kiss.
+We may not know, we cannot tell,
+What pains He had to bear,
+But we believe it was for us
+He hung and suffered there.
 
 3.
-What can I give Him,
-Poor as I am?
-If I were a shepherd
-I would bring a lamb;
-If I were a wise man
-I would do my part;
-Yet what can I give Him?
-Give my heart.
+He died that we might be forgiven,
+He died to make us good,
+That we might go at last to heaven,
+Saved by His precious blood.
+
+4.
+There was no other good enough
+To pay the price of sin;
+He only could unlock the gate
+Of heaven, and let us in.
+
+5.
+O dearly, dearly has He loved!
+And we must love Him too,
+And trust in His redeeming blood,
+And try His works to do.
+
 ```
 
 - |   -  |

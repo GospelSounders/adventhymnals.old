@@ -11,34 +11,37 @@ metadata:
 
 ```txt
 1.
-O love, how deep, how broad, how high,
-Beyond all thought and fantasy,
-That God, the Son of God, should take
-Our mortal form for mortal’s sake!
+O love divine, how sweet thou art! 
+When shall I find my willing heart 
+All taken up by thee? 
+I thirst, I faint, I die to prove 
+The greatness of redeeming love, 
+The love of Christ to me. 
 
 2.
-For us baptized, for us He bore
-His holy fast and hungered sore;
-For us temptation sharp He knew;
-For us the tempter overthrew.
+Stronger His love than death or hell; 
+Its riches are unsearchable; 
+The first born sons of light 
+Desire in vain its depths to see; 
+They cannot reach the mystery, 
+The length, and breadth, and height. 
 
 3.
-For us by wickedness betrayed,
-For us, in crown of thorns arrayed,
-He bore the shameful cross and death;
-For us He gave His dying breath.
+God only knows the love of God; 
+O that it now were shed abroad 
+In this poor stony heart! 
+For love I sigh, for love I pine; 
+This only portion, Lord, be mine' 
+Be mine this better part! 
 
 4.
-For us He rose from death again,
-For us He went on high to reign;
-For us He sent His Spirit here
-To guide, to strengthen, and to cheer.
+O that I could forever sit 
+With Mary at the Master's feet! 
+Be this my happy choice; 
+My only care, delight, and bliss, 
+My joy, my heaven on earth, be this 
+To hear the Bridegroom's voice.
 
-5.
-All glory to our Lord and God
-For love so deep, so high, so broad;
-The Trinity whom we adore
-Forevermore and forevermore.
 ```
 
 - |   -  |

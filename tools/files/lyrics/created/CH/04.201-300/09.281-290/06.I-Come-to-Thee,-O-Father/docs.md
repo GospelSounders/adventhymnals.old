@@ -11,29 +11,22 @@ metadata:
 
 ```txt
 1.
-Sing them over again to me,
-wonderful words of life,
-Let me more of their beauty see,
-wonderful words of life;
-Words of life and beauty
-teach me faith and duty.
-
+I come to Thee, O Father, 
+Confessing all my sin; 
+I come and claim Thy promise; 
+Come in, dear Lord, come in. 
 
 2.
-Christ, the blessèd One, gives to all
-wonderful words of life;
-Sinner, list to the loving call,
-wonderful words of life;
-All so freely given,
-wooing us to heaven.
+Drive out my sinful nature, 
+Implant Thine own, I pray; 
+And wash and cleanse and save me 
+Each moment, hour and day. 
 
 3.
-Sweetly echo the Gospel call,
-wonderful words of life;
-Offer pardon and peace to all,
-wonderful words of life;
-Jesus, only Savior,
-sanctify forever.
+O send Thy Holy Spirit 
+To guide me, I implore; 
+For Jesus' sake, O make me 
+Thy child forevermore.
 ```
 
 - |   -  |

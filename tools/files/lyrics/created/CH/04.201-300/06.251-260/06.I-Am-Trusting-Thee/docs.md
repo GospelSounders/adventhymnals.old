@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Ye servants of God, your Master proclaim,
-and publish abroad his wonderful name;
-the name all-victorious of Jesus extol,
-his kingdom is glorious and rules over all.
+I am trusting Thee, Lord Jesus,
+Trusting only Thee;
+Trusting Thee for full salvation,
+Great and free.
 
 2.
-God ruleth on high, almighty to save,
-and still he is nigh, his presence we have;
-the great congregation his triumph shall sing,
-ascribing salvation to Jesus, our King.
+I am trusting Thee for pardon;
+At Thy feet I bow;
+For Thy grace and tender mercy,
+Trusting now.
 
 3.
-“Salvation to God, who sits on the throne!”
-Let all cry aloud and honor the Son;
-the praises of Jesus the angels proclaim,
-fall down on their faces and worship the Lamb.
+I am trusting Thee to guide me;
+Thou alone shalt lead;
+Every day and hour supplying
+All my need.
 
 4.
-Then let us adore and give him his right,
-all glory and power, all wisdom and might;
-all honor and blessing with angels above,
-and thanks never ceasing and infinite love.
+I am trusting Thee, Lord Jesus;
+Never let me fall;
+I am trusting Thee forever,
+And for all.
+
 ```
 
 - |   -  |

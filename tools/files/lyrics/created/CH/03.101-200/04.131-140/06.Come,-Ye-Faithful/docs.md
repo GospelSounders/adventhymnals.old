@@ -11,34 +11,26 @@ metadata:
 
 ```txt
 1.
-Good Christians, now rejoice,
-With heart, and soul, and voice;
-Give ye heed to what we say:
-Jesus Christ is born today;
-Ox and ass before Him bow,
-And He is in the manger now.
-Crist is born today!
-Crist is born today!
+O come, all ye faithful, joyful and triumphant,
+O come ye, O come ye to Bethlehem!
+Come and behold Him, born the King of angels!
+O come, let us adore Him, O come, let us adore Him,
+O come, let us adore Him, Christ, the Lord!
 
 2.
-Good Christians, now rejoice,
-With heart, and soul, and voice;
-Now ye hear of endless bliss:
-Jesus Christ was born for this!
-He hath ope’d the heav’nly door,
-And we are blessed evermore.
-Christ was born for this!
-Christ was born for this!
+Sing, choirs of angels sing in exultation,
+O sing all ye citizens of heaven above!
+Glory to God, all glory in the highest!
+O come, let us adore Him, O come, let us adore Him,
+O come, let us adore Him, Christ, the Lord!
 
 3.
-Good Christians, now rejoice,
-With heart, and soul, and voice;
-Now ye need not fear the grave:
-Jesus Christ was born to save!
-Calls you one and calls you all
-To gain His everlasting hall.
-Christ was born to save!
-Christ was born to save!
+Yea, Lord, we greet Thee, born this happy morning,
+Jesus, to Thee be all glory given;
+Word of the Father, now in flesh appearing!
+O come, let us adore Him, O come, let us adore Him,
+O come, let us adore Him, Christ, the Lord!
+
 ```
 
 - |   -  |

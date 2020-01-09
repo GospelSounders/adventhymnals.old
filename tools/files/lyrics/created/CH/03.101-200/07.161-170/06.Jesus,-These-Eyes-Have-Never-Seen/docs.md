@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Christ the Lord is risen today, Alleluia!
-Sons of man and angels say, Alleluia!
-Raise your joys and triumphs high, Alleluia!
-Sing, ye heavens, and earth reply, Alleluia!
+Jesus, these eyes have never seen, 
+That radiant form of Thine; 
+The veil of sense hangs dark between 
+Thy bless'd face and mine. 
 
 2.
-Lives again our glorious King, Alleluia!
-Where, O death, is now thy sting? Alleluia!
-Once he died our souls to save, Alleluia!
-Where’s thy victory, boasting grave? Alleluia!
+I see Thee not, I hear Thee not, 
+Yet art Thou oft with me; 
+And earth hath ne'er so dear a spot, 
+As where I meet with Thee. 
 
 3.
-Love’s redeeming work is done, Alleluia!
-Fought the fight, the battle won, Alleluia!
-Death in vain forbids him rise, Alleluia!
-Christ has opened paradise, Alleluia!
+Like some bright dream that comes unsought, 
+When slumbers o'er me roll, 
+Thine image ever fills my thought, 
+And charms my ravished soul. 
 
 4.
-Soar we now where Christ has led, Alleluia!
-Following our exalted Head, Alleluia!
-Made like him, like him we rise, Alleluia!
-Ours the cross, the grave, the skies, Alleluia!
+Yet though I have not seen, and still 
+Must rest in faith alone, 
+I love Thee, dearest Lord, and will, 
+Unseen, but not unknown.
+
 ```
 
 - |   -  |

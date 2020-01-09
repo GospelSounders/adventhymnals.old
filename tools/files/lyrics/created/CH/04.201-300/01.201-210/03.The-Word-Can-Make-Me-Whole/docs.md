@@ -11,38 +11,34 @@ metadata:
 
 ```txt
 1.
-This is the threefold truth
-On which our faith depends;
-And with this joyful cry
-Worship begins and ends;
-
+The Word, whose word can make me whole, 
+Has heard my spirit's cry, 
+And in the palace of the soul, 
+He dwells! my Lord and I! 
 
 2.
-By this we are upheld
-When doubt and grief assails
-Our Christian fortitude,
-And only grace avails.
-
-Refrain:
-Christ has died!
-Christ is risen!
-Christ will come again!
+How holy must the temple be, 
+Where Jesus reigns within! 
+His precious blood, outpoured for me, 
+I trust to make me clean. 
 
 3.
-This is the threefold truth
-Which, if we hold it fast,
-Changes the world and us
-And brings us home at last.
+And he is come! To whom the praise, 
+The joy of heaven, belong; 
+My face I veil, my hands I raise, 
+And "silence is my song." 
 
-Refrain:
-Christ has died!
-Christ is risen!
-Christ will come again!
+4.
+And now to me the gladdest thing 
+Be his sweet will alone; 
+Content, since I am with the King, 
+To make his choice my own. 
 
-Refrain:
-Christ has died!
-Christ is risen!
-Christ will come again!
+5.
+He makes his palace in my soul, 
+He brings my spirit nigh; 
+Within my heart, 'neath his control 
+I dwell'my Lord and I!
 
 ```
 

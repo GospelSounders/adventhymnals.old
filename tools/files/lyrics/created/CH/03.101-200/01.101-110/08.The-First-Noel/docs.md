@@ -11,34 +11,55 @@ metadata:
 
 ```txt
 1.
-Amazing grace! How sweet the sound
-that saved a wretch like me!
-I once was lost, but now am found;
-was blind, but now I see.
+The first noel the angel did say
+Was to certain poor shepherds in fields where they lay;
+In fields where they lay keeping their sheep,
+On a cold winter's night that was so deep.
+
+Refrain:
+Noel, Noel, Noel, Noel,
+Born is the King of Israel
 
 2.
-‘Twas grace that taught my heart to fear,
-and grace my fears relieved;
-how precious did that grace appear
-the hour I first believed.
+They looked up and say a star
+Shining in the east, beyond them far,
+And to the earth it gave great light,
+And so it continued both day and night.
+
+Refrain:
+Noel, Noel, Noel, Noel,
+Born is the King of Israel
 
 3.
-The Lord has promised good to me,
-his word my hope secures;
-he will my shield and portion be,
-as long as life endures.
+And by the light of that same star,
+Three wise men came from country far,
+And to the earth it gave great light,
+And to follow the star wherever it went.
+
+Refrain:
+Noel, Noel, Noel, Noel,
+Born is the King of Israel
 
 4.
-Through many dangers, toils, and snares,
-I have already come;
-’tis grace hath brought me safe thus far,
-and grace will lead me home.
+This star drew nigh to the northwest,
+O'er Bethlehem it took its rest,
+And there it did both stop and stay,
+Right over the place where Jesus lay.
+
+Refrain:
+Noel, Noel, Noel, Noel,
+Born is the King of Israel
 
 5.
-When we’ve been there ten thousand years,
-bright shining as the sun,
-we’ve no less days to sing God’s praise
-than when we first begun.
+Then entered in those wise men three,
+Full reverently upon the knee,
+And offered there, in His presence,
+Their gold, and myrrh, and frankincense.
+
+Refrain:
+Noel, Noel, Noel, Noel,
+Born is the King of Israel
+
 ```
 
 - |   -  |

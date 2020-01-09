@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Light of light, enlighten me,
-Now anew the day is dawning;
-Sun of grace, the shadows flee;
-Brighten Thou my Sabbath morning;
-With Thy joyous sunshine blest,
-Happy is my day of rest.
+Thou art, O Christ, the light and life 
+Of all my soul's aspiring hope; 
+Without that life in daily strife 
+I could not dare with sin to cope. 
 
 2.
-Let me with my heart today,
-Holy, holy, holy, singing,
-Rapt awhile from earth away,
-All my soul to Thee up springing,
-Have a foretaste inward given
-How they worship Thee in heaven.
+I have not strength to stand alone, 
+When storms of doubt and fears assail; 
+But Thou, yea, Thou, and Thou alone, 
+Must o'er my doubts and fears prevail. 
 
 3.
-Hence all care, all vanity!
-For the day to God is holy;
-Come, Thou glorious Majesty,
-Deign to fill this temple lowly;
-Nought today my soul shall move,
-Simply resting in Thy love.
+I have not courage to resist, 
+When Satan's hosts attack me sore; 
+I must on Thee alone subsist, 
+Till sin and sorrow reign no more. 
+
+4.
+And when, in that bright realm above, 
+I see Thee ever face to face, 
+I'll breathe the fragrance of Thy love, 
+I'll sing the wonder of Thy grace.
 ```
 
 - |   -  |

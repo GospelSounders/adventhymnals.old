@@ -11,23 +11,28 @@ metadata:
 
 ```txt
 1.
-What a fellowship, what a joy divine,
-leaning on the everlasting arms;
-what a blessedness, what a peace is mine,
-leaning on the everlasting arms.
-
+Welcome, day of sweet repose!
+Blessed be thy sacred hours!
+We would trust the One who knows
+All our weak and failing powers.
 
 2.
-O how sweet to walk in this pilgrim way,
-leaning on the everlasting arms;
-O how bright the path grows from day to day,
-leaning on the everlasting arms.
+Welcome, day in Eden born!
+Holy rest for sinless man!
+Like the dawning of fair morn
+Come thy hours to us again.
 
 3.
-What have I to dread, what have I to fear,
-leaning on the everlasting arms?
-I have blessed peace with my Lord so near,
-leaning on the everlasting arms.
+Welcome, day blessed by our Lord!
+Toil shall cease and anxious care.
+Day commanded by His word,
+Day for song and praise and prayer.
+
+4.
+Welcome, day our Savior kept!
+Keeping, wrought our righteousness,
+Day God bids us ne'er forget,
+Day of days His name to bless.
 ```
 
 - |   -  |

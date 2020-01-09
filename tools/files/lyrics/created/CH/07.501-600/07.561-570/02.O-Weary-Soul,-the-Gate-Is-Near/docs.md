@@ -11,24 +11,33 @@ metadata:
 
 ```txt
 1.
-Come, sing a song of harvest, Of thanks for daily food!
-To offer God the first-fruits is old as gratitude.
+O weary soul, the gate is near, 
+In sin why still abide? 
+Both peace and rest are waiting here, 
+And you are just outside. 
+REFRAIN:
+Just outside the door, just outside the door, 
+Behold, it stands ajar! 
+Just outside the door, just outside the door, 
+So near and yet so far! 
 
 2.
-Long, long ago, the reapers, before they kept the feast,
-Put first-fruits in a basket, and took it to the priest.
+Forgiveness Jesus will impart, 
+To save your soul He died; 
+How can you still offend His heart 
+By staying just outside? 
 
 3.
-Shall we, sometimes forgetful oh where creation starts,
-With science in our pockets lose wonder from our hearts?
+The day of life is passing by; 
+Soon night your soul will hide; 
+And then "Too late" will be your cry, 
+If you are just outside! 
 
 4.
-May God, the great Creator, to whom all life belongs,
-Accept these gifts we offer, our service and our songs.
-
-5.
-And lest the world go hungry while we ourselves are fed,
-Make each of us more ready to share our daily bread.
+Come in, be free from stains of sin, 
+Be glad, be satisfied; 
+Before the tempest breaks, come in, 
+And leave your past outside.
 ```
 
 - |   -  |

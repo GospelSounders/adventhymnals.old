@@ -11,34 +11,44 @@ metadata:
 
 ```txt
 1.
-I’m but a stranger here,
-Heav’n is my home;
-Earth is a desert drear,
-Heav’n is my home.
-Danger and sorrow stand
-Round me on every hand;
-Heav’n is my fatherland,
-Heav’n is my home.
+From Greenland's icy mountains, 
+From India's coral strand, 
+Where Afric's sunny fountains 
+Roll down their golden sands, 
+From many an ancient river, 
+From many a palmy plain, 
+They call us to deliver 
+Their land from error's chain. 
 
 2.
-What though the tempest rage,
-Heav’n is my home;
-Short is my pilgrimage,
-Heav’n is my home;
-And time’s wild wintry blast
-Soon shall be over past;
-I shall reach home at last,
-Heav’n is my home.
+What though the spicy breezes 
+Blow soft o'er Ceylon's isle; 
+Though every prospect pleases, 
+And only man is vile; 
+In vain with lavish kindness 
+The gifts of God are strewn; 
+The heathen in his blindness, 
+Bows down to wood and stone. 
 
 3.
-There at my Savior’s side
-Heav’n is my home;
-I shall be glorified,
-Heav’n is my home;
-There are the good and blest,
-Those I love most and best;
-And there I, too, shall rest,
-Heav’n is my home.
+Can men, whose souls are lighted 
+With wisdom from on high, 
+Can they to men benighted 
+The lamp of life deny? 
+Salvation! O salvation! 
+The joyful sound proclaim, 
+Till earth's remotest nation 
+Has learned Messiah's name. 
+
+4.
+Waft, waft, ye winds, His story, 
+And you, ye waters, roll, 
+Till, like a sea of glory, 
+It spreads from pole to pole; 
+Till o'er our ransomed nature 
+The Lamb for sinners slain, 
+Redeemer, King, Creator, 
+In bliss returns to reign.
 ```
 
 - |   -  |

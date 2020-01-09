@@ -11,35 +11,47 @@ metadata:
 
 ```txt
 1.
-I serve a risen Savior,
-He’s in the world today;
-I know that He is living,
-whatever men may say;
-I see His hand of mercy,
-I hear His voice of cheer
-And just the time
-I need Him He’s always near.
-
+I ask not, Lord, for less to bear 
+Here in the narrow way, 
+But that I may thy blessing share 
+In all I do or say, 
+In all I do or say. 
 
 2.
-In all the world around me
-I see His loving care,
-And tho’ my heart grows weary
-I never will despair;
-I know that He is leading
-thru all the stormy blast,
-The day of His appearing
-will come at last.
+Through whatsoe'er my path shall lie, 
+With patience may I run; 
+With filial trust my heart reply, 
+"Thy will, O God, be done. 
+Thy will, O God, be done." 
 
 3.
-Rejoice, rejoice, O Christian,
-lift up your voice and sing,
-Eternal hallelujahs
-to Jesus Christ the King!
-The hope of all who seek Him,
-the help of all who find,
-None other is so loving,
-so good and kind.
+With Thee to lead, I will not fear 
+In scenes with dangers rife, 
+While still thy cheering voice I hear, 
+"I am the way, the life, 
+I am the way, the life". 
+
+4.
+Thou art the refuge of my soul, 
+My hope when comforts flee, 
+My strength while life's rough billows roll, 
+My joy eternally, 
+My joy eternally. 
+
+5.
+Then help me to improve with care, 
+These precious moments given; 
+For they a faithful record bear, 
+Of good or ill, to heaven, 
+Of good or ill, to heaven. 
+
+6.
+And in Thine arms of love enfold 
+Me from the tempter's snare; 
+And in the book of life enrolled, 
+Be my name written there, 
+Be my name written there.
+
 ```
 
 - |   -  |

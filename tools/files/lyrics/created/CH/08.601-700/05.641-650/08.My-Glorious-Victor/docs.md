@@ -11,20 +11,28 @@ metadata:
 
 ```txt
 1.
-I vow to thee, my country, all earthly things above,
-Entire and whole and perfect, the service of my love:
-The love that asks the reason, the love that stands the test,
-That lays upon the altar the dearest and the best;
-The love that never falters, the love that pays the price,
-The love that makes undaunted the final sacrifice.
+My glorious Victor, Prince Divine, 
+Clasp these surrendered hands in Thine; 
+At length my will is all Thine own, 
+Glad vassal of a Saviour's throne. 
 
 2.
-And there’s another country, I’ve heard of long ago,
-Most dear to them that love her, most great to them that know;
-We may not count her armies, we may not see her King;
-Her fortress is a faithful heart, her pride is suffering;
-And one by one and fervently we pray for her increase,
-And her ways are ways of gentleness, and all her paths are peace.
+My Master, lead me to Thy door; 
+Pierce this now willing ear once more. 
+Thy bonds are freedom; let me stay 
+With Thee, to toil, endure, obey. 
+
+3.
+Yes, ear and hand, and thought and will, 
+Use all in Thy dear slavery still! 
+Self's weary liberties I cast 
+Beneath Thy feet; there keep them fast. 
+
+4.
+Tread them still down; and then I know 
+These hands shall with Thy gifts o'erflow; 
+And pierced ears shall hear the tone 
+Which tells me Thou and I are one.
 ```
 
 - |   -  |

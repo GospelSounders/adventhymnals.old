@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-O let me walk with Thee, my God,
-As Enoch walked in days of old;
-Place Thou my trembling hand in Thine,
-And sweet communion with me hold;
-E’en though the path I may not see,
-Yet, Jesus, let me walk with Thee.
+There is a land of corn and wine, 
+And all its joys will soon be mine; 
+There shines undimmed one blissful day, 
+For earth's dark night has passed away. 
+REFRAIN:
+O Beulah land! sweet Beulah land! 
+Upon thy heights I long to stand, 
+And view the radiant, jasper sea, 
+And mansions fair, prepared for me, 
+And find on that eternal shore 
+My heaven, my home, forevermore. 
 
 2.
-I cannot, dare not, walk alone;
-The tempest rages in the sky,
-A thousand snares beset my feet,
-A thousand foes are lurking nigh.
-Still Thou the raging of the sea,
-O Master! let me walk with Thee.
+My Saviour then will walk with me; 
+O sweet communion that will be! 
+He'll gently lead me by the hand, 
+In that celestial, happy land. 
 
 3.
-If I may rest my hand in Thine,
-I’ll count the joys of earth but loss,
-And firmly, bravely journey on;
-I’ll bear the banner of the cross
-Till Zion’s glorious gates I see;
-Yet, Savior, let me walk with Thee.
+A sweet perfume upon the breeze, 
+Will come from ever vernal trees, 
+And flowers that never fading grow, 
+Where streams of life forever flow. 
+
+4.
+The zephyrs then will laden be 
+With sounds of sweetest melody, 
+As angels, with the ransomed throng, 
+Join in the sweet redemption song.
 ```
 
 - |   -  |

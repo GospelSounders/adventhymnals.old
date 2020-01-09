@@ -11,40 +11,32 @@ metadata:
 
 ```txt
 1.
-Just as I am, without one plea,
-but that thy blood was shed for me,
-and that thou bidst me come to thee,
-O Lamb of God, I come, I come.
+When darkness gathers round thy way, 
+As falls the shades of even; 
+No star, with its mild, cheering ray, 
+To chase the gloom. our fears allay' 
+How sweet the light of heaven! 
 
 2.
-Just as I am, and waiting not
-to rid my soul of one dark blot,
-to thee whose blood can cleanse each spot,
-O Lamb of God, I come, I come.
+When toiling in the narrow way, 
+By persecution driven, 
+Beset with treacherous snares that lay 
+To lead our wayward feet astray, 
+How sweet the smiles of heaven! 
 
 3.
-Just as I am, though tossed about
-with many a conflict, many a doubt,
-fightings and fears within, without,
-O Lamb of God, I come, I come.
+When by earth's care and grief and woe 
+The anguished heart is riven, 
+And bitter tears of sorrow flow, 
+No soothing balm found here below' 
+How sweet the joy of heaven! 
 
 4.
-Just as I am, poor, wretched, blind;
-sight, riches, healing of the mind,
-yea, all I need in thee to find,
-O Lamb of God, I come, I come.
-
-5.
-Just as I am, thou wilt receive,
-wilt welcome, pardon, cleanse, relieve;
-because thy promise I believe,
-O Lamb of God, I come, I come.
-
-6.
-Just as I am, thy love I own
-hath broken every barrier down;
-now, to be thine, and thine alone,
-O Lamb of God, I come, I come.
+And when our pilgrimage is o'er, 
+The blessed promise given; 
+When, borne on angels' wings we soar 
+To meet the Saviour we adore' 
+How sweet the home in heaven!
 ```
 
 - |   -  |

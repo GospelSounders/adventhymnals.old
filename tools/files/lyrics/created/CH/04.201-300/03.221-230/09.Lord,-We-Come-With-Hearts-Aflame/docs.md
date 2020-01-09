@@ -11,24 +11,29 @@ metadata:
 
 ```txt
 1.
-All hail the power of Jesus’ name! Let angels prostrate fall;
-Bring forth the royal diadem, and crown Him Lord of all.
-Bring forth the royal diadem, and crown Him Lord of all.
+Lord, we come with hearts aflame, 
+Seeking service in thy name; 
+All our youth and strength are thine, 
+Given to help thy work divine; 
+All our love and faith we bring, 
+They are thine, O heavenly King. 
 
 2.
-Ye chosen seed of Israel’s race, ye ransomed from the fall,
-Hail Him who saves you by His grace, and crown Him Lord of all.
-Hail Him who saves you by His grace, and crown Him Lord of all.
+Lord of hosts, we ask thine aid, 
+Keep us ever unafraid; 
+Hold us loyal, hold us true 
+To the task we have to do; 
+Lead us on to victory, 
+We shall triumph praising thee. 
 
 3.
-Let every kindred, every tribe on this terrestrial ball
-To Him all majesty ascribe, and crown Him Lord of all.
-To Him all majesty ascribe, and crown Him Lord of all.
+Lord of all, we take our stand, 
+Giving help at thy command; 
+Eager, joyful, blithe, and strong, 
+Thrilled with love and filled with song; 
+Lord, we come with hearts aflame, 
+Seeking service in thy name.
 
-4.
-O that with yonder angel throng we at His feet may fall!
-We’ll join the everlasting song, and crown Him Lord of all.
-We’ll join the everlasting song, and crown Him Lord of all.
 ```
 
 - |   -  |

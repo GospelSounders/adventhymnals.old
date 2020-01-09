@@ -11,29 +11,35 @@ metadata:
 
 ```txt
 1.
-When the trumpet of the Lord shall sound,
-and time shall be no more,
-And the morning breaks, eternal, bright and fair;
-When the saved of earth shall gather
-over on the other shore,
-And the roll is called up yonder, I’ll be there.
-
+Holy Spirit, lamp of light, 
+Shine upon our nature's night; 
+Give thy blessed inward sight, 
+Comforter divine! 
 
 2.
-On that bright and cloudless morning,
-when the dead in Christ shall rise,
-And the glory of His resurection share;
-When His chosen ones shall gather
-to their home beyond the skies,
-And the roll is called up yonder, I’ll be there.
+We are sinful; cleanse us, Lord; 
+We are faint; thy strength afford; 
+Lost' until by thee restored, 
+Comforter divine! 
 
 3.
-Let us labor for the Master
-from the dawn till setting sun,
-Let us talk of all His wondrous love and care,
-Then, when all of life is over,
-and our work on earth is done,
-And the roll is called up yonder I’ll be there.
+Like the dew, thy peace distill; 
+Guide, subdue our wayward will, 
+Things of Christ unfolding still, 
+Comforter divine! 
+
+4.
+In us "Abba, Father," cry' 
+Earnest of our rest on high, 
+Hope of immortality, 
+Comforter divine! 
+
+5.
+Search for us the depths of God; 
+Bear us up the starry road 
+To the height of thine abode, 
+Comforter divine!
+
 ```
 
 - |   -  |

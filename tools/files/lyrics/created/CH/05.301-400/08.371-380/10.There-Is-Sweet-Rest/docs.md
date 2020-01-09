@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Welcome, day of sweet repose!
-Blessed be thy sacred hours!
-We would trust the One who knows
-All our weak and failing powers.
+There is sweet rest for feet now weary, 
+In the rugged, upward way; 
+There is a morn when midnight dreary 
+Shall be lost in perfect day. 
 
 2.
-Welcome, day in Eden born!
-Holy rest for sinless man!
-Like the dawning of fair morn
-Come thy hours to us again.
+For that blest morn our hearts are longing, 
+When shall end earth's night of woe; 
+When, through those pearly portals thronging, 
+Mortal cares we'll leave below. 
 
 3.
-Welcome, day blessed by our Lord!
-Toil shall cease and anxious care.
-Day commanded by His word,
-Day for song and praise and prayer.
+Soon to that city, bright, eternal, 
+Weary pilgrims all shall go; 
+Soon we shall rest in pastures vernal, 
+Where life's waters ceaseless flow. 
 
 4.
-Welcome, day our Savior kept!
-Keeping, wrought our righteousness,
-Day God bids us ne’er forget,
-Day of days His name to bless.
+Father above, in mercy guide us 
+To those mansions of the blest; 
+Safe in the Rock of Ages hide us 
+Till we gain our final rest.
 ```
 
 - |   -  |

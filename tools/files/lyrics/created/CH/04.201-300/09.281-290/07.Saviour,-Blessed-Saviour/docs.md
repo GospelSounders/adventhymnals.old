@@ -11,23 +11,35 @@ metadata:
 
 ```txt
 1.
-Softly and tenderly Jesus is calling,
-calling for you and for me;
-see, on the portals he’s waiting and watching,
-watching for you and for me.
-
+Saviour, blessed Saviour, Listen whilst we sing, 
+Hearts and voices raising Praises to our King. 
+All we have we offer; All we hope to be, 
+Body, soul, and spirit, All we yield to Thee. 
 
 2.
-Why should we tary when Jesus is pleading,
-pleading for you and for me?
-Why should we linger and heed not his mercies,
-mercies for you and for me?
+Nearer, ever nearer, Christ, we draw to Thee, 
+Deep in adoration Bending low the knee. 
+Thou for our redemption Camest on earth to die; 
+Thou, that we might follow, Hast gone up on high. 
 
 3.
-Think of the wonderful love he has promised,
-promised for you and for me!
-Though we have sinned, he has mercy and pardon,
-pardon for you and for me.
+Great, and ever greater, Are Thy mercies here, 
+True and ever lasting Are the glories there, 
+Where no pain, or sorrow, Toil, or care is known, 
+Where the angel legions Circle round Thy throne. 
+
+4.
+Clearer still and clearer Dawns the light from heaven, 
+In our sadness bringing News of sin forgiven; 
+Life has lost its shadows, Pure the light within; 
+Thou hast shed Thy radiance on a world of sin. 
+
+5.
+Onward, ever onward, Journeying o'er the road 
+Worn by saints before us Journeying on to God; 
+Leaving all behind us, may we hasten on, 
+Backward never looking till the prize is won.
+
 ```
 
 - |   -  |

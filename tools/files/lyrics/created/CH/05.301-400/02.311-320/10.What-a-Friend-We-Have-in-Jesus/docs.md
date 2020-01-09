@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-Lord of creation, to you be all praise!
-Most mighty your working, most wondrous your ways!
-Your glory and might are beyond us to tell,
-And yet in the heart of the humble you dwell.
+What a friend we have in Jesus,
+All our sins and griefs to bear!
+What a privilege to carry
+Everything to God in prayer!
+Oh, what peace we often forfeit;
+Oh, what needless pain we bear
+All because we do not carry
+Everything to God in prayer!
 
 2.
-Lord of all power, I give you my will,
-In joyful obedience your tasks to fulfill.
-Your bondage is freedom; your service is song;
-And held in your keeping, my weakness is strong.
+Have we trials and temptations?
+Is there trouble anywhere?
+We should never be discouraged
+Take it to the Lord in prayer.
+Can we find a friend so faithful
+Who will all our sorrows share?
+Jesus knows our every weakness
+Take it to the Lord in prayer.
 
 3.
-Lord of all wisdom, I give you my mind,
-Rich truth that surpasses man’s knowledge to find;
-What eye has not seen and what ear has not heard
-Is taught by your spirit and shines from your word.
-
-4.
-Lord of all being, I give you my all,
-If I ever disown you, I stumble and fall;
-But led in your service your word to obey,
-I’ll walk in your freedom to the end of the way.
+Are we weak and heavy laden,
+Cumbered with a load of care?
+Precious Savior, still our refuge
+Take it to the Lord in prayer.
+Do thy friends despise, forsake thee?
+Take it to the Lord in prayer.
+In His arms He'll take and shield thee;
+Thou will find a solace there.
 ```
 
 - |   -  |

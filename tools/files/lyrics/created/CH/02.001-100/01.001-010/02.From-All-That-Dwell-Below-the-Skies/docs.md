@@ -11,33 +11,28 @@ metadata:
 
 ```txt
 1.
-All creatures of our God and King
-Lift up your voice and with us sing,
-Alleluia! Alleluia!
-O burning sun with golden beam
-And silver moon with softer gleam!
-
+From all that dwell below the skies 
+Let the Creator's praise arise; 
+Let His almighty name be sung 
+Through every land, by every tongue.
 
 2.
-O rushing wind and breezes soft,
-O clouds that ride the winds aloft,
-O praise Him! Alleluia!
-O rising morn, in praise rejoice,
-O lights of evening, find a voice!
+Eternal are Thy mercies, Lord, 
+Eternal truth attends Thy word; 
+Thy praise shall sound from shore to shore, 
+Till suns shall rise and set no more. 
 
 3.
-O flowing waters, pure and clear,
-Make music for your Lord to hear,
-O praise Him! Alleluia!
-O fire so masterful and bright,
-Providing us with warmth and light.
+Your lofty themes, ye mortals, bring, 
+In songs of praise divinely sing; 
+God's great salvation loud proclaim, 
+And shout for joy His glorious name.
 
 4.
-Let all things their Creator bless,
-And worship Him in humbleness,
-O praise Him! Alleluia!
-Oh, praise the Father, praise the Son,
-And praise the Spirit, three in One!
+In every land begin the song, 
+To every land the strains belong; 
+In cheerful sounds all voices raise, 
+And fill the world with loudest praise.
 ```
 
 - |   -  |

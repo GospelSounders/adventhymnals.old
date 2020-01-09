@@ -11,24 +11,53 @@ metadata:
 
 ```txt
 1.
-From every stormy wind that blows, From every swelling tide of woes,
-There is a calm, a sure retreat: ‘Tis found beneath the mercy seat.
+I hear the Savior say, 
+'Thy strength indeed is small, 
+Child of weakness, watch and pray, 
+Find in Me thine all in all.' 
+
+Refrain:
+Jesus paid it all, 
+All to Him I owe; 
+Sin had left a crimson stain; 
+He washed it white as snow. 
 
 2.
-There is a place where Jesus sheds The oil of gladness on our heads,
-A place than all besides more sweet; It is the blood-bought mercy seat.
+Lord, now indeed I find 
+Thy power, and Thine alone, 
+Can change the leper's spots, 
+And melt the heart of stone. 
+
+Refrain:
+Jesus paid it all, 
+All to Him I owe; 
+Sin had left a crimson stain; 
+He washed it white as snow. 
 
 3.
-There is a scene where spirits blend, Where friend holds fellowship with friend;
-Though sundered far, by faith they meet Around one common mercy seat.
+Since nothing good have I 
+Whereby Thy grace to claim, 
+I'll wash my garments white 
+In the blood of Calvary's Lamb. 
+
+Refrain:
+Jesus paid it all, 
+All to Him I owe; 
+Sin had left a crimson stain; 
+He washed it white as snow. 
 
 4.
-There, there, on angel’s wings we soar, And earthly cares molest no more,
-And heaven comes down our souls to greet, And glory crowns the mercy seat.
+And when before the throne 
+I stand in Him complete, 
+I'll lay my trophies down, 
+All down at Jesus' feet.
 
-5.
-Ah! whither should we flee for aid, When tempted, desolate dismayed?
-Or how the hosts of sin defeat, Had suffering saints no mercy seat?
+Refrain:
+Jesus paid it all, 
+All to Him I owe; 
+Sin had left a crimson stain; 
+He washed it white as snow. 
+
 ```
 
 - |   -  |

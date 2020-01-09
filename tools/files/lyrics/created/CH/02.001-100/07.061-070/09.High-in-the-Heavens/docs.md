@@ -11,30 +11,29 @@ metadata:
 
 ```txt
 1.
-Lord, make us more holy;
-Lord, make us more holy;
-Lord, make us more holy
-Until we meet again.
+High in the heavens, eternal God, 
+Thy goodness in full glory shines; 
+Thy truth shall break through every cloud 
+That veils and darkens Thy designs. 
 
 2.
-Lord, make us more faithful;
-Lord, make us more faithful;
-Lord, make us more faithful
-Until we meet again.
+Forever firm Thy justice stands, 
+As mountains their foundations keep; 
+Wise are the wonders of Thy hands; 
+Thy judgments are a mighty deep. 
 
 3.
-Lord, make us more humble;
-Lord, make us more humble;
-Lord, make us more humble
-Until we meet again.
+O God! how excellent Thy grace, 
+Whence all our hope and comfort spring! 
+The sons of Adam in distress 
+Fly to the shadow of Thy wings. 
 
 4.
-Lord, make us more loving;
-Lord, make us more loving;
-Lord, make us more loving
-Until we meet again.
-Like Jesus, the Saviour,
-Until we meet again.
+In the provisions of Thy house 
+We still shall find a sweet repast; 
+There mercy like a river flows, 
+And brings salvation to our taste.
+
 ```
 
 - |   -  |

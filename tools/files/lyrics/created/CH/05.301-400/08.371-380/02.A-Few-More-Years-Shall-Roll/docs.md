@@ -12,15 +12,15 @@ metadata:
 ```txt
 1.
 How beauteous are their feet
-Who stand on Zion’s hill;
+Who stand on Zion's hill;
 Who bring salvation on their tongues,
 And words of peace reveal!
 
 2.
 How charming is their voice,
 So sweet the tidings are:
-“Zion, behold thy Savior King;
-He reigns and triumphs here!”
+Zion, behold thy Savior King;
+He reigns and triumphs here!
 
 3.
 How happy are our ears,

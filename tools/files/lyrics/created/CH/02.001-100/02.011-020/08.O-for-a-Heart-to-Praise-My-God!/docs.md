@@ -11,49 +11,29 @@ metadata:
 
 ```txt
 1.
-O Morning Star, how fair and bright!
-You shine with God’s own truth and light,
-Aglow with grace and mercy!
-Of Jacob’s race, King David’s son,
-Our Lord and Master, You have won
-Our hearts to serve You only!
-Lowly, holy!
-Great and Glorious, all victorious,
-Rich in blessing! Rule and might o’er all possessing!
+O for a heart to praise my God,
+A heart from sin set free,
+A heart that always feels Thy blood
+So freely shed for me.
 
 2.
-Lord, when you look on us in love,
-At once there falls from God above
-A ray of purest pleasure.
-Your Word and Spirit, flesh and blood,
-Refresh our souls with heav-‘nly food.
-You are our dearest treasure!
-Let Your mercy warm and cheer us!
-O draw near us! For You teach us
-God’s own love through You has reached us.
+A heart resigned, submissive, meek,
+My dear Redeemer's throne,
+Where only Christ is heard to speak,
+Where Jesus reigns alone.
 
 3.
-Almighty Father, in Your Son
-You loved us, when not yet begun
-Was this old earth’s foundation!
-Your Son has ransomed us in love
-To live in Him here and above:
-This is Your great salvation.
-Alleluia! Christ the living,
-To us giving life forever,
-Keeps us Yours and fails us never!
+A heart in every thought renewed
+And full of love divine,
+Perfect and right and pure and good,
+A copy, Lord, of Thine.
 
 4.
-O let the harps break forth in sound!
-Our joy be all with music crowned,
-Our voices gaily blending!
-For Christ goes with us all the way –
-Today, tomorrow, every day!
-His love is never ending!
-Sing out! Ring out!
-Jubilation! Exultation!
-Tell the story!
-Great is He, the King of glory!
+Thy nature, gracious Lord, impart;
+Come quickly from above;
+Write Thy new name upon my heart,
+Thy new, best name of Love.
+
 ```
 
 - |   -  |

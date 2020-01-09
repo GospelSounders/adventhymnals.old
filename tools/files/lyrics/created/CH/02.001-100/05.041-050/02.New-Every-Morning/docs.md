@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Now that the daylight fills the sky,
-We lift our hearts to God on high,
-That He, in all we do or say,
-Would keep us free from harm today;
+New every morning is the love 
+Our wakening and uprising prove; 
+Through sleep and darkness safely brought, 
+Restored to life, and power, and thought. 
 
 2.
-Would guard our hearts and tongues from strife;
-From anger’s din would shield our life;
-From evil sights would turn our eyes,
-And close our ears to vanities;
+New mercies, each returning day, 
+Hover around us while we pray; 
+New perils past, new sins forgiven, 
+New thoughts of God, new hopes of heaven. 
 
 3.
-So we, when this new day is gone
-And night in turn is drawing on,
-With conscience by the world unstained
-Shall praise His name for vict’ry gained.
+If on our daily course our mind 
+Be set to hallow all we find, 
+New treasures still, of countless price, 
+God will provide for sacrifice. 
 
 4.
-“All praise to You, creator Lord!
-All praise to You, eternal Word!
-All praise to You, O Spirit wise!”
-We sing as daylight fills the skies.
+The trivial round, the common task, 
+Will furnish all we need to ask; 
+Room to deny ourselves; a road 
+To bring us daily nearer God. 
+
+5.
+Only, O Lord, in Thy dear love, 
+Fit us for perfect rest above; 
+And help us, this and every day, 
+To live more nearly as we pray.
+
 ```
 
 - |   -  |

@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Immortal, invisible, God only wise,
-In light inaccessible hid from our eyes,
-Most blessed, most glorious, the Ancient of Days,
-Almighty, victorious, Thy great Name we praise.
+My gracious Lord, I own Thy right 
+To every service I can pay, 
+And call it my supreme delight 
+To hear Thy dictates, and obey. 
 
 2.
-Unresting, unhasting, and silent as light,
-Nor wanting, nor wasting, Thou rulest in might;
-Thy justice, like mountains, high soaring above
-Thy clouds, which are fountains of goodness and love.
+What is my being but for Thee 
+Its sure support, its noblest end? 
+'Tis my delight Thy face to see, 
+And serve the cause of such a Friend. 
 
 3.
-To all, life Thou givest, to both great and small;
-In all life Thou livest, the true life of all;
-We blossom and flourish as leaves on the tree,
-And wither and perish – but naught changeth Thee.
+I would not sigh for worldly joy, 
+Or to increase my worldly good; 
+Nor future days nor powers employ 
+To spread a sounding name abroad. 
 
 4.
-Great Father of glory, pure Father of light,
-Thine angels adore Thee, all veiling their sight;
-All praise we would render; O help us to see
-‘Tis only the splendor of light hideth Thee!
+'Tis to my Saviour I would live 
+To Him who for my ransom died; 
+Nor could all worldly honor give 
+Such bliss as crowns me at His side. 
+
+5.
+His work my hoary age shall bless 
+When youthful vigeor is no more; 
+And my last hour of life confess 
+His saving love, His glorious power.
+
 ```
 
 - |   -  |

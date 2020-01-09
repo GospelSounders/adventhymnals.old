@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-God, who made the earth and heaven, Darkness and light:
-You the day for work have given, For rest the night.
-May Your angel guards defend us,
-Slumber sweet Your mercy send us,
-Holy dreams and hopes attend us
-All through the night.
+Forth in Thy Name, O Lord, I go, 
+My daily labor to pursue; 
+Thee, only Thee, resolved to know 
+In all I think, or speak, or do. 
 
 2.
-And when morn again shall call us to run life’s way,
-May we still, what-e’er befall us, Your will obey.
-From the pow’r of evil hide us,
-In the narrow pathway guide us,
-Never be Your smile denied us
-All through the day.
+The task Thy wisdom hath assigned 
+O let me cheerfully fulfill; 
+In all my works Thy presence find, 
+And prove Thy good and perfect will. 
 
 3.
-Guard us waking, guard us sleeping, And, when we die,
-May we in Your mighty keeping All peaceful lie.
-When the trumpet call shall wake us, Then,
-O Lord, do not forsake us,
-But to reign in glory take us with You on high.
+Give me to bear Thy easy yoke, 
+And every moment watch and pray; 
+And still to things eternal look, 
+And hasten to Thy glorious day: 
 
 4.
-Holy Father, throned in heaven, All holy Son,
-Holy Spirit, freely given, Blest Three in One:
-Grant us grace, we now implore You,
-Till we lay our crowns before You
-And in worthier strains adore You while ages run.
+For Thee delightfully employ 
+Whate'er Thy bounteous grace hath given; 
+And run my course with even joy, 
+And closely walk with Thee to heaven.
+
 ```
 
 - |   -  |

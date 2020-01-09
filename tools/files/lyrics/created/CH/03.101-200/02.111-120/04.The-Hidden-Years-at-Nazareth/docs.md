@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-There’s a wideness, in God’s mercy,
-like the wideness of the sea;
-There is mercy, with the Savior,
-Which is more than liberty.
+The hidden years at Nazareth ! 
+How Beautiful they seem, 
+Like fountains flowing in the dark 
+Or waters in a dream ! 
+Like waters under Syrian stars 
+Reflecting lights above, 
+Repeating in their silent depths 
+The wonder of God's love. 
 
 2.
-There is welcome, for the sinner,
-and more graces for the good;
-There is mercy, with the Savior,
-There is healing in His blood.
+The hidden years at Nazareth ! 
+How marvelous they lie, 
+As open to the smile of God 
+As to the Syrians sky ! 
+As open to the heart of man 
+As to the genial sun, 
+With dreams of high asventuring, 
+And deeds of kindness done. 
 
 3.
-For the love of God is broader
-Than the measure of man’s mind.
-And the heart of the Eternal,
-is most wonderfully kind.
+The hidden years at Nazareth ! 
+How radiant they rise 
+With life and death in balance laid 
+Before a lad's clear eyes ! 
+O soul of youth, forever choose, 
+Forgetting fate or fear, 
+To live for truth, or die with God, 
+Who stands beside thee here.
 
-4.
-If our love were but more simple,
-We should take Him at His word;
-And our lives would be all sunshine,
-In the sweetness of our Lord.
 ```
 
 - |   -  |

@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Fight the good fight with all thy might;
-Christ is thy strength, and Christ thy right;
-Lay hold on life and it shall be
-Thy joy and crown eternally.
+O Jesus, my Redeemer, 
+Thou art my joy and song, 
+My Saviour and my solace 
+When griefs around me throng. 
+
+Refrain:
+O Jesus, my Redeemer, 
+My song shall be of Thee; 
+No other friend so constant, 
+No friend so dear to me. 
 
 2.
-Run the straight race through God’s good grace;
-Lift up thine eyes, and seek His face.
-Life with its path before us lies;
-Christ is the way, and Christ the prize.
+Thou art my hope and comfort 
+Through all the weary years, 
+When shadows dark surround me, 
+When fall the bitter tears. 
+
+Refrain:
+O Jesus, my Redeemer, 
+My song shall be of Thee; 
+No other friend so constant, 
+No friend so dear to me. 
 
 3.
-Cast care aside, lean on thy guide,
-His boundless mercy will provide;
-Trust, and the trusting soul shall prove
-Christ is its life, and Christ its love.
+I trust in Thee, my Saviour, 
+My faithful Friend and Guide; 
+For Thou to me art dearer 
+Than all on earth beside. 
+
+Refrain:
+O Jesus, my Redeemer, 
+My song shall be of Thee; 
+No other friend so constant, 
+No friend so dear to me. 
 
 4.
-Faint not, nor fear, His arms are near;
-He changeth not, and thou art dear.
-Only believe, and thou shalt see
-That Christ is all in all to thee.
+My song and my rejoicing 
+While in this world of sin, 
+My song and my rejoicing 
+The heavenly gates within.
+
+Refrain:
+O Jesus, my Redeemer, 
+My song shall be of Thee; 
+No other friend so constant, 
+No friend so dear to me. 
+
 ```
 
 - |   -  |

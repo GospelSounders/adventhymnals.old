@@ -11,20 +11,34 @@ metadata:
 
 ```txt
 1.
-Peace, perfect peace, in this dark world of sin?
-The blood of Jesus whispers peace within.
+O day of rest and gladness,
+O day of joy and light,
+O balm of care and sadness,
+Most beautiful, most bright,
+On thee the high and lowly
+Who bend before the throne
+Sing, Holy, holy, holy,
+To the Eternal One.
 
 2.
-Peace, perfect peace, by thronging duties pressed?
-To do the will of Jesus: this is rest.
+Thou art a port protected
+From storms that round us rise;
+A garden intersected
+With streams of paradise;
+Thou art a cooling fountain
+In life's dry dreary sand;
+From Thee, like Pisgah's mountain,
+We view our promised land.
 
 3.
-Peace, perfect peace, with loved ones far away?
-In Jesus’ keeping we are safe, and they.
-
-4.
-Peace, perfect peace, our future all unknown?
-Jesus we know, and He is on the throne.
+A day of sweet reflection
+Thou art, a day of love,
+A day to raise affection
+From earth to things above.
+New graces ever gaining
+From this our day of rest,
+We seek the rest remaining
+In mansions of the blest.
 ```
 
 - |   -  |

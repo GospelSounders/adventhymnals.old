@@ -11,29 +11,35 @@ metadata:
 
 ```txt
 1.
-Thine is the glory,
-Risen, conquering Son;
-Endless is the victory thou o’er death hast won.
-Angels in bright raiment rolled the stone away,
-Kept the folded grave-clothes where Thy body lay.
-
+There is a name I love to hear, 
+I love to sing its worth; 
+It sounds like music in mine ear, 
+The sweetest name on earth. 
 
 2.
-Lo! Jesus meets us.
-Risen from the tomb,
-Lovingly He greets us,
-Scatters fear and gloom;
-Let His Church with gladness hymns of triumph sing,
-For her Lord now liveth;
-Death has lost its sting.
+It tells me of a Saviour's love, 
+Who died to set me free; 
+It tells me of His precious blood, 
+The sinner's perfect plea. 
 
 3.
-No more we doubt Thee,
-Glorious Prince of life!
-Life is nought without Thee;
-Aid us in our strife;
-Make us more than conquerors through Thy deathless love
-Bring us safe through Jordan to Thy home above.
+It tells me of a Father's smile 
+Beaming upon His child; 
+It cheers me through this little while, 
+Through desert, waste, and wild. 
+
+4.
+Jesus, the name I love so well, 
+The name I love to hear; 
+No saint on earth its worth can tell, 
+No heart conceive how dear. 
+
+5.
+This Name shall shed its fragrance still 
+Along this thorny road, 
+Shall sweetly smooth the rugged hill 
+That leads me up to God.
+
 ```
 
 - |   -  |

@@ -11,32 +11,65 @@ metadata:
 
 ```txt
 1.
-We praise Thee with our minds,
-O LordKept sharp think Thy thought;Come,
-Holy Ghost with grace outpoured,
-To teach what Christ hath taught.
-In all our learning may we seekThat wisdom from above
-Which comes to all: the brave,
-the meekWho ask in faith and love.
+Just over the mountains in the Promised Land, 
+Lies the holy city built by God's own hand; 
+As our weary footsteps gain the mountain's crest, 
+We can view our homeland of eternal rest. 
+
+Refrain:
+We are nearing home! We are nearing home! 
+See the splendor gleaming from the domes afar! 
+See the glory streaming through the "gates ajar!" 
+There we soon will enter, nevermore to roam, 
+Hear the angels singing! 
+We are nearing home! 
+We are nearing home. 
 
 2.
-We praise Thee thro’ our bodies,
-Lord,Kept strong to do Thy will;
-Thy Spirit’s temples, which afford
-A means to praise Thee still.
-We give ourselves, a sacrifice,
-To live as unto Thee;
-For Thou alone hast paid the priceTo bring salvation free.
+In the rolls of the prophets we have long been told 
+Of that wondrous city with its streets of gold; 
+Now with raptured vision we can see it there, 
+With its walls of jasper and its mansions fair. 
+
+Refrain:
+We are nearing home! We are nearing home! 
+See the splendor gleaming from the domes afar! 
+See the glory streaming through the "gates ajar!" 
+There we soon will enter, nevermore to roam, 
+Hear the angels singing! 
+We are nearing home! 
+We are nearing home. 
 
 3.
-We praise Thee in our hearts,
-O king,Kept pure to know Thy ways;
-And raise to Thee a hymn to sing
-Eternally Thy praise.
-Altho adoring hearts will bow
-As age on ages roll;
-We praise Thee in our beings now,
-Mind, body, heart, and soul.
+Those who enter that city are the faithful few 
+Who keep God's commandments'faith of Jesus, too; 
+There we'll lift our voices through the endless days, 
+In sweet songs of gladness and in psalms of praise. 
+
+Refrain:
+We are nearing home! We are nearing home! 
+See the splendor gleaming from the domes afar! 
+See the glory streaming through the "gates ajar!" 
+There we soon will enter, nevermore to roam, 
+Hear the angels singing! 
+We are nearing home! 
+We are nearing home. 
+
+4.
+My brother, my sister, will you meet us there, 
+In that land of sunshine where there'll be no care? 
+Accept of God's message, and to Him be true; 
+Then when Jesus cometh He will call for you.
+
+Refrain:
+We are nearing home! We are nearing home! 
+See the splendor gleaming from the domes afar! 
+See the glory streaming through the "gates ajar!" 
+There we soon will enter, nevermore to roam, 
+Hear the angels singing! 
+We are nearing home! 
+We are nearing home. 
+
 ```
 
 - |   -  |

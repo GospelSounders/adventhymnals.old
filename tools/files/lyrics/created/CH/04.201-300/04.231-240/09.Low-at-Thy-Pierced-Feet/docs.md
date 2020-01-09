@@ -11,22 +11,55 @@ metadata:
 
 ```txt
 1.
-Jesus, priceless Treasure, Source of purest pleasure, Truest Friend to me:
-Ah! how long I’ve panted, And my heart has fainted, thirsting, Lord, for Thee.
-Thine I am, O spotless Lamb, I will suffer naught to hide Thee,
-Nought I ask beside Thee.
+Low at thy pierced feet, 
+Saviour of all, 
+Helpless and sorrowful 
+Prostrate I fall. 
+O cast me not away, 
+Forgive my sin this day, 
+Forgive my sin, 
+All, all my sin. 
 
 2.
-In Thine arms I rest me; foes who would molest me Cannot reach me here.
-Though the earth be shaking, Every heart be quaking, Jesus calms our fear.
-Sin and hell in conflict fell, With their bitter storms assail me,
-Jesus will not fail me.
+Sinful my life hath been, 
+Unclean, unclean; 
+All my iniquity 
+Thine eye hath seen; 
+Cleanse thou my soul today, 
+Wash all my sin away 
+In thine own blood, 
+In thine own blood. 
 
 3.
-Hence, all thought of sadness! For the Lord of gladness, Jesus, enters in.
-Those who love the Father, Though the storms may gather, still have peace within;
-Yea, whatever we here must bear, Still in Thee lies purest pleasure,
-Jesus, priceless Treasure!
+By all thy grief and pain, 
+Forgive me now; 
+Before thy cross in shame 
+Lowly I bow. 
+Lord, let that blood of thine 
+Wash now this soul of mine; 
+Wash now this soul, 
+Wash now this soul. 
+
+4.
+Thou didst for me endure 
+Dread Calvary; 
+Sin's punishment and shame 
+All, all for me. 
+On thee my guilt was laid, 
+By thee my dept was paid, 
+To set me free, 
+To set me free. 
+
+5.
+Lord, I accept thee now, 
+Accept thou me; 
+I have delayed too long, 
+And grieved thee. 
+By all thy love to me, 
+I give myself to thee; 
+Make me thine own, 
+All, all thine own.
+
 ```
 
 - |   -  |

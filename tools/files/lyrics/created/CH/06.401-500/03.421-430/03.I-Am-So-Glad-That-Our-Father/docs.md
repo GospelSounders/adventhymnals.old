@@ -11,44 +11,41 @@ metadata:
 
 ```txt
 1.
-Glorious things of thee are spoken,
-Zion, city of our God;
-He whose word cannot be broken
-Formed thee for His own abode;
-On the Rock of Ages founded,
-What can shake thy sure repose?
-With salvation’s wall surrounded,
-Thou mayest smile at all thy foes.
+I am so glad that our Father in heaven 
+Tells of His love in the Book He has given, 
+Wonderful things in the Bible I see; 
+This is the dearest, that Jesus loves me. 
+
+Refrain:
+I am so glad that Jesus loves me, 
+Jesus loves me, Jesus loves me, 
+I am so glad that Jesus loves me, 
+Jesus loves even me. 
 
 2.
-See the streams of living waters
-Springing from eternal love,
-Well supply thy sons and daughters,
-And all fear and want remove;
-Who can faint when such a river
-Ever flows their thirst to assuage?
-Grace, which, like the Lord, the Giver,
-Never fails from age to age.
+Though I forget Him and wander away, 
+Still He doth love me wherever I stray; 
+Back to His dear loving arms would I flee, 
+When I remember that Jesus loves me. 
+
+Refrain:
+I am so glad that Jesus loves me, 
+Jesus loves me, Jesus loves me, 
+I am so glad that Jesus loves me, 
+Jesus loves even me. 
 
 3.
-Round each habitation hovering,
-See the cloud and fire appear
-For a glory and a covering,
-Showing that the Lord is near;
-Blest inhabitants of Zion,
-Washed in the Redeemer’s blood;
-Jesus, whom their souls rely on,
-Makes them kings and priests to God.
+O, if there's only one song I can sing, 
+When in His beauty I see the great King, 
+This shall my song in eternity be: " 
+O, what a wonder that Jesus loves me."
 
-4.
-Savior, if of Zion’s city
-I, through grace, a member am,
-Let the world deride or pity,
-I will glory in Thy name;
-Fading is the worldling’s pleasure,
-All his boasted pomp and show;
-Solid joys and lasting treasure
-None but Zion’s children know.
+Refrain:
+I am so glad that Jesus loves me, 
+Jesus loves me, Jesus loves me, 
+I am so glad that Jesus loves me, 
+Jesus loves even me. 
+
 ```
 
 - |   -  |

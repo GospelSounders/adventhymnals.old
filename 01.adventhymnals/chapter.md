@@ -8,7 +8,7 @@ metadata:
 
 #### Advent Hymnals
 
-![Alt Text](http://cdnfiles.umc.org/Website_Properties/what-we-believe/images/advent-quiz/_pm-cache/charles-wesley-hymn-690x385.jpg)
+![Alt Text](sites/{{{cself}}}/charles-wesley-hymn-690x385.jpg)
 
 # Advent Hymnals
 

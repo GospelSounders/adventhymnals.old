@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-It came upon the midnight clear,
-That glorious song of old,
-From angels bending near the earth,
-To touch their harps of gold:
-“Peace on the earth, goodwill to men
-From heavens all gracious King!”
-The world in solemn stillness lay
-To hear the angels sing.
+O sacred Head, now wounded,
+with grief and shame weighed down,
+now scornfully surounded
+with thorns, thine only crown:
+how pale thou art with anguish,
+with sore abuse and scorn!
+How does that visage languish
+which once was bright as morn!
 
 2.
-Still through the cloven skies they come,
-With peaceful wings unfurled;
-And still their heavenly music floats
-O’er all the weary world:
-Above its sad and lowly plains
-They bend on hovering wing,
-And ever o’er its Babel sounds
-The blessed angels sing.
+What thou, my Lord, has suffered
+was all for sinners' gain;
+mine, mine was the transgression,
+but thine the deadly pain.
+Lo, here I fall, my Savior!
+'Tis I deserve thy place;
+look on me with thy favor,
+vouchsafe to me thy grace.
 
 3.
-O ye beneath life’s crushing load,
-Whose forms are bending low,
-Who toil along the climbing way
-With painful steps and slow;
-Look now, for glad and golden hours
-Come swiftly on the wing;
-Oh rest beside the weary road
-And hear the angels sing.
+What language shall I borrow
+to thank thee, dearest friend,
+for this thy dying sorrow,
+thy pity without end?
+O make me thine forever;
+and should I fainting be,
+Lord, let me never, never
+outlive my love for thee.
+
 ```
 
 - |   -  |

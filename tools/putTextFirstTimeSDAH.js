@@ -17,9 +17,6 @@ const lineReader = require('readline').createInterface({
   input: require('fs').createReadStream('CiSHeader.txt')
 });
 
-
-
-
 let startNumber = 1;
 let endNumber = 695;
 

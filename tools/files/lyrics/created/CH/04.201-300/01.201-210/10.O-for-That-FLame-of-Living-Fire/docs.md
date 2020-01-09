@@ -11,41 +11,35 @@ metadata:
 
 ```txt
 1.
-Wake, awake, for night is flying,
-The watchmen on the heights are crying,
-Awake, Jerusalem, arise!
-Midnight’s solemn hour is tolling,
-His chariot wheels are nearer rolling,
-He comes; prepare, ye virgins wise.
-Rise up with willing feet
-Go forth, the Bridegroom meet; Alleluia!
-Bear through the night your well-trimmed light,
-Speed forth to join the marriage rite.
+O for that flame of living fire
+Which shone so bright in saints of old;
+Which bade their souls to heaven aspire,
+Calm in distress, in danger bold!
 
 2.
-Zion hears the watchmen singing,
-Her heart with deep delight is springing,
-She wakes, she rises from her gloom;
-Forth her Bridegroom comes, all-glorious,
-In grace arrayed, by truth victorious;
-Her Star is risen, her Light is come!
-All hail, incarnate Lord,
-Our crown, and our reward! Alleluia!
-We haste along, in pomp and song,
-And gladsome join the marriage throng.
+Where is that spirit, Lord, which dwelt
+In Abram's breast, and sealed Him Thine?
+Which made Paul's heart with sorrow melt,
+And glow with energy divine?
 
 3.
-Lamb of God, the heavens adore Thee,
-And men and angels sing before Thee,
-With harp and cymbal’s clearest tone.
-By the pearly gates in wonder
-We stand, and swell the voice of thunder,
-That echoes round Thy dazzling throne.
-No vision ever brought,
-No ear hath ever caught,
-Such bliss and joy;
-We raise the song, we swell the throng,
-To praise Thee ages all along.
+That spirit which from age to age
+Proclaimed Thy love, and taught Thy ways?
+Brightened Isaiah's vivid page,
+And breathed in David's hallowed lays?
+
+4.
+Is not Thy grace as mighty now
+As when Elijah felt its power?
+When glory beamed from Moses' brow,
+Or Job endured the trying hour?
+
+5.
+Remember, Lord, the ancient days;
+Renew Thy work, Thy grace restore;
+And while to Thee our hearts we raise,
+On us Thy Holy Spirit pour.
+
 ```
 
 - |   -  |

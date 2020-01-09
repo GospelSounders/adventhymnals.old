@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Each little flow’r that opens
-Each little bird that sings
-He made their glowing colours
-He made their tiny wings.
+I sing the almighty power of God,
+that made the mountains rise,
+that spread the flowing seas abroad,
+and built the lofty skies.
+I sing the wisdom that ordained
+the sun to rule the day;
+the moon shines full at God's command,
+and all the stars obey.
 
 2.
-The purple-headed mountain
-The river running by
-The sunset and the morning
-That brighten up the sky.
+I sing the goodness of the Lord,
+who filled the earth with food,
+who formed the creatures thru the Word,
+and then pronounced them good.
+Lord, how thy wonders are displayed,
+where'er I turn my eye,
+if I survey the ground I tread,
+or gaze upon the sky!
 
 3.
-The cold wind in the winter
-The pleasant summer sun
-The ripe fruits in the garden
-He made them, every one.
+There's not a plant or flower below,
+but makes thy glories known,
+and clouds arise, and tempests blow,
+by order from thy throne;
+while all that borrows life from thee
+is ever in thy care;
+and everywhere that we can be,
+thou, God, art present there.
 
-4.
-He gave us eyes to see them
-And lips that we might tell
-How great is God Almighty
-Who has made all things well.
 ```
 
 - |   -  |

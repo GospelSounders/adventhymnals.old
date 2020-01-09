@@ -11,43 +11,29 @@ metadata:
 
 ```txt
 1.
-There’s a song in the air!
-There’s a star in the sky!
-There’s a mother’s deep prayer
-And a baby’s low cry!
-And the star rains its fire
-while the beautiful sing,
-For the manger of Bethlehem
-cradles a King!
+When I survey the wondrous cross 
+On which the Prince of glory died, 
+My richest gain I count but loss, 
+And pour contempt on all my pride. 
 
 2.
-There’s a tumult of joy
-O’er the wonderful birth,
-For the virgin’s sweet boy
-Is the Lord of the earth.
-Aye! the star rains its fire
-while the beautiful sing,
-For the manger of Bethlehem
-cradles a King!
+See, from His head, His feet, 
+Sorrow and love flow mingled down; 
+Did e'er such love and sorrow meet? 
+Or thorns compose so rich a crown? 
 
 3.
-In the light of that star
-Lie the ages impearled;
-And that song from afar
-Has swept over the world.
-Every hearth is aflame
-and the beautiful sing
-In the homes of the nations
-that Jesus is King!
+Since I, who was undone and lost, 
+Have pardon through His name and word; 
+Forbid it, then, that I should boast, 
+Save in the cross of Christ my Lord. 
 
 4.
-We rejoice in the light,
-And we echo the song
-That comes down through the night
-From the heavenly throng.
-Aye! we shout to the lovely evangel they bring,
-And we greet in His cradle
-our Savior and King!
+Were the whole realm of nature mine, 
+That were a tribute far too small; 
+Love so amazing, so divine, 
+Demands my life, my soul, my all.
+
 ```
 
 - |   -  |

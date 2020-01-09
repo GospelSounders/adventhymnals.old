@@ -11,29 +11,31 @@ metadata:
 
 ```txt
 1.
-Pass me not, O gentle Savior,
-hear my humble cry;
-while on others thou art calling,
-do not pass me by.
-
+Jesus is tenderly calling thee home' 
+Calling today, calling today; 
+Why from the sunshine of love wilt thou roam 
+Farther and farther away? 
+REFRAIN:
+Calling today, calling today; 
+Jesus is calling, is tenderly calling today. 
 
 2.
-Let me at thy throne of mercy
-find a sweet relief,
-kneeling there in deep contrition;
-help my unbelief.
+Jesus is calling the weary to rest' 
+Calling today, calling today; 
+Bring Him thy burden, and thou shalt be blest; 
+He will not turn thee away. 
 
 3.
-Trusting only in thy merit,
-would I seek thy face;
-heal my wounded, broken spirit,
-save me by thy grace.
+Jesus is waiting'oh, come to Him now' 
+Waiting today, waiting today; 
+Come with thy sins, at His feet lowly bow; 
+Come, and no longer delay. 
 
 4.
-Thou the spring of all my comfort,
-more than life to me,
-whom have I on earth beside thee?
-Whom in heaven but thee?
+Jesus is pleading'oh, list to His voice' 
+Hear Him today, hear Him today; 
+They who believe on His name shall rejoice; 
+Quickly arise and away.
 ```
 
 - |   -  |

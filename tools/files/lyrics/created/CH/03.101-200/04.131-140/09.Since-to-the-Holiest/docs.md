@@ -11,40 +11,29 @@ metadata:
 
 ```txt
 1.
-While shepherds watched their flocks by night,
-All seated on the ground,
-The angel of the Lord came down,
-And glory shone around.
+Since to the Holiest none may enter in 
+Save those whom Jesus' blood has cleansed from sin' 
+The blood is life, and must for sin atone; 
+Christ is my life, my life in Christ alone. 
 
 2.
-“Fear nor!” said he- for mighty dread
-Had seized their troubled mind-
-“Glad tidings of great joy I bring,
-To you and all mankind.
+So when life's sun is sinking in the west, 
+I know that with the coming dawn comes rest; 
+And when the shadows show the close of day, 
+He who has conquered death shall light my way. 
 
 3.
-“To you, in David’s town this day,
-Is born of David’s line,
-The Savior who is Christ the Lord;
-And this shall be the sign:
+And as I've learned on earth the rest He gives, 
+And here to live with Him who ever lives, 
+I know where He is, at my God's right hand, 
+Must be my country and my Fatherland. 
 
 4.
-“The heavenly Babe you there shall find
-To human view displayed,
-All meanly wrapped in swathing bands,
-And in a manger laid.”
+Thus may I prove in Christ my risen Lord 
+All that He's promised in His written word' 
+My life, my way, my home, my rest above, 
+When sleep of death shall wake to endless love.
 
-5.
-Thus spake the seraph; and forth with
-Appeared a shining throng
-Of angels praising God on high,
-Who thus addressed their song:
-
-6.
-“All glory be to God on high,
-And to the earth be peace;
-Good will henceforth from heaven to men,
-Begin and never cease!”
 ```
 
 - |   -  |

@@ -11,35 +11,25 @@ metadata:
 
 ```txt
 1.
-I will follow Thee, my Savior,
-Wheresoe’er my lot may be.
-Where thou goest I will follow;
-Yes, my Lord, I’ll follow Thee.
-
+Rescue the perishing, care for the dying,
+Snatch them in pity from sin and the grave;
+Weep o'er the erring one, lift up the fallen,
+Tell them of Jesus, the mighty to save.
+CHORUS:
+Rescue the perishing, care for the dying;
+Jesus is merciful, Jesus will save.
 
 2.
-Though the road be rough and thorny,
-Trackless as the foaming sea,
-Thou hast trod this way before me,
-And I’ll gladly follow Thee.
+Though they are slighting Him, still He is waiting,
+Waiting the penitent child to receive;
+Plead with them earnestly, plead with them gently;
+He will forgive if they only believe.
 
 3.
-Though I meet with tribulations,
-Sorely tempted though I be;
-I remember Thou wast tempted,
-And rejoice to follow Thee.
-
-4.
-Though Thou leadest me through affliction,
-Poor, forsaken though I be;
-Thou wast destitute, afflicted,
-And I only follow Thee.
-
-5.
-Though to Jordan’s rolling billows,
-Cold and deep, Thou leadest me,
-Thou hast crossed the waves before me,
-And I still will follow Thee.
+Rescue the perishing, duty demands it;
+Strength for thy labor the Lord will provide;
+Back to the narrow way patiently win them;
+Tell the poor wanderer a Savior has died.
 ```
 
 - |   -  |

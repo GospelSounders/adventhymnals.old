@@ -11,28 +11,22 @@ metadata:
 
 ```txt
 1.
-On Jordan’s banks the Baptist’s cry
-Announces that the Lord is nigh;
-Awake and hearken, for he brings
-Glad tidings of the King of kings!
+Father, whate'er of earthly bliss 
+Thy sovereign will denies, 
+Accepted at Thy throne of grace 
+Let this petition rise. 
 
 2.
-Then cleansed be every life from sin;
-Make straight the way for God within,
-And let us all our hearts prepare
-For Christ to come and enter there.
+Give me a calm, a thankful, heart, 
+From every murmur free; 
+The blessings of Thy grace impart, 
+And make me live to Thee. 
 
 3.
-We hail You as our Savior, Lord,
-Our refuge and our great reward;
-Without Your grace we waste away
-Like flow’rs that wither and decay.
-
-4.
-Stretch forth Your hand, our health restore,
-And make us rise to fall no more;
-Oh, let Your face upon us shine
-And fill the world with love divine.
+Let the sweet hope that Thou art mine 
+My life and death attend: 
+Thy presence through my journey shine, 
+And crown my journey's end.
 ```
 
 - |   -  |

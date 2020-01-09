@@ -11,22 +11,29 @@ metadata:
 
 ```txt
 1.
-Morning has broken like the first morning,
-Blackbird has spoken like the first bird.
-Praise for the singing!Praise for the morning!
-Praise for the springing fresh from the Word!
+Awake, my soul, and with the sun 
+Thy daily stage of duty run; 
+Shake off dull sloth, and early rise 
+To pay thy morning sacrifice ! 
 
 2.
-Sweet the rain’s new fall sunlit from heaven,
-Like the first dewfall on the first grass.
-Praise for the sweetness of the wet garden,
-Sprung in completeness where His feet pass.
+Shine on me, Lord; new life impart ! 
+Fresh ardors kindle in my heart; 
+One ray of Thine all quickening light 
+Dispels the clouds and dark of night. 
 
 3.
-Mine is the sunlight! Mine is the morning
-Born of the one light Eden saw play!
-Praise with elation, Praise every morning,
-God’s recreation of the new day!
+Direct, control, suggest this day 
+All I design, or do, or say, 
+That all my power's, with all their might, 
+In Thy sole glory may unite. 
+
+4.
+Praise God, from whom all blessings flow; 
+Praise him, all creatures here below; 
+Praise him above, ye heavenly host; 
+Praise Father, Son, and Holy Ghost.
+
 ```
 
 - |   -  |

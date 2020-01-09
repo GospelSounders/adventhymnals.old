@@ -11,29 +11,22 @@ metadata:
 
 ```txt
 1.
-I have a Savior, He’s pleading in glory,
-A dear, loving Savior, though earth friends be few;
-And now He is watching in tenderness o’er me,
-But oh that my Savior were your Savior, too.
-
+Make me a captive, Lord, And then I shall be free;
+Force me to render up my sword, And I shall conqueror be.
+I sink in life's alarms When by myself I stand;
+Imprison me within Thine arms, And strong shall be my hand.
 
 2.
-I have a Father; to me He has given
-A hope for eternity, blessed and true;
-And soon He will call to meet Him in heaven,
-But oh that He’d let me bring you with me, too!
+My heart is weak and poor Till it a master find;
+It has no spring of action sure-- It varies with the wind.
+It cannot freely move Till Thou has wrought its chain;
+Enslave it with Thy matchless love, And deathless it shall reign.
 
 3.
-I have a robe; ’tis resplendent in whiteness,
-Awaiting in glory my wondering view;
-Oh, when I receive it, all shining in brightness,
-Dear friend, could I see you receiving one, too!
-
-4.
-When Jesus has found you, tell others the story,
-That my loving Savior is your Savior, too;
-Then pray that your Savior will bring them to glory,
-And prayer will be answered-’twas answered for you!
+My will is not my own Till Thou hast made it Thine;
+If it would reach a monarch's throne, It must its crown resign;
+It only stands unbent, Amid the clashing strife,
+When on Thy bosom it has leant, And found in Thee its life.
 ```
 
 - |   -  |

@@ -11,37 +11,22 @@ metadata:
 
 ```txt
 1.
-Come, we that love the Lord,
-And let our joys be known;
-Join in a song with sweet accord,
-Join in a song with sweet accord,
-And thus surround the throne,
-And thus surround the throne.
-
+I think when I read that sweet story of old,
+When Jesus was here among men,
+How He called little children as lambs to His fold,
+I should like to have been with Him then.
 
 2.
-Let those refuse to sing
-Who never knew our God;
-But children of the heav’nly King,
-But children of the heav’nly King
-May speak their joys abroad,
-May speak their joys abroad.
+I wish that His hands had been placed on my head,
+That His arm had been thrown around me,
+And that I might have seen His kind look when He said,
+"Let the little ones come unto Me."
 
 3.
-The hill of Zion yields
-A thousand sacred sweets
-Before we reach the heav’nly fields,
-Before we reach the heav’nly fields
-Or walk the golden streets,
-Or walk the golden streets.
-
-4.
-Then let our songs abound
-And ev’ry tear be dry;
-We’re marching thru Immanuel’s ground,
-We’re marching thru Immanuel’s ground
-To fairer worlds on high,
-To fairer worlds on high.
+I long for the joy of that glorious time,
+The sweetest and brightest and best,
+When the dear little children of every clime
+Shall crowd to His arms and be blest.
 ```
 
 - |   -  |

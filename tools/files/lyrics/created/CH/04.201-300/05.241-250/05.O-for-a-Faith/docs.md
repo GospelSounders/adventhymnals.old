@@ -11,29 +11,40 @@ metadata:
 
 ```txt
 1.
-More about Jesus, I would know,
-More of His grace to others show;
-More of His saving fullness see,
-More of His love who died for me.
-
+O for a faith that will not shrink, 
+Though pressed by many a foe; 
+That will not tremble on the brink of poverty, 
+Of poverty or woe; 
+Of poverty or woe; 
 
 2.
-More about Jesus, let me learn,
-More of His holy will discern;
-Spirit of God, my teacher be,
-Showing the things of Christ to me.
+That will not murmur or complain 
+Beneath the chastening rod, 
+But in the hour of grief or pain, of grief or pain 
+Can lean upon its God; 
+Can lean upon its God. 
 
 3.
-More about Jesus, in His word,
-Holding communion with my Lord;
-Hearing His voice in every line,
-Making each faithful saying mine.
+A faith that shines more bright and clear 
+When tempests rage without; 
+That when in danger knows no fear, knows of no fear, 
+In darkness feels no doubt; 
+In darkness feels no doubt. 
 
 4.
-More about Jesus, on His throne,
-Riches in glory all His own;
-More of His kingdom’s sure increase,
-More of His coming, Prince of Peace.
+That bears unmoved the world's dread frown, 
+Nor heeds its scornful smile; 
+That sin's wild ocean cannot drown, no, cannot drown, 
+Nor its soft arts beguile; 
+Nor its soft arts beguile. 
+
+5.
+Lord, give me such a faith as this, 
+And then, whate'er may come 
+I'll taste, e'en here the hallowed bliss, the hallowed bliss 
+Of an eternal home; 
+Of an eternal home.
+
 ```
 
 - |   -  |

@@ -11,24 +11,28 @@ metadata:
 
 ```txt
 1.
-And have the bright immensities
-Received our risen Lord,
-Where light years frame the Pleiades
-And point Orion’s sword?
-Do flaming suns His footsteps trace
-Thro’corridors sublime,
-The Lord of inter stellar space
-And conqueror of time?
+Worthy, worthy is the Lamb,
+Worthy, worthy is the Lamb,
+Worthy, worthy is the Lamb,
+That was slain.
+CHORUS:
+Glory, hallelujah!
+Praise Him, hallelujah!
+Glory, hallelujah!
+To the Lamb!
 
 2.
-The heav’n that hides Him from our sight
-Knows neither near nor far;
-A little candle sheds its light
-As surely as a star.
-And where His loving people meet
-To share the gift divine,
-There stands He with unhurrying feet;
-There heav’nly splendors shine.
+Savior, let Thy kingdom come!
+Now the power of sin consume;
+Bring Thy blessed millennium,
+Holy Lamb.
+
+3.
+Thus may we each moment feel,
+Love Him, serve Him, praise Him still,
+Till we all on Zion's hill
+See the Lamb.
+
 ```
 
 - |   -  |

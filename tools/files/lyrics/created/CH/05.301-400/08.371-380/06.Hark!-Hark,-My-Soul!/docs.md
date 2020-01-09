@@ -17,9 +17,9 @@ And hence with grateful hearts today,
 Thine own before Thy feet we lay.
 
 2.
-Thy will was in the builder’s thought;
+Thy will was in the builder's thought;
 Thy hand unseen amidst us wrought;
-Thro’ mortal motive, scheme and plan,
+Thro' mortal motive, scheme and plan,
 Thy wise, eternal purpose ran.
 
 3.
@@ -30,8 +30,8 @@ Here may Thy saints be often blessed.
 
 4.
 In weakness and in want we call
-On Thee, for whom the heav’ns are small;
-Thy glory is Thy children’s good,
+On Thee, for whom the heav'ns are small;
+Thy glory is Thy children's good,
 Thy joy Thy tender Fatherhood.
 
 5.

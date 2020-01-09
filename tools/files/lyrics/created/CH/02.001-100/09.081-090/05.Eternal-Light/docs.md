@@ -11,36 +11,40 @@ metadata:
 
 ```txt
 1.
-Eternal Father, strong to save,
-Whose arm doth bind the restless wave,
-Who bidd’st the mighty ocean deep
-Its own appointed limits keep;
-O hear us when we cry to Thee
-For those in peril on the sea.
+Eternal Light! Eternal Light! 
+How pure the soul must be 
+When, placed within Thy searching sight, 
+It shrinks not, but with calm delight 
+Can live, and look on Thee! 
 
 2.
-O Saviour, whose almighty word
-The winds and waves submissive heard,
-Who walkedst on the foaming deep,
-And calm amid its rage didst sleep;
-O hear us when we cry to Thee
-For those in peril on the sea.
+The spirits that surround Thy throne 
+May bear the burning bliss; 
+But surely that is theirs alone, 
+Who, undefiled, have never known 
+A fallen world like this. 
 
 3.
-O Sacred Spirit, who didst brood
-Upon the chaos dark and rude,
-Who badd’st its angry tumult cease,
-And gavest light and life and peace;
-O hear us when we cry to Thee
-For those in peril on the sea.
+O how shall I, whose native sphere 
+Is dark, whose mind is dim, 
+Before the Ineffable appear, 
+And on my naked spirit bear 
+The uncreated beam? 
 
 4.
-O Trinity of love and power,
-Our brethren shield in danger’s hour;
-From rock and tempest, fire and foe,
-Protect them wheresoe’er they go;
-And ever let there rise to Thee
-Glad hymns of praise from land and sea.
+There is a way for man to rise 
+To that sublime abode: 
+An offering and a sacrifice, 
+A Holy Spirit's energies, 
+An Advocate with God. 
+
+5.
+These, these prepare us for the sight 
+Of holiness above; 
+The sons of ignorance and night, 
+May dwell in the eternal Light, 
+Through the eternal Love!
+
 ```
 
 - |   -  |

@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-Come, Holy Spirit, heavenly Dove,
-With all Thy quickening powers;
-Kindle a flame of sacred love
-In these cold hearts of ours.
+Take my heart, O Father, take it! 
+Make and keep it all thine own; 
+Let thy Spirit melt and break it, 
+This proud heart of sin and stone. 
 
 2.
-O raise our thoughts from things below,
-From vanities and toys!
-Then shall we with fresh courage go
-To reach eternal joys.
+Father, make it pure and lowly, 
+Fond of peace and far from strife; 
+Turning from the paths unholy, 
+Of this vain and sinful life. 
 
 3.
-Awake our souls to joyful songs;
-Let pure devotions rise;
-Till praise employs our thankful tongues,
-And doubt forever dies.
+Ever let thy grace surround me, 
+Strengthen me with power divine; 
+By thy cords of love that bound me, 
+Make me to be wholly thine. 
 
 4.
-Father, we would no longer live
-At this poor, dying rate;
-To Thee our thankful love we give,
-For Thine to us is great.
+May the blood of Jesus heal me, 
+And my sins be all forgiven; 
+Holy Spirit, take and seal me, 
+Guide me in the path to heaven.
 
-5.
-Come, Holy Spirit, heavenly Dove,
-With all Thy quickening powers;
-Come, shed abroad a Savior’s love,
-And that shall kindle ours.
 ```
 
 - |   -  |

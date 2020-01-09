@@ -11,22 +11,23 @@ metadata:
 
 ```txt
 1.
-Praise ye the Father for His loving kindness,
-Tenderly cares He for His erring children;
-Praise Him, ye angels, praise Him in the heavens;
-Praise ye Jehovah!
+Holy, righteous, heavenly King, 
+Let Thy Holy Spirit bring 
+Blessings to us every hour, 
+And be governed by its power. 
 
 2.
-Praise ye the Savior, great is the compassion,
-Graciously cares He for His chosen people;
-Young men and maidens, ye old men and children,
-Praise ye the Savior!
+Let us always think of Thee, 
+For Thy blood has made us free; 
+Help us, Lord, to do Thy will, 
+That Thy Spirit may us fill. 
 
 3.
-Praise ye the Spirit, comforter of Israel,
-Sent of the Father and the Son to bless us;
-Praise ye the Father, Son, and Holy Spirit,
-Praise the Eternal Three!
+Fill us with the power divine, 
+That, dear Lord, is wholly Thine; 
+Sanctify us, Lord, we pray, 
+Lead us, guide us, every day.
+
 ```
 
 - |   -  |

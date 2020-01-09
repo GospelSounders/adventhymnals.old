@@ -11,22 +11,37 @@ metadata:
 
 ```txt
 1.
-Lord, speak to me, that I may speak
-in living echoes of thy tone;
-as thou has sought, so let me seek
-thine erring children lost and lone.
+Lift up the trumpet, and loud let it ring: 
+Jesus is coming again! 
+Cheer up, ye pilgrims, be joyful and sing: 
+Jesus is coming again! 
+REFRAIN:
+Coming again, coming again, 
+Jesus is coming again! 
 
 2.
-O lead me, Lord, that I may lead
-the wandering and the wavering feet;
-O feed me, Lord, that I may feed
-thy hungering ones with manna sweet.
+Echo it, hilltops; proclaim it, ye plains: 
+Jesus is coming again! 
+Coming in glory, the Lamb that was slain; 
+Jesus is coming again! 
 
 3.
-O strengthen me, that while I stand
-firm on the rock, and strong in thee,
-I may stretch out a loving land
-to wrestlers with the troubled sea.
+Sound it, old ocean, in each mighty wave: 
+Jesus is coming again! 
+Break on the sands of the shores that ye lave; 
+Jesus is coming again! 
+
+4.
+Heavings of earth, tell the vast, wondering throng: 
+Jesus is coming again! 
+Tempests and whirlwinds, the anthem prolong; 
+Jesus is coming again! 
+
+5.
+Nations are angry'by this we do know 
+Jesus is coming again! 
+Knowledge increases; men run to and fro; 
+Jesus is coming again!
 ```
 
 - |   -  |

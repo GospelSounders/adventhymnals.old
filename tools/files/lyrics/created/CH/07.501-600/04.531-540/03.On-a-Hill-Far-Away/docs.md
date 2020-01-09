@@ -11,34 +11,53 @@ metadata:
 
 ```txt
 1.
-O, for a faith that will not shrink,
-Though pressed by many a foe,
-That will not tremble on the brink of poverty,
-Of poverty or woe; Of poverty or woe;
+Tell me the story of Jesus, 
+Write on my heart every word, 
+Tell me the story most precious 
+Sweetest that ever was heard; 
+Tell how the angels in chorus, 
+Sang as they welcomed His birth. 
+Glory to God in the highest, 
+Peace and good tidings to earth. 
+
+Refrain:
+Tell me the story of Jesus, 
+Write on my heart every word, 
+Tell me the story most precious, 
+Sweetest that ever was heard. 
 
 2.
-That will not murmur or complain
-Beneath the chastening rod,
-But in the hour of grief or pain, of grief or pain
-Can lean upon its God; Can lean upon its God.
+Fasting alone in the desert, 
+Tell of the days that He passed, 
+How for our sins He was tempted, 
+Yet was triumphant at last; 
+Tell of the years of His labor, 
+Tell of the sorrow He bore. 
+He was despised and afflicted, 
+Homeless, rejected and poor. 
+
+Refrain:
+Tell me the story of Jesus, 
+Write on my heart every word, 
+Tell me the story most precious, 
+Sweetest that ever was heard. 
 
 3.
-A faith that shines more bright and clear
-When tempests rage without;
-That when in danger knows no fear, knows of no fear,
-In darkness feels no doubt; In darkness feels no doubt.
+Tell of the cross where they nailed Him, 
+Writhing in anguish and pain; 
+Tell of the grave where they laid Him, 
+Tell how He liveth again; 
+Love in that story so tender, 
+Clearer than ever I see; 
+Stay, let me weep while you whisper, 
+Love paid the ransom for me.
 
-4.
-That bears unmoved the world’s dread frown,
-Nor heeds its scornful smile;
-That sin’s wild ocean cannot drown, no, cannot drown,
-Nor its soft arts beguile; Nor its soft arts beguile.
+Refrain:
+Tell me the story of Jesus, 
+Write on my heart every word, 
+Tell me the story most precious, 
+Sweetest that ever was heard. 
 
-5.
-Lord, give me such a faith as this,
-And then, whate’er may come
-I’ll taste, e’en here the hallowed bliss, the hallowed bliss
-Of an eternal home; Of an eternal home.
 ```
 
 - |   -  |

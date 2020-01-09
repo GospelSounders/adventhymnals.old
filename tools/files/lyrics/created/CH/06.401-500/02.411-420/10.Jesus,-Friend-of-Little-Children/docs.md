@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Jerusalem, my happy home,
-O how I long for thee!
-When will my sorrows have an end,
-The joys when shall I see?
+Jesus, Friend of little children, 
+Be a friend to me; 
+Take my hand and ever keep me 
+Close to Thee. 
 
 2.
-The walls are all of precious stone,
-Most glorious to behold;
-Thy gates are richly set with pearl,
-Thy streets are paved with gold.
+Teach me how to grow in goodness, 
+Daily as I grow; 
+Thou hast been a child, and surely 
+Thou dost know. 
 
 3.
-Thy garden and thy pleasant walks
-My study long have been;
-Such dazzling views by human sight
-Have never yet been seen.
+Step by step, O, lead me onward, 
+Upward into youth; 
+Wiser, stronger, still becoming 
+In Thy truth. 
 
 4.
-Lord, help us by Thy mighty grace,
-To keep in view the prize,
-Till Thou dost come to take us home
-To that blessed paradise.
+Never leave me, nor forsake me; 
+Ever be my friend; 
+For I need Thee from life's dawning 
+To its end.
 ```
 
 - |   -  |

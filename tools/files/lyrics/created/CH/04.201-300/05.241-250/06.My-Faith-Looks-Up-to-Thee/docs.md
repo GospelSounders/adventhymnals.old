@@ -11,25 +11,31 @@ metadata:
 
 ```txt
 1.
-Worthy, worthy is the Lamb,
-Worthy, worthy is the Lamb,
-Worthy, worthy is the Lamb,
-That was slain.
-
+My faith looks up to Thee,
+Thou Lamb of Calvary,
+Savior divine;
+Now hear me while I pray,
+Take all my guilt away,
+O let me from this day
+Be wholly Thine.
 
 2.
-Savior, let Thy kingdom come!
-Now the power of sin consume;
-Bring Thy blest millennium,
-Holy Lamb.
+May Thy rich grace impart
+Strength to my fainting heart,
+My zeal inspire!
+As Thou hast died for me,
+O may my love to Thee
+Pure, warm, and changeless be,
+A living fire!
 
 3.
-Thus may we
-each moment feel,
-Love Him, serve Him,
-praise Him still,
-Till we all on Zion’s hill
-See the Lamb.
+While life's dark maze I tread,
+And griefs around me spread,
+Be Thou my guide;
+Bid darkness turn to day,
+Wipe sorrow's tears away,
+Nor let me ever stray
+From Thee aside.
 ```
 
 - |   -  |

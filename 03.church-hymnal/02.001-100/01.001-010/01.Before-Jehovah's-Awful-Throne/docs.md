@@ -31,7 +31,7 @@ Shall fill His courts with sounding praise.
 4.
 Wide as the world is His command, 
 Vast as Eternity His love; 
-Firm as a rock His truth shall stand, 
+Firm as anaa rock His truth shall stand, 
 When rolling years shall cease to move.
 
 ```
@@ -39,20 +39,20 @@ When rolling years shall cease to move.
 - |   -  |
 -------------|------------|
 Title | Before Jehovah's Awful Throne |
-Key | D Major |
+Key |D Major|
 Titles |  |
 First Line | Before Jehovah&#039;s awful throne |
-Author | Isaac Watts (1674-1748)
-Year | 1941
+Author | Isaac Watts (1674-1748) |
+Year |1793
 Composer| John Hatton (d. 1793) |
 Hymnal|  - |
 Tune| DUKE STREET |
-Metrical pattern | |
+Metrical pattern |L.M|
 # Stanzas | 4 |
 Chorus | No |
 Chorus Type | - |
 Subjects | Worship: Adoration and Praise |
 Texts |  |
-Print Texts | 
+Print Texts |
 Scripture Song |  |
   

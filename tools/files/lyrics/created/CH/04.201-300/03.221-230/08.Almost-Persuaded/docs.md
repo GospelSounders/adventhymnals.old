@@ -11,40 +11,29 @@ metadata:
 
 ```txt
 1.
-A hymn of glory let us sing;
-New hymns thro’-out the world shall ring
-Alleluia! Alleluia!
-Christ, by a road before untrod,
-Ascends unto the throne of God.
-Alleluia! Alleluia!
-Alleluia, alleluia, alleluia!
+Almost persuaded now to believe; 
+Almost persuaded Christ to receive. 
+Seems now some soul to say, 
+'Go, Spirit, go thy way, 
+Some more convenient day 
+On thee I'll call.' 
 
 2.
-O Lord, our homeward pathway bend,
-That our unwearied hearts ascend.
-Alleluia! Alleluia!
-Where, seated on Your Father’s throne,
-You reign as King of kings alone.
-Alleluia! Alleluia!
-Alleluia, alleluia, alleluia!
+Almost persuaded, come, come today; 
+Almost persuaded, turn not away. 
+Jesus invites you here, 
+Angels are lingering near, 
+Prayers rise from hearts so dear; 
+O wanderer, come! 
 
 3.
-Give us Your joy on earth, O Lord,
-In heav’n to be our great reward.
-Alleluia! Alleluia!
-When throned with You forever, we
-Shall praise Your name eternally.
-Alleluia! Alleluia!
-Alleluia, alleluia, alleluia!
+Almost persuaded, harvest is past; 
+Almost persuaded, doom comes at last! 
+'Almost' cannot avail; 
+'Almost' is but to fail! 
+Sad, sad that bitter wail, 
+'Almost'but lost!'
 
-4.
-O risen Christ, ascended Lord,
-All praise to you let earth accord:
-Alleluia! Alleluia!
-You are, while endless ages run,
-With Father and with Spirit one.
-Alleluia! Alleluia!
-Alleluia, alleluia, alleluia!
 ```
 
 - |   -  |

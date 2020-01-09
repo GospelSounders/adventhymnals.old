@@ -11,28 +11,31 @@ metadata:
 
 ```txt
 1.
-God of our fathers, Whose almighty hand
-Leads forth in beauty all the starry band
-Of shining worlds in splendor through the skies
-Our grateful songs before Thy throne arise.
+Praise Him! praise Him! Jesus, our blessed Redeemer!
+Sing, O Earth, His wonderful love proclaim!
+Hail Him! hail Him! highest archangels in glory;
+Strength and honor give to His holy Name!
+Like a shepherd, Jesus will guard His children,
+In His arms He carries them all day long:
+CHORUS:
+Praise Him! Praise Him! Tell of His excellent greatness.
+Praise Him! Praise Him! Ever in joyful song!
 
 2.
-Thy love divine hath led us in the past,
-In this free land by Thee our lot is cast,
-Be Thou our Ruler, Guardian, Guide and Stay,
-Thy Word our law, Thy paths our chosen way.
+Praise Him! Praise Him! Jesus, our blessed Redeemer!
+For our sins He suffered, and bled, and died.
+He our Rock, our hope of eternal salvation,
+Hail Him! hail Him! Jesus the Crucified.
+Sound His praises! Jesus who bore our sorrows,
+Love unbounded, wonderful, deep and strong.
 
 3.
-From war’s alarms, from deadly pestilence,
-Be Thy strong arm our ever sure defense;
-Thy true religion in our hearts increase,
-Thy bounteous goodness nourish us in peace.
-
-4.
-Refresh Thy people on their toilsome way,
-Lead us from night to never ending day;
-Fill all our lives with love and grace divine,
-And glory, laud, and praise be ever Thine.
+Praise Him! Praise Him! Jesus, our blessed Redeemer!
+Heavenly portals loud with hosannas ring!
+Jesus, Savior, reigneth forever and ever.
+Crown Him! Crown Him! Prophet, and Priest, and King!
+Christ is coming! over the world victorious,
+Power and glory unto the Lord belong.
 ```
 
 - |   -  |

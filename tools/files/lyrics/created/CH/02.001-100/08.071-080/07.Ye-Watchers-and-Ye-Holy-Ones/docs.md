@@ -11,28 +11,41 @@ metadata:
 
 ```txt
 1.
-O love of God most full,
-O love of God most free,
-Come warm my heart, come fill my soul,
-Come lead me unto Thee.
+Ye watchers and ye holy ones,
+Bright seraphs, cherubim and thrones,
+Raise the glad strain, Alleluia!
+Cry out, dominions, princedoms, powers,
+Virtues, archangels, angels' choirs:
+
+Refrain:
+Alleluia! Alleluia!
+Alleluia! Alleluia!
+Alleluia!
 
 2.
-Warm as the glowing sun
-So shines Thy love on me,
-It wraps me ‘round with kindly care,
-It draws me unto Thee.
+O higher than the cherubim,
+More glorious than the seraphim,
+Lead their praises, Alleluia!
+Thou bearer of th'eternal Word,
+Most gracious, magnify the Lord.
+
+Refrain:
+Alleluia! Alleluia!
+Alleluia! Alleluia!
+Alleluia!
 
 3.
-The wildest sea is calm,
-The tempest brings no fear,
-The darkest night is full of light,
-Because Thy love is near.
+O friends, in gladness let us sing,
+Supernal anthems echoing,
+Alleluia! Alleluia!
+To God the Father, God the Son,
+And God the Spirit, Three in One.
 
-4.
-O love of God most full,
-O love of God most free,
-It warms my heart, it fills my soul,
-With might it strengthens me.
+Refrain:
+Alleluia! Alleluia!
+Alleluia! Alleluia!
+Alleluia!
+
 ```
 
 - |   -  |

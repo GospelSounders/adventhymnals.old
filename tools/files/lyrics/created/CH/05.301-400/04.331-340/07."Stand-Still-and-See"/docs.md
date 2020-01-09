@@ -11,23 +11,36 @@ metadata:
 
 ```txt
 1.
-Redeemed, how I love to proclaim it!
-Redeemed by the blood of the Lamb;
-Redeemed through His infinite mercy,
-His child and forever I am.
-
+Stand still and see! yea, see, today, 
+New wonders of redeeming grace' 
+The mighty Potter molds the clay 
+Again within this hallowed place, 
+Till through the human, the Divine 
+Is seen once more to move and shine. 
 
 2.
-Redeemed, and so happy in Jesus,
-No language my rapture can tell;
-I know that the light of His presence
-With me doth continually dwell.
+Here "commune with thine heart, be still!" 
+Search all the secret stores of years, 
+Till silence, now unbearable' 
+Self, self-betrayed with blinding tears; 
+Then fall at Jesus' feet, and say, 
+Thou can'st, Thou shalt, cleanse all today! 
 
 3.
-I know there’s a crown that is waiting
-In yonder bright mansion for me;
-And soon, with the spirit made perfect,
-At home with the Lord I shall be.
+"Be still, and know that I am God!" 
+Peace, wounded conscience, heaving breast! 
+Christ's pierced hand bears alone the rod, 
+His cloud transfigures and brings rest. 
+Take, Lord, Thy power, reign, great I AM, 
+O'er shadowing Guest, all-conquering Lamb! 
+
+4.
+Then in the hush of this fair tent, 
+And solemn stillness of this hour, 
+Three thousand souls before Thee bent. 
+Break forth, O Holy Ghost, in power; 
+Sweep through, Thou Wind of God, sweep through; 
+Once more cleanse, consecrate, renew!
 ```
 
 - |   -  |

@@ -11,36 +11,35 @@ metadata:
 
 ```txt
 1.
-My Maker and my King,
-To Thee my all I owe;
-Thy sovereign bounty is the spring
-Whence all my blessings flow;
-Thy sovereign bounty is the spring
-Whence all my blessings flow.
+All glory, laud, and honor,
+to thee, Redeemer, King,
+to whom the lips of children
+made sweet hosannas ring.
+Thou art the King of Israel,
+thou David's royal Son,
+who in the Lord's name comest,
+the King and Blessed One.
 
 2.
-The creature of Thy hand,
-On Thee alone I live;
-My God, Thy benefits demand
-More praise than I can give.
-My God, Thy benefits demand
-More praise than I can give.
+The company of angels
+are praising thee on high,
+and we with all creation
+in chorus make reply.
+The people of the Hebrews
+with psalms before thee went;
+our prayer and praise and anthems
+before thee we present.
 
 3.
-Lord, what can I impart
-When all is Thine before?
-Thy love demands a thankful heart;
-The gift, alas! how poor.
-Thy love demands a thankful heart;
-The gift, alas! how poor.
+To thee, before thy passion,
+they sang their hymns of praise;
+to thee, now high exalted,
+our melody we raise.
+Thou didst accept their praises;
+accept the prayers we bring,
+who in all good delightest,
+thou good and gracious King.
 
-4.
-O! let Thy grace inspire
-My soul with strength divine;
-Let every word each desire
-And all my days be Thine.
-Let every word each desire
-And all my days be Thine.
 ```
 
 - |   -  |

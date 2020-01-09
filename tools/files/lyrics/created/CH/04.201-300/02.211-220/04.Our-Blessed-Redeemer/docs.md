@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-We have this hope that burns within our heart,
-Hope in the coming of the Lord.
-We have this faith that Christ alone imparts,
-Faith in the promise of His Word.
-We believe the time is here,
-When the nations far and near
-Shall awake, and shout and sing
-Hallelujah! Christ is King!
-We have this hope that burns within our heart,
-Hope in the coming of the Lord.
+Our blest Redeemer, ere he breathed 
+His tender last farewell, 
+A Guide, a Comforter, bequeathed 
+With us to dwell. 
 
 2.
-We are united in Jesus Christ our Lord.
-We are united in His love.
-Love for the waiting people of the world,
-People who need our Savior’s love.
-Soon the heav’ns will open wide,
-Christ will come to claim His bride,
-All the universe will sing
-Hallelujah! Christ is King!
-We have this hope this faith, and God’s great love,
-We are united in Christ.
+He came sweet influence to impart, 
+A gracious, willing Guest, 
+While he can find one humble heart 
+Wherein to rest. 
+
+3.
+And his that gentle voice we hear, 
+Soft as the breath of even, 
+That checks the wrong, that calms the fear, 
+And speaks of Heaven. 
+
+4.
+And every virtue we possess, 
+And every victory won, 
+And every thought of holiness 
+Are his alone. 
+
+5.
+Spirit of purity and grace, 
+Our weakness, pitying, see; 
+O make our hearts thy dwelling place, 
+Till all like thee.
+
 ```
 
 - |   -  |

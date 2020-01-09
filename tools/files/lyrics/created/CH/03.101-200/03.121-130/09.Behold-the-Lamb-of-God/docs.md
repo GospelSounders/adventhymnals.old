@@ -11,28 +11,41 @@ metadata:
 
 ```txt
 1.
-As it fell upon a night
-In the winter weather,
-Angels bright in starry height
-Began to sing together.
+Behold the Lamb of God! 
+O Thou for sinners slain, 
+Let it not be in vain 
+That Thou hast died; 
+Thee for my Savior let me take, 
+My only refuge let me make 
+Thy pierced side. 
 
 2.
-Shepherds sleeping on the plain
-Woke to see the glory,
-All amazed they stood and gazed
-And heard the angels’ story.
+Behold the Lamb of God! 
+Into the sacred flood 
+Of Thy most precious blood 
+My soul I cast; 
+Wash me and make me clean within, 
+And keep me pure from every sin, 
+Till life be past. 
 
 3.
-Unto you a child is born
-In a manger lowly,
-Humble, He, yet born to be
-The King of Love most holy.
+Behold the Lamb of God! 
+All hail, incarnate Word, 
+Thou everlasting Lord, 
+Savior most blest; 
+Fill us with love that never faints, 
+Grant us with all Thy blessed saints 
+Eternal rest. 
 
 4.
-Happy angels from afar,
-Cease your singing never!
-In excelsis gloria!
-Forever and forever.
+Behold the Lamb of God! 
+Worthy is He alone, 
+To sitteth on the Throne 
+Of God above; 
+One with the Ancient of all days, 
+One with the Comforter in praise, 
+All light and Love
+
 ```
 
 - |   -  |

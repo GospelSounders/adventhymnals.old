@@ -11,31 +11,40 @@ metadata:
 
 ```txt
 1.
-Of the Father’s love begotten,
-Ere the worlds began to be,
-He is Alpha and Omega,
-He the source, the ending He,
-Of the things that are, that have been,
-And that future years shall see,
-Evermore and evermore! Amen.
+Dear Lord and Father of mankind, 
+Forgive our feverish ways; 
+Reclothe us in our rightful mind, 
+In purer lives Thy service find, 
+In deeper reverence, praise. 
 
 2.
-O ye heights of heaven adore Him;
-Angel hosts, His praises sing;
-Powers, dominions, bow before Him,
-And extol our God and King;
-Let no tongue on earth be silent,
-Every voice in concert ring,
-Evermore and evermore! Amen.
+In simple trust like theirs who heard, 
+Beside the Syrian sea, 
+The gracious calling of the Lord, 
+Let us, like them, without a word, 
+Rise up and follow Thee. 
 
 3.
-Christ, to Thee with God the Father
-And, O Holy Ghost, to Thee,
-Hymn and chant and high thanksgiving
-And unwearied praises be.
-Honor, glory, and dominion,
-And eternal victory,
-Evermore and evermore! Amen.
+O Sabbath rest by Galilee, 
+O calm of hills above! 
+Where Jesus knelt to share with thee 
+The silence of eternity, 
+Interpreted by love. 
+
+4.
+Drop thy still dews of quietness, 
+Till all our strivings cease, 
+Take from our souls the strain and stress, 
+And let our ordered lives confess 
+The beauty of thy peace. 
+
+5.
+Breathe through the heats of our desire, 
+Thy coolness and thy balm; 
+Let sense be dumb, let flesh retire; 
+Speak through the earthquake, wind, and fire, 
+O still small voice of calm!
+
 ```
 
 - |   -  |

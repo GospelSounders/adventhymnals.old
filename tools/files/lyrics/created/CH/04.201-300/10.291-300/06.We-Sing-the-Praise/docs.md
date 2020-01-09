@@ -11,35 +11,34 @@ metadata:
 
 ```txt
 1.
-I’ve wandered far away from God,
-Now I’m coming home;
-The paths of sin too long I’ve trod;
-Lord, I’m coming home.
-
+We sing the praise of Him who died, 
+Of Him who died upon the cross; 
+The sinner's hope let men deride; 
+For this we count the world but loss. 
 
 2.
-I’ve wasted many precious years,
-Now I’m coming home;
-I now repent with bitter tears;
-Lord, I’m coming home.
+Inscribed upon the cross we see 
+In shining letters, "God is love;" 
+He bears our sins upon the tree: 
+He brings us mercy from above. 
 
 3.
-I’m tired of sin and straying Lord,
-Now I’m coming home;
-I’ll trust thy love belive thy word;
-Lord I’m coming home.
+The cross'it takes our guilt away; 
+It holds the fainting spirit up; 
+It cheers with hope the gloomy day, 
+And sweetens every bitter cup. 
 
 4.
-My only hope, my only plea,
-Now I’m coming home;
-That Jesus died, and died for me;
-Lord I’m coming home.
+It makes the coward spirit brave, 
+And nerves the feeble arm for fight; 
+It takes the terror from the grabe, 
+And gilds the bed of death with light. 
 
 5.
-I need His cleansing blood I know,
-Now I’m coming home;
-O wash me whiter than the snow;
-Lord I’m coming home.
+The balm of life, the cure of woe, 
+The measure and the pledge of love, 
+The sinner's refuge here below, 
+The angels' theme in heaven above.
 ```
 
 - |   -  |

@@ -11,23 +11,35 @@ metadata:
 
 ```txt
 1.
-When He cometh, when He cometh
-To make up His jewels,
-All His jewels, precious jewels,
-His loved and His own.
-
+Break thou the bread of life, 
+Dear Lord, to me, 
+As thou didst break the loaves 
+Beside the sea; 
+Beyond the sacred page 
+I seek thee, Lord; 
+My spirit pants for thee, 
+O living Word! 
 
 2.
-He will gather, He will gather
-The gems for His kingdom;
-All the pure ones, all the bright ones,
-His loved and His own.
+Bless thou the truth revealed 
+This day to me, 
+As thou didst bless the bread 
+By Galilee; 
+Then shall all bondage cease, 
+All fetters fall; 
+And I shall find in thee, 
+My all in all! 
 
 3.
-Little children, little children,
-Who love their Redeemer,
-Are the jewels, precious jewels,
-His loved and His own.
+Spirit and life are they, 
+Words thou dost speak; 
+I hasten to obey, 
+But I am weak; 
+Thou art my only help, 
+Thou art my life; 
+Heeding thy holy word 
+I win the strife.
+
 ```
 
 - |   -  |

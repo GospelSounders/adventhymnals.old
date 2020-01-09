@@ -11,29 +11,53 @@ metadata:
 
 ```txt
 1.
-So sent I you- by grace made strong to triumph
-O’er hosts of hell, o’er darkness, death, and sin,
-My name to bear, and in that name to conquer-
-So send I you, My victory to win.
+Blessed Lord, how much I need Thee! 
+Weak and sinful, poor and blind; 
+Take my trembling hand and lead me; 
+Strength and sight in Thee I find. 
+
+Refrain:
+Every hour, every hour, 
+Blessed Lord, how much I need Thee! 
+Every hour, every hour, 
+Saviour, keep me every hour. 
 
 2.
-So send I you- to take to souls in bondage
-The word of truth that sets the captive fee,
-To break the bonds of sin, to loose dearth’s fetters-
-So send I you, to bring the lost to Me.
+Clothe me with Thy robe of meekness, 
+Stained with sin this robe of mine; 
+Teach me first to feel my weakness, 
+Then to plead for strength divine. 
+
+Refrain:
+Every hour, every hour, 
+Blessed Lord, how much I need Thee! 
+Every hour, every hour, 
+Saviour, keep me every hour. 
 
 3.
-So send I you- My strength to know in weakness,
-My joy in grief, my perfect peace in pain,
-To prove My power, My grace, My promised presence-
-So send I you, eternal fruit to gain.
+Safe am I if Thou dost guide me' 
+Trusting self, how soon I fall! 
+Walk life's rugged way beside me, 
+Thou, my light, my life, my all. 
+
+Refrain:
+Every hour, every hour, 
+Blessed Lord, how much I need Thee! 
+Every hour, every hour, 
+Saviour, keep me every hour. 
 
 4.
-So Send I you – to bear My cross with patience,
-And then one day with joy to lay it down
-To hear My voice, “Well done, My faithful servant –
-Come, share My throne, My Kingdom, and My crown!”
-As the Father hath sent Me, so send I You.”
+Then whate'er the future bringeth, 
+Smiles of joy, or tears of grief, 
+Still to Thee my spirit clingeth, 
+Thou art still my soul's relief.
+
+Refrain:
+Every hour, every hour, 
+Blessed Lord, how much I need Thee! 
+Every hour, every hour, 
+Saviour, keep me every hour. 
+
 ```
 
 - |   -  |

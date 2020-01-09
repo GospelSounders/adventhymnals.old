@@ -11,29 +11,29 @@ metadata:
 
 ```txt
 1.
-For God so loved us,
-He sent the Savior:
-For God so loved us,
-and loves me too.
-
+God the Omnipotent! King, who ordainest
+Great winds Thy clarions, the lightnings Thy sword;
+Show forth Thy pity on high where Thou reignest,
+Give to us peace, O most merciful Lord.
 
 2.
-He sent the Savior,
-the blest Redeemer;
-He sent the Savior
-to set me free.
+God the all merciful! earth hath forsaken
+Thy precepts holy, and slighted Thy word;
+Bid not Thy wrath in its terrors awaken;
+Give to us peace, O most merciful Lord.
 
 3.
-He bade me welcome,
-O word of mercy;
-He bade me welcome,
-O voice divine.
+God the all righteousness One! man hath defied Thee;
+Yet to eternity standeth Thy word;
+Falsehood and wrong shall not tarry beside Thee;
+Prosper the right, O most merciful Lord.
 
 4.
-Glory and honor,
-O Love eternal,
-To Him be given
-while life shall last.
+So shall we render Thee thankful devotion,
+For Thy deliverance from peril and sword,
+Singing in chorus from ocean to ocean,
+"Thine is the power and the glory, O Lord."
+
 ```
 
 - |   -  |

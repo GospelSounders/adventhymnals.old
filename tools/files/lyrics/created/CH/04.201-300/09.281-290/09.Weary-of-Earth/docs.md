@@ -11,18 +11,22 @@ metadata:
 
 ```txt
 1.
-The Savior is waiting to enter your heart
-Why don’t you let Him come in?
-There’s nothing in this world to keep you apart
-What is your answer to Him?
-
+Weary of earth and laden with my sin, 
+I look to heaven and long to enter in; 
+But there no evil thing may find a home, 
+And yet I hear a voice that bids me, "Come." 
 
 2.
-If you’ll take one step
-Toward the Savior, my friend,
-You’ll find His arms open wide.
-Receive Him, and all of your darkness will end
-Within your heart He’ll abide.
+The while I fain would tread the heavenly way, 
+Evil is ever with me day by day; 
+Yet on mine ears the gracious tidings fall, 
+"Repent, return; thou shalt be loosed from all." 
+
+3.
+Cease, restless will! thy lonely strife resign! 
+I know too well how little strength is mine; 
+Grant me, dear Lord, Thy saving love to see; 
+I strive no more; I give myself to Thee.
 ```
 
 - |   -  |

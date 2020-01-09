@@ -11,44 +11,35 @@ metadata:
 
 ```txt
 1.
-The dawn of God’s dear Sabbath
-Breaks o’er the earth again,
-As some sweet summer morning
-After a night of pain;
-It comes as cooling showers
-To some exhausted land,
-As shade of clustered palm trees
-‘Mid weary wastes of sand.
+Sweetly the holy hymn 
+Breaks on the morning air; 
+Before the world with smoke is dim 
+We meet to offer prayer. 
 
 2.
-Lord, we would bring for offering,
-Though marred with earthly soil,
-A week of earnest labor,
-Of steady, faithful toil,
-Fair fruits of self denial,
-Of strong, deep love to Thee,
-Fostered by Thine own Spirit,
-In true humility.
+While flowers are wet with dews, 
+Dew of our souls, descend; 
+Ere yet the sun the day renews, 
+O Lord, Thy Spirit send. 
 
 3.
-And we would bring our burden
-Of sinful thought and deed,
-In Thy pure presence kneeling,
-From bondage to be freed,
-Our heart’s most bitter sorrow
-For all Thy work undone-
-So many talents wasted!
-So few bright laurels won!
+Upon the battlefield, 
+Before the fight begins, 
+We seek, O Lord, Thy sheltering shield, 
+To guard us from our sins. 
 
 4.
-And with that sorrow mingling,
-A steadfast faith, and sure,
-And love so deep and fervent,
-For Thee to make it pure,
-In Thy dear presence finding
-The pardon that we need,
-And then the peace so lasting-
-Celestial peace indeed.
+On the lone mountainside, 
+Before the morning's light, 
+The Man of Sorrows wept and cried, 
+And rose refreshed with might. 
+
+5.
+Oh, hear us, then, for we 
+Are very weak and frail; 
+We make the Saviour's name our plea, 
+And surely, must prevail.
+
 ```
 
 - |   -  |

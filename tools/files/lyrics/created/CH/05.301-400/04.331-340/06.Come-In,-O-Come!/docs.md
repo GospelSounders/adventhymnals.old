@@ -11,40 +11,34 @@ metadata:
 
 ```txt
 1.
-There is a fountain filled with blood drawn from Emmanuel’s veins;
-And sinners plunged beneath that flood lose all their guilty stains.
-Lose all their guilty stains, lose all their guilty stains;
-And sinners plunged beneath that flood lose all their guilty stains.
+Come in, O come! the door stands open now; 
+I knew Thy voice; Lord Jesus, it was Thou; 
+The sun has set long since; the storms begin; 
+'Tis time for Thee, my Saviour, O come in! 
 
 2.
-The dying thief rejoiced to see that fountain in his day;
-And there may I, though vile as he, wash all my sins away.
-Wash all my sins away, wash all my sins away;
-And there may I, though vile as he, wash all my sins away.
+Alas, ill-ordered shows the dreary room; 
+The household stuff lies heaped amidst the gloom, 
+The table empty stands, the couch undressed; 
+Ah, what a welcome for th' Eternal Guest! 
 
 3.
-Thou dying Lamb, Thy precious blood shall never lose its power
-Till all the ransomed church of God are saved, to sin no more.
-Are saved, to sin no more, are saved, to sin no more;
-Till all the ransomed church of God are saved, to sin no more.
+Yet welcome and tonight; this doleful scene 
+Is e'en itself my cause to hail Thee in; 
+This dark confusion e'en at once demands 
+Thine own bright presence, Lord, and ordering hands. 
 
 4.
-E’er since, by faith, I saw the stream Thy flowing wounds supply,
-Redeeming love has been my theme, and shall be till I die.
-And shall be till I die, and shall be till I die;
-Redeeming love has been my theme, and shall be till I die.
+I seek no more to alter things, or mend, 
+Before the coming of so great a Friend; 
+All were at best unseemly; and 'twere ill 
+Beyond all else to keep Thee waiting still 
 
 5.
-Lord, I believe Thou hast prepared, unworthy though I be,
-For me a blood-bought free reward, a golden harp for me!
-A golden harp for me! A golden harp for me!
-For me a blood-bought free reward, a golden harp for me!
-
-6.
-There in a nobler, sweeter song, I’ll sing Thy power to save,
-When this poor lisping, stammering tongue is ransomed from the the grave.
-Is ransomed from the grave, is ransomed from the grace;
-When this poor lisping, stammering tongue is ransomed from the the grave.
+Come, not to find, but make this troubled heart 
+A dwelling worthy of Thee as Thou art; 
+To chase the gloom, the terror, and the sin: 
+Come, all Thyself, yea, come, Lord Jesus, in!
 ```
 
 - |   -  |

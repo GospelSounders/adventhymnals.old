@@ -11,23 +11,36 @@ metadata:
 
 ```txt
 1.
-I must tell Jesus all of my trials,
-I cannot bear these burdens alone;
-In my distress He kindly will help me,
-He ever loves and cares for His own.
-
+Great King of glory, come, 
+And with Thy favor crown 
+This temple as Thy home, 
+This people as Thine own; 
+Beneath this roof, 0 deign to show 
+How God can dwell with men below. 
 
 2.
-I must tell Jesus all of my troubles,
-He is a kind, compassionate Friend;
-If I but ask Him He will deliver,
-Make of my troubles quickly an end.
+Here may Thine ears attend 
+Our interceding cries, 
+And grateful praise ascend, 
+Like incense, to the skies; 
+Here may Thy word melodious sound, 
+And spread celestial joys around. 
 
 3.
-Oh, how the world to evil allures me!
-Oh, how my heart is tempted to sin!
-I must tell Jesus, and He will help me
-Over the world the vict’ry to win.
+Here may our unborn sons 
+And daughters sound Thy praise, 
+And shine, like polished stones, 
+Through long-succeeding days; 
+Here, Lord, display Thy saving power, 
+While temples stand and men adore. 
+
+4.
+Here may the listening throng 
+Receive Thy truth in love; 
+Here Christians join the song 
+Of seraphim above, 
+Till all, who humbly seek Thy face, 
+Rejoice in Thy abounding grace.
 ```
 
 - |   -  |

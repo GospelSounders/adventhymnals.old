@@ -11,28 +11,23 @@ metadata:
 
 ```txt
 1.
-All people that on earth do dwell,
-sing to the Lord with cheerful voice.
-Him serve with mirth, his praise forth tell;
-come ye before him and rejoice.
+Praise the Lord, His glories show, Alleluia!
+Saints within His courts below, Alleluia!
+Angels 'round His throne above, Alleluia!
+All that see and share His love, Alleluia!
 
 2.
-Know that the Lord is God indeed;
-without our aid he did us make;
-we are his folk, he doth us feed,
-and for his sheep he doth us take.
+Earth to heaven and heaven to earth, Alleluia!
+Tell His wonders, sing His worth, Alleluia!
+Age to age and shore to shore, Alleluia!
+Praise Him, praise Him evermore! Alleluia!
 
 3.
-O enter then his gates with praise;
-approach with joy his courts unto;
-praise, laud, and bless his name always,
-for it is seemly so to do.
+Praise the Lord, His mercies trace, Alleluia!
+Praise His providence and grace, Alleluia!
+All that He for man hath done, Alleluia!
+All He sends us through His Son. Alleluia!
 
-4.
-For why! the Lord our God is good;
-his mercy is forever sure;
-his truth at all times firmly stood,
-and shall from age to age endure.
 ```
 
 - |   -  |

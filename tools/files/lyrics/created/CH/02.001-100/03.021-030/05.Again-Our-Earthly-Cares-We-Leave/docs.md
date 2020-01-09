@@ -11,22 +11,29 @@ metadata:
 
 ```txt
 1.
-Praise the Lord, His glories show, Alleluia!
-Saints within His courts below, Alleluia!
-Angels ’round His throne above, Alleluia!
-All that see and share His love, Alleluia!
+Again our earthly cares we leave, 
+And to Thy courts repair; 
+Again with joyful feet we taste 
+To meet our Saviour there. 
 
 2.
-Earth to heaven and heaven to earth, Alleluia!
-Tell His wonders, sing His worth, Alleluia!
-Age to age and shore to shore, Alleluia!
-Praise Him, praise Him evermore! Alleluia!
+Great Shepherd of Thy people, here 
+Thy presence now display. 
+We bow within Thy house of prayer; 
+O give us hearts to pray! 
 
 3.
-Praise the Lord, His mercies trace, Alleluia!
-Praise His providence and grace, Alleluia!
-All that He for man hath done, Alleluia!
-All He sends us through His Son. Alleluia!
+The clouds which veil Thee from our sight, 
+In pity, Lord, remove; 
+Dispose our minds to hear aright 
+The message of Thy love. 
+
+4.
+The feeling heart, the melting eyes, 
+The humble mind, bestow; 
+And shine upon us from above, 
+To make our graces grow.
+
 ```
 
 - |   -  |

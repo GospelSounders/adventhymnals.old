@@ -11,33 +11,37 @@ metadata:
 
 ```txt
 1.
-Come, you faithful, raise the strain
-Of triumphant gladness;
-God has brought His people
-Now rejoice, Jerusalem,
-And with true affection
-Welcome in unwearied strains
-Jesus’resurrection.
+Thou hidden source of calm repose, 
+Thou all-sufficient love divine; 
+My help and refuge from my foes, 
+Secure I am if thou art mine, 
+From sin and grief, from guilt and shame; 
+I hide me, Jesus, in Thy name. 
 
 2.
-‘Tis the spring of souls today;
-Christ has burst His prison
-From the frost and gloom of death
-light and life have risen
-All the winter of our sins,
-Long and dark, is flying
-From His ligth, to whom we give
-Thanks and praise undying.
+Thy mighty name salvation is, 
+And keeps my happy soul above; 
+Comfort it brings, and power and peace, 
+And joy and everlasting love; 
+To me with Thy dear name, are given 
+Pardon and holiness and heaven. 
 
 3.
-“Alleluia!” now we cry
-to our King immortal,
-Who, triumphant, burst the
-bars of the tomb’s dark portal
-“Alleluia!” with the Son,
-God the Father praising;
-“Alleluia!” yet again to
-the Spirit raising.
+Jesus, my all in all Thou art, 
+My rest in toil, my ease in pain; 
+The medicine of my broken heart; 
+In war, my peace; in loss, my gain; 
+My smile beneath the tyrant's frown; 
+In shame, my glory and my crown. 
+
+4.
+In want, my plentiful supply; 
+In weakness, my almighty power; 
+In bonds, my perfect liberty; 
+My light in Satan's darkest hour; 
+In grief, my joy unspeakable; 
+My life in death; my heaven, my all.
+
 ```
 
 - |   -  |

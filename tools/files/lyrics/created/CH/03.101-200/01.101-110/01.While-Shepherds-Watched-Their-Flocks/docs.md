@@ -11,34 +11,41 @@ metadata:
 
 ```txt
 1.
-Children of the heavenly Father
-Safely in His bossom gather;
-Nestling bird nor star in heaven
-Such a refuge e’er was given.
+While shepherds watched their flocks by night,
+All seated on the ground,
+The angel of the Lord came down,
+And glory shone around.
 
 2.
-God His own doth tend and nourish,
-In His holy love they flourish;
-From all evil things He spares them,
-In His mighty arms He bears them.
+"Fear nor!" said he- for mighty dread
+Had seized their troubled mind-
+'Glad tidings of great joy I bring,
+To you and all mankind.
 
 3.
-Neither life nor death shall ever
-From the Lord His children sever;
-Unto them His grace He showeth,
-And their sorrows all He knoweth.
+To you, in David's town this day,
+Is born of David's line,
+The Savior who is Christ the Lord;
+And this shall be the sign:
 
 4.
-Praise the Lord in joyful numbers,
-Your Protector never slumbers;
-At the will of your Defender
-Every foe-man must surrender.
+"The heavenly Babe you there shall find
+To human view displayed,
+All meanly wrapped in swathing bands,
+And in a manger laid."
 
 5.
-Though He giveth or He taketh,
-God His children ne’er forsaketh;
-His the loving purpose solely
-To preserve them pure and holy.
+Thus spake the seraph; and forth with
+Appeared a shining throng
+Of angels praising God on high,
+Who thus addressed their song:
+
+6.
+"All glory be to God on high,
+And to the earth be peace;
+Good will henceforth from heaven to men,
+Begin and never cease!"
+
 ```
 
 - |   -  |

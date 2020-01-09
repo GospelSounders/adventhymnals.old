@@ -11,23 +11,38 @@ metadata:
 
 ```txt
 1.
-Marvelous grace of our loving Lord.
-Grace that exceeds our sin and our guilt!
-Yonder on Calvary’s mount outpoured
-There where the blood of the Lamb was spilt.
+O come, O come, Emmanuel,
+And ransom captive Israel,
+That mourns in lonely exile here
+Until the Son of God appear.
 
+Refrain:
+Rejoice! Rejoice!
+Emmanuel shall come to thee,
+O Israel.
 
 2.
-Sin and despair, like the sea waves cold,
-Threaten the soul with infinite loss;
-Grace that is greater, yes, grace untold
-Points to the Refuge, the mighty Cross.
+O come, Thou Wisdom from on high,
+And order all things far and night;
+To us the path of knowledge show,
+And cause us in her ways to go.
+
+Refrain:
+Rejoice! Rejoice!
+Emmanuel shall come to thee,
+O Israel.
 
 3.
-Marvelous, infinite, matchless grace,
-Freely bestowed on all who believe!
-You that are longing to see His face,
-Will you this moment His grace receive?
+O come, Desire of nations, bind
+All peoples in one heart and mind;
+Bid envy, strife and quarrels cease;
+Fill the whole world with heaven's peace.
+
+Refrain:
+Rejoice! Rejoice!
+Emmanuel shall come to thee,
+O Israel.
+
 ```
 
 - |   -  |

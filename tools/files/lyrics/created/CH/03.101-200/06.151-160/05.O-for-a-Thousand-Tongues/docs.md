@@ -11,28 +11,41 @@ metadata:
 
 ```txt
 1.
-When I survey the wondrous cross
-On which the Prince of glory died,
-My richest gain I count but loss,
-And pour contempt on all my pride.
+O for a thousand tongues, to sing 
+My great Redeemer's praise! 
+The glories of my God and King, 
+The triumphs of His grace. 
 
 2.
-See, from His head, His feet,
-Sorrow and love flow mingled down;
-Did e’er such love and sorrow meet?
-Or thorns compose so rich a crown?
+My gracious Master and my God, 
+Assist me to proclaim, 
+To spread through all the earth abroad, 
+The honors of Thy name. 
 
 3.
-Since I, who was undone and lost,
-Have pardon through His name and word;
-Forbid it, then, that I should boast,
-Save in the cross of Christ my Lord.
+Jesus! the name that charms our fears, 
+That bids our sorrows cease' 
+'Tis music in the sinner's ears, 
+'Tis life, and health, and peace. 
 
 4.
-Were the whole realm of nature mine,
-That were a tribute far too small;
-Love so amazing, so divine,
-Demands my life, my soul, my all.
+He breaks the power of canceled sin, 
+He sets the prisoner free; 
+His blood can make the foulest clean; 
+His blood availed for me. 
+
+5.
+He speaks, and listening to his voice, 
+New life the dead receive; 
+The mournful, broken hearts rejoice, 
+The humble poor believe. 
+
+6.
+Hear him, ye deaf; praise Him, ye dumb' 
+Your loosened tongues employ; 
+Ye blind, behold your savior come, 
+And leap, ye lame, for joy.
+
 ```
 
 - |   -  |

@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Heavenly Father, bless us now;
-At the cross of Christ we bow;
-Take our guilt and grief away;
-Hear and heal us now, we pray.
+Awake! Jerusalem, awake! 
+No longer in thy sins lie down; 
+The garment of salvation take, 
+Thy beauty and thy strength put on. 
 
 2.
-Now, O Lord, this very hour,
-Send Thy grace and show Thy power;
-While we rest upon Thy word,
-Come, and bless us now, O Lord!
+Shake off the dust that blinds thy sight, 
+And hides the promise from thine eyes: 
+Arise, and struggle into light; 
+The great Deliverer calls, Arise! 
 
 3.
-Mercy now, O Lord, we plead
-In this hour of utter need;
-Turn us not away unblest;
-Calm our anguish into rest.
+Shake off the bands of sad despair; 
+Zion, assert thy liberty; 
+Look up, thy broken heart prepare, 
+And God shall set the captive free. 
 
 4.
-O Thou loving, blessed One,
-Rising oér us like the sun,
-Light and life art Thou within:
-Savior, Thou, from every sin!
+Vessels of mercy, sons of grace, 
+Be purged from every sinful slain; 
+Be like your Lord, His word embrace, 
+Nor bear His hallowed name in vain.
 ```
 
 - |   -  |

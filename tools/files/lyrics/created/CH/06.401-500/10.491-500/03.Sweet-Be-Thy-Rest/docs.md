@@ -11,23 +11,37 @@ metadata:
 
 ```txt
 1.
-Like the woman at the well I was seeking
-For things that could not satisfy:
-And then I heard my Savior speaking:
-” Draw from my well that never shall run dry”.
-
+Sweet be thy rest, 
+And peaceful thy sleeping; 
+God's way is best, 
+Thou art in His keeping. 
+O blessed sleep 
+Where ills ne'er molest thee! 
+Why should we weep? 
+For Heaven hath blessed thee, 
+Sweet be thy rest. 
 
 2.
-There are millions in this world who are craving
-The pleasures earthly things afford;
-But none can match the wondrous treasure
-That I find in Jesus Christ my Lord.
+Thy work is done, 
+Thy sowing and reaping; 
+Thy crown is won, 
+And hushed is thy weeping. 
+From tears and woes, 
+From earth's midnight dreary, 
+Thine is repose 
+Where none ever weary. 
+Sweet be thy rest. 
 
 3.
-So, my brother, if the things this world gave you
-Leave hungers that won’t pass away,
-My blessed Lord will come and save you,
-If you kneel to Him and humbly pray:
+Sweet be thy rest; 
+No more we may greet thee 
+'Till with the blest 
+In heaven we meet thee. 
+O union sweet 
+That death cannot sever! 
+There we shall meet, 
+Where sad tears fall never. 
+Sweet be thy rest.
 ```
 
 - |   -  |

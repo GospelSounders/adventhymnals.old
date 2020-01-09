@@ -11,29 +11,49 @@ metadata:
 
 ```txt
 1.
-A wonderful Savior is Jesus my Lord,
-A wonderful Savior to me,
-He hideth my soul in the cleft of the rock,
-Where rivers of pleasure I see.
-
+Lift Him up, 'tis He that bids you,
+Let the dying look and live;
+To all weary, thirsting sinners,
+Living waters will He give;
+And though once so meek and lowly,
+Yet the Prince of heaven was He;
+And the blind, who grope in darkness,
+Through the blood of Christ shall see.
+CHORUS:
+Lift Him up, the risen Savior,
+High amid the waiting throng;
+Lift Him up, 'tis He that speaketh,
+Now He bids you flee from wrong.
 
 2.
-A wonderful Savior is Jesus my Lord,
-He taketh my burden away,
-He holdeth me up, and I shall not be moved,
-He giveth me strength as my day.
+Lift Him up, this precious Savior,
+Let the multitude behold;
+They with willing hearts shall seek Him,
+He will draw them to His fold;
+They shall gather from the wayside,
+Hastening on with joyous feet,
+They shall bear the cross of Jesus,
+And shall find salvation sweet.
 
 3.
-With numberless blessings each moment He crowns,
-And filled with His fullness divine,
-I sing in my rapture, Oh, Glory to God
-For such a Redeemer as mine.
+Lift Him up in all His glory,
+'Tis the Son of God on high;
+Lift Him up, His love shall draw them,
+E'en the careless shall draw nigh;
+Let them hear again the story
+Of the cross, the death of shame;
+And from tongue to tongue repeat it;
+Mighty throngs shall bless His name.
 
 4.
-When clothed in His brightness, transported I rise
-To meet Him in clouds of the sky,
-His perfect salvation, His wonderful love,
-I’ll shout with the millions on high.
+O then lift Him up in singing,
+Lift the Savior up in prayer;
+He, the glorious Redeemer,
+All the sins of men did bear;
+Yes, the young shall bow before Him,
+And the old their voices raise;
+All the deaf shall hear hosannah;
+And the dumb shall shout His praise.
 ```
 
 - |   -  |

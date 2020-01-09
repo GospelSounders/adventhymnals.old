@@ -11,29 +11,54 @@ metadata:
 
 ```txt
 1.
-O Zion, haste, thy mission high fulfilling,
-to tell to all the world that God is light,
-that he who made all nations is not willing
-one soul should perish, lost in shades of night.
-
+For all the saints
+Who from their labors rest,
+Who Thee by faith
+Before the world confessed.
+Thy name, O Jesus,
+Be forever blest.
+Alleluia!
+Alleluia!
 
 2.
-Proclaim to every people, tongue, and nation
-that God, in whom they live and move, is love;
-tell how he stooped to save his lost creation,
-and died on earth that we might live above.
+Thou wast their Rock,
+Their Fortress and their Might;
+Thou, Lord, their Captain
+In the well-fought fight;
+Thou, in the darkness drear,
+Their one true Light.
+Alleluia!
+Alleluia!
 
 3.
-Give of thine own to bear the message glorious;
-give of thy wealth to speed them on their way;
-pour out thy soul for them in prayer victorious;
-O Zion, haste to bring the brighter day.
+O may Thy soldiers,
+Faithful, true, and bold,
+Fight as the saints
+Who nobly fought of old,
+And win with them
+The victor's crown of gold.
+Alleluia!
+Alleluia!
 
 4.
-He comes again; O Zion, ere thou meet Him,
-Make known to every heart His saving grace;
-Let none whom He hath ransomed fail to greet Him,
-Through thy neglect, unfit to see His face.
+And when the strife is fierce,
+The warfare long,
+Steals on the ear
+The distant triumph song,
+And hearts are brave again,
+And arms are strong.
+Alleluia!
+Alleluia!
+
+5.
+From earth's wide bounds,
+From ocean's farthest coast,
+Thro' gates of pearl
+Streams in the countless host,
+Singing to Father,
+Son, and Holy Ghost,
+Alleluia!
+Alleluia!
 ```
 
 - |   -  |

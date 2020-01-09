@@ -11,29 +11,29 @@ metadata:
 
 ```txt
 1.
-Face to face with Christ my Savior,
-Face to face, what will it be,
-When with rapture I behold Him,
-Jesus Christ, who died for me?
-
+Holy Spirit, light divine,
+Shine upon this heart of mine,
+Chase the shades of night away,
+Turn my darkness into day.
 
 2.
-Only faintly now I see Him,
-With the darkening veil between,
-But a blessed day is coming,
-When His glory shall be seen.
+Holy Spirit, power divine,
+Cleanse this guilty heart of mine;
+Long has sin, without control,
+Held dominion o'er my soul.
 
 3.
-What rejoicing in His presence,
-When are banished grief and pain;
-When the crooked ways are straightened,
-And the dark things shall be plain!
+Holy Ghost, with joy divine,
+Cheer this saddened heart of mine,
+Bid my many woes depart,
+Heal my wounded, bleeding heart.
 
 4.
-Face to face! oh, blissful moment!
-Face to face to see and know;
-Face to face with my Redeemer,
-Jesus Christ, who loves me so.
+Holy Spirit, all divine,
+Dwell within this heart of mine,
+Cast down every idol throne,
+Reign supreme, and reign alone.
+
 ```
 
 - |   -  |

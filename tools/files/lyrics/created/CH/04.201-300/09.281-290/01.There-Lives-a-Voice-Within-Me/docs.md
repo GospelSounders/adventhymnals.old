@@ -11,34 +11,53 @@ metadata:
 
 ```txt
 1.
-I gave my life for thee,
-My precious blood I shed,
-That thou might’st ransom be,
-And quickened from the dead;
-I gave, I gave My life for thee,
-What hast thou given for Me?
-I gave, I gave My life for thee,
-What hast thou given for Me?
+There lives a voice within me, 
+Guest angel of my heart, 
+Whose whisperings strive to win me 
+To act a noble part. 
+Up evermore it springeth 
+Like some sweet melody, 
+And evermore it singeth 
+This song of songs to me: 
+
+Refrain:
+This world is full of beauty 
+That points the soul above, 
+And if we did our duty, 
+It might be full of love. 
 
 2.
-My Fathers house of light,
-My glory circled throne,
-I left for earthly night,
-For wanderings sad and lone;
-I left, I left it all for thee,
-Hast thou left aught for Me?
-I left, I left it all for thee,
-Hast thou left aught for Me?
+The leaf tongues of the forest, 
+The flower lips of the sod, 
+The birds that hymn their raptures 
+Up to the throne of God; 
+The summer wind that bringeth 
+Joy over land and sea, 
+Have each a voice that singeth 
+This song of songs to me: 
+
+Refrain:
+This world is full of beauty 
+That points the soul above, 
+And if we did our duty, 
+It might be full of love. 
 
 3.
-I suffered much for thee,
-more than thy tongue can tell,
-Of bitterest agony,
-To rescue thee from hell;
-I’ve borne, I’ve borne it all for thee,
-What hast thou borne for Me?
-I’ve borne, I’ve borne it all for thee,
-What hast thou borne for Me?
+O voice of God most tender, 
+O voice of God divine, 
+Still be my heart's defender 
+Till every thought is Thine; 
+My soul in gladness bringeth 
+Its songs of praise to Thee, 
+While all around me singeth 
+This song of songs to me:
+
+Refrain:
+This world is full of beauty 
+That points the soul above, 
+And if we did our duty, 
+It might be full of love. 
+
 ```
 
 - |   -  |

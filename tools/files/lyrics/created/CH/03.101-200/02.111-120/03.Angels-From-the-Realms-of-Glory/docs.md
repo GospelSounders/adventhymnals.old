@@ -11,28 +11,37 @@ metadata:
 
 ```txt
 1.
-As pants the hart for cooling streams
-When heated in the chase,
-So longs my soul, O God, for Thee,
-And Thy refreshing grace.
+Angels from the realms of glory,
+Wing your flight o`er all the earth;
+Ye, who sang creation`s story,
+Now proclaim Messiah`s birth;
+Come and worship, Come and worship,
+Worship Christ, the newborn King.
 
 2.
-For Thee, my God, the living God,
-My thirsty soul doth pine:
-O when shall I behold Thy face,
-Thou Majesty divine?
+Shepherds, in the field abiding,
+Watching o`er your flocks by night,
+God with man is now residing;
+Yonder shines the Infant Light;
+Come and worship, Come and worship,
+Worship Christ, the newborn King.
 
 3.
-Why restless, why cast down, my soul?
-Hope still, and thou shalt sing
-The praise of Him who is thy God,
-Thy health’s eternal spring.
+Sages, leave your contemplations,
+Brighter visions beam afar;
+Seek the great Desire of nations;
+Ye have seen His natal star;
+Come and worship, Come and worship,
+Worship Christ, the newborn King.
 
 4.
-To Father, Son, and Holy Ghost,
-The God whom we adore,
-Be glory, as it was, is now,
-And shall be evermore.
+Saints, before the altar bending,
+Watching long in hope and fear,
+Suddenly the Lord, descending,
+In His temple shall appear;
+Come and worship, Come and worship,
+Worship Christ, the newborn King.
+
 ```
 
 - |   -  |

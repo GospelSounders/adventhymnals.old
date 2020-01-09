@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Jesus, your blood and righteousness
-My beauty are, my glorious dress;
-Mid flaming worlds, in these arrayed,
-With joy shall I lift up my head.
+The church has waited long
+Her absent Lord to see;
+And still in loneliness she waits,
+A friendless stranger she.
 
 2.
-Bold shall I stand in that great day,
-Cleansed and redeemed, no debt to pay;
-For by your cross absolved I am
-From sin and guilt, from fear and shame.
+How long, O Lord our God,
+Holy and true and good,
+Wilt Thou not judge Thy suffering church,
+Her sighs and tears and blood?
 
 3.
-Lord, I believe your precious blood,
-Which at the mercy seat of God
-Pleads for the captives’ liberty,
-Was also shed in love for me.
+We long to hear Thy voice,
+To see Thee face to face,
+To share Thy crown and glory then,
+As now we share Thy grace.
 
 4.
-When from the dust of death I rise
-To claim my mansion in the skies,
-This then shall be my only plea:
-Christ Jesus lived and died for me.
+Come, Lord, and wipe away
+The curse, the sin, the stain,
+And make this blighted world of ours
+Thine own fair world again.
+
 ```
 
 - |   -  |

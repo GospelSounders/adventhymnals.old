@@ -11,29 +11,44 @@ metadata:
 
 ```txt
 1.
-Let us sing a song that will cheer us by the way,
-In a little while we’re going home.
-For the night will end in the everlasting day,
-In a little while we’re going home.
+I am thinking today of that beautiful land 
+I shall reach when the sun goeth down; 
+When through wonderful grace by my Saviour I stand, 
+Will there be any stars in my crown? 
 
+Refrain:
+Will there be any stars, any stars in my crown, 
+When at evening the sun goeth down? 
+When I wake with the blest 
+In the mansions of rest, 
+Will there be any stars in my crown? 
 
 2.
-We will do the work that our hands may find to do,
-In a little while we’re going home.
-And the grace of God will our daily strength renew,
-In a little while we’re going home.
+In the strength of the Lord let me labor and pray, 
+Let me watch as a winner of souls; 
+That bright stars may be mine in the glorious day. 
+When His praise like the sea billows rolls. 
+
+Refrain:
+Will there be any stars, any stars in my crown, 
+When at evening the sun goeth down? 
+When I wake with the blest 
+In the mansions of rest, 
+Will there be any stars in my crown? 
 
 3.
-We will smooth the path for some weary, wayworn feet,
-In a little while we’re going home.
-And may loving hearts spread around an influence sweet!
-In a little while we’re going home.
+O what joy will it be when His face I behold. 
+Living gems at His feet to lay down; 
+It would sweeten my bliss in the city of gold, 
+Should there be any stars in my crown.
 
-4.
-There’s a rest beyond, there’s relief from every care,
-In a little while we’re going home;
-And no tears shall fall in that city bright and fair,
-In a little while we’re going home.
+Refrain:
+Will there be any stars, any stars in my crown, 
+When at evening the sun goeth down? 
+When I wake with the blest 
+In the mansions of rest, 
+Will there be any stars in my crown? 
+
 ```
 
 - |   -  |

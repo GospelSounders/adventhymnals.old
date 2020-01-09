@@ -11,29 +11,57 @@ metadata:
 
 ```txt
 1.
-The Lord’s our Rock, in Him we hide,
-A shelter in the time of storm;
-Secure whatever ill betide,
-A shelter in the time of storm.
+Oh, the best friend to have is Jesus; 
+When the cares of life upon you roll, 
+He will heal the wounded heart, 
+He will strength and grace impart; 
+Oh, the best friend to have is Jesus. 
 
+Refrain:
+The best friend to have is Jesus, 
+He will help you when you fall, 
+He will hear you when you call; 
+Oh, the best friend to have is Jesus. 
 
 2.
-A shade by day, defense by night,
-A shelter in the time of storm;
-No fears alarm, no foes afright,
-A shelter in the time of storm.
+What a friend I have found in Jesus! 
+Peace and comfort to my soul He brings; 
+Leaning on His mighty arm, 
+I will fear no ill nor harm; 
+Oh, the best friend to have is Jesus. 
+
+Refrain:
+The best friend to have is Jesus, 
+He will help you when you fall, 
+He will hear you when you call; 
+Oh, the best friend to have is Jesus. 
 
 3.
-The raging storms may round us beat,
-A shelter in the time of storm
-We’ll never leave our safe retreat,
-A shelter in the time of storm.
+Though I pass through the night of sorrow, 
+And the chilly waves of Jordan roll, 
+Never need I shrink nor fear, 
+For my Saviour is so near; 
+Oh, the best friend to have is Jesus. 
+
+Refrain:
+The best friend to have is Jesus, 
+He will help you when you fall, 
+He will hear you when you call; 
+Oh, the best friend to have is Jesus. 
 
 4.
-O Rock divine, O Refuge dear,
-A Shelter in the time of storm;
-Be Thou our helper ever near,
-A Shelter in the time of storm.
+When at last to our home we gather, 
+With the faithful who have gone before, 
+We will sing upon the shore, 
+Praising Him forevermore; 
+Oh, the best friend to have is Jesus.
+
+Refrain:
+The best friend to have is Jesus, 
+He will help you when you fall, 
+He will hear you when you call; 
+Oh, the best friend to have is Jesus. 
+
 ```
 
 - |   -  |

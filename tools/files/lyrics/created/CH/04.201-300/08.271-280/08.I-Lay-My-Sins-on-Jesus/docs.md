@@ -11,24 +11,39 @@ metadata:
 
 ```txt
 1.
-Lord Jesus, once You spoke to men
-Upon the mountain and the plain,
-O help us listen now as then
-And wonder at Your words again.
+I lay my sins on Jesus,
+The spotless Lamb of God;
+He bears them all, and frees us
+From the accursed load,
+From the accursed load.
 
 2.
-We all have secret fears to face,
-Our minds and motives to amend.
-We seek Your truth,
-We need your grace,
-Our living Lord and present friend.
+I bring my guilt to Jesus,
+To wash my crimson stains
+White in His blood most precious,
+Till not a stain remains,
+Till not a stain remains.
 
 3.
-The gospel speaks; and we receive
-Your light, Your love,
-Your own command.
-O help us live what we believe,
-In daily word of heart and hand.
+I lay my wants on Jesus,
+All fullness dwells in Him;
+He healeth my diseases,
+He doth my soul redeem,
+He doth my soul redeem.
+
+4.
+I long to be like Jesus,
+Meek loving, lowly, mild;
+I long to be like Jesus,
+The Father's holy child,
+The Father's holy child.
+
+5.
+I long to be with Jesus
+Amid the heav'nly throng,
+To sing with them His praises,
+And learn the angels' song,
+And learn the angels' song.
 ```
 
 - |   -  |

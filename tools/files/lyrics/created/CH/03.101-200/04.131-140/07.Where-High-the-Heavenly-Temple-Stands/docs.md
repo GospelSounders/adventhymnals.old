@@ -11,35 +11,29 @@ metadata:
 
 ```txt
 1.
-We three kings of Orient are;
-Bearing gifts we traverse afar
-Field and fountain, moor and mountain,
-Following yonder star.
-
+Where high the heavenly temple stands, 
+The house of God not made with hands, 
+A great High Priest our nature wears, 
+The Guardian of mankind appears. 
 
 2.
-Born a King on Bethlehem’s plain,
-Gold I bring to crown Him again,
-King forever, ceasing never
-Over us all to reign.
+He, who for men their surety stood, 
+And poured on earth his precious blood, 
+Pursues in heaven His mighty plan, 
+The Savior and the Friend of man. 
 
 3.
-Frankincense to offer have I;
-Incense owns a Deity nigh;
-Prayer and praising all men raising,
-Worship Him, God on high.
+In every pang that rends the heart 
+The Man of Sorrows had a part; 
+He sympathizes with our grief, 
+And to the sufferer sends relief. 
 
 4.
-Myrrh is mine; its bitter perfume
-Breathes a life of gathering gloom:
-Sorrowing, sighing, bleeding, dying,
-Sealed in the stonecold tomb.
+With boldness therefore at the throne 
+Let us make all our sorrows known, 
+And ask the aid of heavenly power, 
+To help us in the evil hour.
 
-5.
-Glorious now behold Him arise,
-King and God and sacrifice;
-Alleluia, Alleluia!
-Sounds through the earth and skies.
 ```
 
 - |   -  |

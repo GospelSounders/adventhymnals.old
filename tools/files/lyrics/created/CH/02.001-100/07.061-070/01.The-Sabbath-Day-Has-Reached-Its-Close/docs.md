@@ -11,44 +11,41 @@ metadata:
 
 ```txt
 1.
-God is here as we his people
-meet to offer praise and prayer,
-may we find in fuller measure
-what it is in Christ we share.
-Here, as in the world around us,
-all our varied skills and arts
-wait the coming of his Spirit
-into open minds and hearts.
+The Sabbath day has reached its close, 
+Yet, Saviour, ere I seek repose, 
+Grant me the peace Thy love bestows; 
+Smile on my evening hour. 
 
 2.
-Here are symbols to remind us
-of our lifelong need of grace;
-here are table, font and pulpit;
-here the Word has central place.
-Here in honesty of preaching,
-here in silence, as in speech,
-here in newness and renewal,
-God the Spirit comes to each.
+Weary I come to Thee for rest; 
+Hallow and calm my troubled breast; 
+Grant me Thy Spirit for my guest; 
+Smile on my evening hour. 
 
 3.
-Here our children find a welcome
-in the Shepherd’s flock and fold.
-Here, as bread and wine are taken,
-Christ sustains us, as of old.
-Here the servants of the Servant
-seek in worship to explore
-what it means in daily living
-to believe and to adore.
+Let not the gospel seed remain 
+Unfruitful, or be sown in vain; 
+Let heavenly dews descend like rain; 
+Smile on my evening hour. 
 
 4.
-Lord of all, Church and Kingdom,
-in an age of change and doubt,
-keep us faithful to the Gospel,
-help us work your purpose out.
-Here, in this day’s dedication,
-all we have to give, receive:
-we, who cannot live without you,
-we adore you! We believe!
+O Jesus, Lord enthroned on high, 
+Thou hearest the contrite spirit's sigh; 
+Look down on me with pitying eye; 
+Smile on my evening hour. 
+
+5.
+My only intercessor Thou, 
+Mingle Thy fragrant incense now 
+With every prayer and every vow; 
+Smile on my evening hour. 
+
+6.
+And, oh, when time's short course shall end, 
+And death's dark shades around impend, 
+My God, my everlasting Friend, 
+Smile on my evening hour.
+
 ```
 
 - |   -  |

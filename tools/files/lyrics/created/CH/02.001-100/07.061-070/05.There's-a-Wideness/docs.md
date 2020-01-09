@@ -11,29 +11,29 @@ metadata:
 
 ```txt
 1.
-God be with you till we meet again;
-By His counsels guide, uphold you,
-With His sheep securely fold you;
-God be with you till we meet again.
-
+There's a wideness, in God's mercy, 
+Like the wideness of the sea; 
+There's a kindness in His justice, 
+Which is more than liberty. 
 
 2.
-God be with you till we meet again;
-‘Neath His wings securely hide you;
-Daily manna still provide you;
-God be with you till we meet again.
+There is welcome, for the sinner, 
+and more graces for the good; 
+There is mercy, with the Savior, 
+There is healing in His blood. 
 
 3.
-God be with you till we meet again;
-When life’s perils thick confound you;
-Put His arms unfailing round you;
-God be with you till we meet again.
+For the love of God is broader 
+Than the measure of man's mind. 
+And the heart of the Eternal, 
+is most wonderfully kind. 
 
 4.
-God be with you till we meet again;
-Keep love’s banner floating over you,
-Strike death’s threatening wave before you;
-God be with you till we meet again.
+If our love were but more simple, 
+We should take Him at His word; 
+And our lives would be all sunshine, 
+In the sweetness of our Lord.
+
 ```
 
 - |   -  |

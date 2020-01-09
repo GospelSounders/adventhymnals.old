@@ -11,22 +11,29 @@ metadata:
 
 ```txt
 1.
-King of glory, King of peace, I will love Thee;
-And that love may never cease, I will move Thee.
-Thou hast granted my request, Thou hast heard me;
-Thou didst note my working breast, Thou hast spared me.
+Come, O thou Traveler unknown, 
+Whom still I hold but cannot see; 
+My company before is gone, 
+And I am left alone with thee; 
+With thee all night I mean to stay, 
+And wrestle till the break of day. 
 
 2.
-Wherefore with my utmost art I will sing Thee,
-And the cream of all my heart I will bring Thee.
-Though my sins against me cried, Thou didst clear me;
-And alone, when they replied, Thou didst hear me.
+I need not tell thee who I am, 
+My sin and misery declare; 
+Thyself hast called me by my name, 
+Look on thy hands, and read it there; 
+But who, I ask thee, who art thou? 
+Tell me thy name, and tell me now. 
 
 3.
-Seven whole days, not one in seven, I will praise Thee;
-In my heart, though not in heav’n I can raise Thee.
-Small it is, in this poor sort to enroll Thee:
-Ev’n eternity’s too short to extol Thee.
+In vain thou strugglest to get free; 
+I never will unloose my hold; 
+Art thou the Man that died for me? 
+The secret of thy love unfold; 
+Clinging, I will not let thee go, 
+Till I thy name, thy nature know.
+
 ```
 
 - |   -  |

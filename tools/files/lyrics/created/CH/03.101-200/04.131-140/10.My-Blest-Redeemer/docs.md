@@ -11,49 +11,29 @@ metadata:
 
 ```txt
 1.
-Thou didst leave Thy throne
-And Thy kingly crown
-When Thou camest to earth for me;
-But in Bethlehem’s home
-Was there found no room
-For Thy holy nativity.
-
+My blest Redeemer and my Lord, 
+I read my duty in Thy Word; 
+But in Thy life the law appears, 
+Drawn out in living characters. 
 
 2.
-Heaven’s arches rang
-When the angels sang
-Proclaiming Thy royal degree;
-But of lowly birth
-Didst Thou come to earth,
-And in greatest humility.
+What truth and love Thy bosom fill! 
+What zeal to do Thy Father's Will! 
+Such zeal, and truth, and love divine, 
+I would transcribe, and make them mine. 
 
 3.
-The foxes found rest,
-And the birds their nest
-In the shade of the forest tree;
-But Thy couch was the sod,
-O Thou Son of God,
-In the deserts of Galilee.
+Cold mountains and the midnight air 
+Witnessed the fervor of Thy prayer; 
+The desert Thy temptations knew, 
+Thy conflict and Thy victory, too. 
 
 4.
-Thou camest, O Lord,
-With the living word
-That should set Thy people free;
-But with mocking scorn,
-And with crown of thorn,
-They bore Thee to Calvary.
+Be Thou my pattern; make me bear 
+More of Thy gracious image here; 
+Then God, the Judge, shall own my name, 
+Among the followers of the Lamb.
 
-5.
-When the heavens shall ring,
-And the angels sing,
-At Thy coming to victory,
-Let Thy voice call me home,
-Saying, “Yet there is room,
-There is room at My side for thee.”
-
-Refrain:
-My heart shall rejoice, Lord Jesus,
-When Thou comest and callest for me.
 ```
 
 - |   -  |

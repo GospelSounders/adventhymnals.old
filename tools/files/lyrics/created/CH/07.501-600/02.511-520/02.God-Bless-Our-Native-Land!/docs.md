@@ -11,44 +11,31 @@ metadata:
 
 ```txt
 1.
-Just when I need Him, Jesus is near,
-Just when I falter, just when I fear;
-Ready to help me, ready to cheer,
-Just when I need Him most.
-Just when I need Him most,
-Just when I need Him most,
-Jesus is near to comfort and cheer,
-Just when I need Him most.
+God bless our native land! 
+May Heaven's protecting hand 
+Still guard our shore. 
+May peace her power extend, 
+Foe be transformed to friend, 
+And all our rights depend 
+On war no more. 
 
 2.
-Just when I need Him, Jesus is true,
-Never forsaking, all the way through,
-Giving for burdens pleasures anew,
-Just when I need Him most.
-Just when I need Him most,
-Just when I need Him most,
-Jesus is near to comfort and cheer,
-Just when I need Him most.
+May just and righteous laws 
+Uphold the public cause, 
+And bless our name; 
+Home of the brave and free, 
+Stronghold of liberty, 
+We pray that still on thee 
+May rest no stain. 
 
 3.
-Just when I need Him, Jesus is strong,
-Bearing my burdens all the day long;
-For all my sorrow giving a song,
-Just when I need Him most.
-Just when I need Him most,
-Just when I need Him most,
-Jesus is near to comfort and cheer,
-Just when I need Him most.
-
-4.
-Just when I need Him, He is my all,
-Answering when upon Him I call;
-Tenderly watching lest I should fall,
-Just when I need Him most.
-Just when I need Him most,
-Just when I need Him most,
-Jesus is near to comfort and cheer,
-Just when I need Him most.
+And not this land alone, 
+But be Thy mercies known 
+From shore to shore; 
+O that all men would see 
+That they should brothers he, 
+And form one family, 
+The wide world o'er!
 ```
 
 - |   -  |

@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-As birds unto the genial homeland fly,
-The winter’s cold and low’ring skies to flee,
-So seeks my soul Thy gracious presence here
-And finds, O God, its rest and peace in Thee.
+O let me walk with Thee, my God,
+As Enoch walked in days of old;
+Place Thou my trembling hand in Thine,
+And sweet communion with me hold;
+E'en though the path I may not see,
+Yet, Jesus, let me walk with Thee.
 
 2.
-Here at Thy shrine we leave all vexing care,
-For get the disappointment, grief and tear,
-And on the wings of hopeful song and prayer
-We rise, and rising feel Thy Spirit here.
+I cannot, dare not, walk alone;
+The tempest rages in the sky,
+A thousand snares beset my feet,
+A thousand foes are lurking nigh.
+Still Thou the raging of the sea,
+O Master! let me walk with Thee.
 
 3.
-Bless all who spend this night in pain and woe,
-The burdened heart, the fainting, and distressed,
-Thy comfort send to darkened homes bereaved,
-Thy saving help to those by want oppressed.
-
-4.
-Come, Sabbath joy, each trusting heart now fill,
-And blissful peace within our homes abide,
-May thankful praise each grateful heart now thrill,
-And to God’s loving care their lives confide.
+If I may rest my hand in Thine,
+I'll count the joys of earth but loss,
+And firmly, bravely journey on;
+I'll bear the banner of the cross
+Till Zion's glorious gates I see;
+Yet, Savior, let me walk with Thee. 
 ```
 
 - |   -  |

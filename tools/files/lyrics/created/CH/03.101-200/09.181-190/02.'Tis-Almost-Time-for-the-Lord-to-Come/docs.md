@@ -11,32 +11,57 @@ metadata:
 
 ```txt
 1.
-Christ is alive!
-Let Christians sing.
-His cross stands empty to the sky.
-Let streets and homes with praises ring.
-His love in death shall never die.
+'Tis almost time for the Lord to come,
+I hear the people say;
+The stars of heaven are growing dim,
+It must be the breaking of the day.
+
+Refrain:
+O it must be the breaking of the day!
+O it must be the breaking of the day!
+The night is almost gone,
+The day is coming on;
+O it must be the breaking of the day!
 
 2.
-Christ is alive!
-No longer bound
-To distant years in Palestine,
-He comes to claim the here and now
-And conquer every place and time.
+The signs foretold in the sun and moon,
+In earth and sea and sky,
+Aloud proclaim to all mankind,
+The coming of the Master draweth nigh.
+
+Refrain:
+O it must be the breaking of the day!
+O it must be the breaking of the day!
+The night is almost gone,
+The day is coming on;
+O it must be the breaking of the day!
 
 3.
-In every insult,
-rift, and war
-Where color, scorn or wealth divide,
-He suffers still, yet loves the more,
-And lives, though ever crucified.
+It must be time for the waiting church
+To cast her pride away,
+With girded loins and burning lamps,
+To look for the breaking of the day.
+
+Refrain:
+O it must be the breaking of the day!
+O it must be the breaking of the day!
+The night is almost gone,
+The day is coming on;
+O it must be the breaking of the day!
 
 4.
-Christ is alive!
-Ascended Lord
-He rules the world His Father made,
-Till, in the end, His love adored
-Shall be to all on earth displayed.
+Go quickly out in the streets and lanes
+And in the broad highway,
+And call the maimed, the halt, and blind,
+To be ready for the breaking of the day.
+
+Refrain:
+O it must be the breaking of the day!
+O it must be the breaking of the day!
+The night is almost gone,
+The day is coming on;
+O it must be the breaking of the day!
+
 ```
 
 - |   -  |

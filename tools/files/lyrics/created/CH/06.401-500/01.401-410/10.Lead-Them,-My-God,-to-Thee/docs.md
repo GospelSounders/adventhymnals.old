@@ -10,23 +10,7 @@ metadata:
 ## 410. LEAD THEM, MY GOD, TO THEE
 
 ```txt
-1.
-Thy broken body, gracious Lord,
-Is shadowed by this broken bread;
-The wine which in this cup is poured,
-Points to the blood which Thou hast shed.
 
-2.
-And while we meet together thus,
-We show that we are one in Thee;
-Thy precious blood was shed for us,
-Thy death, O Lord, hast set us free!
-
-3.
-We have one hope that Thou wilt come,
-Thee in the air we wait to see;
-When Thou wilt give Thy saints a home,
-And we shall ever reign with Thee.
 ```
 
 - |   -  |
@@ -41,9 +25,9 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| ROBINSON |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Christian Home: Home and Children |
 Texts |  |
 Print Texts | 

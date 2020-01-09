@@ -18,7 +18,6 @@ const lineReader = require('readline').createInterface({
 
 
 let filepaths = [];
-
 let startNumber = 1;
 let endNumber = 703;
 ////////////////////////////////////// first create folder structure...
@@ -293,6 +292,8 @@ Scripture Song |  |
     fs.mkdirSync(path.join(__dirname, "files", "lyrics", "created", "CH", filePath))
   } catch (error) {}
   filepaths.push(path.join(__dirname, "files", "lyrics", "created", "CH", filePath, 'docs.md'))
+
+
 //   console.log(path.join(__dirname, "files", "lyrics", "created", "CH", filePath, 'docs.md'))
 //   fs.writeFileSync(path.join(__dirname, "files", "lyrics", "created", "CH", filePath, 'docs.md'), fileTxt)
 

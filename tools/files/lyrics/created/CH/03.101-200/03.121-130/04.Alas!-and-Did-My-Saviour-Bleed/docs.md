@@ -11,22 +11,35 @@ metadata:
 
 ```txt
 1.
-Away in a manger, no crib for a bed,
-The little Lord Jesus laid down his sweet head.
-The stars in the sky looked down where he lay,
-The little Lord Jesus asleep in the hay.
+Alas! and did my Savior bleed? 
+And did my Sovereign die? 
+Would He devote that sacred head 
+For sinners such as I? 
 
 2.
-The cattle are lowing, the baby awakes,
-But little Lord Jesus no crying he makes.
-I love Thee, Lord Jesus, look down from the sky
-And stay by my cradle til morning is nigh.
+Was it for crimes that I have done, 
+He groaned upon the tree? 
+Amazing pity! grace unknown! 
+And love beyond degree! 
 
 3.
-Be near me, Lord Jesus, I ask Thee to stay
-Close by me forever, and love me, I pray.
-Bless all the dear children in thy tender care,
-And take us to heaven, to live with Thee there.
+Well might the sun in darkness hide, 
+And shut its glories in, 
+When Christ, the mighty Maker, died 
+For man, the creature's sin. 
+
+4.
+Thus might I hide my blushing face, 
+While His dear cross appears, 
+Dissolve my heart in thankfulness, 
+And melt mine eyes to tears. 
+
+5.
+But drops of grief can ne'er repay 
+The debt of love I owe; 
+Here, Lord, I give myself away; 
+'Tis all that I can do.
+
 ```
 
 - |   -  |

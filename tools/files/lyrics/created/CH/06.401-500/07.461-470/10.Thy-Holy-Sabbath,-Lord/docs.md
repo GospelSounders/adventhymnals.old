@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-There’s sunshine in my soul today,
-More glorious and bright
-Than glows in any earthly sky,
-For Jesus is my light.
-
+Thy holy Sabbath, Lord, 
+Thy people hail with joy; 
+And while we wait to hear Thy word, 
+Let praise our hearts employ. 
 
 2.
-There’s music in my soul today,
-A carol to my King,
-And Jesus, listening, can hear
-The songs I cannot sing.
+With sweet delight the day 
+That Thou hast called Thine own 
+We hail, and all our homage pay 
+To Thine exalted throne. 
 
 3.
-There’s springtime in my soul today,
-For when the Lord is near,
-The dove of peace sings in my heart,
-The flowers of grace appear.
+O may Thy saints be blessed! 
+Assist us while we pray; 
+May we enjoy a holy rest, 
+And keep the sacred day. 
 
 4.
-Theres gladness in my soul today,
-And hope, and praise, and love,
-For blessings which He gives me now,
-For joys “laid up” above.
+When Sabbaths here shall end, 
+And from these courts we move, 
+May we an endless Sabbath spend 
+In heavenly courts above.
 ```
 
 - |   -  |

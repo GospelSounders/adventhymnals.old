@@ -11,23 +11,32 @@ metadata:
 
 ```txt
 1.
-I would be, dear Savior, wholly Thine;
-Teach me how, teach me how;
-I would do Thy will, O Lord, not mine;
-Help me, help me now.
-
+Here We've no abiding city here; 
+Sad truth, were this to be our home; 
+But let this thought our spirits cheer, 
+We seek a city yet to come, 
+We seek a city yet to come. 
 
 2.
-What is worldly pleasure, wealth or fame,
-Without Thee, without Thee?
-I will leave them all for Thy dear Name,
-This my wealth shall be.
+We've no abiding city here, 
+We seek a city out of sight; 
+Zion its name'the Lord is there' 
+It shines with everlasting light, 
+It shines with everlasting light. 
 
 3.
-As I cast earth’s transient joys behind,
-Come Thou near, come Thou near;
-In Thy presence all in all I find,
-’Tis my comfort here.
+O sweet abode of peace and love, 
+Where pilgrims, freed from toil, are blest! 
+Had I the pinions of a dove, 
+I'd fly to thee, and be at rest, 
+I'd fly to thee, and be at rest. 
+
+4.
+But hush, my soul! nor dare repine; 
+The time my God appoints is best; 
+While here, to do His will be mine, 
+And His to fix my time of rest, 
+And His to fix my time of rest.
 ```
 
 - |   -  |

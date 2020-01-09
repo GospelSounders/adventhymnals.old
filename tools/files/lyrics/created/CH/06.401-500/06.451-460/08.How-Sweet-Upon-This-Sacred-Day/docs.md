@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-More love to thee, O Christ, more love to thee!
-Hear thou the prayer I make on bended knee.
-This is my earnest plea: More love, O Christ, to thee;
-more love to thee, more love to thee!
+How sweet upon this sacred day, 
+The best of all the seven, 
+To cast our earthly thoughts away, 
+And think of God and heaven! 
 
 2.
-Once earthly joy I craved, sought peace and rest;
-now thee alone I seek, give what is best.
-This all my prayer shall be: More love, O Christ, to thee;
-more love to thee, more love to thee!
+How sweet to be allowed to pray, 
+Our sins may be forgiven! 
+With filial confidence to say, 
+"Father, who art in heaven!" 
 
 3.
-Let sorrow do its work, come grief and pain;
-sweet are thy messengers, sweet their refrain,
-when they can sing with me: More love, O Christ, to thee;
-more love to thee, more love to thee!
+How sweet the words of peace to hear 
+From Him to whom 'tis given 
+To wake the penitential tear, 
+And lead the way to heaven! 
 
 4.
-Then shall my latest breath whisper thy praise;
-this be the parting cry my heart shall raise;
-this still its prayer shall be: More love, O Christ, to thee;
-more love to thee, more love to thee!
+And if, to make our sins depart, 
+In vain the will has striven, 
+He who regards the inmost heart 
+Will send his grace from heaven.
 ```
 
 - |   -  |

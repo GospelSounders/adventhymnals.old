@@ -11,23 +11,41 @@ metadata:
 
 ```txt
 1.
-For beauty of meadows, for grandeur of trees,
-For flowers of woodlands, for creatures of seas,
-For all You created and gave us to share,
-We praise You,
-Creator, extolling your care.
+Come, we that love the Lord,
+And let our joys be known;
+Join in a song with sweet accord,
+Join in a song with sweet accord,
+And thus surround the throne,
+And thus surround the throne.
+CHORUS:
+We're marching to Zion,
+Beautiful, beautiful Zion;
+We're marching upward to Zion,
+The beautiful city of God.
 
 2.
-As stewards of beauty received at Your hand,
-As creatures who hear Your most urgent command,
-We turn from our wasteful destruction of life,
-Confessing our failures, confessing our strife.
+Let those refuse to sing
+Who never knew our God;
+But children of the heav'nly King,
+But children of the heav'nly King
+May speak their joys abroad,
+May speak their joys abroad.
 
 3.
-Teach us once again to be gardeners in peace;
-All nature around us is ours but on lease;
-Your name we would hallow in all that we do,
-Fulfilling our calling, creating with You.
+The hill of Zion yields
+A thousand sacred sweets
+Before we reach the heav'nly fields,
+Before we reach the heav'nly fields
+Or walk the golden streets,
+Or walk the golden streets.
+
+4.
+Then let our songs abound
+And ev'ry tear be dry;
+We're marching thru Immanuel's ground,
+We're marching thru Immanuel's ground
+To fairer worlds on high,
+To fairer worlds on high.
 ```
 
 - |   -  |

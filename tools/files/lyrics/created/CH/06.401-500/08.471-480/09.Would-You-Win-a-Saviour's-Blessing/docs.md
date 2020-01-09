@@ -11,21 +11,34 @@ metadata:
 
 ```txt
 1.
-Be silent, be silent, A whisper is heard;
-Be silent, and listen, Oh treasure each word.
-
+Would you win a Saviour's blessing? 
+Freely, freely give; 
+Would you see His work progressing? 
+Freely, freely give; 
+Let your souls with love expand, 
+Open wide a liberal hand; 
+Would you follow God's command? 
+Freely, freely give. 
 
 2.
-Be silent, be silent, For holy this place,
-This altar that echoes The message of grace.
+With a cheerful heart and willing, 
+Freely, freely give; 
+Like the dew its balm distilling, 
+Freely, freely give; 
+Have you little? Give your mite; 
+O how precious in His sight! 
+He your offering will requite; 
+Freely, freely give. 
 
 3.
-Be silent, be silent, Breathe humbly our prayer;
-A foretaste of Eden This moment we share.
-
-4.
-Be silent, be silent, His mercy record;
-Be silent, be silent, And wait on the Lord.
+Give to spread the grand old story, 
+Freely, freely give; 
+Give to speed the light of glory. 
+Freely, freely give; 
+Would you gain a rich reward 
+In the harvest of the Lord, 
+Then obedient to His word. 
+Freely, freely give.
 ```
 
 - |   -  |

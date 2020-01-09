@@ -11,44 +11,37 @@ metadata:
 
 ```txt
 1.
-Open now thy gates of beauty,
-Zion, let me enter there,
-Where my soul in joyful duty
-Waits for God Who answers prayer.
-Oh, how blessèd is this place,
-Filled with solace, light, and grace!
+The sun is on the land and sea, 
+The day begun; 
+Our morning hymn begins with Thee, 
+Blest Three in One: 
+Our praise shall rise continually 
+Till day is done. 
 
 2.
-Gracious God, I come before Thee,
-Come Thou also unto me;
-Where we find Thee and adore Thee,
-There a heav’n on earth must be.
-To my heart, oh, enter Thou,
-Let it be Thy temple now!
+Thy love was ever in our view, 
+Like stars, by night; 
+Thy gifts are ev'ry morning new, 
+O God of light; 
+Thy mercy, like the heavens' blue, 
+Fills all our sight. 
 
 3.
-Here Thy praise is gladly chanted,
-Here Thy seed is duly sown;
-Let my soul, where it is planted,
-Bring forth precious sheaves alone,
-So that all I hear may be
-Fruitful unto life in me.
+We do not know what grief or care 
+The day may bring: 
+The heart shall find some gladness there 
+That loves its King; 
+The life that serves Thee ev'rywhere 
+Can always sing. 
 
 4.
-Thou my faith increase and quicken,
-Let me keep Thy gift divine,
-Howsoe’er temptations thicken;
-May Thy Word still o’er me shine
-As my guiding star through life,
-As my comfort in my strife.
+All glory to the Father be, 
+With Christ the Son, 
+And, Holy Spirit, unto Thee, 
+Forever One; 
+All glory to the Trinity 
+While ages run.
 
-5.
-Speak, O God, and I will hear Thee,
-Let Thy will be done indeed;
-May I undisturbed draw near Thee
-While Thou dost Thy people feed.
-Here of life the fountain flows;
-Here is balm for all our woes.
 ```
 
 - |   -  |

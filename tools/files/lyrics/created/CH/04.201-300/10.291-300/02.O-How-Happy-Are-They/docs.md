@@ -11,44 +11,44 @@ metadata:
 
 ```txt
 1.
-Out of my bondage, sorrow and night,
-Jesus, I come, Jesus, I come;
-Into Thy freedom, gladness and light,
-Jesus, I come to Thee;
-Out of my sickness into Thy health,
-Out of my want and into Thy wealth,
-Out of my sin and into Thyself,
-Jesus, I come to Thee.
+O how happy are they 
+Who their Saviour obey, 
+And have laid up their treasure above! 
+Tongue can never express 
+The sweet comfort and peace 
+Of a soul in its earliest love. 
 
 2.
-Out of my shameful failure and loss,
-Jesus, I come, Jesus, I come;
-Into the glorious gain of Thy cross,
-Jesus, I come to Thee;
-Out of earth’s sorrows into Thy balm,
-Out of life’s storms and into Thy calm,
-Out of distress to jubilant psalm,
-Jesus, I come to Thee.
+That sweet comfort is mine, 
+Since the favor divine 
+I received through the blood of the Lamb; 
+Since my heart first believed. 
+What a joy I've received, 
+What a heaven in Jesus' dear name! 
 
 3.
-Out of unrest and arrogant pride,
-Jesus, I come, Jesus, I come;
-Into Thy blessed will to abide,
-Jesus, I come to Thee;
-Out of myself to dwell in Thy love,
-Out of despair into raptures above,
-Upward for aye on wings like a dove,
-Jesus, I come to Thee.
+'Tis a heaven below 
+My Redeemer to know; 
+And the angels can do nothing more 
+Than to fall at His feet, 
+And the story repeat, 
+And the Lover of sinners adore. 
 
 4.
-Out of the fear and dread of the tomb,
-Jesus, I come, Jesus, I come;
-Into the joy and light of Thy home,
-Jesus, I come to Thee;
-Out of the depths of ruin untold,
-Into the peace of Thy sheltering fold,
-Ever Thy glorious face to behold,
-Jesus, I come to Thee.
+Jesus all the day long 
+Is my joy and my song; 
+O that all to this refuge might fly! 
+He hath loved me, indeed, 
+He did suffer and bleed, 
+To redeem such a rebel as I. 
+
+5.
+On the wings of His love, 
+I am carried above 
+All my sin, and temptation, and pain; 
+O, that all would believe, 
+And by sin never grieve, 
+And thus cause Him to suffer again.
 ```
 
 - |   -  |

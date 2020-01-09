@@ -11,28 +11,43 @@ metadata:
 
 ```txt
 1.
-Happy the home when God is there,
-and love fills every breast;
-when one their wish, and one their prayer,
-and one their heavenly rest.
+Give me the Bible,
+Star of gladness gleaming,
+To cheer the wanderer
+Lone and tempest tossed,
+No storm can hide that
+Peaceful radiance beaming
+Since Jesus came
+To seek and save the lost.
+CHORUS:
+Give me the Bible--
+Holy message shining,
+Thy light shall guide me
+In the narrow way.
+Precept and promise,
+Law and love combining,
+'Til night shall vanish
+In eternal day.
 
 2.
-Happy the home where Jesus’ name
-is sweet to every ear;
-where children early speak his fame,
-and parents hold him dear.
+Give me the Bible
+When my heart is broken,
+When sin and grief have
+Filled my soul with fear,
+Give me the precious
+Words by Jesus spoken,
+Hold up faith's lamp
+To show my Savior near.
 
 3.
-Happy the home where prayer is heard,
-and praise is wont to rise;
-where parents love the sacred Word
-and all its wisdom prize.
-
-4.
-Lord, let us in our homes agree
-this blessed peace to gain;
-unite our hearts in love to thee,
-and love to all will reign.
+Give me the Bible,
+All my steps enlighten,
+Teach me the danger
+Of these realms below,
+That lamp of safety,
+O'er the gloom shall brighten,
+That light alone
+The path of peace can show.
 ```
 
 - |   -  |

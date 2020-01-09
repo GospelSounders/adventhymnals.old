@@ -11,34 +11,37 @@ metadata:
 
 ```txt
 1.
-The God of Abraham praise,
-Who reigns enthroned above;
-Ancient of everlasting days,
-And God of love;
-Jehovah! Great I AM!
-By earth and heaven confessed;
-I bow and bless the sacred name,
-Forever blest.
+The Lord Jehovah reigns, 
+His throne is built on high; 
+The garments He assumes 
+Are light and majesty. 
+His glories shine with beams so bright 
+No mortal eye can bear the sight. 
 
 2.
-The God of Abraham praise,
-At whose supreme command
-From earth I rise, and seek the joys
-At His right hand;
-I all on earth forsake,
-Its wisdom, fame and power;
-And Him my only portion make,
-My shield and tower.
+The thunders of His hand 
+Keep the wide world in awe; 
+His wrath and justice stand 
+To guard His holy law. 
+And where His love resolves to bless, 
+His truth confirms and seals the grace. 
 
 3.
-The whole triumphant host
-Give thanks to God on high;
-“Hail, Father, Son, and Holy Ghost!”
-They ever cry;
-Hail, Abraham’s God and mine!
-I join the heavenly lays;
-All might and majesty are Thine,
-And endless praise.
+Through all His mighty works 
+Amazing wisdom shines; 
+Confounds the powers of hell, 
+And all their designs. 
+Strong is His arm, and shall fulfill 
+His great decrees and sovereign will. 
+
+4.
+And will this sovereign King 
+Of glory condescend, 
+And will He write His name 
+My father and my Friend? 
+I love His name, I love His word; 
+Join all my powers to praise the Lord!
+
 ```
 
 - |   -  |

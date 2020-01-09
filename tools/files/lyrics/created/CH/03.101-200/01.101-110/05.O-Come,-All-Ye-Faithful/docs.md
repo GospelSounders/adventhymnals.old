@@ -11,25 +11,26 @@ metadata:
 
 ```txt
 1.
-Sing to the great Jehovah’s praise!
-All praise to Him belongs;
-Who kindly lengthens out our days,
-In spires our choicest songs,
-Inspires our choicest songs.
+O come, all ye faithful, joyful and triumphant,
+O come ye, O come ye to Bethlehem!
+Come and behold Him, born the King of angels!
+O come, let us adore Him, O come, let us adore Him,
+O come, let us adore Him, Christ, the Lord!
 
 2.
-His providence hath brought us through
-Another various year;
-We all, with vows and anthems new,
-Before our God appear,
-Before our God appear.
+Sing, choirs of angels sing in exultation,
+O sing all ye citizens of heaven above!
+Glory to God, all glory in the highest!
+O come, let us adore Him, O come, let us adore Him,
+O come, let us adore Him, Christ, the Lord!
 
 3.
-O God, Thy mercies past we own,
-And Thy continued care;
-To Thee presenting through Thy Son
-What e’er we have and are,
-What e’er we have and are.
+Yea, Lord, we greet Thee, born this happy morning,
+Jesus, to Thee be all glory given;
+Word of the Father, now in flesh appearing!
+O come, let us adore Him, O come, let us adore Him,
+O come, let us adore Him, Christ, the Lord!
+
 ```
 
 - |   -  |

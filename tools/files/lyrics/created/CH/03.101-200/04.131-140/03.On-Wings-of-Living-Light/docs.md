@@ -11,16 +11,53 @@ metadata:
 
 ```txt
 1.
-He was born in a stable bare,
-On bed of straw how He sleeps so soundly,
-He was born in a stable bare,
-Let us worship and to Him bow.
+On wings of living light 
+At earliest dawn of day, 
+Came down the angel bright 
+And rolled the stone away. 
+
+Refrain:
+Lift up your heart, lift up your voice; 
+Rejoice; again I say, Rejoice. 
+Your voices raise with one accord 
+To bless and praise your risen Lord. 
 
 2.
-Ages long since are past and gone,
-When the wise men foretold His coming,
-Ages long since are past and gone,
-When the wise men foretold His birth.
+The keepers watching near, 
+At that dread sight and sound 
+Fell down with sudden fear, 
+Like dead men to the ground. 
+
+Refrain:
+Lift up your heart, lift up your voice; 
+Rejoice; again I say, Rejoice. 
+Your voices raise with one accord 
+To bless and praise your risen Lord. 
+
+3.
+Then rose from death's dark gloom, 
+With angels standing by, 
+Triumphant o'er the tomb, 
+The Lord of earth and sky. 
+
+Refrain:
+Lift up your heart, lift up your voice; 
+Rejoice; again I say, Rejoice. 
+Your voices raise with one accord 
+To bless and praise your risen Lord. 
+
+4.
+Ye children of the light, 
+Arise with Him, arise; 
+See, how the Day-star bright 
+Is burning in the skies!
+
+Refrain:
+Lift up your heart, lift up your voice; 
+Rejoice; again I say, Rejoice. 
+Your voices raise with one accord 
+To bless and praise your risen Lord. 
+
 ```
 
 - |   -  |

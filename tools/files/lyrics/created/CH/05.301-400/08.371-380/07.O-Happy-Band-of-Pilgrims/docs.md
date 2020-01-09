@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-Go forth, go forth with Christ,
-Who called you to this day,
-He who has led, will lead
-And keep you in His way:
-His word is fast, His promise sure
-To all who serve Him and endure.
+O happy band of pilgrims,
+If onward ye will tread
+With Jesus as your fellow,
+To Jesus as your Head!
 
 2.
-Go forth, go forth with Christ,
-With purpose not your own,
-Each vict’ry you shall gain
-Through Him your Lord alone:
-To guard you in fidelity
-His Spirit shall your strength’ner be.
+O happy if ye labor
+As Jesus did for men;
+O happy if ye hunger
+As Jesus hungered then!
 
 3.
-Go forth, go forth with Christ,
-His Priesthood you shall share,
-Who bought us by His blood
-To be His servants here:
-Walk in the way your Savior trod,
-Go forth with Him, go forth with God.
+The trials that beset you,
+The sorrows ye endure,
+The manifold temptations
+That death alone can cure,
+
+4.
+What are they but His jewels
+Of right celestial worth?
+What are they but the ladder
+Set up to heaven on earth?
+
+5.
+O happy band of pilgrims,
+Look upward to the skies,
+Where such a light affliction
+Shall win you such a prize!
 ```
 
 - |   -  |

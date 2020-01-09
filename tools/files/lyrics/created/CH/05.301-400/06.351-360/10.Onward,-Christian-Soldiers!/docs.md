@@ -11,28 +11,31 @@ metadata:
 
 ```txt
 1.
-From the eastern mountains Pressing on they come,
-Wise men in their wisdom, To His humble home;
-Stirred by deep devotion, Hasting from afar,
-Ever journeying onward, Guided by a star.
+Onward, Christian soldiers, Marching as to war,
+With the cross of Jesus Going on before.
+Christ, the royal Master, Leads against the foe;
+Forward into battle see His banners go!
+CHORUS:
+Onward, Christian soldiers, Marching as to war,
+With the cross of Jesus Going on before.
 
 2.
-There their Lord and Savior Meek and lowly,
-Wondrous light that led them Onward on their way,
-Ever now to lighten Nations from afar,
-As they journey homeward By that guiding star.
+Like a mighty army Moves the church of God;
+Brothers, we are treading Where the saints have trod.
+We are not divided, All one body we,
+One in hope and doctrine, One in charity.
 
 3.
-Gather in the outcasts All who’ve gone astray,
-Throw Thy radiance o’er them, Guide them on their way;
-Those who never knew Thee, Those who’ve wandered far,
-Guide them by the brightness Of Thy guiding star.
+Crowns and thrones may perish, Kingdoms rise and wane,
+But the church of Jesus Constant will remain.
+Gates of hell can never 'Gainst that church prevail;
+We have Christ's own promise, That can never fail.
 
 4.
-Until every nation, Whether bond or free,
-‘Neath Thy starlit banner, Jesus follows thee.
-O’er the distant mountains To that heavenly home,
-Where no sin nor sorrow Evermore shall come.
+Onward then, ye people, Join our happy throng,
+Blend with ours your voices In the triumph song.
+Glory, laud, and honor Unto Christ the King,
+This through countless ages Men and angels sing.
 ```
 
 - |   -  |

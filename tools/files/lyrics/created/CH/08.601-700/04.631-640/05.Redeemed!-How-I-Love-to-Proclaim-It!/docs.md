@@ -11,22 +11,65 @@ metadata:
 
 ```txt
 1.
-Lord of all good, our gifts we bring You now;
-Use them Your holy purpose to fulfill.
-Tokens of love and pledges they shall be
-That our whole life is offered to Your will.
+Redeemed! how I love to proclaim it! 
+Redeemed by the blood of the Lamb; 
+Redeemed through His infinite mercy, 
+His child, and forever, I am. 
+
+Refrain:
+Redeemed, redeemed, 
+Redeemed by the blood of the Lamb; 
+Redeemed, redeemed, 
+His child, and forever, I am. 
 
 2.
-We give our minds to understand Your ways;
-Hands, voices, eyes to serve Your great design;
-Hearts with the flame of your own love ablaze:
-Thus for Your glory all our pow’rs combine.
+Redeemed! and so happy in Jesus! 
+No language my rapture can tell; 
+I know that the light of His presence 
+With me doth continually dwell. 
+
+Refrain:
+Redeemed, redeemed, 
+Redeemed by the blood of the Lamb; 
+Redeemed, redeemed, 
+His child, and forever, I am. 
 
 3.
-Father, whose bounty all creation shows;
-Christ, by whose willing sacrifice we live;
-Spirit, from whom all life in fullness flows:
-To You with grateful hearts ourselves we give.
+I think of my blessed Redeemer, 
+I think of Him all the day long; 
+I sing, for I cannot be silent; 
+His love is the theme of my song. 
+
+Refrain:
+Redeemed, redeemed, 
+Redeemed by the blood of the Lamb; 
+Redeemed, redeemed, 
+His child, and forever, I am. 
+
+4.
+I know I shall see in His beauty 
+The King in whose law I delight, 
+Who lovingly guardeth my footsteps, 
+And giveth me songs in the night. 
+
+Refrain:
+Redeemed, redeemed, 
+Redeemed by the blood of the Lamb; 
+Redeemed, redeemed, 
+His child, and forever, I am. 
+
+5.
+I know there's a crown that is waiting, 
+In yonder bright mansion for me; 
+And soon, with the spirits made perfect, 
+At home with the Lord I shall be.
+
+Refrain:
+Redeemed, redeemed, 
+Redeemed by the blood of the Lamb; 
+Redeemed, redeemed, 
+His child, and forever, I am. 
+
 ```
 
 - |   -  |

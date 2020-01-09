@@ -11,16 +11,44 @@ metadata:
 
 ```txt
 1.
-There is a quiet place,
-Far from the rapid pace where God can soothe my troubled mind.
-Sheltered by tree and flow’r,
-There in my quiet hour with Him my cares are left behind.
-Whether a garden small,
-Or on a mountain tall,
-New strength and courage there I find;
-Then from this quiet place
-I go prepared to face a new day
-With love for all mankind.
+Skies O beautiful for spacious skies, 
+For amber waves of grain, 
+For purple mountain majesties 
+Above the fruited plain! 
+America! America! 
+God shed His grace on thee, 
+And crown thy good with brotherhood 
+From sea to shining sea. 
+
+2.
+O beautiful for pilgrim feet, 
+Whose stern, impassioned stress 
+A thoroughfare for freedom beat 
+Across the wilderness! 
+America! America! 
+God mend thine every flaw, 
+Confirm thy soul in self-control, 
+Thy liberty in law. 
+
+3.
+O beautiful for heroes proved 
+In liberating strife, 
+Who more than self their country loved, 
+And mercy more than life! 
+America! America! 
+May God thy gold refine, 
+Till all success be nobleness, 
+And every gain divine. 
+
+4.
+O beautiful for patriot dream 
+That sees, beyond the years, 
+Thine alabaster cities gleam, 
+Undimmed by human tears! 
+America! America! 
+God shed His grace on thee, 
+And crown thy good with brotherhood 
+From sea to shining sea.
 ```
 
 - |   -  |

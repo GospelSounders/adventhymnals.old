@@ -11,28 +11,44 @@ metadata:
 
 ```txt
 1.
-Faith of our fathers, living still,
-In spite of dungeon, fire and sword;
-O how our hearts beat high with joy
-Whenever we hear that glorious Word!
-Faith of our fathers, holy faith!
-We will be true to thee till death.
+Glorious things of thee are spoken,
+Zion, city of our God;
+He whose word cannot be broken
+Formed thee for His own abode;
+On the Rock of Ages founded,
+What can shake thy sure repose?
+With salvation's wall surrounded,
+Thou mayest smile at all thy foes.
 
 2.
-Our fathers, chained in prisons dark,
-Were still in heart and conscience free:
-How sweet would be their children’s fate.
-If they, like them, could die for thee!
-Faith of our fathers, holy faith!
-We will be true to thee till death.
+See the streams of living waters
+Springing from eternal love,
+Well supply thy sons and daughters,
+And all fear and want remove;
+Who can faint when such a river
+Ever flows their thirst to assuage?
+Grace, which, like the Lord, the Giver,
+Never fails from age to age.
 
 3.
-Faith of our fathers, we will love
-Both friend and foe in all our strife;
-And preach Thee, too, as love knows how
-By kindly words and virtuous life.
-Faith of our fathers, holy faith!
-We will be true to thee till death.
+Round each habitation hovering,
+See the cloud and fire appear
+For a glory and a covering,
+Showing that the Lord is near;
+Blest inhabitants of Zion,
+Washed in the Redeemer's blood;
+Jesus, whom their souls rely on,
+Makes them kings and priests to God.
+
+4.
+Savior, if of Zion's city
+I, through grace, a member am,
+Let the world deride or pity,
+I will glory in Thy name;
+Fading is the worldling's pleasure,
+All his boasted pomp and show;
+Solid joys and lasting treasure
+None but Zion's children know.
 ```
 
 - |   -  |

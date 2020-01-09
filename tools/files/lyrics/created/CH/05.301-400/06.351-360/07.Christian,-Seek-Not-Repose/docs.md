@@ -11,25 +11,24 @@ metadata:
 
 ```txt
 1.
-Come, labor on.
-Who dares stand idle on the harvest plain
-While all around him waves the golden grain?
-And to each servant does the Master say,
-“Go work today.”
+Christian, seek not yet repose, Cast thy dreams of ease away;
+Thou art in the midst of foes; Watch and pray!
 
 2.
-Come, labor on.
-Claim the high calling angels cannot share;
-To young and old the gospel gladness bear;
-Redeem the time; its hours too swiftly fly.
-The night draws nigh.
+Gird thy heavenly armor on, Wear it ever, night and day;
+Ambushed lies the evil one; Watch and pray!
 
 3.
-Come, labor on.
-No time for rest; till glows the western sky,
-Till the long shadows oér our pathway lie,
-And a glad sound comes with the setting sun,
-“Well done, well done!”
+Hear the victors who o'ercame; Still they mark each warrior's way;
+All with one sweet voice exclaim: Watch and pray!
+
+4.
+Hear, above all, hear thy Lord, Him thou lovest to obey;
+Hide within thy heart His word; Watch and pray!
+
+5.
+Watch, as if on that alone Hung the issue of the day;
+Pray that help may be sent down; Watch and pray!
 ```
 
 - |   -  |

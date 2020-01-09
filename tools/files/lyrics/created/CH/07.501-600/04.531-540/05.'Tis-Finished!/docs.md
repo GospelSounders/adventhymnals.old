@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-I am trusting Thee, Lord Jesus,
-Trusting only Thee;
-Trusting Thee for full salvation,
-Great and free.
+"'Tis finished!" so the Saviour cried, 
+And meekly bowed His head, and died; 
+'Tis finished! yes, the race is run, 
+The battle fought, the victory won. 
 
 2.
-I am trusting Thee for pardon;
-At Thy feet I bow;
-For Thy grace and tender mercy,
-Trusting now.
+'Tis finished! that which heaven foretold 
+By prophets in the days of old; 
+And truths are opened to our view 
+That kings and prophets never knew.
 
 3.
-I am trusting Thee to guide me;
-Thou alone shalt lead;
-Every day and hour supplying
-All my need.
+'Tis finished! Son of God, Thy power 
+Hath triumphed in this awful hour; 
+And yet our eyes with sorrow see 
+That life to us was death to Thee.
 
 4.
-I am trusting Thee, Lord Jesus;
-Never let me fall;
-I am trusting Thee forever,
-And for all.
+'Tis finished! let the joyful sound 
+Be heard through all the nations round; 
+'Tis finished! let the triumph rise, 
+And swell the chorus of the skies!
 ```
 
 - |   -  |

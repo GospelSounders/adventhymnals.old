@@ -11,28 +11,41 @@ metadata:
 
 ```txt
 1.
-Jesus, Savior, pilot me
-over life’s tempestuous sea;
-unknown waves before me roll,
-hiding rock and treacherous shoal.
-Chart and compass come from thee;
-Jesus, Savior, pilot me.
+There's a land that is fairer than day, 
+And by faith we can see it afar; 
+For the Father waits over the way 
+To prepare us a dwelling place there. 
+
+Refrain:
+In the sweet by and by, 
+We shall meet on that beautiful shore; 
+In the sweet by and by, 
+We shall meet on that beautiful shore. 
 
 2.
-As a mother stills her child,
-thou canst hush the ocean wild;
-boisterous waves obey thy will,
-when thou sayest to them, “Be still!”
-Wondrous sovreign of the sea,
-Jesus, Savior, pilot me.
+We shall sing on that beautiful shore 
+The melodious songs of the blessed; 
+And our spirits shall sorrow no more, 
+Not a sigh for the blessing of rest. 
+
+Refrain:
+In the sweet by and by, 
+We shall meet on that beautiful shore; 
+In the sweet by and by, 
+We shall meet on that beautiful shore. 
 
 3.
-When at last I near the shore,
-and the fearful breakers roar
-‘twixt me and the peaceful rest,
-then, while leaning on thy breast,
-may I hear thee say to me,
-“Fear not, I will pilot thee.
+To our bountiful Father above, 
+We will offer our tribute of praise 
+For the glorious gift of His love 
+And the blessings that hallow our days.
+
+Refrain:
+In the sweet by and by, 
+We shall meet on that beautiful shore; 
+In the sweet by and by, 
+We shall meet on that beautiful shore. 
+
 ```
 
 - |   -  |

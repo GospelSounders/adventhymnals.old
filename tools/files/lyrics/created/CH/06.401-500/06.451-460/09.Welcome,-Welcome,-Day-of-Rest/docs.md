@@ -11,32 +11,28 @@ metadata:
 
 ```txt
 1.
-As the bridegroom to His chosen,
-As the king to His realm,
-As the keep unto the castle,
-As the pilot to the helm,
-So, Lord, art Thou to me.
+Welcome, welcome, day of rest, 
+To the world in kindness given;
+Welcome to this humble breast,
+As the beaming light from heaven.
 
 2.
-As the fountain in the garden,
-As the candle in the dark,
-As the treasure in the coffer,
-As the manna in the ark,
-So, Lord, art Thou to me.
+Day of calm and sweet repose,
+Gently now thy moments run;
+Balm to soothe our cares and woes,
+Till our labor here is done.
 
 3.
-As the ruby in the setting,
-As the honey in the comb,
-As the light within the lantern,
-As the father in the home,
-So, Lord, art Thou to me.
+Holy day that most we prize,
+Day of solemn praise and prayer,
+Day to make the simple wise,
+O, how great thy blessings are!
 
 4.
-As the sunshine in the heavens,
-As the image in the glass,
-As the fruits up in the fig tree,
-As the dew upon the grass,
-So, Lord, art Thou to me.
+Welcome, welcome, day of rest,
+With thy influence all divine;
+May thy hallowed hours be blessed
+To this waiting heart of mine.
 ```
 
 - |   -  |

@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Jesus, lover of my soul, let me to Thy bosom fly,
-While the nearer waters roll, while the tempest still is high.
-Hide me, O my Savior, hide, till the storm of life is past;
-Safe into the haven guide; O receive my soul at last.
+How vain is all beneath the skies! 
+How transient every earthly bliss! 
+How slender all the fondest ties 
+That bind us to a world like this! 
 
 2.
-Other refuge have I none, hangs my helpless soul on Thee;
-Leave, ah! leave me not alone, still support and comfort me.
-All my trust on Thee is stayed, all my help from Thee I bring;
-Cover my defenseless head with the shadow of Thy wing.
+The evening cloud, the morning dew, 
+The withering grass, the fading flower, 
+Of earthly hopes are emblems true' 
+The glory of a passing hour. 
 
 3.
-Thou, O Christ, art all I want, more than all in Thee I find;
-Raise the fallen, cheer the faint, heal the sick, and lead the blind.
-Just and holy is Thy Name, I am all unrighteousness;
-False and full of sin I am; Thou art full of truth and grace.
+But though earth's fairest blossoms die, 
+And all beneath the skies is vain, 
+There is a land whose confines lie 
+Beyond the reach of care and pain. 
 
 4.
-Plenteous grace with Thee is found, grace to cover all my sin;
-Let the healing streams abound; make and keep me pure within.
-Thou of life the fountain art, freely let me take of Thee;
-Spring Thou up within my heart; rise to all eternity.
+Then let the hope of joys to come 
+Dispel our cares, and chase our fears; 
+If Cod be ours, we're traveling home, 
+Though passing through a vale of tears.
 ```
 
 - |   -  |

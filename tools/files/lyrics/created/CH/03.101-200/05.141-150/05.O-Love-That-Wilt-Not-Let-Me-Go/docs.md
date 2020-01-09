@@ -11,44 +11,33 @@ metadata:
 
 ```txt
 1.
-Songs of thankfulness and praise,
-Jesus, Lord, to You we raise,
-Manifested by the star
-To the sages from afar;
-Branch of royal David’s stem
-In Your birth at Bethlehem;
-Anthems be to You addressed,
-God in man made manifest.
+O Love that wilt not let me go,
+I rest my weary soul in thee;
+I give thee back the life I owe,
+that in thine ocean depths
+its flow may richer, fuller be.
 
 2.
-Manifest at Jordan’s stream,
-Prophet, Priest, and King supreme;
-And at Cana, wedding guest,
-In Your Godhead manifest;
-Manifest in power divine,
-Changing water into wine;
-Anthems be to You addressed,
-God in man made manifest.
+O Light that followest all my way,
+I yield my flickering torch to thee;
+my heart restores its borrowed ray,
+that in they sunshine's blaze
+its day may brighter, fairer be.
 
 3.
-Manifest in making whole
-Palsied limbs and fainting soul;
-Manifest in valiant fight,
-Quelling all the devil’s might;
-Manifest in gracious will,
-Ever bringing good from ill;
-Anthems be to You addressed,
-God in man made manifest.
+O Joy that seekest me through pain,
+I cannot close my heart to thee;
+I trace the rainbow thru the rain,
+and feel the promise is not vain,
+that morn shall tearless be.
 
 4.
-Grant us grace to see You, Lord,
-Mirrored in Your holy Word;
-May we imitate Your way,
-And be pure, as pure as we may,
-That we like You may be
-At Your great epiphany;
-Let us praise You, ever blest,
-God in man made manifest.
+O Cross that liftest up my head,
+I dare not ask to fly from thee;
+I lay in dust life's glory dead,
+and from the ground there blossoms
+red life that shall endless be.
+
 ```
 
 - |   -  |

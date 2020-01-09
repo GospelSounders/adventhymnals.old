@@ -10,15 +10,7 @@ metadata:
 ## 671. LOOK FOR THE WAYMARKS
 
 ```txt
-1.
-Now, dear Lord, as we pray,
-take our hearts and minds far away
-from the press of the world all around
-to your throne where grace does abound.
-May our lives be transformed by Your love,
-may our souls be refreshed from above.
-At this moment, let people everywhere
-join us now as we come to You in prayer.
+
 ```
 
 - |   -  |
@@ -33,9 +25,9 @@ Composer| F. E. Belden |
 Hymnal|  - |
 Tune| LOOK FOR THE WAYMARKS |
 Metrical pattern | |
-# Stanzas | 1 |
-Chorus | No |
-Chorus Type | - |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | Choir and Special |
 Texts |  |
 Print Texts | 

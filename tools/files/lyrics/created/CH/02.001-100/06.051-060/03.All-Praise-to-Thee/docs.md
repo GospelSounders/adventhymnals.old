@@ -33,6 +33,7 @@ Praise God, from whom all blessings flow;
 praise him, all creatures here below;
 praise him above, ye heavenly host;
 praise Father, Son, and Holy Ghost.
+
 ```
 
 - |   -  |

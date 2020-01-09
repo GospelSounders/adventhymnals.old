@@ -11,34 +11,33 @@ metadata:
 
 ```txt
 1.
-Lord of all nations, grant me grace
-To love all people, every race,
-And in each person may I see
-My kindred loved, redeemed by Thee.
+'Tis so sweet to trust in Jesus,
+Just to take Him at His word; 
+Just to rest upon His promise, 
+Just to know, Thus saith the Lord. 
+CHORUS:
+Jesus, Jesus, how I trust Him! 
+How I've proved Him o'er and o'er!
+Jesus, Jesus, precious Jesus! 
+O for grace to trust Him more! 
 
 2.
-Break down the wall that would divide
-Thy children, Lord, on every side.
-My neighbor’s good let me pursue;
-Let Christian love bind warm and true.
+O how sweet to trust in Jesus, 
+Just to trust His cleansing blood; 
+Just in simple faith to plunge me 
+'Neath the healing, cleansing flood!
 
 3.
-Forgive me, Lord, where I have erred
-By loveless act and thoughtless word.
-Make me to see the wrong I do
-Will crucify my Lord anew.
+Yes, 'tis sweet to trust in Jesus,
+Just from sin and self to cease; 
+Just from Jesus simply taking 
+Life and rest, and joy and peace. 
 
 4.
-Give me Thy courage, Lord, to speak
-Whenever strong oppress the weak.
-Should I myself the victim be,
-Help me forgive, remembering Thee.
-
-5.
-With Thine own love may I be filled
-And by Thy Holy Spirit willed,
-That all I touch, where’er I be,
-May be divinely touched by Thee.
+I'm so glad I learned to trust Thee,
+Precious Jesus, Savior, friend; 
+And I know that Thou art with me, 
+Wilt be with me to the end. 
 ```
 
 - |   -  |

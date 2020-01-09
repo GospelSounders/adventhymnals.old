@@ -11,22 +11,44 @@ metadata:
 
 ```txt
 1.
-Make me a captive, Lord, and then I shall be free;
-Force me to render up my sword, and I shall conqueror be.
-I sink in life’s alarms when by myself I stand;
-Imprison me within Thine arms, and strong shall be my hand.
+Someone will enter the pearly gate 
+By and by, by and by, 
+Taste of the glories that there await, 
+Shall you? shall I? Shall you? shall I? 
+Someone will travel the streets of gold, 
+Beautiful visions will there behold, 
+Feast on the pleasures so long foretold; 
+Shall you? shall I? Shall you? shall I? 
 
 2.
-My heart is weak and poor until it amaster find;
-It has no spring of action sure, it varies with the wind.
-It cannot freely move till Thou has wrought its chain;
-Enslave it with Thy matchless love, and deathless it shall reign.
+Someone will gladly his cross lay down 
+By and by, by and by, 
+Faithful, approved, shall receive a crown, 
+Shall you? shall I? Shall you? shall I? 
+Someone the glorious King will see, 
+Ever from sorrow of earth be free, 
+Happy with Him through eternity; 
+Shall you? shall I? Shall you? shall I? 
 
 3.
-My will is not my own till Thou hast made it Thine;
-If it would reach a monarch’s throne, it must its crown resign;
-It only stands unbent, amid the clashing strife,
-When on Thy bosom it has leant, and found in Thee its life.
+Someone will knock when the door is shut 
+By and by, by and by, 
+Hear a voice saying, "I know you not;" 
+Shall you? shall I? Shall you? shall I? 
+Someone will call and shall not be heard, 
+Vainly will strive when the door is barred, 
+Someone will fail of the saints' reward; 
+Shall you? shall I? Shall you? shall I? 
+
+4.
+Someone will sing the triumphant song 
+By and by, by and by, 
+Join in the praise with the blood bought throng; 
+Shall you? shall I? Shall you? shall I? 
+Someone will greet on the golden shore, 
+Loved ones of earth, pain and parting o'er, 
+Safe in the glory forevermore; 
+Shall you? shall I? Shall you? shall I?
 ```
 
 - |   -  |

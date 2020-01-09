@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-King of my life, I crown Thee now,
-Thine shall the glory be;
-Lest I forget Thy thorn crowned brow,
-Lead me to Calvary.
-
+Away I love to steal awhile away 
+From every cumbering care, 
+And spend the hours of setting day 
+In humble, grateful prayer. 
 
 2.
-Show me the tomb where Thou wast laid,
-Tenderly mourned and wept;
-Angels in robes of light arrayed
-Guarded Thee whilst Thou slept.
+I love in solitude to shed 
+The penitential tear; 
+And all His promises to plead, 
+Where none but God can hear. 
 
 3.
-Let me like Mary, through the gloom,
-Come with a gift to Thee;
-Show to me now the empty tomb,
-Lead me to Calvary.
+I love to think on mercies past, 
+And future good implore; 
+And all my cares and sorrows cast 
+On Him whom I adore. 
 
 4.
-May I be willing, Lord, to bear
-Daily my cross for Thee;
-Even Thy cup of grief to share,
-Thou hast borne all for me.
+I love by faith to take a view 
+Of brighter scenes to come; 
+The prospect doth my strength renew 
+While here away from home.
 ```
 
 - |   -  |

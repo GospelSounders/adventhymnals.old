@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-This is My will, My one command,
-That love should dwell among you all.
-This is My will that you should love
-As I have shown that I love you.
+One sweetly solemn thought 
+Comes to me o'er and o'er; 
+Nearer to my home today am I 
+Than e'er I've been before. 
 
 2.
-No greater love a man can have
-Than that he die to save his friends.
-You are My friends if you obey
-What I command that you should do.
+Nearer my Father's house, 
+Where many mansions be; 
+Nearer today, the great white throne, 
+Nearer the crystal sea. 
 
 3.
-You chose not Me, but I chose you
-That you should go and bear much fruit.
-I chose you out that you in Me
-Should bear much fruit that will abide.
+Nearer the bound of life 
+Where burdens are laid down; 
+Nearer to leave the heavy cross, 
+Nearer to gain the crown. 
 
 4.
-All that I ask My Father, dear,
-For My name’s sake you shall receive.
-This is My will, My one command,
-That love should dwell in each, in all.
+But lying darkly between, 
+Winding down through the night, 
+There rolls the deep and unknown stream 
+That leads at last to light. 
+
+5.
+Father, perfect my trust; 
+Strengthen my power of faith! 
+Nor let me stand, at last, alone 
+Upon the shore of death.
 ```
 
 - |   -  |

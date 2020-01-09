@@ -11,34 +11,32 @@ metadata:
 
 ```txt
 1.
-We love Thy Sabbath, Lord,
-And worship at Thy will;
-Oh may these hours sweet peace afford
-And deeper faith instill.
+Nearer, still nearer, close to Thy heart,
+Draw me, my Savior, so precious Thou art;
+Fold me, O fold me close to Thy breast,
+Shelter me safe in that haven of rest,
+Shelter me safe in that haven of rest.
 
 2.
-Thine angels sang for joy
-Cration’s work to see;
-We too, this day, would raise our hearts
-In grateful praise to Thee.
+Nearer, still nearer, nothing I bring,
+Nought as an offering to Jesus my King-
+Only my sinful now contrite heart,
+Grant me the cleansing Thy blood doth impart,
+Grant me the cleansing Thy blood doth impart.
 
 3.
-Praise for Thy wondrous love,
-That sealed this sacred day,
-A sign that all may understand
-We own Thy sovereign sway.
+Nearer, still nearer, Lord, to be Thine;
+Sin, with its follies, I gladly resign,
+All of its pleasures, pomp and its pride;
+Give me but Jesus, my Lord crucified,
+Give me but Jesus, my Lord crucified.
 
 4.
-O great Creator King,
-Through Thy redeeming grace,
-Renew and sanctify our hearts
-That we may see Thy face.
-
-5.
-And with the white-robed throng,
-Upon Mount Sion be,
-And joyful sing our Sabbath song
-Through all eternity.
+Nearer, still nearer, while life shall last;
+Till safe in glory my anchor is cast;
+Through endless ages, ever to be,
+Nearer, my Savior, still nearer to Thee,
+Nearer, my Savior, still nearer to Thee. 
 ```
 
 - |   -  |

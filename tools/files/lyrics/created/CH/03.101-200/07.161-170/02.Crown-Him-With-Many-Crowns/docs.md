@@ -11,31 +11,45 @@ metadata:
 
 ```txt
 1.
-What wondrous love is this,
-O my soul, O my soul?
-What wondrous love is this, O my soul?
-What wondrous love is this
-That caused the Lord of bliss
-To bear the dreadful curse for my soul, for my soul;
-To bear the dreadful curse for my soul, for my soul;
+Crown him with many crowns,
+the Lamb upon his throne,
+Hark! how the heavenly anthem drowns
+all music but its own.
+Awake, my soul, and sing
+of him who died for thee,
+and hail him as thy matchless King
+through all eternity.
 
 2.
-To God and to the Lamb
-I will sing, I will sing;
-To God and to the Lamb, I will sing;
-To God and to the Lamb
-Who is the great I am,
-While millions join the theme, I will sing, I will sing;
-While millions join the theme, I will sing, I will sing;
+Crown him the Lord of love!
+behold his hands and side,
+those wounds, yet visible above,
+in beauty glorified;
+No angel in the sky
+Can fully bear that sight,
+But downward bend his wondering eye
+At mysteries so great.
 
 3.
-And when from death I’m free,
-I’ll sing on, I’ll sing on;
-And when from death I’m free, I’ll sing on;
-And when from death I’m free,
-I’ll sing and joyful be,
-And through eternity I’ll sing on, I’ll sing on!
-And through eternity, I’ll sing on.
+Crown him the Lord of peace!
+whose power a scepter sways
+from pole to pole, that wars may cease,
+and all be prayer and praise.
+His reign shall know no end,
+and round his pierced feet
+fair flowers of paradise extend
+their fragrance ever sweet.
+
+4.
+Crown him the Lord of years;
+The potentate of time,
+Creator of the rolling spheres,
+Ineffably sublime!
+All hail, Redeemer, hail!
+For thou hast died for me;
+thy praise shall never, never fail
+throughout eternity.
+
 ```
 
 - |   -  |

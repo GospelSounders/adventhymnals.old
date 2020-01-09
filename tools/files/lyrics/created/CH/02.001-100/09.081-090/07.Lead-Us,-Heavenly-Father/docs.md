@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-God who spoke in the beginning,
-Forming rock and shaping spar,
-Set all life and growth in motion,
-Earthly world and distant star;
-He who calls the earth to order
-Is the ground of what we are.
+Lead us, heavenly Father, lead us 
+O'er the world's tempestuos sea; 
+Guard us, guide us, keep us, feed us, 
+For we have no help but thee; 
+Yet possessing Every blessing 
+If our God our Father be. 
 
 2.
-God who spoke thro’ men and nations,
-Thro’ events long past and gone,
-Showing still today His purpose,
-Speaks supremely through His Son;
-He who calls the earth to order
-Gives His word and it is done.
+Saviour, breathe forgiveness o'er us, 
+All our weakness thou dost know; 
+Thou didst tread this earth before us, 
+Thou didst feel its keenest woe; 
+Lone and dreary, Faint and weary, 
+Through the desert Thoudidst go. 
 
 3.
-God whose speech becomes incarnate –
-Christ is servant, Christ is Lord –
-Calls us to a life of service,
-Heart and will to action stirred;
-He who uses man’s obedience
-Has the first and final word.
+Spirit of our God, descending, 
+Fill our hearts with heavenly joy; 
+Love with every passion blending, 
+Pleasure that can never cloy; 
+Thus provided, Pardoned, guided, 
+Nothing can our peace destroy.
+
 ```
 
 - |   -  |

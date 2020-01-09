@@ -11,34 +11,33 @@ metadata:
 
 ```txt
 1.
-Sound the battle cry,
-See! the foe is nigh;
-Raise the standard high
-For the Lord;
-Gird your armor on,
-Stand firm, every one,
-Rest your cause upon His holy word.
-
+My Father is rich in houses and lands,
+He holdeth the wealth of the world in His hands!
+Of rubies and diamonds, of silver and gold,
+His coffers are full, He has riches untold.
+CHORUS:
+I'm a child of the King,
+A child of the King:
+With Jesus my Savior,
+I'm a child of the King.
 
 2.
-Strong to meet the foe,
-Marching on we go,
-While our cause we know
-Must prevail;
-Shield and banner bright,
-Gleaming in the light,
-Battling for the right,
-We ne’er can fail.
+My Father's own Son, the Savior of men,
+Once wandered on earth as the poorest of them;
+But now He is pleading our pardon on high,
+That we may be His when He comes by and by.
 
 3.
-O Thou God of all,
-Hear us when we call,
-Help us, one and all,
-By Thy grace;
-When the battle’s done,
-And the victory won,
-May we wear the crown
-Before Thy face.
+I once was an outcast, a stranger on earth,
+A sinner by choice, an alien by birth,
+But I've been adopted, my name's written down,
+An heir to a mansion, a robe and a crown.
+
+4.
+A tent or a cottage, O why should I care?
+They're building a palace for me over there;
+Though exiled from home, yet still may I sing:
+All glory to God, I'm a child of the King.
 ```
 
 - |   -  |

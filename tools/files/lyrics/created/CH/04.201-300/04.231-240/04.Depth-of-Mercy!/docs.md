@@ -11,40 +11,29 @@ metadata:
 
 ```txt
 1.
-Christ is the world’s light,
-Christ and none other;
-born in our darkness,
-He became our brother-
-if we have seen Him,
-we have seen the Father:
-Glory to God on high!
+Depth of mercy!'can there be 
+Mercy still reserved for me? 
+Can my God his wrath forbear? 
+Me, the chief of sinners, spare? 
 
 2.
-Christ is the world’s peace,
-Christ and none other;
-no one can serve Him,
-and despise another.
-Who else unites us,
-one in God the Father?
-Glory to God on high!
+I have long withstood his grace, 
+Long provoked him to his face, 
+Would not hearken to his calls, 
+Grieved him by a thousand falls. 
 
 3.
-Christ is the world’s life,
-Christ and none other;
-sold once for silver,
-murdered here, our brother-
-He, who redeems us,
-reigns with God the Father:
-Glory to God on high!
+Now incline me to repent; 
+Let me now my sins lament; 
+Now my foul revolt deplore, 
+Weep, believe, and sin no more. 
 
 4.
-Give God the glory,
-God and none other;
-give God the glory,
-Spirit, Son and Father;
-give God the glory,
-God-with-us our brother:
-Glory to God on high!
+There for me the Saviour stands, 
+Shows his wounds and spreads his hands; 
+God is love! I know, I feel; 
+Jesus weeps, and loves me still.
+
 ```
 
 - |   -  |

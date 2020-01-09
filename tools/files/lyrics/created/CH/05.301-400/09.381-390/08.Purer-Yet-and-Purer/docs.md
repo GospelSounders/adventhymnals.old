@@ -11,35 +11,44 @@ metadata:
 
 ```txt
 1.
-Don’t forget the Sabbath,
-The Lord our God hath blest,
-Of all the week the brightest,
-Of all the week the best;
-It brings repose from labor,
-It tells of joy divine,
-Its beams of light descending,
-With heavenly beauty shine.
-
+Purer yet and purer 
+I would be in mind, 
+Dearer every and dearer 
+Every duty find; 
+Hoping still and trusting 
+God without a fear, 
+Patiently believing 
+He will make all clear. 
 
 2.
-Keep the Sabbath holy,
-And worship Him today,
-Who said to His disciples,
-“I am the living way;”
-And if we meekly follow
-Our Savior here below,
-He’ll give us of the fountain
-Whose streams eternal flow.
+Calmer yet and calmer 
+In the hours of pain, 
+Surer yet and surer 
+Peace at last to gain; 
+Suffer still and doing, 
+To His will resigned, 
+And to God subduing 
+Heart and will and mind. 
 
 3.
-Day of sacred pleasure!
-Its golden hours we’ll spend
-In thankful hymns to Jesus,
-The children’s dearest Friend;
-O gentle loving, Savior,
-How good and kind Thou art,
-How precious is Thy promise
-To dwell in every heart!
+Higher yet and higher 
+Out of clouds and night, 
+Nearer yet and nearer 
+Rising to the light-- 
+Light serene and holy, 
+Where my soul may rest, 
+Purified and lowly, 
+Sanctified and blest. 
+
+4.
+Swifter yet and swifter 
+Ever onward run, 
+Firmer yet and firmer 
+Step as I go on; 
+Oft these earnest longings 
+Swell within my breast, 
+Yet their inner meaning 
+Ne'er can be expressed.
 ```
 
 - |   -  |

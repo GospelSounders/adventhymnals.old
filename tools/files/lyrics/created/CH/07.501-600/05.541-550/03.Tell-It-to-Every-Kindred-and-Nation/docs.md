@@ -11,28 +11,41 @@ metadata:
 
 ```txt
 1.
-Jesus, Friend of little children,
-Be a friend to me;
-Take my hand and ever keep me
-Close to Thee.
+Tell it to every kindred and nation, 
+Tell it far and near; 
+Earth's darkest night will fade with the dawning, 
+Jesus will soon appear. 
+
+Refrain:
+Hail Him the King of glory, 
+Once the Lamb for sinners slain; 
+Tell, tell the wondrous story, 
+'Jesus comes to reign.' 
 
 2.
-Teach me how to grow in goodness,
-Daily as I grow;
-Thou hast been a child, and surely
-Thou dost know.
+Nations again in strife and commotion, 
+Warnings by the way; 
+Signs in the heavens, unerring omens, 
+Herald the glorious day. 
+
+Refrain:
+Hail Him the King of glory, 
+Once the Lamb for sinners slain; 
+Tell, tell the wondrous story, 
+'Jesus comes to reign.' 
 
 3.
-Step by step, O, lead me onward,
-Upward into youth;
-Wiser, stronger, still becoming
-In Thy truth.
+Children of God look up with rejoicing; 
+Shout and sing His praise; 
+Blessed are they who, waiting and watching, 
+Look for the dawning rays.
 
-4.
-Never leave me, nor forsake me;
-Ever be my friend;
-For I need Thee from life’s dawning
-To its end.
+Refrain:
+Hail Him the King of glory, 
+Once the Lamb for sinners slain; 
+Tell, tell the wondrous story, 
+'Jesus comes to reign.' 
+
 ```
 
 - |   -  |

@@ -11,25 +11,41 @@ metadata:
 
 ```txt
 1.
-On our way rejoicing
-Gladly let us go;
-Conquer’d hath our Leader,
-Vanquish’d is the foe.
-Christ without, our safety;
-Christ within, our joy;
-Who, if we be faithful,
-Can our hope destroy?
-
+Jesus, Lord, we look to thee; 
+Let us in Thy name agree; 
+Show Thyself the Prince of Peace, 
+Bid our strife forever cease. 
 
 2.
-Unto God the Father
-Joyful songs we sing,
-Unto God the Savior
-Thankful hearts we bring,
-Unto God the Spirit
-Bow we and adore,
-On our way rejoicing
-Now and evermore.
+By Thy reconciling love 
+Every stumbling block remove; 
+Each to each unite, endear; 
+Come, and spread Thy banner here. 
+
+3.
+Make us of one heart and mind, 
+Courteous, pitiful and kind, 
+Lowly, meek, in thought and word, 
+Altogether like our Lord. 
+
+4.
+Let us for each other care, 
+Each the other's burdens bear; 
+To Thy church the pattern give, 
+Show how true believers live. 
+
+5.
+Free from anger and from pride, 
+Let us thus in God abide; 
+May our daily life express, 
+Constant love and holiness. 
+
+6.
+Let us then with joy remove 
+To the family above; 
+On the wings of angels fly, 
+To our mansions in the sky.
+
 ```
 
 - |   -  |

@@ -11,27 +11,33 @@ metadata:
 
 ```txt
 1.
-Jesus, guide our way
-To eternal day:
-So shall we, no more delaying,
-Follow Thee, Thy voice obeying:
-Lead us by the hand
-To our Father’s land.
+On Jordan's stormy banks I stand,
+And cast a wishful eye
+To Canaan's fair and happy land,
+Where my possessions lie.
+CHORUS:
+I am bound for the promised land,
+I am bound for the promised land;
+O who will come and go with me?
+I am bound for the promised land.
 
 2.
-When we danger meet
-Steadfast make our feet;
-Lord, preserve us uncomplaining
-Mid the darkness round us reigning:
-Through adversity lies our way to Thee.
+O'er all those wide extended plains
+Shines one eternal day;
+There, Christ, the Sun, for ever reigns,
+And scatters night away.
 
 3.
-Order all our way
-Through the mortal day:
-In our toil, with aid be near us:
-In our need, with succour cheer us:
-Till we safely stand
-In our Father’s land.
+When shall I reach that happy place,
+And be forever blest?
+When shall I see my Father's face,
+And in His kingdom rest?
+
+4.
+Filled with delight, my raptured soul
+Would here no longer stay;
+Though Jordan's waves around me roll,
+Fearless I'd launch away.
 ```
 
 - |   -  |

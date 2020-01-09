@@ -10,24 +10,7 @@ metadata:
 ## 294. LIFT UP YOUR HEADS
 
 ```txt
-1.
-Would you be free from the burden of sin?
-There’s pow’r in the blood, pow’r in the blood;
-Would you o’er evil a victory win?
-There’s wonderful power in the blood.
 
-
-2.
-Would be free from your passion and pride?
-There’s pow’r in the blood, pow’r in the blood;
-Come for a cleansing to Calvary’s tide?
-There’s wonderful power in the blood.
-
-3.
-Would you do service for Jesus your King?
-There’s pow’r in the blood, pow’r in the blood;
-Would you live daily His praises to sing?
-There’s wonderful power in the blood.
 ```
 
 - |   -  |
@@ -42,9 +25,9 @@ Composer| William Knapp |
 Hymnal|  - |
 Tune| WAREHAM |
 Metrical pattern | |
-# Stanzas | 3 |
-Chorus | Yes |
-Chorus Type | chorus |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
 Subjects | The Gospel: Salvation and Redemption |
 Texts |  |
 Print Texts | 

@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-Star of our hope! He’ll soon appear,
-The last loud trumpet speaks Him near;
-Hail Him, all saints, from pole to pole-
-How welcome to the faithful soul!
+Come, Lord, and tarry not; 
+Bring the longlookedfor day; 
+O why these years of waiting here? 
+O why this long delay? 
 
 2.
-From heaven angelic voices sound:
-Behold the Lord of glory crowned,
-Arrayed in majesty divine,
-And in His highest glories shine.
+Come, for creation groans, 
+Impatient of Thy stay; 
+Worn out by these long years of ill, 
+These ages of delay. 
 
 3.
-The grave yields up its precious trust,
-Which long has slumbered in the dust,
-Resplendent forms ascending, fair,
-Now meet the Savior in the air.
+Come, for the corn is ripe! 
+Put in Thy sickle now; 
+Reap the great harvest of the earth; 
+Sower and reaper Thou. 
 
 4.
-Descending with His azure throne,
-He claims the kingdom for His own;
-The saints rejoice, they shout, they sing,
-And hail Him their triumphant King.
+Come, spoil the strong man's house, 
+Bind him and cast him hence; 
+Show Thyself stronger than the strong, 
+Thyself Omnipotence. 
+
+5.
+Come, and begin Thy reign 
+Of everlasting peace; 
+Come, take the kingdom to Thyself, 
+Great King of righteousness.
+
 ```
 
 - |   -  |

@@ -11,38 +11,31 @@ metadata:
 
 ```txt
 1.
-Watchmen, on the walls of Zion,
-What O tell us, of the night?
-Is the daystar now arising?
-Will the morn soon greet our sight?
-O’er your vision Shine there now
-some rays of light?
-O’er your vision Shine there now
-some rays of light?
+Be silent, be silent,
+A whisper is heard;
+Be silent, and listen,
+Oh treasure each word.
+CHORUS:
+Tread softly, tread softly, The Master is here;
+Tread softly, tread softly, He bids us draw near.
 
 2.
-Tell, O tell us, are the landmarks
-On our voyage all passed by?
-Are we nearing now the haven?
-Can we e’en the land descry?
-Do we truly See the heavenly kingdom nigh?
-Do we truly See the heavenly kingdom nigh?
+Be silent, be silent,
+For holy this place,
+This altar that echoes
+The message of grace.
 
 3.
-Light is beaming, day is coming!
-Let us sound aloud the cry;
-We behold the daystar rising
-Pure and bright in yonder sky!
-Saints, be joyful; Your redemption draweth nigh;
-Saints, be joyful; Your redemption draweth nigh.
+Be silent, be silent,
+Breathe humbly our prayer;
+A foretaste of Eden
+This moment we share.
 
 4.
-We have found the chart and compass,
-And are sure the land is near;
-Onward, onward we are hasting,
-Soon the haven will appear;
-Let your voices Sound aloud your holy cheer;
-Let your voices Sound aloud your holy cheer.
+Be silent, be silent,
+His mercy record;
+Be silent, be silent,
+And wait on the Lord.
 ```
 
 - |   -  |

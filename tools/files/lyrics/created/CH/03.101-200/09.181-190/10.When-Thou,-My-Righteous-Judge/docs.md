@@ -11,23 +11,41 @@ metadata:
 
 ```txt
 1.
-Jesus loves me! this I know,
-For the Bible tells me so;
-Little ones to Him belong
-They are weak but He is strong
-
+When Thou, my righteous Judge, shalt come, 
+To call Thy ransomed people home, 
+Shall I among them stand? 
+Shall such a worthless worm as I, 
+Who sometimes am afraid to die, 
+Be found at Thy right hand? 
+Be found at Thy right hand? 
 
 2.
-Jesus loves me! He wo died
-Heaven’s gate to open wide:
-He will wash away my sin,
-Let His little child come in.
+I love to meet among them now, 
+Before Thy gracious throne to bow, 
+Though weakest of them all; 
+Nor can I bear the piercing thought, 
+To have my worthless name left out, 
+When Thou for them shalt call, 
+When Thou for them shalt call. 
 
 3.
-Jesus, take this heart of mine,
-Make it pure and wholly thine;
-On the coross You died for me,
-I will love and live for Thee.
+Prevent, prevent it by Thy grace! 
+Be Thou, dear Lord, my hiding place 
+In that expected day. 
+Thy pardoning voice, O let me hear, 
+To still each unbelieving fear, 
+Nor let me fall, I pray, 
+Nor let me fall, I pray. 
+
+4.
+Let me among Thy saints be found, 
+Whene'er the Archangel's trump shall sound, 
+To see Thy smiling face; 
+Then joyfully Thy praise I'll sing, 
+While heaven's resounding mansions ring 
+With shouts of endless grace, 
+With shouts of endless grace.
+
 ```
 
 - |   -  |

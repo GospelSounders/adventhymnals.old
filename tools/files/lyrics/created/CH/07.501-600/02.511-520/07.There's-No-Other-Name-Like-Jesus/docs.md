@@ -11,31 +11,39 @@ metadata:
 
 ```txt
 1.
-My faith looks up to thee,
-thou Lamb of Calvary,
-Savior divine;
-Now hear me while I pray,
-take all my guilt away,
-O let me from this day
-be wholly Thine.
+There's no other name like Jesus,
+'Tis the dearest name we know,
+'Tis the angel's joy in heaven,
+Tis the Christian's joy below.
+CHORUS:
+Sweet name, (sweet name) dear name, (dear name)
+There's no other name like Jesus;
+Sweet name, (sweet name) dear name, (dear name)
+There's no other name like Jesus.
 
 2.
-May thy rich grace impart
-strength to my fainting heart,
-my zeal inspire!
-As thou hast died for me,
-O may my love to thee
-pure, warm, and changeless be,
-a living fire!
+There's no other name like Jesus
+When the heart with grief is sad,
+There's no other name like Jesus
+When the heart is free and glad.
 
 3.
-While life’s dark maze I tread,
-and griefs around me spread,
-be thou my guide;
-bid darkness turn to day,
-wipe sorrow’s tears away,
-nor let me ever stray
-from Thee aside.
+'Tis the hope that I shall see Him
+When in glory He appears,
+'Tis the hope to hear His welcome
+That my fainting spirit cheers.
+
+4.
+If He wills that I should labor
+In His vineyard day by day,
+Then 'tis well if only Jesus
+Blesses all I do or say.
+
+5.
+If He wills that death's cold finger
+Touch my feeble, mortal clay,
+Then 'tis well if only Jesus
+Is my dying trust and stay.
 ```
 
 - |   -  |

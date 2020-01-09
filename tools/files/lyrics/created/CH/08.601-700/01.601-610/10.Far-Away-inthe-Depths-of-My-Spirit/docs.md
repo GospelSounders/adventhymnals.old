@@ -11,23 +11,33 @@ metadata:
 
 ```txt
 1.
-O Christian, awake! ’tis the Master’s command;
-With helmet and shield, and a sword in thy hand,
-To meet the bold tempter, go, fearlessly go,
-Then stand like the brave, with thy face to the foe.
-
+Far away in the depths of my spirit tonight,
+Rolls a melody sweeter than psalm;
+In celestial like strains it unceasingly falls
+O'er my soul like an infinite calm.
+CHORUS:
+Peace! Peace! wonderful peace,
+Coming down from the Father above;
+Sweep over my spirit forever, I pray,
+In fathomless billows of love.
 
 2.
-The cause of thy Master with vigor defend;
-Be watchful, be zealous, and fight to the end;
-Wherever He leads thee, go, valiantly go,
-Then stand like the brave, with thy face to the foe.
+What a treasure I have in this wonderful peace,
+Buried deep in my inner most soul,
+So secure that no power can mine it away,
+While the years of eternity roll!
 
 3.
-Press on, never doubting, thy Captain is near,
-With grace to supply, and with comfort to cheer;
-His love, like a stream in the desert will flow;
-Then stand like the brave, with thy face to the foe.
+I believe when I rise to that city of peace,
+Where the Author of peace I shall see,
+That one strain of the song which the ransomed will sing,
+In that heavenly kingdom will be-
+
+4.
+Weary soul, without gladness or comfort or rest,
+Passing down the rough pathway of time!
+Make the Savior your friend ere the shadows grow dark;
+O accept of this peace so sublime.
 ```
 
 - |   -  |

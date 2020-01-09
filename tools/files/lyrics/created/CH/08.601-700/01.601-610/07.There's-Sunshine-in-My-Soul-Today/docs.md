@@ -11,36 +11,33 @@ metadata:
 
 ```txt
 1.
-God of grace and God of glory,
-On Thy people pour Thy power;
-Now fulfill Thy church’s story,
-Bring her bud to glorious flower.
-Grant us wisdom, grant us courage,
-For the facing of this hour.
+There's sunshine in my soul today,
+More glorious and bright
+Than glows in any earthly sky, 
+For Jesus is my light.
+CHORUS:
+O there's sunshine, blessed sunshine,
+When the peaceful, happy moments roll
+When Jesus shows His smiling face 
+There is sunshine in the soul.
 
 2.
-Lo, the hosts of evil round us
-Scorn Thy Christ, assail His ways;
-From the fears that long have bound us
-Free our hearts to faith and praise.
-Grant us wisdom, grant us courage,
-For the facing of this hour.
+There's music in my soul today,
+A carol to my King,
+And Jesus, listening, can hear 
+The songs I cannot sing.
 
 3.
-Cure Thy children’s warring madness,
-Bend our pride to Thy control;
-Shame our wanton selfish gladness
-Rich in goods and poor in soul.
-Grant us wisdom, grant us courage,
-Lest we miss Thy kingdom’s goal.
+There's springtime in my soul today,
+For when the Lord is near,
+The dove of peace sings in my heart, 
+The flowers of grace appear.
 
 4.
-Set our feet on lofty places,
-Gird our lives that they may be
-Armored with all Christ-like graces
-In the fight to set all free.
-Grant us wisdom, grant us courage,
-That we fail not man nor Thee.
+Theres gladness in my soul today, 
+And hope, and praise, and love,
+For blessings which He gives me now, 
+For joys laid up above.
 ```
 
 - |   -  |

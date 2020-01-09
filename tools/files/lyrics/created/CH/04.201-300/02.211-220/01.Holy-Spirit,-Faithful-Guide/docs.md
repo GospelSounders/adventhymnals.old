@@ -11,36 +11,35 @@ metadata:
 
 ```txt
 1.
-Lo! He comes, with clouds descending,
-Once for favored sinners slain;
-Countless angels, Him attending,
-Swell the triumph of His train:
-Hallelujah! Hallelujah!
-Jesus comes, and comes to reign.
+Holy Spirit, faithful Guide, 
+Ever near the Christian's side, 
+Gently lead us by the hand 
+Pilgrims in a desert land; 
+Weary souls fore'er rejoice, 
+While they hear that sweetest voice, 
+Whispering softly, 'Wand'rer, come! 
+Follow me, I'll guide thee home.' 
 
 2.
-Every eye shall now behold Him
-Robed in dreadful majesty!
-Those who set at nought and sold Him,
-Pierced, and nailed Him to the tree,
-Deeply wailing, Deeply wailing,
-Shall the true Mesiah see!
+Ever present, truest Friend, 
+Ever near Thine aid to lend, 
+Leave us not to doubt and fear, 
+Groping on in darkness drear; 
+When the storms are raging sore, 
+Hearts grow faint, and hopes give o'er' 
+Whisper softly, 'Wanderer, come! 
+Follow me, I'll guide thee home.' 
 
 3.
-When the solemn trump has sounded,
-Heaven and earth shall flee away;
-All who hate Him, must, confounded,
-Hear the summons of that day-
-“Come to judgment! Come to judgment!
-Come to judgment! Come away!”
+When our days of toil shall cease, 
+Waiting still for sweet release, 
+Nothing left but heaven and prayer, 
+Wondering if our names were there; 
+Wading deep the dismal flood, 
+Pleading naught but Jesus' blood, 
+Whisper softly, 'Wanderer, come! 
+Follow me, I'll guide thee home.'
 
-4.
-Yea, amen! let all adore Thee,
-High on Thy eternal throne!
-Savior, take the power and glory,
-Make Thy righteous sentence known;
-O come quickly, O come quickly,
-Claim the kingdom for Thine own!
 ```
 
 - |   -  |

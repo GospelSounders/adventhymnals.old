@@ -11,44 +11,44 @@ metadata:
 
 ```txt
 1.
-We speak of the realms of the blest,
-That country so bright and so fair,
-And oft are its glories confessed-
-But what must it be to be there!
-We speak of its pathway of gold-
-Its walls decked with jewels so rare,
-Its wonders and pleasures untold-
-But what must it be to be there!
+O golden day, so long desired, 
+Born of a darksome night, 
+The waiting earth at last is fired 
+By thy resplendent light. 
+And hark! the promised heavenly chord 
+Is heard from sea to sea, 
+This song: One Master, Christ the Lord, 
+And brethren all are we. 
 
 2.
-We speak of its freedom of sin,
-From sorrow, temptation and care,
-From trials without and within—
-But what must it be to be there!
-We speak of its service of love,
-Of the robes which glorified wear,
-Of the church of the First Born above-
-But what must it be to be there!
+The noises of the night shall cease, 
+The storms no longer roar; 
+The factious foes of love and peace 
+Shall vex the soul no more. 
+A thousand thousand voices sing 
+The surging harmony; 
+One Master, Christ, one Saviour King, 
+And brethren all are we. 
 
 3.
-Our mourning is all at an end,
-When, raised by the life-giving word,
-We see the new city descend,
-Adorned as a bride for her Lord;
-The city so holy and clean,
-No sorrow can breathe in the air;
-No gloom of affliction or sin,
-No shadow of evil, is there.
+Sing on, ye heralds of the morn, 
+Your grand endeavor strain, 
+Till Christian hearts estranged and torn, 
+Blend in the glad refrain; 
+And all the church, with all its powers, 
+In loving loyalty, 
+Shall sing: One Master, Christ, is ours, 
+And brethren all are we. 
 
 4.
-Do Thou, midst temptation and woe,
-For heaven my spirit prepare;
-And shortly I also so shall know
-And feel what it is to be there.
-Then o’er the bright fields we shall roam,
-In glory celestial and fair,
-With saints and with angels at home,
-And Jesus Himself will be there.
+O golden day! the ages crown, 
+Aglow with heavenly love, 
+Rare day in prophecy's renown, 
+On to thy zenith move, 
+When earth and heaven with one accord, 
+In full-voiced unity, 
+Shall sing: One Master, Christ our Lord, 
+And brethren all are we.
 ```
 
 - |   -  |

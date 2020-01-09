@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-Christ has for sin atonement made,
-What a wonderful Saviour!
-We are redeemed! the price is paid!
-What a wonderful Savior!
-
+Alone with Thee, my Godin prayer 
+Fain would I from the world repair, 
+AAnd leave the sordid things of life 
+To rest from toil, to cease from strife. 
 
 2.
-I praise Him for the cleansing blood,
-What a wonderful Saviour!
-That reconciled my soul to God;
-What a wonderful Saviour!
+Alone with Thee when breaks the morn, 
+When joyous youth and hope are born. 
+My Friend and Guardian from my birth, 
+Guide all my wanderings trough this earth. 
 
 3.
-He walks beside me all the way,
-What a wonderful Saviour!
-And keeps me faithful day by day;
-What a wonderful Saviour!
+Alone with Thee at blazing noon, 
+E'en youth and strength pass swift and soon. 
+I would not wait till comes the night 
+But yield to Thee my man-hood's might. 
 
 4.
-He gives me overcoming power,
-What a wonderful Saviour!
-And triumph in each trying hour;
-What a wonderful Saviour!
+Alone with Thee when night is nigh 
+And darkness steals across the sky. 
+With Thee I'd brave death's chilling tide 
+And stand at last on Canaan's side.
 ```
 
 - |   -  |

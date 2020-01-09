@@ -11,34 +11,35 @@ metadata:
 
 ```txt
 1.
-Were you there when they crucified my Lord?
-Were you there when they crucified my Lord?
-O! Sometimes it causes me to tremble, tremble, tremble.
-Were you there when they crucified my Lord?
+Jesus, the very thought of thee 
+With sweetness fills the breast; 
+But sweeter far Thy face to see, 
+And in Thy presence rest.
 
 2.
-Were you there when they nailed Him to the tree?
-Were you there when they nailed Him to the tree?
-O! Sometimes it causes me to tremble, tremble, tremble.
-Were you there when they nailed Him to the tree?
+No voice can sing, no heart can frame,
+Nor can the memory find
+A sweeter sound than Jesus' name,
+The Savior of mankind.
 
 3.
-Were you there when they pierced Him in the side?
-Were you there when they pierced Him in the side?
-O! Sometimes it causes me to tremble, tremble, tremble.
-Were you there when they pierced Him in the side?
+O hope of every contrite heart!
+O joy of all the meek, 
+To those who fall, how kind Thou art! 
+How good to those who seek!
 
 4.
-Were you there when the sun refused to shine?
-Were you there when the sun refused to shine?
-O! Sometimes it causes me to tremble, tremble, tremble.
-Were you there when the sun refused to shine?
+But what to those who find? Ah, this 
+Nor tongue nor pen can show; 
+The love of Jesus, what it is, 
+None but His loved ones know.
 
 5.
-Were you there when they laid Him in the tomb?
-Were you there when they laid Him in the tomb?
-O! Sometimes it causes me to tremble, tremble, tremble.
-Were you there when they laid Him in the tomb?
+Jesus, our only joy be Thou, 
+As Thou our prize wilt be; 
+Jesus, be Thou our glory now, 
+And through eternity.
+
 ```
 
 - |   -  |

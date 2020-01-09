@@ -11,28 +11,28 @@ metadata:
 
 ```txt
 1.
-Give to the winds your fears;
-In hope be undismayed:
-God hears your sighs and coundts your tears,
-God shall lift up your head.
+How shall I follow Him I serve? 
+How shall I copy Him I love? 
+Nor from those blessed footsteps swerve 
+Which lead me to His seat above? 
 
 2.
-To Him commit your griefs;
-Your ways put in His hands
-To His sure truth adn tender care
-Who earth adn heave commands.
+Lord, should my path through suffering lie, 
+Forbid that I should e'er repine; 
+Still let me turn to Calvary, 
+Nor heed my grief, remembering	Thine. 
 
 3.
-O put your trust in God;
-In duty’s path go on.
-Walk in His strength with faith and hope,
-So shall your work be done.
+O, let me think how Thou didst leave 
+The heavenly home of pure delights, 
+To fast, to faint, to watch, to grieve, 
+Through toilsome days, through lonely nights! 
 
 4.
-Leave to His sovereign sway
-To choose and to command;
-So you shall, faithful, seek His way
-how wise, how strong His hand!
+All this Thou didst, then died for me! 
+Thou camest not Thyself to please; 
+And, dear though earthly comforts be, 
+Shall I not love Thee more than these?
 ```
 
 - |   -  |

@@ -11,28 +11,29 @@ metadata:
 
 ```txt
 1.
-Break thou the bread of life, dear Lord, to me,
-as thou didst break the loaves beside the sea;
-beyond the sacred page I seek thee, Lord;
-my spirit pants for thee, O Living Word!
+Not I, but Christ, be honored, loved, exalted;
+Not I, but Christ, be seen, be known, be heard;
+Not I, but Christ, in every look and action,
+Not I, but Christ, in every thought and word.
 
 2.
-Bless thou the truth, dear Lord, to me, to me,
-as thou didst bless the bread by Galilee;
-then shall all bondage cease, all fetters fall;
-and I shall find my peace, my all in all.
+Not I, but Christ, to gently soothe in sorrow,
+Not I, but Christ, to wipe the falling tear;
+Not I, but Christ, to lift the weary burden,
+Not I, but Christ, to hush away all fear.
 
 3.
-Thou art the bread of life, O Lord, to me;
-Thy holy Word the truth That saveth me;
-Give me to eat and live With Thee above;
-Teach me to love Thy truth, For Thou art love.
+Christ, only Christ! No idle words e'er falling,
+Christ, only Christ; no needless bustling sound;
+Christ, only Christ, no self important bearing;
+Christ, only Christ, no trace of I be found.
 
 4.
-Spirit and life are they, Words Thou dost speak;
-I hasten to obey, But I am weak;
-Thou art my only help, Thou art my life;
-Heeding Thy holy Word I win the strife.
+Not I, but Christ, my every need supplying,
+Not I, but Christ, my strength and health to be;
+Christ, only Christ, for body, soul, and spirit,
+Christ, only Christ, here and eternally.
+
 ```
 
 - |   -  |

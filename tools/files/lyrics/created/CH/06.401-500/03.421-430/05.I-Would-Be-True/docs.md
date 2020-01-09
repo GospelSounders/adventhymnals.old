@@ -11,45 +11,25 @@ metadata:
 
 ```txt
 1.
-There is singing up in heaven
-such as we have never known,
-Where the angels sing the praises
-of the Lamb upon the throne;
-Their sweet harps are ever tuneful
-and their voices are always clear,
-O that we might be more like them
-while we serve the Master here!
-
+I would be true, for there are those who trust me; 
+I would be pure, for there are those who care; 
+I would be strong, for there is much to suffer; 
+I would be brave, for there is much to dare; 
+I would be brave, for there is much to dare. 
 
 2.
-But I hear another anthem,
-blending voices clear and strong,
-“Unto Him who hath redeemed us
-and hath bought us,” is the song;
-We have come thro’ tribulations
-to this land so fair and bright,
-In the fountain freely flowing
-He hath made our garments white.
+I would be friend of all'the foe, the friendless; 
+I would be giving, and forget the gift; 
+I would be humble, for I know my weakness; 
+I would look up, and laugh, and love, and lift; 
+I would look up, and laugh, and love, and lift. 
 
 3.
-Then the angels stand and listen,
-for they cannot join that song,
-Like the sound of many waters,
-by that happy, blood-washed throng;
-For they sing about great trials,
-battles fought and vict’ries won,
-And they praised the great Redeemer,
-who hath said to them, “Well done.”
-
-4.
-So, although I’m not an angel,
-yet I know that over there
-I will join a blessed chorus
-that the angels cannot share;
-I will sing about my Savior,
-who upon dark Calvary
-Freely pardoned my transgressions,
-died to set the sinner free.
+I would be learning, day by day, the lessons 
+My heavenly Father gives me in His word; 
+I would be quick to hear His lightest whisper, 
+And prompt and glad to do the things I've heard; 
+And prompt and glad to do the things I've heard. 
 ```
 
 - |   -  |

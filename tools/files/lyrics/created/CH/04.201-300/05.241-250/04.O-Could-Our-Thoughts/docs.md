@@ -11,34 +11,29 @@ metadata:
 
 ```txt
 1.
-My song shall be of Jesus;
-His mercy crowns my days,
-He fills my cup with blessings,
-And tunes my heart to praise.
-My song shall be of Jesus,
-The precious Lamb of God,
-Who gave Himself my ransom,
-And bought me with His blood.
+O could our thoughts and wishes fly, 
+Above these gloomy shades, 
+To those bright worlds beyond the sky, 
+Where sorrow ne'er invades! 
 
 2.
-My song shall be of Jesus
-When, sitting at His feet,
-I call to mind His goodness
-In meditation sweet:
-My song shall be of Jesus,
-Whatever ill betide;
-I’ll sing the grace that saves me,
-And keeps me at His side.
+There, joys unseen by mortal eyes, 
+Or reason's feeble ray, 
+In ever-blooming prospect rise, 
+Exposed to no decay. 
 
 3.
-My song shall be of Jesus
-While pressing on my way
-To reach the blissful kingdom
-Of pure and perfect day:
-And when my soul shall enter
-That realm of splendor fair,
-A song of praise to Jesus
-I’ll sing forever there.
+Lord, send a beam of light divine, 
+To guide our upward aim; 
+With one reviving look of Thine, 
+Our languid hearts inflame. 
+
+4.
+O then, on faith's sublimest wing, 
+Our ardent souls shall rise 
+To those bright scenes where pleasures spring 
+Immortal in the skies.
+
 ```
 
 - |   -  |

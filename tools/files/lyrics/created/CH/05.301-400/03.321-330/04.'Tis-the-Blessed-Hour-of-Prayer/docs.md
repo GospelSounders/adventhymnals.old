@@ -11,28 +11,31 @@ metadata:
 
 ```txt
 1.
-Just as I am, Thine own to be,
-Friend of the young, who lovest me,
-To consecrate myself to Thee,
-O Jesus Christ, I come.
+'Tis the blessed hour of prayer, when our hearts lowly bend,
+And we gather to Jesus, our Savior and Friend;
+If we come to Him in faith, His protection to share,
+What a balm for the weary! O how sweet to be there!
+CHORUS:
+Blessed hour of prayer, Blessed hour of prayer,
+What a balm for the weary! O how sweet to be there!
 
 2.
-In the glad morning of my day,
-My life to give, my vows to pay,
-With no reserve and no delay,
-With all my heart I come.
+'is the blessed hour of prayer, when the Savior draws near,
+With a tender compassion His children to hear;
+When He tells us we may cast at His feet every care,
+What a balm for the weary! O how sweet to be there!
 
 3.
-I would live ever in the light,
-I would work ever for the right;
-I would serve Thee with all my might;
-Therefore, to Thee I come.
+'Tis the blessed hour of prayer, when the tempted and tried
+To the Savior who loves them their sorrows confide;
+With a sympathizing heart He removes every care;
+What a balm for the weary! O how sweet to be there!
 
 4.
-Just as I am, young, strong, and free,
-To be the best that I can be
-For truth, and righteousness, and Thee,
-Lord of my life, I come.
+'Tis the blessed hour of prayer, trusting Him we believe,
+That the blessings we're needing we'll surely receive;
+In the fullness of this trust we shall lose every care;
+What a balm for the weary! O how sweet to be there!
 ```
 
 - |   -  |

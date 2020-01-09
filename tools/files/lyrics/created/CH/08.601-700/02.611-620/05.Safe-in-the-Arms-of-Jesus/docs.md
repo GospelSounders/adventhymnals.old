@@ -11,28 +11,53 @@ metadata:
 
 ```txt
 1.
-Rise up, O men of God!
-His kingdom tarries long.
-Bring in the day of brotherhood
-and end the night of wrong.
+Safe in the arms of Jesus, 
+Safe on His gentle breast' 
+Here by His love o'ershaded, 
+Sweetly my soul doth rest. 
+Hark! 'tis the voice of angels, 
+Borne in a song to me, 
+Over the fields of glory, 
+Over the jasper sea. 
+
+Refrain:
+Safe in the arms of Jesus, 
+Safe on His gentle breast' 
+Here by His love o'ershaded, 
+Sweetly my soul doth rest. 
 
 2.
-Let women all rise up!
-Have done with lesser things.
-Give heart and mind and soul and strength
-to serve the King of kings.
+Safe in the arms of Jesus, 
+Safe from corroding care; 
+Safe from the world's temptations, 
+Sin cannot harm me there. 
+Free from the blight of sorrow, 
+Free from my doubts and fears; 
+Only a few more trials, 
+Only a few more tears. 
+
+Refrain:
+Safe in the arms of Jesus, 
+Safe on His gentle breast' 
+Here by His love o'ershaded, 
+Sweetly my soul doth rest. 
 
 3.
-Rise up, courageous youth!
-The church for you doth wait,
-her strength unequal to her task;
-rise up, and make her great!
+Jesus, my heart's dear refuge, 
+Jesus has died for me; 
+Firm on the Rock of Ages, 
+Ever my trust shall be. 
+Here let me wait with patience, 
+Wait till the night is o'er; 
+Wait till I see the morning 
+Break on the golden shore.
 
-4.
-Lift high the cross of Christ!
-Tread where his feet have trod.
-Disciples of the Son of Man,
-rise up, O church of God!
+Refrain:
+Safe in the arms of Jesus, 
+Safe on His gentle breast' 
+Here by His love o'ershaded, 
+Sweetly my soul doth rest. 
+
 ```
 
 - |   -  |

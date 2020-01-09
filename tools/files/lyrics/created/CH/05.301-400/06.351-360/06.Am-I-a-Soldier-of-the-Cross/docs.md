@@ -11,28 +11,40 @@ metadata:
 
 ```txt
 1.
-All who love and serve your city,
-All who bear its daily stress,
-All who cry for peace and justice,
-All who curse and all who bless.
+Am I a soldier of the cross,
+A follower of the Lamb,
+And shall I fear to own His cause,
+Or blush to speak His name?
 
 2.
-In your day of loss and sorrow,
-In your day of helpless strife,
-Honor, peace, and love retreating,
-Seek the Lord, who is your life.
+Must I be carried to the skies
+On flowery beds of ease,
+While others fought to win the prize,
+And sailed through bloody seas?
 
 3.
-For all days are days of judgment,
-And the Lord is waiting still,
-Drawing near His friends who spurn Him,
-Off’ring peace from Calv’ry’s hill.
+Are there no foes for me to face?
+Must I not stem the flood?
+Is this vile world a friend to grace,
+To help me on to God?
 
 4.
-Risen Lord, shall yet the city
-Be the city of despair?
-Come today, our judge, our glory;
-Be its name “The Lord is there!”
+Sure I must fight, if I would reign;
+Increase my courage, Lord
+I'll bear the toil, endure the pain,
+Supported by Thy word
+
+5.
+Thy saints in all this glorious war
+Shall conquer though they die;
+They see the triumph from afar,
+By faith they bring it nigh
+
+6.
+When that illustrious day shall rise,
+And all Thy armies shine
+In robes of victory through the skies,
+The glory shall be Thine 
 ```
 
 - |   -  |

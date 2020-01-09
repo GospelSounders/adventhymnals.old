@@ -11,23 +11,44 @@ metadata:
 
 ```txt
 1.
-Hark! ’tis the Shepherd’s voice I hear,
-Out in the desert dark and drear,
-Calling the sheep who’ve gone astray,
-Far from the Shepherd’s fold away.
-
+The Son of God goes forth to war, 
+A kingly crown to gain; 
+His blood red banner streams afar: 
+Who follows in His train? 
+Who best can drink his cup of woe, 
+Triumphant over pain, 
+Who patient bears his cross below, 
+He follows in His train. 
 
 2.
-Who’ll go and help the Shepherd kind,
-Help Him the wandering ones to find?
-Who’ll bring them back into the fold,
-Where they’ll be sheltered from the cold?
+That martyr first, whose eagle eye 
+Could pierce beyond the grave; 
+Who saw his Master in the sky, 
+And called on Him to save. 
+Like Him, with pardon on His tongue, 
+In midst of mortal pain, 
+He prayed for them that did the wrong: 
+Who follows in His train? 
 
 3.
-Out in the desert hear their cry,
-Out on the mountain wild and high,
-Hark! ’tis the Master speaks to thee,
-“Go, find My sheep where ‘er they be.”
+A glorious band, the chosen few 
+On whom the Spirit came; 
+Twelve valiant saints, their hope they knew, 
+And mocked the cross and flame. 
+They met the tyrant's brandished steel, 
+The lion's gory mane; 
+They bowed their necks the stroke to feel: 
+Who follows in their train? 
+
+4.
+A noble army, men and boys, 
+The matron and the maid, 
+Around the Savior's throne rejoice, 
+In robes of light arrayed. 
+They climbed the steep ascent of Heaven, 
+Through peril, toil and pain; 
+O God, to us may grace be given, 
+To follow in their train.
 ```
 
 - |   -  |

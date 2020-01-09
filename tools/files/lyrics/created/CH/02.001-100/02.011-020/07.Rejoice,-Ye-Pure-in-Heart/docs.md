@@ -11,39 +11,55 @@ metadata:
 
 ```txt
 1.
-Lord of all being, throned afar,
-Thy glory flames from sun and star;
-Center and soul of every sphere
-Yet to each loving heart how near!
-Yet to each loving heart how near!
+Rejoice ye pure in heart!
+Rejoice, give thanks, and sing;
+Your festal banner wave on high,
+The cross of Christ your King.
+
+Refrain:
+Rejoice, rejoice, rejoice,
+Give thanks and sing.
 
 2.
-Sun of our life, Thy quickening ray
-Shed on our path the glow of day;
-Star of our hope, Thy softened light
-Cheers the long watches of the night,
-Cheers the long watches of the night.
+With voice as full and strong
+As ocean's surging praise,
+Send forth the sturdy hymns of old,
+The psalms of ancient days.
+
+Refrain:
+Rejoice, rejoice, rejoice,
+Give thanks and sing.
 
 3.
-Our midnight is Thy smile withdrawn;
-Our noontide is Thy gracious dawn;
-Our rainbow arch, Thy mercy’s sign;
-All, save the clouds of sin, are Thine,
-All, save the clouds of sin, are Thine.
+With all the angel choirs,
+With all the saints of earth,
+Pour out the strains of joy and bliss,
+True rapture, noblest mirth.
+
+Refrain:
+Rejoice, rejoice, rejoice,
+Give thanks and sing.
 
 4.
-Lord of all life, below, above
-Whose light is truth, whose warmth is love,
-Before Thy ever-blazing throne
-We ask no luster of our own,
-We ask no luster of our own.
+Yes, on through life's long path,
+Still chanting as ye go;
+From youth to age, by night and day,
+In gladness and in woe.
+
+Refrain:
+Rejoice, rejoice, rejoice,
+Give thanks and sing.
 
 5.
-Grant us Thy truth to make us free
-And kindling hearts that burn for Thee;
-Till all Thy living altars claim
-One holy light, one heavenly flame!
-One holy light, one heavenly flame.
+Praise Him who reigns on high,
+The Lord whom we adore,
+The Father, Son and Holy Ghost,
+One God forever more.
+
+Refrain:
+Rejoice, rejoice, rejoice,
+Give thanks and sing.
+
 ```
 
 - |   -  |

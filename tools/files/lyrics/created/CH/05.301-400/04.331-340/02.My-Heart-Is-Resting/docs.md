@@ -11,29 +11,34 @@ metadata:
 
 ```txt
 1.
-Oh now I see the crimson wave,
-The fountain deep and wide;
-Jesus, my Lord, mighty to save,
-Points to His wounded side.
-
+My heart is resting, O my God, 
+I will give thanks and sing; 
+My heart is at the secret source 
+Of every precious thing. 
 
 2.
-I see the new creation rise,
-I hear the speaking blood;
-It speaks polluted nature dies,
-Sinks ‘neath the cleansing flood.
+I thirst for springs of heavenly life, 
+And here an day they rise; 
+I seek the treasure of Thy love, 
+And close at hand it lies. 
 
 3.
-I rise to walk in heaven’s own light,
-Above the world and sin;
-With heart made pure and garments white,
-And Christ enthroned within.
+I have a heritage of joy, 
+That yet I must not see; 
+The hand that bled to make it mine 
+Is keeping it for me. 
 
 4.
-Amazing grace! ’tis heaven below
-To feel the blood applied,
-And Jesus, only Jesus, know,
-My Jesus crucified.
+There is a certainty of love 
+That sets my heart at rest; 
+A calm assurance for today, 
+That to be poor is best. 
+
+5.
+A prayer, reposing on His truth, 
+Who hath made all things mine, 
+That draws my captive will to Him, 
+And makes it one with Thine.
 ```
 
 - |   -  |

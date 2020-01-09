@@ -11,45 +11,28 @@ metadata:
 
 ```txt
 1.
-I love to tell the story
-of unseen things above,
-of Jesus and his glory,
-of Jesus and his love.
-I love to tell the story,
-because I know ’tis true;
-it satisfies my longings
-as nothing else can do.
-
+Hail, peaceful day! divinely blest! 
+Sweetly thy glories would we sing, 
+Memorial of that sacred rest, 
+Of vast creation's mighty King; 
+This hallowed time to man was given, 
+A foretaste of the bliss of heaven. 
 
 2.
-I love to tell the story;
-more wonderful it seems
-than all the golden fancies
-of all our golden dreams.
-I love to tell the story,
-it did so much for me;
-and that is just the reason
-I tell it now to thee.
+Hark! through the shining courts above 
+What rapturous praises echo now 
+Around that holy law of love 
+Seraphs in adoration bow; 
+Let earth, responsive to the strain, 
+Exalt alone Jehovah's name 
 
 3.
-I love to tell the story;
-’tis pleasant to repeat
-what seems, each time I tell it,
-more wonderfully sweet.
-I love to tell the story,
-for some have never heard
-the message of salvation
-from God’s own holy Word.
-
-4.
-I love to tell the story,
-for those who know it best
-seem hungering and thirsting
-to hear it like the rest.
-And when, in scenes of glory,
-I sing the new, new song,
-’twill be the old, old story
-that I have loved so long.
+O come, thou bright, immortal day! 
+When at His temple all adore, 
+And own His universal sway 
+From age to age, forevermore; 
+Then Zion shall in triumph reign, 
+And Eden bloom on earth again.
 ```
 
 - |   -  |

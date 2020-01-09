@@ -11,28 +11,27 @@ metadata:
 
 ```txt
 1.
-Now praise the hidden God of love
-In whom we all must live and move,
-Who shepherds us, at every stage
-Thro’ youth, maturity, and age.
+Sweet promise is give to all who believe' 
+"Behold I come quickly, Mine own to receive; 
+Hold fast till I come; the danger is great; 
+Sleep not as do others; be watchful, and wait." 
+REFRAIN:
+"Hold fast till I come;" Sweet promise of heaven' 
+"The kingdom restored, to you shall be given." 
+"Come, enter my joy, sit down on My throne; 
+Bright crowns are in waiting; hold fast till I come." 
 
 2.
-Who challenged us, when were young
-To storm the citadels of wrong;
-In care for others taught us how
-God’s true community must grow.
+We'll "watch unto prayer" with lamps burning bright; 
+He comes to all others a "thief in the night." 
+We know he is near, but know not the day' 
+As spring shows that summer is not far away." 
 
 3.
-Who bids us never lose our zest,
-Tho’ age is urging us to rest,
-But proves to us that we have still
-A work to do, a place to fill.
-
-4.
-Then talk no more of wasted time,
-But Godward look, and upward climb,
-Content to sleep, when day is done,
-And rise refreshed, and travel on.
+Yes! this is our hope, 'tis built on his word' 
+The glorious appearing of Jesus, our Lord; 
+Of promises all, it stands as the sum: 
+"Behold I come quickly, hold fast till I come."
 ```
 
 - |   -  |

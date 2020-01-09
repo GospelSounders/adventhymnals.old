@@ -11,29 +11,34 @@ metadata:
 
 ```txt
 1.
-’Tis almost time for the Lord to come,
-I hear the people say;
-The stars of heaven are growing dim,
-It must be the breaking of the day.
-
+Hover o'er me, Holy Spirit,
+Bathe my trembling heart and brow;
+Fill me with Thy hallowed presence,
+Come, O come and fill me now.
+CHORUS:
+Fill me now, fill me now,
+Jesus, come and fill me now.
+Fill me with Thy hallowed presence,
+Come, O come and fill me now.
 
 2.
-The signs foretold in the sun and moon,
-In earth and sea and sky,
-Aloud proclaim to all mankind,
-The coming of the Master draweth nigh.
+Thou canst fill me, gracious Spirit,
+Though I cannot tell Thee how;
+But I need Thee, greatly need Thee;
+Come, O come and fill me now.
 
 3.
-It must be time for the waiting church
-To cast her pride away,
-With girded loins and burning lamps,
-To look for the breaking of the day.
+I am weakness, full of weakness;
+At Thy sacred feet I bow;
+Blest, divine, eternal Spirit,
+Fill with love, and fill me now.
 
 4.
-Go quickly out in the streets and lanes
-And in the broad highway,
-And call the maimed, the halt, and blind,
-To be ready for the breaking of the day.
+Cleanse and comfort, bless and save me;
+Bathe, O, bathe my heart and brow;
+Thou art comforting and saving,
+Thou art sweetly filling now.
+
 ```
 
 - |   -  |

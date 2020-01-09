@@ -11,44 +11,35 @@ metadata:
 
 ```txt
 1.
-Jesus is all the world to me,
-my life, my joy, my all;
-he is my strength from day to day,
-without him I would fall.
-When I am sad, to him I go,
-no other one can cheer me so;
-when I am sad, he makes me glad,
-he’s my friend.
+Heir of the kingdom, O why dost thou slumber?
+Why art thou sleeping so near thy blest home?
+Wake thee, arouse thee, and gird on thine armor,
+Speed, for the moments are hurrying on.
 
 2.
-Jesus is all the world to me,
-my friend in trials sore;
-I go to him for blessings, and
-he gives them o’er and o’er.
-He sends the sunshine and the rain,
-he sends the harvest’s golden grain;
-sunshine and rain, harvest of grain,
-he’s my friend.
+Heir of the kingdom, say, why dost thou linger?
+How canst thou tarry in sight of the prize?
+Up, and adorn thee, the Savior is coming;
+Haste to receive Him descending the skies.
 
 3.
-Jesus is all the world to me,
-and true to him I’ll be;
-O how could I this friend deny,
-when he’s so true to me?
-Following him I know I’m right,
-he watches o’er me day and night;
-following him by day and night,
-he’s my friend.
+Earth's mighty nations, in strife and commotion,
+Tremble with terror, and sink in dismay;
+Listen, 'tis nought but the chariot's loud rumbling;
+Heir of the kingdom, no longer delay.
 
 4.
-Jesus is all the world to me,
-I want no better friend;
-I trust him now, I’ll trust him when
-life’s fleeting days shall end.
-Beautiful life with such a friend,
-beautiful life that has no end;
-eternal life, eternal joy,
-he’s my friend.
+Stay not, O stay not for earth's vain allurements!
+See how its glory is passing away;
+Break the strong fetters the foe hath bound o'er thee;
+Heir of the kingdom, turn, turn thee away.
+
+5.
+Keep the eye single, the head upward lifted;
+Watch for the glory of earth's coming King;
+Lo! o'er the mountaintops light is now breaking;
+Heirs of the kingdom, rejoice ye and sing.
+
 ```
 
 - |   -  |

@@ -11,35 +11,29 @@ metadata:
 
 ```txt
 1.
-Rejoice ye pure in heart!
-Rejoice, give thanks, and sing;
-Your festal banner wave on high,
-The cross of Christ your King.
-
+Blessed Jesus, at Thy word,
+We have gathered all to hear Thee;
+By Thy word our hearts were stirred,
+Now to seek and love and fear Thee.
+By Thy teachings sweet and holy,
+Let us learn to love Thee solely.
 
 2.
-With voice as full and strong
-As ocean’s surging praise,
-Send forth the sturdy hymns of old,
-The psalms of ancient days.
+All our knowledge, sense, and sight,
+Lie in deepest darkness shrouded;
+Till Thy Spirit breaks our night,
+With His beams of truth unclouded.
+He alone to God canst win us,
+He who works all good within us.
 
 3.
-With all the angel choirs,
-With all the saints of earth,
-Pour out the strains of joy and bliss,
-True rapture, noblest mirth.
+Glorious Lord, Thy self impart!
+Light of light, from God proceeding.
+Open Thou our ears and heart
+Help us, by Thy Spirit's pleading.
+Hear the cry Thy people raises!
+Hear, and bless our prayer and praises!
 
-4.
-Yes, on through life’s long path,
-Still chanting as ye go;
-From youth to age, by night and day,
-In gladness and in woe.
-
-5.
-Praise Him who reigns on high,
-The Lord whom we adore,
-The Father, Son and Holy Ghost,
-One God forever more.
 ```
 
 - |   -  |

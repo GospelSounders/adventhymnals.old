@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-O little town of Bethlehem, how still we see thee lie!
-Above thy deep and dreamless sleep the silent stars go by.
-Yet in thy dark streets shineth the everlasting Light;
-The hopes and fears of all the years are met in thee tonight.
+The day of resurrection' 
+Earth, tell it out abroad' 
+The passover of gladness, 
+The passover of God. 
+From death to life eternal, 
+From this world to the sky, 
+Our Christ hath brought us over, 
+With hymns of victory. 
 
 2.
-For Christ is born of Mary, and gathered all above,
-While mortals sleep, the angels keep their watch of wondering love.
-O morning stars together, proclaim the holy birth,
-And praises sing to God the King, and peace to men on earth!
+Our hearts be pure from evil, 
+That we may see aright 
+The Lord in rays eternal 
+Of resurrection light, 
+And, listening to his accents, 
+May hear, so calm and plain, 
+His own "All hail!" and, hearing, 
+May raise the victor strain. 
 
 3.
-How silently, how silently, the wondrous Gift is giv’n;
-So God imparts to human hearts the blessings of His heav’n.
-No ear may hear His coming, but in this world of sin,
-Where meek souls will receive Him still, the dear Christ enters in.
+Now let the heavens be joyful, 
+Let earth the song begin, 
+Let the round world keep triumph 
+And all that is therein; 
+Invisible and visible, 
+Their notes let all things blend, 
+For Christ the Lord hath risen, 
+Our joy that hath no end.
 
-4.
-O holy Child of Bethlehem, descend to us, we pray;
-Cast out our sin, and enter in, be born in us today.
-We hear the Christmas angels the great glad tidings tell;
-O come to us, abide with us, our Lord Emmanuel!
 ```
 
 - |   -  |

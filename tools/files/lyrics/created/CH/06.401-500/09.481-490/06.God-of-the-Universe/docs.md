@@ -11,40 +11,28 @@ metadata:
 
 ```txt
 1.
-Father, I stretch my hands to Thee;
-No other help I know;
-If Thou withdraw Thyself from me,
-Ah, wither shall I go?
+God of the universe, to Thee 
+These sacred walls we rear; 
+And now, with songs and bended knee, 
+Invoke Thy presence here. 
 
 2.
-On Thy dear Son I now believe,
-O let me feel Thy power;
-And all my varied wants relieve,
-In this accepted hour.
+Here let Thy love, Thy presence, dwell; 
+Thy glory here make known; 
+Thy people's home, 0 come and fill, 
+And seal it as Thine own. 
 
 3.
-Author of faith! To Thee I lift
-My weary, longing eyes;
-O let me now receive that gift;
-My soul without it dies.
+When sad with care, by sin oppressed, 
+Here may the burdened soul 
+Beneath Thy sheltering wing find rest; 
+Here make the wounded whole. 
 
 4.
-Surely Thou canst not let me die;
-O speak, and I shall live;
-And here I will unwearied lie,
-Till Thou Thy Spirit give.
-
-5.
-How would my fainting soul rejoice
-Could I but see Thy face!
-Now let me hear Thy quickening voice,
-And taste Thy pardoning grace.
-
-6.
-I do believe, I now believe
-That Jesus died for me,
-And that He shed His precious blood
-From sin to set me free.
+And when the last long Sabbath morn 
+Upon the just shall rise, 
+May all who own Thee here, be borne 
+To mansions in the skies.
 ```
 
 - |   -  |

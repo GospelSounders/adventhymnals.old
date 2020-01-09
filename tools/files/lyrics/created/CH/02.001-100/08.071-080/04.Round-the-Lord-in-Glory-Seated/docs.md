@@ -11,23 +11,35 @@ metadata:
 
 ```txt
 1.
-Like a river glorious, is God’s perfect peace,
-Over all victorious, in its bright increase;
-Perfect, yet it floweth, fuller every day,
-Perfect, yet it groweth, deeper all the way.
-
+Round the Lord in glory seated, 
+Cherubim and seraphim 
+Filled His temple, and repeated 
+Each to each th'alternate hymn: 
+'Lord, Thy glory fills the heaven, 
+Earth is with Thy fullness stored; 
+Unto Thee be glory given, 
+Holy, holy, holy Lord.' 
 
 2.
-Hidden in the hollow of His blessed hand,
-Never foe can follow, never traitor stand;
-Not a surge of worry, not a shade of care,
-Not a blast of hurry touch the spirit there.
+Heaven is still with glory ringing, 
+Earth takes up the angels' cry, 
+'Holy, holy, holy,' singing, 
+'Lord of Hosts, the Lord most high.' 
+With His seraph train before Him, 
+With His holy church below, 
+Thus unite we to adore him, 
+Bid we thus our anthem flow. 
 
 3.
-Every joy or trial falleth from above,
-Traced upon our dial by the Sun of Love;
-We may trust Him fully all for us to do.
-They who trust Him wholly find Him wholly true.
+'Lord, Thy glory fills the heaven, 
+Earth is with Thy fullness stored; 
+Unto Thee be glory given, 
+Holy, holy, holy Lord.' 
+Thus Thy glorious name confessing, 
+With Thine angels hosts we cry, 
+'Holy, holy, holy,' blessing 
+Thee, the Lord of hosts Most High.
+
 ```
 
 - |   -  |

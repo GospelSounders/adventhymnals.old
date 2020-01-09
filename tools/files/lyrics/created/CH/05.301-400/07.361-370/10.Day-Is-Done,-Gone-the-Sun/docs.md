@@ -12,30 +12,30 @@ metadata:
 ```txt
 1.
 Christ for the world we sing,
-the world to Christ we bring,
-with loving zeal;
-the poor, and them that mourn,
-the faint and overborne,
-sinsick and sorrow-worn,
-whom Christ doth heal.
+The world to Christ we bring,
+With loving zeal;
+The poor, and them that mourn,
+The faint and overborne,
+Sinsick and sorrow-worn,
+Whom Christ doth heal.
 
 2.
 Christ for the world we sing,
-the world to Christ we bring,
-with fervent prayer;
-the wayward and the lost,
-by restless passions tossed,
-redeemed at countless cost,
-from dark despair.
+The world to Christ we bring,
+With fervent prayer;
+The wayward and the lost,
+By restless passions tossed,
+Redeemed at countless cost,
+From dark despair.
 
 3.
 Christ for the world we sing,
-the world to Christ we bring,
-with joyful song;
-the newborn souls, whose days,
-reclaimed from error’s ways,
-inspired with hope and praise,
-to Christ belong.
+The world to Christ we bring,
+With joyful song;
+The newborn souls, whose days,
+Reclaimed from error's ways,
+Inspired with hope and praise,
+To Christ belong.
 ```
 
 - |   -  |

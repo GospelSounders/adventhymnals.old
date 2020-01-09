@@ -11,27 +11,22 @@ metadata:
 
 ```txt
 1.
-To the world in kindness given;
-Welcome to this humble breast,
-As the beaming light from heaven.
+Shepherd divine, Thou leadest me 
+Where the still waters gently flow; 
+In pastures fair Thou feedest me; 
+I trust Thy love, no want I know. 
 
 2.
-Day of calm and sweet repose,
-Gently now thy moments run;
-Balm to soothe our cares and woes,
-Till our labor here is done.
+In danger's hour Thou hidest me, 
+Safe from the foe of Thy dear flock; 
+At sultry noon Thou guidest me, 
+To rest beside the cooling rock. 
 
 3.
-Holy day that most we prize,
-Day of solemn praise and prayer,
-Day to make the simple wise,
-O, how great thy blessings are!
-
-4.
-Welcome, welcome, day of rest,
-With thy influence all divine;
-May thy hallowed hours be blessed
-to this waiting heart of mine.
+When chilling dews of evening fall, 
+Then to the fold Thou bidst me come; 
+Gladly I hasten at Thy call; 
+Sweet is the voice that calls me home.
 ```
 
 - |   -  |

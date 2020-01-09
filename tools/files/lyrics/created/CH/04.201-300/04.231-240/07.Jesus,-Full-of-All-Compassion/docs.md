@@ -11,28 +11,35 @@ metadata:
 
 ```txt
 1.
-In the cross of Christ I glory,
-towering o’er the wrecks of time;
-all the light of sacred story
-gathers round its head sublime.
+Jesus, full of all compassion, 
+Hear thy humble suppliant's cry; 
+Let me know thy great salvation; 
+See, I languish, faint and die. 
+Guilty, but with heart relenting, 
+Overwhelmed with helpless grief, 
+Prostrate at Thy feet repining, 
+Send, O send me quick relief. 
 
 2.
-When the woes of life o’ertake me,
-hopes deceive, and fears annoy,
-never shall the cross forsake me.
-Lo! it glows with peace and joy.
+Whither should my soul be flying, 
+But to him who comfort gives? 
+Whither, from the dread of dying, 
+But to him who ever lives? 
+While I view thee, wounded, grieving, 
+Breathless, on the cursed tree, 
+Fain I'd feel my heart believing 
+Thou didst suffer thus for me. 
 
 3.
-When the sun of bliss is beaming
-light and love upon my way,
-from the cross the radiance streaming
-adds more luster to the day.
+With thy righteousness and Spirit, 
+I am more than angels blessed; 
+Heir with thee, all things inherit' 
+Peace, and joy, and endless rest. 
+Saved! the deed shall spread new glory 
+Through the shining realms above; 
+Angels sing the pleasing story, 
+All enraptured with thy love.
 
-4.
-Bane and blessing, pain and pleasure,
-by the cross are sanctified;
-peace is there that knows no measure,
-joys that through all time abide.
 ```
 
 - |   -  |

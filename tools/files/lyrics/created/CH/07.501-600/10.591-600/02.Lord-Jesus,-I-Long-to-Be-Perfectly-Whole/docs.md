@@ -11,22 +11,45 @@ metadata:
 
 ```txt
 1.
-Watchman, tell us of the night what its signs of promise are.
-Traveler, o’er yon mountain’s height, see that glory beaming star.
-Watchman, does its beauteous ray aught of joy or hope foretell?
-Traveler, yes; it brings the day, promised day of Israel.
+Lord Jesus, I long to be perfectly whole, 
+I want Thee forever to live in my soul; 
+Break down every idol, cast out every foe; 
+Now wash me, and I shall be whiter than snow. 
+
+Refrain:
+Whiter than snow, yes, whiter than snow; 
+Now wash me, and I shall be whiter than snow. 
 
 2.
-Watchman, tell us of the night, higher yet that star ascends.
-Traveler, blessedness and light, peace and truth its course portends.
-Watchman, will its beams alone gild the spot that gave them birth?
-Traveler, ages are its own; See it bursts o’er all the earth.
+Lord Jesus, look down from Thy throne in the skies, 
+And help me to make a complete sacrifice; 
+I give up myself and whatever I know; 
+Now wash me, and I shall be whiter than snow. 
+
+Refrain:
+Whiter than snow, yes, whiter than snow; 
+Now wash me, and I shall be whiter than snow. 
 
 3.
-Watchman, tell us of the night, for the morning seems to dawn.
-Traveler, darkness takes its flight, doubt and terror are withdrawn.
-Watchman, let your wanderings cease; hasten to your quiet home.
-Traveler, lo, the Prince of Peace, lo, the Son of God is come!
+Lord Jesus, for this I most humbly entreat; 
+I wait, blessed Lord, at Thy crucified feet; 
+By faith, for my cleansing; I see Thy blood flow; 
+Now wash me, and I shall be whiter than snow. 
+
+Refrain:
+Whiter than snow, yes, whiter than snow; 
+Now wash me, and I shall be whiter than snow. 
+
+4.
+Lord Jesus, Thou seest I patiently wait; 
+Come now, and within me a new heart create; 
+To those who have sought Thee, Thou never saidst, No; 
+Now wash me, and I shall be whiter than snow.
+
+Refrain:
+Whiter than snow, yes, whiter than snow; 
+Now wash me, and I shall be whiter than snow. 
+
 ```
 
 - |   -  |

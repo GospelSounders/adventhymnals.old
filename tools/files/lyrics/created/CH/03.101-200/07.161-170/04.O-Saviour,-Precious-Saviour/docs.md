@@ -11,34 +11,45 @@ metadata:
 
 ```txt
 1.
-There is a green hill far away,
-Without a city wall,
-Where the dear Lord was crucified,
-Who died to save us all.
+O Saviour, precious Saviour, 
+Whom, yet unseen, we love, 
+O Name of might and favor, 
+All other names above! 
+We worship Thee, we bless Thee, 
+To Thee, O Christ we sing; 
+We praise Thee, and confess Thee 
+Our holy Lord and King. 
 
 2.
-We may not know, we cannot tell,
-What pains He had to bear,
-But we believe it was for us
-He hung and suffered there.
+O bringer of salvation, 
+Who wondrously hast wrought, 
+Thyself the revelation 
+Of love beyond out thought, 
+We worship Thee, we bless Thee, 
+To Thee, O Christ we sing; 
+We praise Thee, and confess Thee 
+Our gracious Lord and King. 
 
 3.
-He died that we might be forgiven,
-He died to make us good,
-That we might go at last to heaven,
-Saved by His precious blood.
+In Thee all fulness dwelleth, 
+All grace and power divine; 
+The glory that excelleth, 
+O Son of God, is Thine; 
+We worship Thee, we bless Thee, 
+To Thee, O Christ we sing; 
+We praise Thee, and confess Thee 
+Our glorious Lord and King. 
 
 4.
-There was no other good enough
-To pay the price of sin;
-He only could unlock the gate
-Of heaven, and let us in.
+O grant the consummation 
+Of this our song above, 
+In endless adoration, 
+And everlasting love; 
+Then shall we praise and bless Thee 
+Where perfect praises ring, 
+And evermore confess Thee 
+Our Saviour and our King.
 
-5.
-O dearly, dearly has He loved!
-And we must love Him too,
-And trust in His redeeming blood,
-And try His works to do.
 ```
 
 - |   -  |

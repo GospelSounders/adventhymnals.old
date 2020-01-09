@@ -11,28 +11,41 @@ metadata:
 
 ```txt
 1.
-Jesus shall reign where’er the sun
-Does his successive journeys run;
-His kingdom stretch from shore to shore,
-Till moons shall wax and wane no more.
+Behold the Saviour at the door! 
+He gently knocks, has knocked before, 
+Has waited long, is waiting still; 
+You treat no other friend so ill. 
 
 2.
-People and realms of ev’ry tongue
-Dwell on His love with sweetest song,
-And infant voices shall proclaim
-Their early blessings on His name.
+He counsels thee to buy of him 
+Gold tried by fire, and raiment clean; 
+Anoint thine eyes, that thou mayest see, 
+And put away thy stains from thee. 
 
 3.
-Blessings abound wherever He reigns;
-The prisoner leaps to lose his chains;
-The weary find eternal rest,
-And all who suffer want are blessed.
+O, hear the faithful Witness' voice, 
+He offers now a final choice; 
+Thou art offensive, O lukewarm! 
+Therefore be zealous and reform. 
 
 4.
-Let every creature rise and bring
-Honors peculiar to our King;
-Angels descend with songs again,
-And earth repeat the loud amen!
+His mission now is almost o'er, 
+Before the throne He'll plead no more; 
+The filthy must his filth retain, 
+He that is holy, so remain. 
+
+5.
+His locks with dews of night are wet, 
+But at thy heart he lingereth yet. 
+O wake, and open wide the door; 
+Bid thy Beloved wait no more. 
+
+6.
+Yea, bring him in, a welcome guest; 
+So shalt thou in his presence rest, 
+And in communion sweet and free, 
+Shalt sup with him and he with thee.
+
 ```
 
 - |   -  |

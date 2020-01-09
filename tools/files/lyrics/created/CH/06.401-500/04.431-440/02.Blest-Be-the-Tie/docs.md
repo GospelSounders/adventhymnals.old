@@ -11,29 +11,28 @@ metadata:
 
 ```txt
 1.
-Shall we gather at the river,
-where bright angel feet have trod,
-with its crystal tide forever
-flowing by the throne of God?
-
+Blest be the tie that binds
+Our hearts in Christian love;
+The fellowship of kindred minds
+Is like to that above.
 
 2.
-On the margin of the river,
-washing up its silver spray,
-we will walk and worship ever,
-all the happy golden day.
+Before our Father's throne
+We pour our ardent prayers;
+Our fears, our hopes, our aims are one,
+Our comforts and our cares.
 
 3.
-Ere we reach the shining river,
-lay we every burden down;
-grace our spirits will deliver,
-and provide a robe and crown.
+We share each other's woes,
+Our mutual burdens bear;
+And often for each other flows
+The sympathizing tear.
 
 4.
-Soon we’ll reach the shining river,
-soon our pilgrimage will cease;
-soon our happy hearts will quiver
-with the melody of peace.
+When we asunder part,
+It gives us inward pain;
+But we shall still be joined in heart,
+And hope to meet again.
 ```
 
 - |   -  |

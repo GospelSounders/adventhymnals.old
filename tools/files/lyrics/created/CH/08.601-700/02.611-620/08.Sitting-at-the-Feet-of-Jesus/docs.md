@@ -11,28 +11,34 @@ metadata:
 
 ```txt
 1.
-Stand up, stand up for Jesus! ye soldiers of the cross;
-Lift high His royal banner, it must not suffer loss:
-From vict’ry unto vict’ry, His army shall He lead,
-Till every foe is vanquished, and Christ is Lord indeed.
+Sitting at the feet of Jesus, 
+O what words I hear Him say! 
+Happy place! so near, so precious! 
+May it find me there each day; 
+Sitting at the feet of Jesus, 
+I would look upon the past, 
+For His love has been so gracious, 
+It has won my heart at last. 
 
 2.
-Stand up, stand up for Jesus! The trumpet call obey:
-Forth to the mighty conflict, in this His glorious day;
-Ye that are men now serve Him against unnumbered foes;
-Let courage rise with danger, and strength to strength oppose.
+Sitting at the feel of Jesus, 
+Where can mortal be more blest? 
+There I lay my sins and sorrows, 
+And, when weary, find sweet rest; 
+Silting at the feet of Jesus, 
+There I love to weep and pray, 
+While I from His fullness gather 
+Grace and comfort every day. 
 
 3.
-Stand up, stand up for Jesus! Stand in His strength alone,
-The arm of flesh will fail you, ye dare not trust your own;
-Put on the gospel armor, and watching unto prayer,
-Where calls the voice of duty, be never wanting there.
-
-4.
-Stand up, stand up for Jesus! the strife will not be long;
-This day the noise of battle, the next the victor’s song;
-To him that overcometh a crown of life shall be;
-He with the King of glory shall reign eternally.
+Bless me, O my Saviour, bless me, 
+As I'm waiting at Thy feet, 
+O look down in love upon me, 
+Let me see Thy face so sweet; 
+Give me, Lord, the mind of Jesus, 
+Make me holy as He is, 
+May I prove I've been with Jesus, 
+Who is all my righteousness.
 ```
 
 - |   -  |

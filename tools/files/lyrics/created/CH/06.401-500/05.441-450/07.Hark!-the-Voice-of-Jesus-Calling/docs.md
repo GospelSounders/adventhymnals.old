@@ -11,44 +11,44 @@ metadata:
 
 ```txt
 1.
-Long upon the mountains weary,
-Have the scattered flocks been torn;
-Dark the dessert paths, and dreary;
-Grievous trials have they borne.
-Now the gathering call is sounding,
-Solemn in its warning voice;
-Union, faith, and love, abounding,
-Bid the little flock rejoice.
+Hark! the voice of Jesus calling,
+Who will go and work today?
+Fields are white, the harvest waiting,
+Who will bear the sheaves away?
+Loud and long the Master calleth,
+Rich reward He offers free;
+Who will answer, gladly saying,
+Here am I, O Lord, send me?
 
 2.
-Now the light of truth they’re seeking,
-In its onward track pursue;
-All the ten commandments keeping,
-They are holy, just, and true.
-On the words of lire they’re feeding,
-Precious to their taste so sweet;
-All their Master’s percepts heeding,
-Bowing humbly to His feet.
+If you cannot cross the ocean
+And the heathen lands explore,
+You can find the heathen nearer,
+You can help them at your door;
+If you cannot speak like angels,
+If you cannot preach like Paul,
+You can tell the love of Jesus,
+You can say He died for all.
 
 3.
-In that light of light and beauty,
-In that golden city fair,
-Soon its pearly gates they’ll enter,
-And of all its glories share.
-There, divine the soul’s expansions;
-Free from sin, and death, and pain;
-Tear will never dim those mansions
-Where the souls immortal reign.
+If you cannot be the watchman,
+Standing high on Zion's wall,
+Pointing out the path to heaven,
+Offering life and peace to all;
+With your prayers and with your bounties
+You can do what Heaven demands,
+You can be like faithful Aaron,
+Holding up the prophet's hands.
 
 4.
-Soon He comes! With clouds descending;
-All His saints, entombed arise;
-The redeemed, in anthems blending,
-Shout their vict’ry thro’ the skies.
-O, we long for Thine appearing;
-Come, O Savior, quickly come!
-Blessed hope! Our spirits cheering,
-Take thy ransomed children home.
+While the souls of men are dying,
+And the Master calls for you,
+Let none hear you idly saying,
+There is nothing I can do!
+Gladly take the task He gives you,
+Let His work your pleasure be;
+Answer quickly when He calleth,
+Here am I, O Lord, send me.
 ```
 
 - |   -  |

@@ -11,28 +11,31 @@ metadata:
 
 ```txt
 1.
-I love thy kingdom, Lord,
-the house of thine abode,
-the church our blest Redeemer saved
-with his own precious blood.
+Anywhere, dear Saviour, 
+In Thy vineyard wide, 
+Where Thou bidst me labor, 
+Lord, there would I abide, 
+Miracle of saving grace, 
+That Thou givest me a place 
+Anywhere, dear Saviour, to work for Thee. 
 
 2.
-I love thy church, O God!
-Her walls before thee stand
-dear as the apple of thine eye,
-and graven on thy hand.
+Where the night may find us, 
+Surely matters not; 
+If we camp with Jesus, 
+O blessed is the spot! 
+Quickly we the tent may fold, 
+Cheerful march through storm or cold, 
+Anywhere, dear Saviour, to work for Thee. 
 
 3.
-Beyond my highest joy
-I prize her heavenly ways,
-her sweet communion, solemn vows,
-her hymns of love and praise.
-
-4.
-Sure as thy truth shall last,
-to Zion shall be given
-the brightest glories earth can yield,
-and brighter bliss of heaven.
+All along the journey, 
+Let us fix our eyes 
+On the "Rock of Ages," 
+Until we gain the prize. 
+There the heart will make its home, 
+Willing led by Thee to roam, 
+Anywhere, dear Saviour, to work for Thee.
 ```
 
 - |   -  |
