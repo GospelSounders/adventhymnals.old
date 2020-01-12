@@ -2,7 +2,7 @@
 title: 479. Would You Win a Saviour's Blessing?
 metadata:
     description: 
-    keywords: Church Hymnal, Would You Win a Saviour's Blessing?, Would you win a Saviour&#039;s blessing?, 
+    keywords: Church Hymnal, Would You Win a Saviour's Blessing?, Would you win a Saviour's blessing?, 
     author: Brian Onang'o
 ---
 
@@ -46,7 +46,7 @@ Freely, freely give.
 Title | Would You Win a Saviour's Blessing? |
 Key | D Major |
 Titles |  |
-First Line | Would you win a Saviour&#039;s blessing? |
+First Line | Would you win a Saviour's blessing? |
 Author | Fanny J. Crosby
 Year | 1941
 Composer| Theo. E. Perkins |
@@ -60,4 +60,26 @@ Subjects | The Church and Doctrines: Tithes and Offerings |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

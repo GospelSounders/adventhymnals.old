@@ -2,7 +2,7 @@
 title: 535. 'Tis Finished!
 metadata:
     description: 
-    keywords: Church Hymnal, 'Tis Finished!, "&#039;Tis finished!" so the Saviour cried, 
+    keywords: Church Hymnal, 'Tis Finished!, "'Tis finished!" so the Saviour cried, 
     author: Brian Onang'o
 ---
 
@@ -40,7 +40,7 @@ And swell the chorus of the skies!
 Title | 'Tis Finished! |
 Key |  |
 Titles |  |
-First Line | "&#039;Tis finished!" so the Saviour cried |
+First Line | "'Tis finished!" so the Saviour cried |
 Author | Samuel Stennett
 Year | 1941
 Composer| Lowell Mason (1792-1872) |
@@ -54,4 +54,26 @@ Subjects | Sabbath School: Sufferings and Death |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

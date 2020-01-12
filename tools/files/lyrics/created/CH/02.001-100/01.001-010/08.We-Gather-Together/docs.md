@@ -2,7 +2,7 @@
 title: 8. We Gather Together
 metadata:
     description: 
-    keywords: Church Hymnal, We Gather Together, We gather together to ask the Lord&#039;s blessing, 
+    keywords: Church Hymnal, We Gather Together, We gather together to ask the Lord's blessing, 
     author: Brian Onang'o
 ---
 
@@ -35,7 +35,7 @@ Thy name be ever praised! O Lord, make us free!
 Title | We Gather Together |
 Key | D Major |
 Titles |  |
-First Line | We gather together to ask the Lord&#039;s blessing |
+First Line | We gather together to ask the Lord's blessing |
 Author | Anonymous
 Year | 1941
 Composer| Edward Kremser (1838-1914) |
@@ -49,4 +49,26 @@ Subjects | Worship: Adoration and Praise |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

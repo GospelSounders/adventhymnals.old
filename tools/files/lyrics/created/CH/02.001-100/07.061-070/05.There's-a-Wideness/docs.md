@@ -2,7 +2,7 @@
 title: 65. There's a Wideness
 metadata:
     description: 
-    keywords: Church Hymnal, There's a Wideness, There&#039;s a wideness in God&#039;s mercy, 
+    keywords: Church Hymnal, There's a Wideness, There's a wideness in God's mercy, 
     author: Brian Onang'o
 ---
 
@@ -41,7 +41,7 @@ In the sweetness of our Lord.
 Title | There's a Wideness |
 Key | C Major |
 Titles |  |
-First Line | There&#039;s a wideness in God&#039;s mercy |
+First Line | There's a wideness in God's mercy |
 Author | Frederick W. Faber
 Year | 1941
 Composer| Lizzie S. Tourjee |
@@ -55,4 +55,26 @@ Subjects | God the Father: Love of God |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

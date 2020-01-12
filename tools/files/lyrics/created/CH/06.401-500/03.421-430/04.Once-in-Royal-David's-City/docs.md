@@ -2,7 +2,7 @@
 title: 424. Once in Royal David's City
 metadata:
     description: 
-    keywords: Church Hymnal, Once in Royal David's City, Once in royal David&#039;s city, 
+    keywords: Church Hymnal, Once in Royal David's City, Once in royal David's city, 
     author: Brian Onang'o
 ---
 
@@ -48,7 +48,7 @@ To the place where He is gone.
 Title | Once in Royal David's City |
 Key | F Major |
 Titles |  |
-First Line | Once in royal David&#039;s city |
+First Line | Once in royal David's city |
 Author | Cecil F. Alexander
 Year | 1941
 Composer| Henry J. Gauntlett |
@@ -62,4 +62,26 @@ Subjects | The Christian Home : Hymns for Children |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

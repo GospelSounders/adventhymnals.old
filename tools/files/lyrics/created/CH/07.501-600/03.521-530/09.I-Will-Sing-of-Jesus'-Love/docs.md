@@ -2,7 +2,7 @@
 title: 529. I Will Sing of Jesus' Love
 metadata:
     description: 
-    keywords: Church Hymnal, I Will Sing of Jesus' Love, I will sing of Jesus&#039; love , I will sing of Jesus' love
+    keywords: Church Hymnal, I Will Sing of Jesus' Love, I will sing of Jesus' love , I will sing of Jesus' love
     author: Brian Onang'o
 ---
 
@@ -65,12 +65,12 @@ I will sing His love to me.
 Title | I Will Sing of Jesus' Love |
 Key | B♭ Major |
 Titles | I will sing of Jesus' love |
-First Line | I will sing of Jesus&#039; love  |
+First Line | I will sing of Jesus' love  |
 Author | F. E. Belden
 Year | 1941
 Composer| F. E. Belden |
 Hymnal|  - |
-Tune| I will sing of Jesus&#039; love |
+Tune| I will sing of Jesus' love |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | Yes |
@@ -79,4 +79,26 @@ Subjects | Sabbath School: Jesus' Love and Sympathy |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

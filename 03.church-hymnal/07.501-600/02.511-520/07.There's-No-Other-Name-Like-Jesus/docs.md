@@ -2,7 +2,7 @@
 title: 517. There's No Other Name Like Jesus
 metadata:
     description: 
-    keywords: Church Hymnal, There's No Other Name Like Jesus, There&#039;s no other name like Jesus, Sweet name, dear name
+    keywords: Church Hymnal, There's No Other Name Like Jesus, There's no other name like Jesus, Sweet name, dear name
     author: Brian Onang'o
 ---
 
@@ -51,12 +51,12 @@ Is my dying trust and stay.
 Title | There's No Other Name Like Jesus |
 Key | G Major |
 Titles | Sweet name, dear name |
-First Line | There&#039;s no other name like Jesus |
+First Line | There's no other name like Jesus |
 Author | F. E. Belden
 Year | 1941
 Composer| F. E. Belden |
 Hymnal|  - |
-Tune| There&#039;s no other name like Jesus |
+Tune| There's no other name like Jesus |
 Metrical pattern | |
 # Stanzas | 5 |
 Chorus | No |
@@ -65,4 +65,26 @@ Subjects |  |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

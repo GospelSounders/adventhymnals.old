@@ -2,7 +2,7 @@
 title: 307. The Time Is Near
 metadata:
     description: 
-    keywords: Church Hymnal, The Time Is Near, The time is near when Zion&#039;s sons, 
+    keywords: Church Hymnal, The Time Is Near, The time is near when Zion's sons, 
     author: Brian Onang'o
 ---
 
@@ -45,7 +45,7 @@ Glory, glory to the Lamb!
 Title | The Time Is Near |
 Key | F Major |
 Titles |  |
-First Line | The time is near when Zion&#039;s sons |
+First Line | The time is near when Zion's sons |
 Author | R. F. Cottrell
 Year | 1941
 Composer| Lowell Mason (1792-1872) |
@@ -59,4 +59,26 @@ Subjects | The Gospel: Eternal Life |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

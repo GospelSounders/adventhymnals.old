@@ -2,7 +2,7 @@
 title: 188. Star of Our Hope
 metadata:
     description: 
-    keywords: Church Hymnal, Star of Our Hope, Star of our hope! He&#039;ll soon appear, 
+    keywords: Church Hymnal, Star of Our Hope, Star of our hope! He'll soon appear, 
     author: Brian Onang'o
 ---
 
@@ -41,7 +41,7 @@ And hail Him their triumphant King.
 Title | Star of Our Hope |
 Key | A Major |
 Titles |  |
-First Line | Star of our hope! He&#039;ll soon appear |
+First Line | Star of our hope! He'll soon appear |
 Author | Anon.
 Year | 1941
 Composer| William Knapp |
@@ -55,4 +55,26 @@ Subjects | Jesus Christ: His Second Coming |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

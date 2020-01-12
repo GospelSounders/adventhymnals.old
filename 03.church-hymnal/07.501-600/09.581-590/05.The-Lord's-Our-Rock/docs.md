@@ -2,7 +2,7 @@
 title: 585. The Lord's Our Rock
 metadata:
     description: 
-    keywords: Church Hymnal, The Lord's Our Rock, The Lord&#039;s our Rock, in Him we hide , Mighty Rock in a weary land
+    keywords: Church Hymnal, The Lord's Our Rock, The Lord's our Rock, in Him we hide , Mighty Rock in a weary land
     author: Brian Onang'o
 ---
 
@@ -65,7 +65,7 @@ A Shelter in the time of storm.
 Title | The Lord's Our Rock |
 Key | F Major |
 Titles | Mighty Rock in a weary land |
-First Line | The Lord&#039;s our Rock, in Him we hide  |
+First Line | The Lord's our Rock, in Him we hide  |
 Author | J. V. C. 
 Year | 1941
 Composer| F. E. Belden |
@@ -79,4 +79,26 @@ Subjects | Sabbath School: Faith and Trust |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

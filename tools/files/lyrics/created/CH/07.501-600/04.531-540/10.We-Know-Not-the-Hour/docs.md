@@ -2,7 +2,7 @@
 title: 540. We Know Not the Hour
 metadata:
     description: 
-    keywords: Church Hymnal, We Know Not the Hour, We know not the hour of the Master&#039;s appearing, He will come, let us watch and be ready
+    keywords: Church Hymnal, We Know Not the Hour, We know not the hour of the Master's appearing, He will come, let us watch and be ready
     author: Brian Onang'o
 ---
 
@@ -39,12 +39,12 @@ But we know not the hour.
 Title | We Know Not the Hour |
 Key | C Major |
 Titles | He will come, let us watch and be ready |
-First Line | We know not the hour of the Master&#039;s appearing |
+First Line | We know not the hour of the Master's appearing |
 Author | F. E. Belden
 Year | 1941
 Composer| F. E. Belden |
 Hymnal|  - |
-Tune| We know not the hour of the Master&#039;s appearing |
+Tune| We know not the hour of the Master's appearing |
 Metrical pattern | |
 # Stanzas | 3 |
 Chorus | No |
@@ -53,4 +53,26 @@ Subjects | Sabbath School: Second Coming |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

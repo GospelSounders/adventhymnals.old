@@ -2,7 +2,7 @@
 title: 319. Prayer Is the Soul's Sincere Desire
 metadata:
     description: 
-    keywords: Church Hymnal, Prayer Is the Soul's Sincere Desire, Prayer is the soul&#039;s sincere desire, 
+    keywords: Church Hymnal, Prayer Is the Soul's Sincere Desire, Prayer is the soul's sincere desire, 
     author: Brian Onang'o
 ---
 
@@ -56,7 +56,7 @@ Lord, teach us how to pray.
 Title | Prayer Is the Soul's Sincere Desire |
 Key | c minor |
 Titles |  |
-First Line | Prayer is the soul&#039;s sincere desire |
+First Line | Prayer is the soul's sincere desire |
 Author | James Mongtomery
 Year | 1941
 Composer| Arthur Sullivan |
@@ -70,4 +70,26 @@ Subjects | The Christian Life: Meditation and Prayer |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

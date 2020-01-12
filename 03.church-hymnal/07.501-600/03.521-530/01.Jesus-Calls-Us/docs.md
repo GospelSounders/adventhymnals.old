@@ -2,7 +2,7 @@
 title: 521. Jesus Calls Us
 metadata:
     description: 
-    keywords: Church Hymnal, Jesus Calls Us, Jesus calls us; o&#039;er the tumult, 
+    keywords: Church Hymnal, Jesus Calls Us, Jesus calls us; o'er the tumult, 
     author: Brian Onang'o
 ---
 
@@ -40,7 +40,7 @@ Serve and love Thee best of all.
 Title | Jesus Calls Us |
 Key | B♭ Major |
 Titles |  |
-First Line | Jesus calls us; o&#039;er the tumult |
+First Line | Jesus calls us; o'er the tumult |
 Author |  Frances Alexander
 Year | 1941
 Composer| William H. Jude |
@@ -54,4 +54,26 @@ Subjects | Hymns for Social Worship |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

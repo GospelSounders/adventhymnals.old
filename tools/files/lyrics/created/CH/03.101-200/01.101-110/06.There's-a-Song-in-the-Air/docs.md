@@ -2,7 +2,7 @@
 title: 106. There's a Song in the Air
 metadata:
     description: 
-    keywords: Church Hymnal, There's a Song in the Air, There&#039;s a song in the air!, 
+    keywords: Church Hymnal, There's a Song in the Air, There's a song in the air!, 
     author: Brian Onang'o
 ---
 
@@ -57,7 +57,7 @@ Our Savior and King!
 Title | There's a Song in the Air |
 Key | G Major |
 Titles |  |
-First Line | There&#039;s a song in the air! |
+First Line | There's a song in the air! |
 Author | Josiah G. Holland
 Year | 1941
 Composer| Karl P. Harrington |
@@ -71,4 +71,26 @@ Subjects | Jesus Christ: His Incarnation and Advent |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

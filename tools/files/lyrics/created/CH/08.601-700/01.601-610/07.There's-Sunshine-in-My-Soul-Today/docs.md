@@ -2,7 +2,7 @@
 title: 607. There's Sunshine in My Soul Today
 metadata:
     description: 
-    keywords: Church Hymnal, There's Sunshine in My Soul Today, There&#039;s sunshine in my soul today, O there's sunshine
+    keywords: Church Hymnal, There's Sunshine in My Soul Today, There's sunshine in my soul today, O there's sunshine
     author: Brian Onang'o
 ---
 
@@ -45,12 +45,12 @@ For joys laid up above.
 Title | There's Sunshine in My Soul Today |
 Key | A♭ Major |
 Titles | O there's sunshine |
-First Line | There&#039;s sunshine in my soul today |
+First Line | There's sunshine in my soul today |
 Author | E. E. Hewitt
 Year | 1941
 Composer| John R. Sweney |
 Hymnal|  - |
-Tune| There&#039;s sunshine in my soul today |
+Tune| There's sunshine in my soul today |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -59,4 +59,26 @@ Subjects | Sabbath School: Joy or Peace |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

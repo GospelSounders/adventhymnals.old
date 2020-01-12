@@ -2,7 +2,7 @@
 title: 23. Lord, With Glowing Heart I'd Praise Thee
 metadata:
     description: 
-    keywords: Church Hymnal, Lord, With Glowing Heart I'd Praise Thee, Lord, with glowing heart I&#039;d praise Thee, 
+    keywords: Church Hymnal, Lord, With Glowing Heart I'd Praise Thee, Lord, with glowing heart I'd praise Thee, 
     author: Brian Onang'o
 ---
 
@@ -47,7 +47,7 @@ Let my life show forth Thy praise.
 Title | Lord, With Glowing Heart I'd Praise Thee |
 Key | G Major |
 Titles |  |
-First Line | Lord, with glowing heart I&#039;d praise Thee |
+First Line | Lord, with glowing heart I'd praise Thee |
 Author | Francis Scott Key
 Year | 1941
 Composer| Harold A. Miller |
@@ -61,4 +61,26 @@ Subjects | Worship: Adoration and Praise |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

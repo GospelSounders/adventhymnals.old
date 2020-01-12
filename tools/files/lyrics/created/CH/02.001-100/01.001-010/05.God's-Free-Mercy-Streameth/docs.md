@@ -2,7 +2,7 @@
 title: 5. God's Free Mercy Streameth
 metadata:
     description: 
-    keywords: Church Hymnal, God's Free Mercy Streameth, God&#039;s free mercy streameth, 
+    keywords: Church Hymnal, God's Free Mercy Streameth, God's free mercy streameth, 
     author: Brian Onang'o
 ---
 
@@ -56,7 +56,7 @@ To the endless day.
 Title | God's Free Mercy Streameth |
 Key | E♭ Major |
 Titles |  |
-First Line | God&#039;s free mercy streameth |
+First Line | God's free mercy streameth |
 Author | William W. How
 Year | 1941
 Composer| Samuel Smith |
@@ -70,4 +70,26 @@ Subjects | Worship: Adoration and Praise |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

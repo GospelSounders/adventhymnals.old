@@ -37,7 +37,7 @@ Titles |  |
 First Line | I need Thee, precious Jesus |
 Author | F. Whitefield
 Year | 1941
-Composer| Chretien D&#039;Urhan |
+Composer| Chretien D'Urhan |
 Hymnal|  - |
 Tune| RUTHERFORD |
 Metrical pattern | |
@@ -48,4 +48,26 @@ Subjects | Sabbath School: Meditation and Prayer |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

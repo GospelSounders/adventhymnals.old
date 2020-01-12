@@ -52,7 +52,7 @@ Author | John Keble (1792-1866)
 Year | 1941
 Composer| Thomas Tallis (1510-1585) |
 Hymnal|  - |
-Tune| TALLIS&#039; ORDINAL |
+Tune| TALLIS' ORDINAL |
 Metrical pattern | |
 # Stanzas | 5 |
 Chorus | No |
@@ -61,4 +61,26 @@ Subjects | God the Father: God's Power in Nature |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

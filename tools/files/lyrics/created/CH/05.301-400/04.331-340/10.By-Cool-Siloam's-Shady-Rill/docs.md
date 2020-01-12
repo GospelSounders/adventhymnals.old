@@ -2,7 +2,7 @@
 title: 340. By Cool Siloam's Shady Rill
 metadata:
     description: 
-    keywords: Church Hymnal, By Cool Siloam's Shady Rill, By cool Siloam&#039;s shady rill, 
+    keywords: Church Hymnal, By Cool Siloam's Shady Rill, By cool Siloam's shady rill, 
     author: Brian Onang'o
 ---
 
@@ -34,7 +34,7 @@ To keep us still Thine own.
 Title | By Cool Siloam's Shady Rill |
 Key | D Major |
 Titles |  |
-First Line | By cool Siloam&#039;s shady rill |
+First Line | By cool Siloam's shady rill |
 Author | Reginald Heber
 Year | 1941
 Composer| Isaac B. Woodbury |
@@ -48,4 +48,26 @@ Subjects | The Christian Life: Discipleship |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

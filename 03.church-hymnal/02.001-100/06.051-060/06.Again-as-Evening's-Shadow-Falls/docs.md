@@ -2,7 +2,7 @@
 title: 56. Again as Evening's Shadow Falls
 metadata:
     description: 
-    keywords: Church Hymnal, Again as Evening's Shadow Falls, Again, as evening&#039;s shadow falls, 
+    keywords: Church Hymnal, Again as Evening's Shadow Falls, Again, as evening's shadow falls, 
     author: Brian Onang'o
 ---
 
@@ -36,7 +36,7 @@ Amen.
 Title | Again as Evening's Shadow Falls |
 Key | A♭ Major |
 Titles |  |
-First Line | Again, as evening&#039;s shadow falls |
+First Line | Again, as evening's shadow falls |
 Author | Samuel Longfellow
 Year | 1941
 Composer| Herbert S. Oakeley |
@@ -50,4 +50,26 @@ Subjects | Worship: Evening Hymns |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

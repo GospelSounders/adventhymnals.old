@@ -2,7 +2,7 @@
 title: 191. He's Coming Once Again
 metadata:
     description: 
-    keywords: Church Hymnal, He's Coming Once Again, He&#039;s coming once again, 
+    keywords: Church Hymnal, He's Coming Once Again, He's coming once again, 
     author: Brian Onang'o
 ---
 
@@ -47,7 +47,7 @@ Will mark earth's mighty men.
 Title | He's Coming Once Again |
 Key | B♭ Major |
 Titles |  |
-First Line | He&#039;s coming once again |
+First Line | He's coming once again |
 Author | F. E. Belden
 Year | 1941
 Composer| F. E. Belden |
@@ -61,4 +61,26 @@ Subjects | Jesus Christ: His Second Coming |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

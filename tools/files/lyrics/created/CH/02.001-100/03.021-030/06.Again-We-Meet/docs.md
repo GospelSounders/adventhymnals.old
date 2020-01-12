@@ -2,7 +2,7 @@
 title: 26. Again We Meet
 metadata:
     description: 
-    keywords: Church Hymnal, Again We Meet, Father, again in Jesus&#039; name we meet, 
+    keywords: Church Hymnal, Again We Meet, Father, again in Jesus' name we meet, 
     author: Brian Onang'o
 ---
 
@@ -41,7 +41,7 @@ Open blessed mercy's gate, and take us in.
 Title | Again We Meet |
 Key | E♭ Major |
 Titles |  |
-First Line | Father, again in Jesus&#039; name we meet |
+First Line | Father, again in Jesus' name we meet |
 Author | Lucy Whitmore
 Year | 1941
 Composer| J. B. Dykes |
@@ -55,4 +55,26 @@ Subjects | Worship: Opening of Worship |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

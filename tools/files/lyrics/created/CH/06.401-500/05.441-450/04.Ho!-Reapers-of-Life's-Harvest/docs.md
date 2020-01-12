@@ -2,7 +2,7 @@
 title: 444. Ho! Reapers of Life's Harvest
 metadata:
     description: 
-    keywords: Church Hymnal, Ho! Reapers of Life's Harvest, Ho! reapers of life&#039;s harvest , 
+    keywords: Church Hymnal, Ho! Reapers of Life's Harvest, Ho! reapers of life's harvest , 
     author: Brian Onang'o
 ---
 
@@ -56,12 +56,12 @@ Will be thy rich reward.
 Title | Ho! Reapers of Life's Harvest |
 Key | C Major |
 Titles |  |
-First Line | Ho! reapers of life&#039;s harvest  |
+First Line | Ho! reapers of life's harvest  |
 Author | Isaac B. Woodbury
 Year | 1941
 Composer| Isaac B. Woodbury |
 Hymnal|  - |
-Tune| LIFE&#039;S HARVEST |
+Tune| LIFE'S HARVEST |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -70,4 +70,26 @@ Subjects | The Church and Doctrines: Ministry and Missions |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

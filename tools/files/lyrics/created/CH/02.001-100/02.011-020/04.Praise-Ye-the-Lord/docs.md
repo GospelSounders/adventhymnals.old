@@ -2,7 +2,7 @@
 title: 14. Praise Ye the Lord
 metadata:
     description: 
-    keywords: Church Hymnal, Praise Ye the Lord, Praise ye the Lord! &#039;tis good to raise, 
+    keywords: Church Hymnal, Praise Ye the Lord, Praise ye the Lord! 'tis good to raise, 
     author: Brian Onang'o
 ---
 
@@ -47,7 +47,7 @@ And looks and loves His image there.
 Title | Praise Ye the Lord |
 Key | F Major |
 Titles |  |
-First Line | Praise ye the Lord! &#039;tis good to raise |
+First Line | Praise ye the Lord! 'tis good to raise |
 Author | Isaac Watts (1674-1748)
 Year | 1941
 Composer| Francis Duckworth |
@@ -61,4 +61,26 @@ Subjects | Worship: Adroation and Praise |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

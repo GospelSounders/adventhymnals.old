@@ -2,7 +2,7 @@
 title: 212. Hover O'er Me, Holy Spirit
 metadata:
     description: 
-    keywords: Church Hymnal, Hover O'er Me, Holy Spirit, Hover o&#039;er me, Holy Spirit, Fill me now, fill me now
+    keywords: Church Hymnal, Hover O'er Me, Holy Spirit, Hover o'er me, Holy Spirit, Fill me now, fill me now
     author: Brian Onang'o
 ---
 
@@ -46,7 +46,7 @@ Thou art sweetly filling now.
 Title | Hover O'er Me, Holy Spirit |
 Key | G Major |
 Titles | Fill me now, fill me now |
-First Line | Hover o&#039;er me, Holy Spirit |
+First Line | Hover o'er me, Holy Spirit |
 Author | Ellwood H. Stokes
 Year | 1941
 Composer| Jno. R. Sweney |
@@ -60,4 +60,26 @@ Subjects | Jesus Christ: The Holy Spirit |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

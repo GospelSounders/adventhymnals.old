@@ -2,7 +2,7 @@
 title: 260. The Lord's My Shepherd
 metadata:
     description: 
-    keywords: Church Hymnal, The Lord's My Shepherd, The Lord&#039;s my Shepherd, I&#039;ll not want, 
+    keywords: Church Hymnal, The Lord's My Shepherd, The Lord's my Shepherd, I'll not want, 
     author: Brian Onang'o
 ---
 
@@ -57,7 +57,7 @@ My dwelling-place shall be.
 Title | The Lord's My Shepherd |
 Key | C Major |
 Titles |  |
-First Line | The Lord&#039;s my Shepherd, I&#039;ll not want |
+First Line | The Lord's my Shepherd, I'll not want |
 Author | 
 Year | 1941
 Composer| James Edmund Jones |
@@ -71,4 +71,26 @@ Subjects | The Gospel: Faith and Trust |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

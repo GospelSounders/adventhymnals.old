@@ -2,7 +2,7 @@
 title: 625. Hark! 'Tis the Shepherd's Voice I Hear
 metadata:
     description: 
-    keywords: Church Hymnal, Hark! 'Tis the Shepherd's Voice I Hear, Hark! &#039;tis the Shepherd&#039;s voice I hear, Bring them in, Bring them in
+    keywords: Church Hymnal, Hark! 'Tis the Shepherd's Voice I Hear, Hark! 'tis the Shepherd's voice I hear, Bring them in, Bring them in
     author: Brian Onang'o
 ---
 
@@ -39,7 +39,7 @@ Go, find My sheep where 'er they be.
 Title | Hark! 'Tis the Shepherd's Voice I Hear |
 Key | A♭ Major |
 Titles | Bring them in, Bring them in |
-First Line | Hark! &#039;tis the Shepherd&#039;s voice I hear |
+First Line | Hark! 'tis the Shepherd's voice I hear |
 Author | Alexcenah Thomas
 Year | 1941
 Composer| W. A. Ogden |
@@ -53,4 +53,26 @@ Subjects | Sabbath School: Work and Duty |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

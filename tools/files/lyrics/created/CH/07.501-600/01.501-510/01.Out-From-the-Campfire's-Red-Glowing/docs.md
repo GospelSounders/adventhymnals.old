@@ -2,7 +2,7 @@
 title: 501. Out From the Campfire's Red Glowing
 metadata:
     description: 
-    keywords: Church Hymnal, Out From the Campfire's Red Glowing, Out from the campfire&#039;s red glowing, Yes, sleeping on guard, Sleeping on guard
+    keywords: Church Hymnal, Out From the Campfire's Red Glowing, Out from the campfire's red glowing, Yes, sleeping on guard, Sleeping on guard
     author: Brian Onang'o
 ---
 
@@ -65,7 +65,7 @@ Must be found sleeping on guard.
 Title | Out From the Campfire's Red Glowing |
 Key | D♭ Major |
 Titles | Yes, sleeping on guard, Sleeping on guard |
-First Line | Out from the campfire&#039;s red glowing |
+First Line | Out from the campfire's red glowing |
 Author | Arthur W. French
 Year | 1941
 Composer| Frank M. Davis |
@@ -79,4 +79,26 @@ Subjects | Special Occasions: Temperance |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

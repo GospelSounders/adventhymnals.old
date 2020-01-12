@@ -2,7 +2,7 @@
 title: 1. Before Jehovah's Awful Throne
 metadata:
     description: 
-    keywords: Church Hymnal, Before Jehovah's Awful Throne, Before Jehovah&#039;s awful throne, 
+    keywords: Church Hymnal, Before Jehovah's Awful Throne, Before Jehovah's awful throne, 
     author: Brian Onang'o
 ---
 
@@ -41,7 +41,7 @@ When rolling years shall cease to move.
 Title | Before Jehovah's Awful Throne |
 Key |D Major|
 Titles |  |
-First Line | Before Jehovah&#039;s awful throne |
+First Line | Before Jehovah's awful throne |
 Author | Isaac Watts (1674-1748) |
 Year |1793
 Composer| John Hatton (d. 1793) |
@@ -55,4 +55,25 @@ Subjects | Worship: Adoration and Praise |
 Texts |  |
 Print Texts |
 Scripture Song |  |
-  
+
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |

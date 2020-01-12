@@ -82,7 +82,7 @@ Author | Maxwell N. Cornelius
 Year | 1941
 Composer| James McGranahan |
 Hymnal|  - |
-Tune| SOMETIME WE&#039;LL UNDERSTAND |
+Tune| SOMETIME WE'LL UNDERSTAND |
 Metrical pattern | |
 # Stanzas | 5 |
 Chorus | Yes |
@@ -91,4 +91,26 @@ Subjects | Special Occasions: Thanksgiving |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

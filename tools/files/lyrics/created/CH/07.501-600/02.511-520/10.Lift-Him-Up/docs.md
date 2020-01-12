@@ -2,7 +2,7 @@
 title: 520. Lift Him Up
 metadata:
     description: 
-    keywords: Church Hymnal, Lift Him Up, Lift Him up, &#039;tis He that bids you, Lift Him up, the risen Saviour
+    keywords: Church Hymnal, Lift Him Up, Lift Him up, 'tis He that bids you, Lift Him up, the risen Saviour
     author: Brian Onang'o
 ---
 
@@ -61,12 +61,12 @@ And the dumb shall shout His praise.
 Title | Lift Him Up |
 Key | F Major |
 Titles | Lift Him up, the risen Saviour |
-First Line | Lift Him up, &#039;tis He that bids you |
+First Line | Lift Him up, 'tis He that bids you |
 Author | May E. Warren
 Year | 1941
 Composer| D. S. Hakes |
 Hymnal|  - |
-Tune| Lift Him up, &#039;tis He that bids you |
+Tune| Lift Him up, 'tis He that bids you |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -75,4 +75,26 @@ Subjects | Hymns for Social Worship |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

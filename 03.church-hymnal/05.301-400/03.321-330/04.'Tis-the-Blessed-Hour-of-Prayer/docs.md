@@ -2,7 +2,7 @@
 title: 324. 'Tis the Blessed Hour of Prayer
 metadata:
     description: 
-    keywords: Church Hymnal, 'Tis the Blessed Hour of Prayer, &#039;Tis the blessed hour of prayer, when our hearts lowly bend, Blessed hour of prayer
+    keywords: Church Hymnal, 'Tis the Blessed Hour of Prayer, 'Tis the blessed hour of prayer, when our hearts lowly bend, Blessed hour of prayer
     author: Brian Onang'o
 ---
 
@@ -43,12 +43,12 @@ What a balm for the weary! O how sweet to be there!
 Title | 'Tis the Blessed Hour of Prayer |
 Key | E♭ Major |
 Titles | Blessed hour of prayer |
-First Line | &#039;Tis the blessed hour of prayer, when our hearts lowly bend |
+First Line | 'Tis the blessed hour of prayer, when our hearts lowly bend |
 Author | Fanny J. Crosby
 Year | 1941
 Composer| W. H. Doane |
 Hymnal|  - |
-Tune| &#039;Tis the blessed hour of prayer, when our hearts lowly bend |
+Tune| 'Tis the blessed hour of prayer, when our hearts lowly bend |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -57,4 +57,26 @@ Subjects | The Christian Life: Meditation and Prayer |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

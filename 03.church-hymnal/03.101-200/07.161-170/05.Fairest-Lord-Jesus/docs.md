@@ -46,7 +46,7 @@ Author |
 Year | 1941
 Composer| Richard S. Willis (1819-1900) |
 Hymnal|  - |
-Tune| CRUSADER&#039;S HYMN |
+Tune| CRUSADER'S HYMN |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -55,4 +55,26 @@ Subjects | Jesus Christ: His Glory and Praise |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

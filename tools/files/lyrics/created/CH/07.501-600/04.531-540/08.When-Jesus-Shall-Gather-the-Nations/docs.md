@@ -78,7 +78,7 @@ Title | When Jesus Shall Gather the Nations |
 Key | F Major |
 Titles | He will gather the wheat in His garner |
 First Line | When Jesus shall gather the nations |
-Author | Harriet B. M&#039;Keever
+Author | Harriet B. M'Keever
 Year | 1941
 Composer| John R. Sweney |
 Hymnal|  - |
@@ -91,4 +91,26 @@ Subjects | Sabbath School: Second Coming |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

@@ -2,7 +2,7 @@
 title: 544. O'er All the Land
 metadata:
     description: 
-    keywords: Church Hymnal, O'er All the Land, O&#039;er all the land have the signs now appeared, Sound forth the tidings, long, loud, and clear
+    keywords: Church Hymnal, O'er All the Land, O'er all the land have the signs now appeared, Sound forth the tidings, long, loud, and clear
     author: Brian Onang'o
 ---
 
@@ -65,7 +65,7 @@ All hearts respond as we long for our home,
 Title | O'er All the Land |
 Key | D Major |
 Titles | Sound forth the tidings, long, loud, and clear |
-First Line | O&#039;er all the land have the signs now appeared |
+First Line | O'er all the land have the signs now appeared |
 Author | W. C. Gage
 Year | 1941
 Composer| Henry C. Work |
@@ -79,4 +79,26 @@ Subjects | Sabbath School: Second Coming |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

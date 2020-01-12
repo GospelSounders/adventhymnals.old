@@ -2,7 +2,7 @@
 title: 628. Brightly Beams Our Father's Mercy
 metadata:
     description: 
-    keywords: Church Hymnal, Brightly Beams Our Father's Mercy, Brightly beams our Father&#039;s mercy, Let the lower lights be burning!
+    keywords: Church Hymnal, Brightly Beams Our Father's Mercy, Brightly beams our Father's mercy, Let the lower lights be burning!
     author: Brian Onang'o
 ---
 
@@ -53,7 +53,7 @@ You may rescue, you may save.
 Title | Brightly Beams Our Father's Mercy |
 Key | B♭ Major |
 Titles | Let the lower lights be burning! |
-First Line | Brightly beams our Father&#039;s mercy |
+First Line | Brightly beams our Father's mercy |
 Author | P. P. Bliss (1838-1876)
 Year | 1941
 Composer| P. P. Bliss (1838-1876) |
@@ -67,4 +67,26 @@ Subjects | Sabbath School: Work and Duty |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

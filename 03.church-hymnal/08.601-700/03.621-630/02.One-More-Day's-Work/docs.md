@@ -2,7 +2,7 @@
 title: 622. One More Day's Work
 metadata:
     description: 
-    keywords: Church Hymnal, One More Day's Work, One more day&#039;s work for Jesus, One more day's work for Jesus
+    keywords: Church Hymnal, One More Day's Work, One more day's work for Jesus, One more day's work for Jesus
     author: Brian Onang'o
 ---
 
@@ -92,12 +92,12 @@ One less of life for me.
 Title | One More Day's Work |
 Key | B♭ Major |
 Titles | One more day's work for Jesus |
-First Line | One more day&#039;s work for Jesus |
+First Line | One more day's work for Jesus |
 Author | Anna Warner
 Year | 1941
 Composer| Robert Lowry (1826-1899) |
 Hymnal|  - |
-Tune| One more day&#039;s work for Jesus |
+Tune| One more day's work for Jesus |
 Metrical pattern | |
 # Stanzas | 5 |
 Chorus | Yes |
@@ -106,4 +106,26 @@ Subjects | Sabbath School: Work and Duty |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

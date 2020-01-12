@@ -2,7 +2,7 @@
 title: 576. O Christian, Awake!
 metadata:
     description: 
-    keywords: Church Hymnal, O Christian, Awake!, O Christian, awake! &#039;tis the Master&#039;s command, Stand like the brave
+    keywords: Church Hymnal, O Christian, Awake!, O Christian, awake! 'tis the Master's command, Stand like the brave
     author: Brian Onang'o
 ---
 
@@ -57,7 +57,7 @@ Stand like the brave, with thy face to the foe.
 Title | O Christian, Awake! |
 Key | A♭ Major |
 Titles | Stand like the brave |
-First Line | O Christian, awake! &#039;tis the Master&#039;s command |
+First Line | O Christian, awake! 'tis the Master's command |
 Author | Fanny J. Crosby
 Year | 1941
 Composer| Philip Phillips |
@@ -71,4 +71,26 @@ Subjects | Sabbath School: The Call |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

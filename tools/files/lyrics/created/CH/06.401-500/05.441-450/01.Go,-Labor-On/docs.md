@@ -2,7 +2,7 @@
 title: 441. Go, Labor On
 metadata:
     description: 
-    keywords: Church Hymnal, Go, Labor On, Go, labor on, while yet &#039;tis day, 
+    keywords: Church Hymnal, Go, Labor On, Go, labor on, while yet 'tis day, 
     author: Brian Onang'o
 ---
 
@@ -40,7 +40,7 @@ Is near'a kingdom and a crown!
 Title | Go, Labor On |
 Key | A♭ Major |
 Titles |  |
-First Line | Go, labor on, while yet &#039;tis day |
+First Line | Go, labor on, while yet 'tis day |
 Author | Horatius Bonar
 Year | 1941
 Composer| F. E. Belden |
@@ -54,4 +54,26 @@ Subjects | The Church and Doctrines: Mnistry and Missions |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

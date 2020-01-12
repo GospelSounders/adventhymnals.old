@@ -2,7 +2,7 @@
 title: 515. Jesus, Where'er Thy People Meet
 metadata:
     description: 
-    keywords: Church Hymnal, Jesus, Where'er Thy People Meet, Jesus, where&#039;er Thy people meet, 
+    keywords: Church Hymnal, Jesus, Where'er Thy People Meet, Jesus, where'er Thy people meet, 
     author: Brian Onang'o
 ---
 
@@ -34,7 +34,7 @@ The sweetness of Thy saving name.
 Title | Jesus, Where'er Thy People Meet |
 Key | D Major |
 Titles |  |
-First Line | Jesus, where&#039;er Thy people meet |
+First Line | Jesus, where'er Thy people meet |
 Author | William Cowper (1731-1800)
 Year | 1941
 Composer| Lowell Mason (1792-1872) |
@@ -48,4 +48,26 @@ Subjects | Hymns for Social Worship |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

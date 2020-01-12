@@ -2,7 +2,7 @@
 title: 575. I Have a Saviour
 metadata:
     description: 
-    keywords: Church Hymnal, I Have a Saviour, I have a Saviour, He&#039;s pleading in glory, For you I am praying
+    keywords: Church Hymnal, I Have a Saviour, I have a Saviour, He's pleading in glory, For you I am praying
     author: Brian Onang'o
 ---
 
@@ -65,12 +65,12 @@ I'm praying for you.
 Title | I Have a Saviour |
 Key | G Major |
 Titles | For you I am praying |
-First Line | I have a Saviour, He&#039;s pleading in glory |
-Author | S. O&#039;Maley Cluff
+First Line | I have a Saviour, He's pleading in glory |
+Author | S. O'Maley Cluff
 Year | 1941
 Composer| Ira D. Sankey |
 Hymnal|  - |
-Tune| I have a Saviour, He&#039;s pleading in glory |
+Tune| I have a Saviour, He's pleading in glory |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | Yes |
@@ -79,4 +79,26 @@ Subjects | Sabbath School: The Call |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

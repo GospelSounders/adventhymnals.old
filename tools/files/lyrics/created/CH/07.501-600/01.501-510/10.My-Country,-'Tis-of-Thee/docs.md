@@ -2,7 +2,7 @@
 title: 510. My Country, 'Tis of Thee
 metadata:
     description: 
-    keywords: Church Hymnal, My Country, 'Tis of Thee, My country, &#039;tis of thee , 
+    keywords: Church Hymnal, My Country, 'Tis of Thee, My country, 'tis of thee , 
     author: Brian Onang'o
 ---
 
@@ -52,7 +52,7 @@ Great God, our King.
 Title | My Country, 'Tis of Thee |
 Key | F Major |
 Titles |  |
-First Line | My country, &#039;tis of thee  |
+First Line | My country, 'tis of thee  |
 Author | Samuel F. Smith
 Year | 1941
 Composer|  |
@@ -66,4 +66,26 @@ Subjects | Special Occasions: Patriotic |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

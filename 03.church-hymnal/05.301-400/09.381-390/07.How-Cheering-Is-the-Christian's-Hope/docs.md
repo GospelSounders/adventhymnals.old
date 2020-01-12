@@ -2,7 +2,7 @@
 title: 387. How Cheering Is the Christian's Hope
 metadata:
     description: 
-    keywords: Church Hymnal, How Cheering Is the Christian's Hope, How cheering is the Christian&#039;s hope, 
+    keywords: Church Hymnal, How Cheering Is the Christian's Hope, How cheering is the Christian's hope, 
     author: Brian Onang'o
 ---
 
@@ -40,7 +40,7 @@ And reach that blissful home.
 Title | How Cheering Is the Christian's Hope |
 Key | E Major |
 Titles |  |
-First Line | How cheering is the Christian&#039;s hope |
+First Line | How cheering is the Christian's hope |
 Author | Anon.
 Year | 1941
 Composer| S. Hibbard |
@@ -54,4 +54,26 @@ Subjects | The Christian Life: Hope and Aspiration |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

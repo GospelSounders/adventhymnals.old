@@ -2,7 +2,7 @@
 title: 456. Another Six Days' Work Is Done
 metadata:
     description: 
-    keywords: Church Hymnal, Another Six Days' Work Is Done, Another six days&#039; work is done, 
+    keywords: Church Hymnal, Another Six Days' Work Is Done, Another six days' work is done, 
     author: Brian Onang'o
 ---
 
@@ -40,7 +40,7 @@ The end of cares, the end of pains.
 Title | Another Six Days' Work Is Done |
 Key | B♭ Major |
 Titles |  |
-First Line | Another six days&#039; work is done |
+First Line | Another six days' work is done |
 Author | S. Stennett (1727-1795)
 Year | 1941
 Composer| L. Mason |
@@ -54,4 +54,26 @@ Subjects | The Church and Doctrines: The Sabbath |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

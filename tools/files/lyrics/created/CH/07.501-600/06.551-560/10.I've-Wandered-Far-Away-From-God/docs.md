@@ -2,7 +2,7 @@
 title: 560. I've Wandered Far Away From God
 metadata:
     description: 
-    keywords: Church Hymnal, I've Wandered Far Away From God, I&#039;ve wandered far away from God, Coming home, coming home
+    keywords: Church Hymnal, I've Wandered Far Away From God, I've wandered far away from God, Coming home, coming home
     author: Brian Onang'o
 ---
 
@@ -51,12 +51,12 @@ Lord, I'm coming home.
 Title | I've Wandered Far Away From God |
 Key | A Major |
 Titles | Coming home, coming home |
-First Line | I&#039;ve wandered far away from God |
+First Line | I've wandered far away from God |
 Author | William J. Kirkpatrick
 Year | 1941
 Composer| William J. Kirkpatrick |
 Hymnal|  - |
-Tune| LORD, I&#039;M COMING HOME |
+Tune| LORD, I'M COMING HOME |
 Metrical pattern | |
 # Stanzas | 5 |
 Chorus | No |
@@ -65,4 +65,26 @@ Subjects | Sabbath School: The Call |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

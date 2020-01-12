@@ -2,7 +2,7 @@
 title: 308. We've No Abiding City Here
 metadata:
     description: 
-    keywords: Church Hymnal, We've No Abiding City Here, We&#039;ve no abiding city here, 
+    keywords: Church Hymnal, We've No Abiding City Here, We've no abiding city here, 
     author: Brian Onang'o
 ---
 
@@ -44,7 +44,7 @@ And His to fix my time of rest.
 Title | We've No Abiding City Here |
 Key | G Major |
 Titles |  |
-First Line | We&#039;ve no abiding city here |
+First Line | We've no abiding city here |
 Author | Thomas Kelly (1769-1854)
 Year | 1941
 Composer| Unknown |
@@ -58,4 +58,26 @@ Subjects | The Gospel: Eternal Life |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

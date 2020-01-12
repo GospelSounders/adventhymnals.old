@@ -2,7 +2,7 @@
 title: 641. When All My Labors and Trials Are O'er
 metadata:
     description: 
-    keywords: Church Hymnal, When All My Labors and Trials Are O'er, When all my labors and trials are o&#039;er, O that will be glory for me
+    keywords: Church Hymnal, When All My Labors and Trials Are O'er, When all my labors and trials are o'er, O that will be glory for me
     author: Brian Onang'o
 ---
 
@@ -53,7 +53,7 @@ That will be glory, be glory for me.
 Title | When All My Labors and Trials Are O'er |
 Key | A♭ Major |
 Titles | O that will be glory for me |
-First Line | When all my labors and trials are o&#039;er |
+First Line | When all my labors and trials are o'er |
 Author | Charles H. Gabriel
 Year | 1941
 Composer| Charles H. Gabriel |
@@ -67,4 +67,26 @@ Subjects | Sabbath School: Eternal Life |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

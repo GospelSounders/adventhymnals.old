@@ -2,7 +2,7 @@
 title: 659. I'm but a Stranger Here
 metadata:
     description: 
-    keywords: Church Hymnal, I'm but a Stranger Here, I&#039;m but a stranger here, 
+    keywords: Church Hymnal, I'm but a Stranger Here, I'm but a stranger here, 
     author: Brian Onang'o
 ---
 
@@ -46,7 +46,7 @@ Heav'n is my home.
 Title | I'm but a Stranger Here |
 Key | G Major |
 Titles |  |
-First Line | I&#039;m but a stranger here |
+First Line | I'm but a stranger here |
 Author | Thomas R. Taylor
 Year | 1941
 Composer| Lowell Mason (1792-1872) |
@@ -60,4 +60,26 @@ Subjects | Early Advent Hymns |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

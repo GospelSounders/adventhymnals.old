@@ -70,7 +70,7 @@ Author | I. Baltzell
 Year | 1941
 Composer| I. Baltzell |
 Hymnal|  - |
-Tune| MISSIONARY&#039;S FAREWELL |
+Tune| MISSIONARY'S FAREWELL |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | Yes |
@@ -79,4 +79,26 @@ Subjects | Sabbath School: Missions |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

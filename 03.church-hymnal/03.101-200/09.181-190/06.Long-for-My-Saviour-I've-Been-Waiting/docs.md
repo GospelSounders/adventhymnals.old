@@ -2,7 +2,7 @@
 title: 186. Long for My Saviour I've Been Waiting
 metadata:
     description: 
-    keywords: Church Hymnal, Long for My Saviour I've Been Waiting, Long for my Saviour I&#039;ve been waiting, Jesus soon is coming
+    keywords: Church Hymnal, Long for My Saviour I've Been Waiting, Long for my Saviour I've been waiting, Jesus soon is coming
     author: Brian Onang'o
 ---
 
@@ -65,7 +65,7 @@ And foes are pressing strong.
 Title | Long for My Saviour I've Been Waiting |
 Key | G Major |
 Titles | Jesus soon is coming |
-First Line | Long for my Saviour I&#039;ve been waiting |
+First Line | Long for my Saviour I've been waiting |
 Author | Anon.
 Year | 1941
 Composer|  |
@@ -79,4 +79,26 @@ Subjects | Jesus Christ: His Second Coming |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

@@ -2,7 +2,7 @@
 title: 553. On Jordan's Stormy Banks
 metadata:
     description: 
-    keywords: Church Hymnal, On Jordan's Stormy Banks, On Jordan&#039;s stormy banks I stand , We will rest in the fair and happy land
+    keywords: Church Hymnal, On Jordan's Stormy Banks, On Jordan's stormy banks I stand , We will rest in the fair and happy land
     author: Brian Onang'o
 ---
 
@@ -45,12 +45,12 @@ Fearless I'd launch away.
 Title | On Jordan's Stormy Banks |
 Key | G Major |
 Titles | We will rest in the fair and happy land |
-First Line | On Jordan&#039;s stormy banks I stand  |
+First Line | On Jordan's stormy banks I stand  |
 Author | Samuel Stennett
 Year | 1941
-Composer| T. C. O&#039;Kane |
+Composer| T. C. O'Kane |
 Hymnal|  - |
-Tune| On Jordan&#039;s stormy banks I stand |
+Tune| On Jordan's stormy banks I stand |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -59,4 +59,26 @@ Subjects | Sabbath School: His Kingdom and Reign |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

@@ -2,7 +2,7 @@
 title: 551. There's a Land That Is Fairer Than Day
 metadata:
     description: 
-    keywords: Church Hymnal, There's a Land That Is Fairer Than Day, There&#039;s a land that is fairer than day, In the sweet by and by
+    keywords: Church Hymnal, There's a Land That Is Fairer Than Day, There's a land that is fairer than day, In the sweet by and by
     author: Brian Onang'o
 ---
 
@@ -53,7 +53,7 @@ We shall meet on that beautiful shore.
 Title | There's a Land That Is Fairer Than Day |
 Key | G Major |
 Titles | In the sweet by and by |
-First Line | There&#039;s a land that is fairer than day |
+First Line | There's a land that is fairer than day |
 Author | S.F. Bennett
 Year | 1941
 Composer| J. P. Webster |
@@ -67,4 +67,26 @@ Subjects | Sabbath School: His Kingdom and Reign |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

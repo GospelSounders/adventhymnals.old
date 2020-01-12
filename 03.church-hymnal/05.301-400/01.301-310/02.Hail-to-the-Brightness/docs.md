@@ -2,7 +2,7 @@
 title: 302. Hail to the Brightness
 metadata:
     description: 
-    keywords: Church Hymnal, Hail to the Brightness, Hail to the brightness of Zion&#039;s glad morning!, 
+    keywords: Church Hymnal, Hail to the Brightness, Hail to the brightness of Zion's glad morning!, 
     author: Brian Onang'o
 ---
 
@@ -35,7 +35,7 @@ Reign, reign for aye.
 Title | Hail to the Brightness |
 Key | A Major |
 Titles |  |
-First Line | Hail to the brightness of Zion&#039;s glad morning! |
+First Line | Hail to the brightness of Zion's glad morning! |
 Author | Thomas Hastings
 Year | 1941
 Composer| Lowell Mason |
@@ -49,4 +49,26 @@ Subjects | The Gospel: Reward of the Saints |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

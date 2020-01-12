@@ -2,7 +2,7 @@
 title: 631. I'm Pressing on the Upward Way
 metadata:
     description: 
-    keywords: Church Hymnal, I'm Pressing on the Upward Way, I&#039;m pressing on the upward way, Lord, lift me up, and I shall stand
+    keywords: Church Hymnal, I'm Pressing on the Upward Way, I'm pressing on the upward way, Lord, lift me up, and I shall stand
     author: Brian Onang'o
 ---
 
@@ -65,7 +65,7 @@ Lord, plant my feet on higher ground.
 Title | I'm Pressing on the Upward Way |
 Key | A♭ Major |
 Titles | Lord, lift me up, and I shall stand |
-First Line | I&#039;m pressing on the upward way |
+First Line | I'm pressing on the upward way |
 Author | Johnson Oatman, Jr. 
 Year | 1941
 Composer| Charles H. Gabriel |
@@ -79,4 +79,26 @@ Subjects | Sabbath School: Hope and Aspiration |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

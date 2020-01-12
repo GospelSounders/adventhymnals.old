@@ -2,7 +2,7 @@
 title: 182. 'Tis Almost Time for the Lord to Come
 metadata:
     description: 
-    keywords: Church Hymnal, 'Tis Almost Time for the Lord to Come, &#039;Tis almost time for the Lord to come, O it must be the breaking of the day!
+    keywords: Church Hymnal, 'Tis Almost Time for the Lord to Come, 'Tis almost time for the Lord to come, O it must be the breaking of the day!
     author: Brian Onang'o
 ---
 
@@ -69,7 +69,7 @@ O it must be the breaking of the day!
 Title | 'Tis Almost Time for the Lord to Come |
 Key | E♭ Major |
 Titles | O it must be the breaking of the day! |
-First Line | &#039;Tis almost time for the Lord to come |
+First Line | 'Tis almost time for the Lord to come |
 Author | G. W. Sederquist
 Year | 1941
 Composer| G. W. Sederquist |
@@ -83,4 +83,26 @@ Subjects | Jesus Christ: His Second Coming |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

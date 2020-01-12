@@ -2,7 +2,7 @@
 title: 646. This Is My Father's World
 metadata:
     description: 
-    keywords: Church Hymnal, This Is My Father's World, This is my Father&#039;s world, 
+    keywords: Church Hymnal, This Is My Father's World, This is my Father's world, 
     author: Brian Onang'o
 ---
 
@@ -46,7 +46,7 @@ God reigns; let the earth be glad!
 Title | This Is My Father's World |
 Key | E Major |
 Titles |  |
-First Line | This is my Father&#039;s world |
+First Line | This is my Father's world |
 Author | Maltbie D. Babcock (1858-1901)
 Year | 1941
 Composer| Franklin L. Sheppard |
@@ -60,4 +60,26 @@ Subjects | Sabbath School: Adoration and Praise |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

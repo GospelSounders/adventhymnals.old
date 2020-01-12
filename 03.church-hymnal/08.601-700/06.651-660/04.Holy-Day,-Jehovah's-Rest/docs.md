@@ -2,7 +2,7 @@
 title: 654. Holy Day, Jehovah's Rest
 metadata:
     description: 
-    keywords: Church Hymnal, Holy Day, Jehovah's Rest, Holy day, Jehovah&#039;s rest , Welcome, welcome, welcome, welcome
+    keywords: Church Hymnal, Holy Day, Jehovah's Rest, Holy day, Jehovah's rest , Welcome, welcome, welcome, welcome
     author: Brian Onang'o
 ---
 
@@ -65,12 +65,12 @@ Glad we hail its presence blest,
 Title | Holy Day, Jehovah's Rest |
 Key | G Major |
 Titles | Welcome, welcome, welcome, welcome |
-First Line | Holy day, Jehovah&#039;s rest  |
+First Line | Holy day, Jehovah's rest  |
 Author | F. E. Belden
 Year | 1941
 Composer| F. E. Belden |
 Hymnal|  - |
-Tune| Holy day, Jehovah&#039;s rest |
+Tune| Holy day, Jehovah's rest |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | Yes |
@@ -79,4 +79,26 @@ Subjects | Sabbath School: Sabbath |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

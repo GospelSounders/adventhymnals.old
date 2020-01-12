@@ -2,7 +2,7 @@
 title: 368. We're Bound for the Land of the Pure
 metadata:
     description: 
-    keywords: Church Hymnal, We're Bound for the Land of the Pure, We&#039;re bound for the land of the pure and the holy, Will you go
+    keywords: Church Hymnal, We're Bound for the Land of the Pure, We're bound for the land of the pure and the holy, Will you go
     author: Brian Onang'o
 ---
 
@@ -67,7 +67,7 @@ O say, will you go to the Eden above?
 Title | We're Bound for the Land of the Pure |
 Key | D Major |
 Titles | Will you go |
-First Line | We&#039;re bound for the land of the pure and the holy |
+First Line | We're bound for the land of the pure and the holy |
 Author | Anon.
 Year | 1941
 Composer| Unknown |
@@ -81,4 +81,26 @@ Subjects | The Christian Life: Pilgrimage |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

@@ -2,7 +2,7 @@
 title: 445. From Greenland's Icy Mountains
 metadata:
     description: 
-    keywords: Church Hymnal, From Greenland's Icy Mountains, From Greenland&#039;s icy mountains, 
+    keywords: Church Hymnal, From Greenland's Icy Mountains, From Greenland's icy mountains, 
     author: Brian Onang'o
 ---
 
@@ -56,7 +56,7 @@ In bliss returns to reign.
 Title | From Greenland's Icy Mountains |
 Key | E Major |
 Titles |  |
-First Line | From Greenland&#039;s icy mountains |
+First Line | From Greenland's icy mountains |
 Author | Reginald Heber
 Year | 1941
 Composer| Lowell Mason |
@@ -70,4 +70,26 @@ Subjects | The Church and Doctrines: Ministry and Missions |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

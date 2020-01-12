@@ -2,7 +2,7 @@
 title: 157. All Hail the Power of Jesus' Name!
 metadata:
     description: 
-    keywords: Church Hymnal, All Hail the Power of Jesus' Name!, All hail the power of Jesus&#039; name!, 
+    keywords: Church Hymnal, All Hail the Power of Jesus' Name!, All hail the power of Jesus' name!, 
     author: Brian Onang'o
 ---
 
@@ -49,12 +49,12 @@ And crown Him Lord of all.
 Title | All Hail the Power of Jesus' Name! |
 Key | B♭ Major |
 Titles |  |
-First Line | All hail the power of Jesus&#039; name! |
+First Line | All hail the power of Jesus' name! |
 Author | Edward Perronet
 Year | 1941
 Composer| Wm. Shrubsole |
 Hymnal|  - |
-Tune| MILES&#039; LANE |
+Tune| MILES' LANE |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -63,4 +63,26 @@ Subjects | Jesus Christ: His Glory and Praise |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

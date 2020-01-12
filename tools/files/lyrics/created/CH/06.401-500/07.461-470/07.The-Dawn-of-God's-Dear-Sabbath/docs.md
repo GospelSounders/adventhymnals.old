@@ -2,7 +2,7 @@
 title: 467. The Dawn of God's Dear Sabbath
 metadata:
     description: 
-    keywords: Church Hymnal, The Dawn of God's Dear Sabbath, The dawn of God&#039;s dear Sabbath, 
+    keywords: Church Hymnal, The Dawn of God's Dear Sabbath, The dawn of God's dear Sabbath, 
     author: Brian Onang'o
 ---
 
@@ -56,12 +56,12 @@ Celestial peace indeed.
 Title | The Dawn of God's Dear Sabbath |
 Key | E♭ Major |
 Titles |  |
-First Line | The dawn of God&#039;s dear Sabbath |
+First Line | The dawn of God's dear Sabbath |
 Author | A. Cross
 Year | 1941
 Composer| J. Walch (1837-1901) |
 Hymnal|  - |
-Tune| ST. GEORGE&#039;S, BOLTON |
+Tune| ST. GEORGE'S, BOLTON |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -70,4 +70,26 @@ Subjects | The Church and Doctrines: The Sabbath |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

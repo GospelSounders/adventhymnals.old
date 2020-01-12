@@ -2,7 +2,7 @@
 title: 333. Father, Whate'er of Earthly Bliss
 metadata:
     description: 
-    keywords: Church Hymnal, Father, Whate'er of Earthly Bliss, Father, whate&#039;er of earthly bliss, 
+    keywords: Church Hymnal, Father, Whate'er of Earthly Bliss, Father, whate'er of earthly bliss, 
     author: Brian Onang'o
 ---
 
@@ -34,7 +34,7 @@ And crown my journey's end.
 Title | Father, Whate'er of Earthly Bliss |
 Key | E♭ Major |
 Titles |  |
-First Line | Father, whate&#039;er of earthly bliss |
+First Line | Father, whate'er of earthly bliss |
 Author | Anne Steele
 Year | 1941
 Composer| Hans George Naegeli |
@@ -48,4 +48,26 @@ Subjects | The Christian Life: Meditation and Prayer |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

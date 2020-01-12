@@ -2,7 +2,7 @@
 title: 579. We'll Build on the Rock
 metadata:
     description: 
-    keywords: Church Hymnal, We'll Build on the Rock, We&#039;ll build on the Rock, the living Rock, We'll build on the Rock
+    keywords: Church Hymnal, We'll Build on the Rock, We'll build on the Rock, the living Rock, We'll build on the Rock
     author: Brian Onang'o
 ---
 
@@ -34,12 +34,12 @@ The hope of our salvation.
 Title | We'll Build on the Rock |
 Key | A♭ Major |
 Titles | We'll build on the Rock |
-First Line | We&#039;ll build on the Rock, the living Rock |
+First Line | We'll build on the Rock, the living Rock |
 Author | F. E. Belden
 Year | 1941
 Composer| F. E. Belden |
 Hymnal|  - |
-Tune| We&#039;ll build on the Rock, the living Rock |
+Tune| We'll build on the Rock, the living Rock |
 Metrical pattern | |
 # Stanzas | 3 |
 Chorus | Yes |
@@ -48,4 +48,26 @@ Subjects | Sabbath School: Faith and Trust |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

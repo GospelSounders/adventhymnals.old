@@ -2,7 +2,7 @@
 title: 415. 'Mid Pleasures and Palaces
 metadata:
     description: 
-    keywords: Church Hymnal, 'Mid Pleasures and Palaces, &#039;Mid pleasures and palaces though we may roam, Home, home, sweet, sweet home!
+    keywords: Church Hymnal, 'Mid Pleasures and Palaces, 'Mid pleasures and palaces though we may roam, Home, home, sweet, sweet home!
     author: Brian Onang'o
 ---
 
@@ -50,7 +50,7 @@ There's no place like home!
 Title | 'Mid Pleasures and Palaces |
 Key | E♭ Major |
 Titles | Home, home, sweet, sweet home! |
-First Line | &#039;Mid pleasures and palaces though we may roam |
+First Line | 'Mid pleasures and palaces though we may roam |
 Author | John Howard Payne
 Year | 1941
 Composer| Henry R. Bishop |
@@ -64,4 +64,26 @@ Subjects | The Christian Home: Home and Children |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   

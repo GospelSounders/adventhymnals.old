@@ -46,7 +46,7 @@ Author | Thomas Ken (1637-1711)
 Year | 1941
 Composer| Thomas Tallis |
 Hymnal|  - |
-Tune| TALLIS&#039; CANON |
+Tune| TALLIS' CANON |
 Metrical pattern | |
 # Stanzas | 4 |
 Chorus | No |
@@ -55,4 +55,26 @@ Subjects | Worship: Evening Hymns |
 Texts |  |
 Print Texts | 
 Scripture Song |  |
+  
+## Learn to Sing
+
+>>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
+
+Voice |  Singing Hymnal | Vocalised | unvocalised music |
+-------------|------------|------------|------------|------------|
+Soprano | | | |
+Alto | | | |
+Tenor | | | |
+Bass | | | |
+Choir | | | |
+
+## Downloads
+
+- |  Soprano | Alto | Tenor | Bass |
+-------------|------------|------------|------------|------------|
+pdf | | | |
+midi | | | |
+vocalised | | | |
+unvolcalised | | | |
+singing file | | | |
   
