@@ -8,4 +8,4 @@ metadata:
 
 #### Music Theory
 
-![Alt Text](sites/{{{cself}}}/circle-of-fifths.png)
+![Alt Text]({{{cself}}}/circle-of-fifths.png)

@@ -80,7 +80,7 @@ Scripture Song |  |
 
 >>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
 
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
+Voice |  Singing Hymnal | Vocalized | unvocalized music |
 -------------|------------|------------|------------|------------|
 Soprano | | | |
 Alto | | | |
@@ -90,11 +90,14 @@ Choir | | | |
 
 ## Downloads
 
-- |  Soprano | Alto | Tenor | Bass |
--------------|------------|------------|------------|------------|
-pdf | | | |
-midi | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | |
+- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
+-------------|------------|------------|------------|------------|------------|------------|
+pdf | | | | | |
+pdf(x8) | | | | | |
+midi | | | | | |
+vocalized | | | | | |
+unvocalized | | | | | |
+singing file | | | | | |
+Lilypond file | | | | | |
+Lilypond (x8) | | | | | |
   

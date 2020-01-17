@@ -8,14 +8,12 @@ const path = require('path');
 const hyphenopoly = require("hyphenopoly");
 const nthline = require('nthline');
 const prompts = require('prompts');
-
 require = require('esm')(module /*, options*/ );
 // import {Midi} from './Midi'
 const Midi = require('./Midi')
 const {
   convertArrayToCSV
 } = require('convert-array-to-csv');
-
 const hyphenator = hyphenopoly.config({
   "require": ["de", "en-us"],
   "hyphen": "-",
@@ -23,10 +21,7 @@ const hyphenator = hyphenopoly.config({
     "en-us": "en-han-ces"
   }
 });
-
-
 const midiDir = path.join(__dirname, "../../", "files", "midi", "ChurchHymnalMID");
-
 let hymnalPaths = {
   "Hpaths": "CHpaths.txt",
   midiDir,
@@ -34,32 +29,27 @@ let hymnalPaths = {
   doneMidi: "CHDoneMidi.txt"
 }
 
-let dictionary = ''
+let produceMedia = false;
+let startFrom = 1;
+let endAt = 1;
 
+let dictionary = ''
 async function hyphenate_en(text) {
   const hyphenateText = await hyphenator.get("en-us");
   return hyphenateText(text)
 }
-
 async function hyphenate_de(text) {
   const hyphenateText = await hyphenator.get("de");
-  console.log(hyphenateText(text));
 }
-
 // hyphenate_en("hyphenation enhances justification.");
-
-
-
 let hasRefrainF = (content) => {
   let patt = /\nRefrain.*/s;
   let chorus = patt.exec(content)
   if (!chorus) return false;
   return true;
 }
-
 // let readLine = async (lineNumber, path) => {
 //   return new Promise((resolve, reject) => {
-
 //     try {
 //       nthline(lineNumber, path)
 //         .then(line => resolve(line))
@@ -68,87 +58,63 @@ let hasRefrainF = (content) => {
 //     }
 //   })
 // }
-
 let getSongNumber = async (content) => {
   let patt = /##(.*)/
   let numberLine = content.match(patt)[1].split(".")[0]
   return numberLine
 }
-
 let isInDictionary = (word) => {
-  // console.log(word)
   let last2 = word.slice(-2);
   let tmpWord;
   if (last2 === "'s") {
     tmpWord = word.slice(0, -2)
-    // console.log('tmpWord', tmpWord)
   } else {
     tmpWord = word
     last2 = '';
   }
-  // console.log(word)
-  // console.log(tmpWord)
   tmpWord = tmpWord.replace(/[^A-Za-z0-9]/g, '')
   tmpWord = tmpWord.toLowerCase();
   let re = new RegExp(`\n${tmpWord}`, 'g');
-  // console.log(re)
   // if(!dictionary.match(re)){
-  //   console.log(dictionary)
-  //   console.log(tmpWord)
-  //   process.exit();
   // }
   return dictionary.match(re)
 }
-
 let hypernatefromDictionary = async (text) => {
   let words = text.split(' ')
   let tmpLen = words.length;
   let ret = '';
   let j = 0;
   while (j < tmpLen) {
-    // console.log(j)
-    // console.log(tmpLen)
     let word = words[j++];
     let tmpWord;
     let last2 = word.slice(-2);
     if (last2 === "'s") {
       tmpWord = word.slice(0, -2)
-      // console.log('tmpWord', tmpWord)
     } else {
       tmpWord = word
       last2 = '';
     }
     tmpWord = tmpWord.replace(/[^A-Za-z0-9]/g, '')
-    // console.log('tmpWord', tmpWord)
-    // console.log('word', word)
     // if()
-    // console.log(word)
     tmpWord = tmpWord.toLowerCase();
-    // console.log('tmpWord', tmpWord)
     let re = new RegExp(`\n${tmpWord},(.*)[^a-zA-Z\.]+`, 'g');
     let tmp = dictionary.match(re)
-
     try {
       if (!tmp[0]) throw "";
-
       // replace word with hyphenatedWord;
       // let i = 0 //letterIndex
       let tmp0 = tmp[0].split(',')[1]
       tmp0 = tmp0.split('\n').join('')
-      // console.log('word', tmp[0])
       let newWord = '';
       let replacing = true;
       while (replacing) {
         let oldWordLetter = word[0]
         let compareLetter = tmp0[0]
-        // console.log(`${word}:${compareLetter}<>${oldWordLetter}=>${newWord}`)
         if (oldWordLetter.toLowerCase() === compareLetter) {
           newWord += oldWordLetter;
           //substrings...
           word = word.substr(1);
-          // console.log(word)
           tmp0 = tmp0.substr(1);
-          // console.log(tmp0)
         } else {
           if (compareLetter === '-') {
             newWord += compareLetter;
@@ -161,20 +127,14 @@ let hypernatefromDictionary = async (text) => {
         }
         if (word === '') replacing = false;
       }
-      // console.log('newWord:=====', newWord)
-      // process.exit();
       // newWord += last2
       // tmp = tmp[0].replace(`\n${newWord},`, '')
       // ret = `${ret}${tmp} `
       ret = `${ret}${newWord} `
     } catch (x) {}
-
   }
-  // console.log(ret)
-  // process.exit();
   return ret
 }
-
 let countSyllables = async (text) => {
   text = text.split('-').join(' ')
   while (text.split('  ').length > 1) {
@@ -189,35 +149,30 @@ let countSyllables = async (text) => {
     count++
     i++;
   }
-
   return count;
 }
-
-
-
 let getStanzas = async (content) => {
   let stanzas = content.split('```txt')[1].split('```')[0].split('\n\n');
   let stanzas_1 = content.split('```txt')[1].split('```')[0].split('\r\n\r\n');
   if (stanzas_1.length > stanzas.length) stanzas = stanzas_1
-
   let hyhenatedStanzas = [];
   let numSyllables = [];
-
   let numStanzas = stanzas.length;
   let i = 0;
   while (i < numStanzas) {
+    stanzas[i] = stanzas[i].trim();
     stanzas[i] = stanzas[i].replace(/\n/, '')
     stanzas[i] = stanzas[i].split('\n').join(' ')
     stanzas[i] = stanzas[i].split('\r').join(' ')
     stanzas[i] = stanzas[i].replace(/^[\d]\./, '')
     stanzas[i] = stanzas[i].replace(/^[\s]/, '')
-    stanzas[i] = stanzas[i].trim();
     //remove double spaces
     let tmp = stanzas[i].split('  ').join(' ')
     while (tmp.split('  ').length > 1) {
       tmp = tmp.split('  ').join(' ')
     }
     tmp = tmp.replace(/^[\d]\./, '')
+    tmp = tmp.trim();
     tmp = tmp.split(' ');
     let tmpLen = tmp.length;
     let j = 0;
@@ -233,7 +188,6 @@ let getStanzas = async (content) => {
         });
         if (response.ans !== 'y')
           syllables = response.ans
-
         let last2 = word.slice(-2);
         let tmpWord;
         if (last2 === "'s") {
@@ -244,35 +198,33 @@ let getStanzas = async (content) => {
         }
         tmpWord = tmpWord.replace(/[^A-Za-z0-9]/g, '')
         tmpWord = tmpWord.toLowerCase();
-        syllables = syllables.toLowerCase().replace(/[^A-Za-z0-9]/g, '')
-
+        syllables = syllables.toLowerCase().replace(/[;:\.]/g, '')
         let dictionaryLine = `${tmpWord},${syllables}`
         dictionary = `${dictionary}${dictionaryLine}\n`;
         fs.writeFileSync('syllabledictionary.txt', dictionary);
         dictionary = fs.readFileSync('syllabledictionary.txt', 'utf-8');
       }
-
     }
-
     let hyphenated = await hypernatefromDictionary(tmp.join(' '));
+    hyphenated = hyphenated.trim();
     hyhenatedStanzas[i] = hyphenated;
-
     // count number of syllables in each stanza and report error if they are not equall
     numSyllables[i] = await countSyllables(hyphenated);
     i++;
   }
   return [stanzas, hyhenatedStanzas, numSyllables];
 }
-
-
 let getStanzasWithLines = async (content) => {
   let stanzas = content.split('```txt')[1].split('```')[0].split('\n\n');
   let stanzas_1 = content.split('```txt')[1].split('```')[0].split('\r\n\r\n');
   if (stanzas_1.length > stanzas.length) stanzas = stanzas_1
-
+  let tmp_stanzas = [];
+  for (let i in stanzas) {
+    if (stanzas[i].length) tmp_stanzas.push(stanzas[i])
+  }
+  stanzas = JSON.parse(JSON.stringify(tmp_stanzas))
   let hyhenatedStanzas = [];
   let numSyllables = [];
-
   let numStanzas = stanzas.length;
   let i = 0;
   while (i < numStanzas) {
@@ -281,25 +233,19 @@ let getStanzasWithLines = async (content) => {
     // stanzas[i] = stanzas[i].split('\r').join(' ')
     stanzas[i] = stanzas[i].replace(/^[\d]\./, '')
     stanzas[i] = stanzas[i].replace(/^[\s]/, '')
-
     //remove double spaces
     stanzas[i] = stanzas[i].split('  ').join(' ')
     while (stanzas[i].split('  ').length > 1) {
       stanzas[i] = stanzas[i].split('  ').join(' ')
     }
-
-
     // let hyphenated = await hypernatefromDictionary(tmp.join(' '));
     // hyhenatedStanzas[i] = hyphenated;
-
     // count number of syllables in each stanza and report error if they are not equall
     // numSyllables[i] = await countSyllables(hyphenated);
     i++;
   }
   return stanzas;
 }
-
-
 let numberOfNotesfromTracks = (tracks) => {
   let numTracks = tracks.length;
   let numTrackNotessArr = []
@@ -312,7 +258,6 @@ let numberOfNotesfromTracks = (tracks) => {
   }
   return numTrackNotessArr
 }
-
 let trackswithNotes = (tracks) => {
   let ret = [];
   let numTracks = tracks.length;
@@ -325,8 +270,6 @@ let trackswithNotes = (tracks) => {
   }
   return ret;
 }
-
-
 let mostNumberofNotesforTrack = (arrs) => {
   let i = 0;
   let most = 0;
@@ -351,7 +294,6 @@ let leastNumberofNotesforTrack = (arrs) => {
   }
   return least;
 }
-
 let greatestInArr = (arrs) => {
   let i = 0;
   let most = 0;
@@ -364,15 +306,19 @@ let greatestInArr = (arrs) => {
   }
   return most;
 }
-
+let hasTieinFile = (voices_i, fileTies) => {
+  let re = new RegExp(`\n${voices_i[0]},(.*),(.*),(.*),(.*)`)
+  let tiesforNote = fileTies.match(re)
+  if (tiesforNote === null) return false
+  tiesforNote = tiesforNote[0].split(',')
+  tiesforNote.shift()
+  tiesforNote = tiesforNote.map(x => parseInt(x))
+  return tiesforNote
+}
 let hasTie = (indices, tracks) => { // indices = index of beats in corresponding tracks
   let durations = tracks.map((x, j) => {
     return parseFloat(x[indices[j]].quarterNotes)
   });
-  //   console.log("CHECKING TIE...");
-  //   console.log(indices)
-  //   console.log(durations)
-  //   console.log("END OF CHECKING TIE...");
   let greatestTime = greatestInArr(durations)
   let greatestIndex = durations.indexOf(greatestTime)
   let addedNoteIndices = [0, 0, 0, 0]
@@ -389,9 +335,7 @@ let hasTie = (indices, tracks) => { // indices = index of beats in corresponding
     }
   }
   return addedNoteIndices
-
 }
-
 let getSyllablesfromText = (txt) => {
   txt = txt.split('-').join('- ')
   while (txt.split('  ').length > 1) {
@@ -405,7 +349,6 @@ let getSyllablesfromText = (txt) => {
     if (txt[i] !== '') ret.push(txt[i])
   return ret;
 }
-
 let getNumberfromNote = (note) => {
   note = note.toLowerCase();
   let higherOctaves = (note.match(/'/g) || []).length
@@ -426,9 +369,6 @@ let getNumberfromNote = (note) => {
   let number = 60 + index + (higherOctaves * 12) - lowerOctaves * 12;
   return number;
 }
-
-
-
 let addTie = (trackswithNotes_, voices_i, voicesDuration, hasTie_, voicesNotes) => { // cluster notes which have a tie...
   let durations = trackswithNotes_.map((x, j) => {
     return parseFloat(x[voices_i[j]].quarterNotes)
@@ -436,19 +376,21 @@ let addTie = (trackswithNotes_, voices_i, voicesDuration, hasTie_, voicesNotes) 
   let greatestTime = greatestInArr(durations)
   let greatestIndex = durations.indexOf(greatestTime)
   let greatestDuration = greatestInArr(voicesDuration)
-
+  let voicesDuration_t = []
+  for (let z in voicesDuration) voicesDuration_t[z] = voicesDuration[z].toFixed(4)
+  let greatestDuration_t = greatestInArr(voicesDuration_t)
+  let durationsAtPar = voicesDuration_t.every((val, j, arr) => val === greatestDuration_t)
   for (let tracksIndex in voicesDuration) {
     let voiceDuration = voicesDuration[tracksIndex]
-    if (voiceDuration === greatestDuration) {
+    if (voiceDuration === greatestDuration && !durationsAtPar) {
       voicesNotes[tracksIndex].push(trackswithNotes_[tracksIndex][voices_i[tracksIndex]])
       voices_i[tracksIndex]++ // increase by one the index of the track with the longest note...
     } else {
       let indicestoIncreaseBy = 0;
       let notegroup = [];
-      // console.log(hasTie_[tracksIndex])
       while (indicestoIncreaseBy <= hasTie_[tracksIndex]) {
         if (indicestoIncreaseBy > 0) {
-          voicesDuration[tracksIndex] += parseFloat(trackswithNotes_[tracksIndex][voices_i[tracksIndex]].quarterNotes)
+          voicesDuration[tracksIndex] += parseFloat(trackswithNotes_[tracksIndex][voices_i[tracksIndex]].duration)
         }
         notegroup.push(trackswithNotes_[tracksIndex][voices_i[tracksIndex]])
         voices_i[tracksIndex]++
@@ -459,7 +401,6 @@ let addTie = (trackswithNotes_, voices_i, voicesDuration, hasTie_, voicesNotes) 
   }
   return [voicesNotes, voicesDuration, voices_i]
 }
-
 let getTrackwithProblem = (tracks, decoded) => {
   let ppq = decoded.header.PPQ;
   let bpm = decoded.header.bpm;
@@ -467,21 +408,34 @@ let getTrackwithProblem = (tracks, decoded) => {
     let track = tracks[k];
     let trackDurations = 0;
     for (let l in track) {
-
       let timeDiff = track[l].time - trackDurations;
       let duration = timeDiff;
       let pulses = (duration / (60 / bpm)) * ppq
       let quarterNotes = pulses / ppq;
-
       if (trackDurations !== track[l].time) return [k, l, quarterNotes, trackDurations];
       trackDurations += track[l].duration
     }
   }
 }
-
-let checkMissingNotes = async (trackswithNotes_, decoded, stanzasHyphenated) => {
-  // console.log('checkMissingNotes')
-  // console.log(trackswithNotes_[0].length,trackswithNotes_[1].length,trackswithNotes_[2].length,trackswithNotes_[3].length)
+let checkMissingNotes = async (trackswithNotes_, decoded, stanzasHyphenated, stanzasWithLines, tiesPath) => {
+  let meters = [];
+  // for (let i in stanzasWithLines) {
+  //   let stanzaWithLines = stanzasWithLines[i]
+  //   let stanzaWithLines_1 = stanzaWithLines.split('\n')
+  //   let stanzaWithLines_2 = stanzaWithLines.split('\r');
+  //   stanzaWithLines = stanzaWithLines_1;
+  //   if (stanzaWithLines.length < stanzaWithLines_2.length) stanzaWithLines = stanzaWithLines_2;
+  //   let meter = [];
+  //   for (let k in stanzaWithLines) {
+  //     let line = stanzaWithLines[k]
+  //     line = await hypernatefromDictionary(line);
+  //     line = getSyllablesfromText(line)
+  //     // shorten or lengthen hyphenated words if there are several options for them...
+  //     if (line.length)
+  //       meter.push(line.length);
+  //   }
+  //   meters.push(meter.join('.'))
+  // }
   let voicesNotes = [
     [],
     [],
@@ -492,133 +446,89 @@ let checkMissingNotes = async (trackswithNotes_, decoded, stanzasHyphenated) => 
   let voicesDuration = [0, 0, 0, 0];
   let ppq = decoded.header.PPQ;
   let bpm = decoded.header.bpm;
-
   let mostNumberofNotesforTrack_ = leastNumberofNotesforTrack(trackswithNotes_)
-  // console.log(mostNumberofNotesforTrack_)
   let i = 0;
+  let fileTies = ''
+  try {
+    console.log(tiesPath)
+    fileTies = fs.readFileSync(tiesPath, 'utf-8')
+  } catch (err) {}
   while (i < mostNumberofNotesforTrack_ /* 37 */ ) { // note by note
-
     let currentsNotes = trackswithNotes_;
-
     for (let k in currentsNotes) {
-      // console.log(voices_i)
       if (voices_i[k] >= currentsNotes[k].length) return trackswithNotes_
       // if(currentsNotes[k][voices_i[k]] === undefined){
-      //     console.log('DEBUG..........')
-      //     console.log(k)
-      //     console.log(voices_i[k])
-      //     console.log(i)
-      //     console.log(currentsNotes[k][voices_i[k]-1])
-      //     console.log(currentsNotes[k][voices_i[k]+1])
       //     for(let p in currentsNotes[k]){
-      //         console.log(`${p}: ${currentsNotes[k][p]}`)
       //     }
       // }
-      voicesDuration[k] += parseFloat(currentsNotes[k][voices_i[k]].quarterNotes)
+      // voicesDuration[k] += parseFloat(currentsNotes[k][voices_i[k]].quarterNotes)
+      voicesDuration[k] += parseFloat(currentsNotes[k][voices_i[k]].duration)
     }
-
     let greatestTime = greatestInArr(voicesDuration)
-    // console.log('---------------->500v_indeices:v_Durations')
-    // console.log(greatestTime)
-    // console.log(voicesDuration)
     let voicesAtPar = voicesDuration.every((val, j, arr) => val === greatestTime)
-    // console.log(voicesAtPar)
-
-    if (currentsNotes.length === 4) {
-
-    } else {
+    if (currentsNotes.length === 4) {} else {
       throw " check 339 error"
     }
-
     if (voicesAtPar) {
-      //   console.log('---------------->100v_indeices:v_Durations')
-      //   console.log(voices_i)
-      //   console.log(voicesDuration)
-      for (let k in voices_i) {
-        voices_i[k]++;
-        voicesNotes[k].push(currentsNotes[k])
-      }
-    } else {
-
-      let hasTie_ = hasTie(voices_i, trackswithNotes_);
-      if (hasTie_) {
-        // console.log(voicesAtPar);process.exit();
-        // console.log('---------------->376:v_indeices:hasTie:v_Durations')
-        // console.log(voices_i)
-        // console.log(hasTie_)
-        // console.log(voicesDuration)
-
-        let currentNotes_1 = [];
-        // save longest note
-        // console.log(trackswithNotes_[0].length)
-        let tmp = addTie(trackswithNotes_, voices_i, voicesDuration, hasTie_, voicesNotes)
+      let hasTie_1 = hasTieinFile(voices_i, fileTies)
+      if (hasTie_1) {
+        // 
+        console.log(voices_i)
+        console.log(hasTie_1)
+        let tmp = addTie(trackswithNotes_, voices_i, voicesDuration, hasTie_1, voicesNotes)
         voicesNotes = tmp[0]
-        // console.log(trackswithNotes_[0])
-        // console.log(trackswithNotes_[0].length)
         voicesDuration = tmp[1]
         voices_i = tmp[2]
-        // console.log('---------------->377:v_indeices:hasTie:v_Durations')
-        // console.log(voices_i)
-        // console.log(hasTie_)
-        // console.log(voicesDuration)
-        // process.exit();
-
-        // console.log(voicesDuration) // duration has already been added. so add longest Notes...
-
-
-
+        console.log(hasTie_1)
+        console.log(voices_i)
+      } else {
+        for (let k in voices_i) {
+          voices_i[k]++;
+          voicesNotes[k].push(currentsNotes[k])
+        }
+      }
+    } else {
+      let hasTie_ = hasTie(voices_i, trackswithNotes_);
+      if (hasTie_) {
+        let currentNotes_1 = [];
+        // save longest note
+        let tmp = addTie(trackswithNotes_, voices_i, voicesDuration, hasTie_, voicesNotes)
+        voicesNotes = tmp[0]
+        voicesDuration = tmp[1]
+        voices_i = tmp[2]
       } else {
         console.log('---------->MARK no tie.... ask to rectify note...')
         console.log('what is the index of the missing note???')
-
-
         let txtSyllableGroups = getSyllablesfromText(stanzasHyphenated[0]);
-
         let getSyllablesForTiedNotes = () => {
           //we should know the index.., but we require the index...
         }
-
-        // console.log(voices_i[0])
-        // console.log(voices_i[1])
-        // console.log(voices_i[2])
-        // console.log(voices_i[3])
-        // console.log(i)
-        // console.log(txtSyllableGroups.length)
         // let noteSyllableGroups = getSyllablesForTiedNotes();
-        // // console.log(txtSyllableGroups)
-        // // console.log('==================>')
         let txt = ''
         let index = 0;
         while (index < i) {
-          // console.log(`${i}:${txtSyllableGroups[i]}`)
           txt += `${txtSyllableGroups[index]} `
           index++;
         }
         txt += `${txtSyllableGroups[index]} `
         console.log(txt)
-
         // get the track with the problem and its index... 
-
         let tmp = getTrackwithProblem(trackswithNotes_, decoded);
         let trackNumber = tmp[0];
         let trackinnerIndex = tmp[1];
         let quarterNotes = tmp[2];
         let cummulativeTime = tmp[3];
-
         let timeDiff = trackswithNotes_[trackNumber][trackinnerIndex].time - tmp[3]
         // let maxEntry = 0;
         console.log(`There is a problem at the last syllable (${txtSyllableGroups[index]}) for track ${trackNumber}`);
         console.log(`missing notes of ${timeDiff} (${quarterNotes} quarterNotes) at ${trackinnerIndex} as t:t${trackswithNotes_[trackNumber][trackinnerIndex].time}:<<<<<>>>>>>>>>${cummulativeTime}:ct`)
-
         let response = await prompts({
           type: 'text',
           name: 'ans',
           message: `How many notes to insert? (a rest will be inserted by default)`,
           initial: 'rest'
         });
-
         // try {} catch (error) {
-        //   console.log(error)
         // }
         // process.exit()
         let numNotestoInsert = response.ans;
@@ -633,7 +543,6 @@ let checkMissingNotes = async (trackswithNotes_, decoded, stanzasHyphenated) => 
             // initial: 'rest'
           });
           let tmpNote = JSON.parse(JSON.stringify(trackswithNotes_[trackNumber][trackinnerIndex]))
-
           let noteNumber = getNumberfromNote(response.ans.split(',')[0])
           let pulses, duration;
           duration = timeDiff;
@@ -641,53 +550,30 @@ let checkMissingNotes = async (trackswithNotes_, decoded, stanzasHyphenated) => 
             pulses = quarterNotes * ppq
             duration = (pulses / ppq) * (60 / bpm)
           }
-          // console.log('lost')
-          // console.log(duration)
           //   cummulativeTime += duration;
           tmpNote.midi = noteNumber;
           tmpNote.time = cummulativeTime;
           tmpNote.duration = duration;
           tmpNote.quarterNotes = response.ans.split(',')[1] || '1.000';
           //   // 
-
           //   // index--
-
-          //   console.log('llllllllllllllllllll')
-          //   console.log(track.length)
-          //   //   // console.log(track)
-          //   console.log(`-------------------<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<${trackswithNotes_[trackNumber].length}`)
           trackswithNotes_[trackNumber].splice(trackinnerIndex, 0, JSON.parse(JSON.stringify(tmpNote)))
-          //   console.log(`-------------------<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<${trackswithNotes_[trackNumber].length}`)
-          //   console.log(track.length)
-
-          // process.exit();
           index++
-          // console.log(tmpNote)
-          // console.log(JSON.parse(JSON.stringify(track[0])))
           numNotes++
           console.log('------------------>579')
         }
         // this is a missing note... ask to rectify it...
-        // console.log(voices_i);
-        // console.log(hasTie_);
-        // console.log(greatestTime);
-        // console.log(trackswithNotes_[0][voices_i[0]]);
-        // process.exit();
-
       }
     }
     i++;
   }
-  //   console.log('---------->MARK')
-  //   console.log(hasTie_);
-  //   console.log(greatestTime);
-  //   console.log(voicesAtPar);
-  //   console.log(voicesAtPar);
   return trackswithNotes_
-  //   process.exit();
 }
-
-let getSyllablesFromNotes = (tracks) => {
+let getSyllablesFromNotes = (tracks, tiesPath) => {
+  let fileTies = ''
+  try {
+    fileTies = fs.readFileSync(tiesPath, 'utf-8')
+  } catch (err) {}
   let trackswithNotes_ = tracks
   let voices = [
     [],
@@ -695,191 +581,182 @@ let getSyllablesFromNotes = (tracks) => {
     [],
     []
   ]
+  let partials = false;
   let durations = [0, 0, 0, 0]
   let indices = [0, 0, 0, 0];
   let i = 0;
   let leastNumberofNotesforTrack_ = leastNumberofNotesforTrack(trackswithNotes_)
-  // console.log('leastNumberofNotesforTrack_')
-  // console.log(leastNumberofNotesforTrack_)
-  // process.exit();
+  // partials
   for (let k in trackswithNotes_) {
     let duration = 0;
     for (let j in trackswithNotes_[k]) {
-      console.log(`${k}:${j}:${duration - trackswithNotes_[k][j].time}`)
-
-      console.log(trackswithNotes_[k][j])
-      console.log(trackswithNotes_[k][j].duration)
-      console.log(trackswithNotes_[k][j].time)
-      console.log(duration)
-      for(let ii in trackswithNotes_[k])console.log(`${ii}:${trackswithNotes_[k][ii].name}:${trackswithNotes_[k][ii].quarterNotes}`)
-      // console.log(trackswithNotes_[0])
-
-      if (duration - trackswithNotes_[k][j].time !== 0) process.exit();  // check. start ---> partials....
+      if (duration - trackswithNotes_[k][j].time !== 0) {
+        if (parseInt(j) === 0) partials = trackswithNotes_[k][j].time
+      }
       duration += trackswithNotes_[k][j].duration;
     }
   }
-
+  i = 0;
   while (i < leastNumberofNotesforTrack_) {
     // for(let k in voices){
-    //   // console.log(voices[k])
     //   for(let l in voices[i]){
-    //     // console.log(k, l, i)
     //     if(voices[k][l]===undefined){
-    //       // console.log(`${k} . ${l} . ${i}`)
     //       // process.exit()
     //     }
     //   }
-
     // }
-    // console.log(`&&&&&&&&&&&&&&&&&&&&&&&&&&&&-------------->${i}`)
-    // console.log(indices)
     let durations__ = [0, 0, 0, 0]
     for (let k in tracks) {
       let track = tracks[k];
       if (track[indices[k]] === undefined) {
-        // console.log('undefined ' + i)
-        // for (let i in voices[0]) console.log(`0-|||||||||>>>>>>>>>>>:${i}:${voices[0][i]}`)
-        // for (let i in voices[1]) console.log(`1-|||||||||>>>>>>>>>>>:${i}:${voices[1][i]}`)
-        // for (let i in voices[2]) console.log(`2-|||||||||>>>>>>>>>>>:${i}:${voices[2][i]}`)
-        // process.exit();
-        return voices;
+        return [voices, partials];
       }
       // durations[k] += track[indices[k]].duration
       durations__[k] += track[indices[k]].duration
     }
-
     // for (let k in voices) {
-    //   // console.log(voices[k])
     //   for (let l in voices[k]) {
-    //     // console.log(`${k}:::::${l}++++++++++++++++++${voices[k][l]}`)
     //     if (voices[k][l] === undefined) {
-    //       // console.log(`${k} . ${l} . ${i}`)
     //       // process.exit()
     //     }
     //   }
-
     // }
-
-    // console.log("trial:", voices[0].length, voices[1].length, voices[2].length, voices[3].length )
-    // console.log("trial:", durations[0], durations[1], durations[2], durations[3] )
-    // console.log("trial:", durations[0]+durations__[0], durations[1]+durations__[1], durations[2]+durations__[2], durations[3]+durations__[3] )
-    // console.log("trial:", tracks[0][indices[0]].quarterNotes, tracks[1][indices[1]].quarterNotes, tracks[2][indices[2]].quarterNotes, tracks[3][indices[3]].quarterNotes )
     // for (let i in tracks[0]) {
-
-
     let voicesAtPar = durations__.every((val, j, arr) => val === durations__[0])
     if (voicesAtPar) {
-
-
-      for (let k in tracks) {
-        let track = tracks[k];
-
-        voices[k].push(track[indices[k]])
-        durations[k] += track[indices[k]].duration
-        indices[k]++;
-        // durations[k] += JSON.parse(JSON.stringify(durations__[k]))
-        if (voices[k] === undefined) process.exit();
+      let hasTie_1 = hasTieinFile(indices, fileTies)
+      if (hasTie_1) {
+        // 
+        let tmp = addTie(trackswithNotes_, indices, durations, hasTie_1, voices)
+        voices = tmp[0]
+        durations = tmp[1]
+        indices = tmp[2]
+      } else {
+        for (let k in tracks) {
+          let track = tracks[k];
+          voices[k].push(track[indices[k]])
+          durations[k] += track[indices[k]].duration
+          indices[k]++;
+          // durations[k] += JSON.parse(JSON.stringify(durations__[k]))
+          if (voices[k] === undefined) process.exit();
+        }
       }
-
     } else {
       //   get ties
       let hasTie_ = hasTie(indices, trackswithNotes_);
-      // console.log('hasTie_')
       for (let k in durations) {
         durations[k] += durations__[k]
       }
       //   if(hasNo)
       if (hasTie_) {
-        // console.log(hasTie_)
         // save longest note
         let durations_ = trackswithNotes_.map((x, j) => {
           return parseFloat(x[indices[j]].quarterNotes)
         });
         let greatestTime = greatestInArr(durations_)
         let greatestIndex = durations_.indexOf(greatestTime)
-        // console.log(voicesDuration) // duration has already been added. so add longest Notes...
         let greatestDuration = greatestInArr(durations)
-
         for (let tracksIndex in durations) {
-          // console.log(`=============>${tracksIndex}`)
           let voiceDuration = durations[tracksIndex]
           // let greatestDuration = greatestInArr(durations)
-          // console.log(`${voiceDuration}:${greatestDuration}`)
           if (voiceDuration === greatestDuration) {
             voices[tracksIndex].push(trackswithNotes_[tracksIndex][indices[tracksIndex]])
-            // console.log(`=============>${tracksIndex}`)
             if (voices[tracksIndex] === undefined) process.exit();
             indices[tracksIndex]++ // increase by one the index of the track with the longest note...
           } else {
-            // console.log('working...')
             let indicestoIncreaseBy = 0;
             let notegroup = [];
-            // console.log(hasTie_[tracksIndex])
             while (indicestoIncreaseBy <= hasTie_[tracksIndex]) {
               try {
                 if (indicestoIncreaseBy > 0) {
                   //   durations[tracksIndex] += parseFloat(trackswithNotes_[tracksIndex][voices_i[tracksIndex]].quarterNotes)
-                  // console.log(trackswithNotes_[tracksIndex][indices[tracksIndex]].duration)
                   durations[tracksIndex] += trackswithNotes_[tracksIndex][indices[tracksIndex]].duration
-                  // console.log(`${durations[tracksIndex]}`)
                 }
                 notegroup.push(trackswithNotes_[tracksIndex][indices[tracksIndex]])
                 indices[tracksIndex]++
-                // console.log('voices_i')
                 indicestoIncreaseBy++
               } catch (erro) {
                 console.error(erro)
               }
             }
-            //   console.log(notegroup)
             voices[tracksIndex].push(notegroup)
             if (voices[tracksIndex] === undefined) process.exit();
-
           }
         }
       }
-
     }
     i++;
   }
-  // for (let i in voices[0]) console.log(`0-|||||||||>>>>>>>>>>>:${i}:${voices[0][i]}`)
-  // for (let i in voices[1]) console.log(`1-|||||||||>>>>>>>>>>>:${i}:${voices[1][i]}`)
-  // for (let i in voices[2]) console.log(`2-|||||||||>>>>>>>>>>>:${i}:${voices[2][i]}`)
-  // process.exit();
+  return [voices, partials];
 }
-
-let getMetricalPattern = async (stanzasWithLines) => {
+let getMetricalPattern = async (stanzasWithLines, stanzasHyphenated) => {
   let meters = [];
-  for (let i in stanzasWithLines) {
-    let stanzaWithLines = stanzasWithLines[i]
-    let stanzaWithLines_1 = stanzaWithLines.split('\n')
-    let stanzaWithLines_2 = stanzaWithLines.split('\r');
-    stanzaWithLines = stanzaWithLines_1;
-    if (stanzaWithLines.length < stanzaWithLines_2.length) stanzaWithLines = stanzaWithLines_2;
+  let stanzasHyphenated_t = [];
+  for (let i in stanzasHyphenated) {
+    stanzasHyphenated_t.push(stanzasHyphenated[i].replace(/[\d]\./, '').trim())
+  }
+  // console.log(stanzasWithLines)
+  // process.exit()
+  //  = stanzasHyphenated
+  let numWords = [
+    [],
+    [],
+    [],
+    []
+  ]
+  for (let k in stanzasWithLines) {
+    // console.log(k)
+    let stanzaWithLines = stanzasWithLines[k];
+    stanzaWithLines = stanzaWithLines.trim().split('\n')
+    let linesHere = stanzaWithLines;
     let meter = [];
-    for (let k in stanzaWithLines) {
-      let line = stanzaWithLines[k]
-      line = await hypernatefromDictionary(line);
-      line = getSyllablesfromText(line)
-      meter.push(line.length);
+    let lineIndex = 0;
+    let hyphenatedLine = stanzasHyphenated_t[k].split(' ')
+    for (let i in linesHere) {
+      let lineHere = linesHere[i].trim()
+      let wordCount = lineHere.split(' ').length;
+      let wordsHere = lineHere.split(' ')
+      let hyphenatedWords = []
+      for (let j in wordsHere) {
+        hyphenatedWords.push(hyphenatedLine.shift())
+      }
+      hyphenatedWords = hyphenatedWords.join(' ').split('-').join(' ').split(' ')
+      meter.push(hyphenatedWords.length)
+      lineIndex++;
     }
     meters.push(meter.join('.'))
   }
+  // for (let i in stanzasWithLines) {
+  //   let stanzaWithLines = stanzasWithLines[i]
+  //   let stanzaWithLines_1 = stanzaWithLines.split('\n')
+  //   let stanzaWithLines_2 = stanzaWithLines.split('\r');
+  //   stanzaWithLines = stanzaWithLines_1;
+  //   if (stanzaWithLines.length < stanzaWithLines_2.length) stanzaWithLines = stanzaWithLines_2;
+  //   let meter = [];
+  //   for (let k in stanzaWithLines) {
+  //     let line = stanzaWithLines[k]
+  //     line = await hypernatefromDictionary(line);
+  //     line = getSyllablesfromText(line)
+  //     // shorten or lengthen hyphenated words if there are several options for them...
+  //     if (line.length)
+  //       meter.push(line.length);
+  //   }
+  //   meters.push(meter.join('.'))
+  // }
   let compareMeterindex = 0;
   for (let i in meters)
     if (meters[i].length === 1)
       delete meters[i];
     else compareMeterindex = i;
-
   let regularMeter = meters.every((val, j, arr) => val === meters[compareMeterindex])
   if (regularMeter) meters = meters[compareMeterindex];
   else meters = 'Irregular'
   if (meters === '8.8.8.8') meters = 'L.M';
   if (meters === '8.6.8.6') meters = 'C.M';
   if (meters === '6.6.8.6') meters = 'S.M';
+  if (meters === '6.5.6.5.6.5.6.5.') meters = '6.5.6.5.D';
   return meters;
 }
-
 let getKeyfromNotesArray = (notesArr) => {
   let notes = {};
   for (let i in notesArr) {
@@ -907,17 +784,14 @@ let getKeyfromNotesArray = (notesArr) => {
       notes_[i] = notes[i]
     }
   }
-  // console.log(notes_)
   // suppose some notes are sharp and others are flat,, make all of them one of the other...
   // notes_["Gb"] = 2
-  // console.log(notes_)
   sharps = 0;
   flats = 0;
   for (let note in notes_) {
     if (note[1] === '#') sharps++
     if (note[1] === 'b') flats++
   }
-
   let accidental = 'N';
   let notes_1 = {}
   if (sharps >= flats) { // make all sharps
@@ -940,7 +814,6 @@ let getKeyfromNotesArray = (notesArr) => {
       index++;
     }
   }
-
   if (sharps < flats) { // make all flats
     accidental = 'b'
     let index = 0;
@@ -960,18 +833,14 @@ let getKeyfromNotesArray = (notesArr) => {
       index++;
     }
   }
-
   let accidentedNotesObj = {}; //retain only the notes that have the greatest occurance so we can know which notes are #s/bs throughout
-
   for (let note in notes_1) {
     let letterNote = note[0];
     let sharpNote = `${letterNote}#`
     let flatNote = `${letterNote}b`
-
     let sharpNotes = notes_1[sharpNote] || 0
     let flatNotes = notes_1[flatNote] || 0
     let nauturalNotes = notes_1[letterNote] || 0
-
     let accidentedNotes = sharpNotes;
     if (accidentedNotes < flatNotes) accidentedNotes = flatNotes;
     if (accidentedNotes > nauturalNotes) accidentedNotesObj[letterNote] = letterNote;
@@ -980,7 +849,6 @@ let getKeyfromNotesArray = (notesArr) => {
   let key = getKeyfromNumAccidentedNotes(accidental, numAccidentedNotes)
   return key;
 }
-
 let getKeyfromNumAccidentedNotes = (acc, number, type = 'major') => {
   try {
     type = type.toLowerCase()
@@ -1004,13 +872,11 @@ let getKeyfromNumAccidentedNotes = (acc, number, type = 'major') => {
       return 'C Major'
   }
 }
-
 let getNotesfromTracks = (tracks) => {
   let singlenotesfromTracks = [];
   let sumofQuarterNotes = 0;
   let notesfromTracks = [];
   for (let k in tracks) notesfromTracks.push([])
-
   for (let i in tracks) {
     let track = tracks[i];
     let notesforThisTrack = []
@@ -1018,7 +884,7 @@ let getNotesfromTracks = (tracks) => {
       let noteObj = track[k];
       let note;
       try {
-        if (noteObj.length > 1) { // is a tie
+        if (noteObj.length > 1) { // is a tie. check read also this from file...
           let tiedNotes = [];
           for (let l in noteObj) {
             let tmp = noteObj[l];
@@ -1029,7 +895,6 @@ let getNotesfromTracks = (tracks) => {
           }
           notesforThisTrack.push(tiedNotes)
         } else {
-
           if (noteObj.length === 1)
             noteObj = noteObj[0];
           note = getNotefromNumber(noteObj.midi)
@@ -1037,43 +902,19 @@ let getNotesfromTracks = (tracks) => {
           notesforThisTrack.push([note[0], noteObj.quarterNotes, note[1]])
           sumofQuarterNotes += parseFloat(noteObj.quarterNotes)
         }
-      } catch (error) {
-        // console.log(error)
-      }
-
+      } catch (error) {}
     }
     notesfromTracks[i] = notesforThisTrack;
   }
-  // console.log(singlenotesfromTracks.length)
-  // console.log(notesfromTracks[0].length)
-  // console.log(notesfromTracks[1].length)
-  // console.log(notesfromTracks[2].length)
-  // console.log(notesfromTracks[3].length)
-
-
-
-  // console.log(tracks[0].length)
-  // console.log(tracks[1].length)
-  // console.log(tracks[2].length)
-  // console.log(tracks[3].length)
-  // for(let i in tracks[0])console.log(`0->>>>>>>>>>>:${i}:${tracks[0][i]}`)
-  // for(let i in tracks[1])console.log(`1->>>>>>>>>>>:${i}:${tracks[1][i]}`)
-  // for(let i in tracks[2])console.log(`2->>>>>>>>>>>:${i}:${tracks[2][i]}`)
-
 
   // get the key from singlenotesfromTracks.length
-
-  // console.log(singlenotesfromTracks)
   let key = getKeyfromNotesArray(singlenotesfromTracks) // move out and up
   return [notesfromTracks, key, sumofQuarterNotes]
 }
-
 let getNotefromNumber = (number) => { //check return also octave...
   let knownNote = ['c', 48];
   let noteSequence = ['C', 'C#/Db', 'D', 'D#/Eb', 'E', 'F', 'F#/Gb', 'G', 'G#/Ab', 'A', 'A#/Bb', 'B']
-
   // if(number < 60)
-
   let diff = (number - knownNote[1])
   let smallNumber = diff % 12
   let octave
@@ -1081,7 +922,6 @@ let getNotefromNumber = (number) => { //check return also octave...
     octave = Math.floor(diff / 12)
   else octave = parseInt(diff / 12)
   if (diff < 0) smallNumber += 12
-  // console.log(smallNumber, octave)
   let note = noteSequence[smallNumber];
   // 1, 1 => 0
   let retOctave = ''
@@ -1095,7 +935,6 @@ let getNotefromNumber = (number) => { //check return also octave...
   }
   return [note, retOctave];
 }
-
 let fixYearfromComposerData = (headerData) => {
   let composer = headerData.Composer[0];
   let year = composer.match(/[\d]+/)
@@ -1111,20 +950,15 @@ let fixYearfromComposerData = (headerData) => {
         let tmp = headerData.Year[1].split('|')
         tmp[1] = year;
         headerData.Year[1] = tmp.join('|')
-
       }
-
     }
   } catch (err) {}
-
   return headerData
 }
-
 let extractHeaderDatafromContents = async (contents) => {
   let ret = {}
   let patt = /([A-Za-z]+)(.*)[\|]+/g
   let matches = contents.match(patt)
-
   // let match = fileContents.matchAll(patt)
   for (let i in matches) {
     let match = matches[i]
@@ -1134,14 +968,16 @@ let extractHeaderDatafromContents = async (contents) => {
   }
   return ret;
 }
-
 let addToHeaderData = (headerData, key, value) => {
   let tmp = headerData[key];
   tmp[0] = value;
+
   let tmp2 = tmp[1].split('|');
+  tmp2[0] = tmp2[0].trim();
   tmp2[1] = value;
   tmp[1] = tmp2.join('|')
   headerData[key] = tmp;
+  // process.exit();
   return headerData
 }
 let saveHeaderData = async (headerData, contents, path_) => { // assumes that keys should already exist... use different function to create missing keys
@@ -1149,14 +985,13 @@ let saveHeaderData = async (headerData, contents, path_) => { // assumes that ke
     let header = headerData[i][1].split('|')[0]
     while (header[header.length - 1] === '')
       header = header.slice(0, -1);
-    let re = new RegExp(`${header}[\\s]?\\|.*`, 'g');
-    let replace = headerData[i][1]
+    let re = new RegExp(`\n${header}[\\s]?\\|.*`, 'g');
+    console.log(re)
+    let replace = `\n${headerData[i][1]}`
     contents = contents.replace(re, replace)
-
   }
   fs.writeFileSync(path_, contents)
 }
-
 let sharpOrflatUsingKey = (note, key) => {
   while (key.split('  ').length > 1) {
     key = key.split('  ').join(' ')
@@ -1188,22 +1023,16 @@ let sharpOrflatUsingKey = (note, key) => {
     i++
   }
   return [ret, toAppend];
-
 }
 let getNoteFinally = (note, key) => {
-
   let note_ = note[0].replace("#", 'is').replace(/b/, 'es').toLowerCase()
   // get whole notes and the dot...
   let tmpDuration = 1 / (note[1] / 4)
   let fullNote = (tmpDuration % 1) ? (tmpDuration * 3) / 2 : tmpDuration
   let halfNote = (tmpDuration % 1) ? "." : "";
-
   if (note_.split('/').length > 1) {
-    //   console.log(note)
-    // process.exit();
     let accs_ = sharpOrflatUsingKey(note_, key)
     let accs = accs_[0]
-    // console.log(accs)
     let optionNote1 = note_.split('/')[0][0].toUpperCase()
     let optionNote2 = note_.split('/')[1][0].toUpperCase()
     let optionNote1Index = accs.indexOf(`${optionNote1}#`)
@@ -1217,12 +1046,24 @@ let getNoteFinally = (note, key) => {
         else note_ = note_.split('/')[1]
       }
     }
-
   }
-  note_ = `${note_}${note[2]}${fullNote}${halfNote}`
+  note_ = `${note_}${note[2]}${Math.ceil(fullNote)}${halfNote}` // check. Either floor or ceil depending...
   return note_
 }
-let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumber, key_) => {
+let gcd = function (a, b) {
+  if (!b) return a;
+  return gcd(b, a % b);
+};
+let toFraction = (fraction) => {
+  let len = fraction.toString().length - 2;
+  let denominator = Math.pow(10, len);
+  let numerator = fraction * denominator;
+  let divisor = gcd(numerator, denominator);
+  numerator /= divisor;
+  denominator /= divisor;
+  return Math.floor(numerator) + '/' + Math.floor(denominator);
+}
+let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, ppq, songNumber, key_, partials, repeat) => {
   // notes has: note, quarterNotes, octave...
   // include songNumber in title
   // subtitle should have00
@@ -1232,6 +1073,7 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
   let subtitle_ = '';
   if (subtitle.length) subtitle_ = `${header.Texts[0]}; ${header.Metrical[0]}`
   else subtitle_ = header.Metrical[0]
+  // console.log(header.Author);process.exit();;
   let lilyTxt = `\\header
     {
       tagline = ""  % removed
@@ -1240,27 +1082,31 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
       poet = "${header.Author[0]}"
       subtitle = "${subtitle_}"
     }
-    
     \\version "2.18.2"
     %
     %% global for all staves
     %\n`
-
+  // todo: calculating partials...
+  let pulses = (partials / (60 / bpm)) * ppq
+  let quarterNotes = pulses / ppq;
+  partials = quarterNotes
+  let notesPerMeasure = parseInt(timesignature.split('/')[0])
+  let notesInMeasure = parseInt(timesignature.split('/')[1])
+  let allNotesinMeasure = 1 / notesInMeasure * notesPerMeasure
+  if (partials !== 0) {
+    partials *= (1 / 4)
+    partials = allNotesinMeasure - partials
+    partials = (1 / partials).toString()
+  }
   let global = 'global = { ';
   let key = key_
-  // console.log(key)
-  // console.log(key_)
-  // process.exit();
   global += `\\key ${key.split(' ')[0].replace('#', 'is').replace(/b/, "es").toLowerCase()} \\${key.split(' ')[1].toLowerCase()} \\time ${timesignature} `
   let tempo = `\\tempo ${timesignature[2]} = ${parseInt(bpm)} ` // \\tempo 4 = 120
   global += tempo
-  let partial = '' // ` \\ partial 4`
+  let partial = partials ? `\\partial ${partials}` : '' // ` \\ partial 4`
   global += partial
   global += ' }'
-  // console.log(global)
   lilyTxt += global;
-
-  // todo: calculating partials...
   let lilyVoices = [
     [],
     [],
@@ -1274,88 +1120,55 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
       let note = notes[i][k]
       if (typeof note[0] === 'object') {
         for (let l in note) {
-          // let note_ = note[0][l]
-          // console.log(i)
           let tmp = getNoteFinally(note[l], key)
           notesPeriods[i][notesPeriodsCummuative[i]] = tmp.split('is').join('').split('es').join('').split(/[\d]/).join('')
           notes[i][k][l][3] = notesPeriodsCummuative[i]
           notesPeriodsCummuative[i] += parseFloat(note[l][1])
-          //   console.log(notesPeriods[i][notesPeriodsCummuative[i]]);
-          // process.exit();
         }
-
       } else {
-        // console.log(i)
-        // console.log(notesPeriodsCummuative[i])
         let tmp = getNoteFinally(note, key)
         notes[i][k][3] = notesPeriodsCummuative[i]
         notesPeriods[i][notesPeriodsCummuative[i]] = tmp.split('is').join('').split('es').join('').split(/[\d]/).join('')
-        // console.log(notesPeriods[i][notesPeriodsCummuative[i]]);
-        // process.exit();
-        // console.log(note)
         notesPeriodsCummuative[i] += parseFloat(note[1])
         // if(isNaN(parseFloat(note[1])))
-        // console.log(parseFloat(note[1]))
-        // console.log(note)
-        // console.log(notesPeriodsCummuative[i])
-        // console.log(notesPeriodsCummuative[i])
       }
     }
-    // process.exit();
   }
-  // console.log(notes);
-  // console.log(notesPeriods);
-  // console.log(notes);
-
   for (let i in lilyVoices) {
     for (let k in notes[i]) {
       let note = notes[i][k]
-      // console.log(note)
-      // console.log(note[0])
-
       if (typeof note[0] === 'object') {
-        // console.log(note[0])
         let tmpNotes = note;
         let numTiedNotes = note.length;
         let countNotes = 0;
         for (let l in tmpNotes) {
-          // console.log('tmpNotes[l]')
-
           let note_ = getNoteFinally(tmpNotes[l], key)
           let origNote = note_.split('is').join('').split('es').join('').split(/[\d]/).join('')
           // tie
           // if (++countNotes < numTiedNotes)
           //   note_ = `${note_}~`
-
           // slur
           if (countNotes === 1)
             note_ = `(${note_}`
           if (countNotes === numTiedNotes - 1)
             note_ = `${note_})`
           countNotes++
-
           // what time is the note???
-
           let noteTime = tmpNotes[l][3]
-          // console.log(noteTime)
-          // console.log(origNote)
           let numSimilar = 0;
           if (i > 0) { // check if there are similar notes in other tracks: 1 - 4. No shifts on first track
             // let otherTimeNotes = [];
             for (let z in notesPeriods) {
-
               if (z < 3 && z < i) { // don't compare with last track. z is track index being check, i is current track index
                 if (notesPeriods[z][noteTime])
                   if (notesPeriods[z][noteTime] === origNote) numSimilar++;
               }
             }
           }
-          if (numSimilar > 0) { // check........... start here..........
-            note_ = `\\override NoteColumn.force-hshift = 10 ${note_}`
-          }
-
+          // if (numSimilar > 0) { // check........... temp disabled..........
+          //   note_ = `\\override NoteColumn.force-hshift = 10 ${note_}`
+          // }
           lilyVoices[i].push(note_)
-          // console.log(`${note[1]}----------${note_}~`)
         }
       } else {
         let note_ = getNoteFinally(note, key)
@@ -1363,8 +1176,6 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
       }
     }
   }
-  // process.exit();
-  // console.log(lilyVoices)
   // let lilyVoices_ = ["soprano = \\relative c{", "alto = \\relative c{", "tenor = \\relative c{", "bass = \\relative c{"]
   let lilyVoices_ = ["soprano = {", "alto = {", "tenor = {", "bass = {"]
   for (let i in lilyVoices) {
@@ -1377,28 +1188,18 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
   let lilyVoices_1 = JSON.parse(JSON.stringify(lilyVoices_)) // all stanzas in one line
   for (let j in lilyVoices_1) {
     let patt = /{(.*)}/
-    let voiceNotes_ = lilyVoices_[j].match(patt)[1];
-    // console.log(voiceNotes_)
+    let voiceNotes_ = lilyVoices_[j].match(patt)[1]; // j is a voice: sop,alto,tenor,bass
+    console.log(repeat)
+    console.log('===================================', voiceNotes_)
     let voiceNotes_AllStanzas = '';
     for (let i in stanzas) voiceNotes_AllStanzas += `${voiceNotes_} `
-    // console.log(voiceNotes_AllStanzas)
-    // console.log()
-    // console.log()
-    // console.log()
     lilyVoices_1[j] = lilyVoices_1[j].split(voiceNotes_).join(voiceNotes_AllStanzas)
-    // console.log(lilyVoices_[0].match(patt))
   }
-
-  // console.log(lilyVoices_1)
-  // process.exit();
   lilyTxt += `\n%Individual voices\n`
-  // console.log(lilyVoices_)
   lilyVoices_ = lilyVoices_.join('\n')
   lilyVoices_1 = lilyVoices_1.join('\n')
-  // console.log(lilyVoices_)
-  lilyTxt += `\n${lilyVoices_}`
   let lilyTxt_1 = `${lilyTxt}\n${lilyVoices_1}`
-
+  lilyTxt += `\n${lilyVoices_}`
   // lyrics
   lilyTxt += `\n%lyrics\n`
   lilyTxt_1 += `\n%lyrics\n`
@@ -1406,7 +1207,6 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
   for (let i = 9; ++i < 36;) aphapet += i.toString(36)
   // combine also all lyrics into one line...
   let singleLyricsLine = ''
-  // console.log(stanzas)
   let stanzas_ = {};
   for (let i in stanzas) {
     let stanza = stanzas[i]
@@ -1421,20 +1221,17 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
   let stanzas_1 = {
     stanzaa: singleLyricsLine
   } // all stanzas into one
-
   let lyricsLines = '';
   for (let i in stanzas_) {
     lilyTxt += `${i} = ${stanzas_[i]}\n`
     lyricsLines += `\\new Lyrics \\lyricsto "Sop" { \\${i} }\n`
   }
-
   let lyricsLines_1 = '';
   for (let i in stanzas_1) {
     lilyTxt_1 += `${i} = ${stanzas_1[i]}\n`
     lyricsLines_1 += `\\new Lyrics \\lyricsto "Sop" { \\${i} }\n`
   }
-
-  let getLilyScore = (lyricsLines, staves = ['', ''], copiesIndex, separated) => {
+  let getLilyScore = (lyricsLines, staves = ['', ''], copiesIndex, separated, repeat) => {
     let treble = staves[0] || ''
     let bass = staves[1] || ''
     let staff1Lyrics = ''
@@ -1445,88 +1242,85 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
       if (copiesIndex > 1) staff2Lyrics = lyricsLines
       else staff1Lyrics = lyricsLines
     }
-
-
     let treble_ = '';
-    let repeatTimes = 8 // check start here...
+    let repeatTimes = repeat === false ? 1 : repeat === '' ? 1 : repeat // check start here...
     if (bass === '') { // treble clef voices...
-      // console.log('=============')
-      // console.log(staff2Lyrics)
-      // console.log(staff1Lyrics)
-      // process.exit();
-      // console.log(bass)
       let i = 0;
       while (i++ < repeatTimes) {
-        treble_ += `\\new Staff <<\n\\cleff "treble"
+        treble_ += `\\new Staff <<\n\\clef "treble"
         ${treble}\n
-        ${staff1Lyrics || staff2Lyrics}\n>>`
+        ${staff1Lyrics || staff2Lyrics}\n>>\n`
       }
     } else {
       treble_ = `\\new Staff <<\n\\clef "treble"
       ${treble}\n
-      ${staff1Lyrics}\n>>`
+      ${staff1Lyrics}\n>>\n`
     }
     let bass_ = '';
     if (treble === '') {
-      // console.log('=============')
-      // console.log("1", staff2Lyrics)
-      // console.log("2", staff1Lyrics)
-      // console.log("3", staff1Lyrics || staff2Lyrics)
-      // console.log("3", staffLyrics || staff1Lyrics)
-      // console.log(bass)
-      // process.exit();
       let i = 0;
       while (i++ < repeatTimes) {
         bass_ += `\\new Staff <<\n\\clef "bass"
         ${bass}\n
-        ${staff1Lyrics || staff2Lyrics}\n>>`
+        ${staff1Lyrics || staff2Lyrics}\n>>\n`
       }
     } else {
       bass_ = `\\new Staff <<
       \\clef "bass"
       ${bass}\n
-      ${staff2Lyrics}\n>>`
+      ${staff2Lyrics}\n>>\n`
     }
+    // if (treble === '') {
+    //   let i = 0;
+    //   while (i++ < repeatTimes) {
+    //     bass_ += `\\new Staff <<\n\\clef "bass"
+    //     ${bass}\n
+    //     ${staff1Lyrics || staff2Lyrics}\n>>\n`
+    //   }
+    // } else {
+    //   bass_ = `\\new Staff <<
+    //   \\clef "bass"
+    //   ${bass}\n
+    //   ${staff2Lyrics}\n>>\n`
+    // }
+    let trebles_ = ''
+    let basss_ = ''
     if (separated && bass_ !== '' && treble !== '') {
       console.log(treble);
       let trebles = treble.split('}\n')
       trebles[0] = trebles[0] + '}\n'
-      // console.log(trebles);
-      treble_ = `\\new Staff <<\n\\clef "treble"
+      let i = 0;
+      while (i++ < repeatTimes) {
+        trebles_ += `\\new Staff <<\n\\clef "treble"
       ${trebles[0]}\n
-      ${staff1Lyrics}\n>>`
+      ${staff1Lyrics}\n>>\n`
       let voiceName = trebles[1].match(/Voice = "(.*)"/)[1]
-      // console.log(voiceName)
-      // console.log(trebles[1])
       staff1Lyrics = staff1Lyrics.split('lyricsto "Sop"').join(`lyricsto "${voiceName}"`)
-      // console.log(trebles[1])
       let oldVoice = voiceName;
       // 
-      treble_ += `\\new Staff <<\n\\clef "treble"
+      trebles_ += `\\new Staff <<\n\\clef "treble"
       ${trebles[1]}\n
-      ${staff1Lyrics}\n>>`
-
+      ${staff1Lyrics}\n>>\n`
       let basses = bass.split('}\n')
       basses[0] = basses[0] + '}\n'
-      // console.log(trebles);
       voiceName = basses[0].match(/Voice = "(.*)"/)[1]
-      // console.log(voiceName, oldVoice)
       staff1Lyrics = staff1Lyrics.split(`lyricsto "${oldVoice}"`).join(`lyricsto "${voiceName}"`)
-      bass_ = `\\new Staff <<\n\\clef "bass"
+      basss_ = `\\new Staff <<\n\\clef "bass"
       ${basses[0]}\n
-      ${staff1Lyrics}\n>>`
+      ${staff1Lyrics}\n>>\n`
       oldVoice = voiceName;
-
       voiceName = basses[1].match(/Voice = "(.*)"/)[1]
       staff1Lyrics = staff1Lyrics.split(`lyricsto "${oldVoice}"`).join(`lyricsto "${voiceName}"`)
-      // console.log(voiceName)
-      bass_ += `\\new Staff <<\n\\clef "bass"
+      basss_ += `\\new Staff <<\n\\clef "bass"
       ${basses[1]}\n
-      ${staff1Lyrics}\n>>`
-      // console.log(bass_);
+      ${staff1Lyrics}\n>>\n`
+      i++
+      }
+      treble_ = trebles_
+      bass_ = basss_
+      // console.log(treble_);
       // process.exit();
     }
-    // process.exit();
     let txt = `\\score {
       \\new ChoirStaff <<
        ${treble_}
@@ -1553,14 +1347,13 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
     // }`
     return txt;
   }
-
   // let getLiLyScoreComplex = 
   let copies = {
     'soprano': [`\\new Voice = "Sop" { \\voiceOne \\global \\soprano}`, '', "Sop"],
     'alto': [`\\new Voice = "Alto" { \\voiceTwo \\global \\alto}`, '', "Alto"],
     'tenor': ['', `\\new Voice = "Tenor" { \\voiceOne \\global \\tenor}`, "Tenor"],
     'bass': ['', `\\new Voice = "Bass" { \\voiceOne \\global \\bass}`, "Bass"],
-    'all': [`\\new Voice = "Sop" { \\voiceOne \\global \\soprano}\n\\new Voice = "Alto" { \\voiceTwo \\global \\alto}`, `\\new Voice = "Tenor" { \\voiceOne \\global \\tenor}\n\\new Voice = "Bass" { \\voiceOne \\global \\bass}`],
+    'choir': [`\\new Voice = "Sop" { \\voiceOne \\global \\soprano}\n\\new Voice = "Alto" { \\voiceTwo \\global \\alto}`, `\\new Voice = "Tenor" { \\voiceOne \\global \\tenor}\n\\new Voice = "Bass" { \\voiceOne \\global \\bass}`],
     'separated': [`\\new Voice = "Sop" { \\voiceOne \\global \\soprano}\n\\new Voice = "Alto" { \\voiceTwo \\global \\alto}`, `\\new Voice = "Tenor" { \\voiceOne \\global \\tenor}\n\\new Voice = "Bass" { \\voiceOne \\global \\bass}`]
   }
   let copies_ = {};
@@ -1574,34 +1367,36 @@ let createLilypondFiles = (header, notes, stanzas, timesignature, bpm, songNumbe
       tmp_ = tmp_.split('lyricsto "Sop"').join(`lyricsto "${tmp[2]}"`)
       tmp_1 = tmp_1.split('lyricsto "Sop"').join(`lyricsto "${tmp[2]}"`)
     }
-    copies_[i] = lilyTxt + getLilyScore(tmp_, copies[i], copiesIndex++, i === 'separated' ? true : false)
-    copies_1[i] = lilyTxt_1 + getLilyScore(tmp_1, copies[i], copiesIndex++, i === 'separated' ? true : false)
-    // console.log(copies_[i])
-
+    copies_[i] = lilyTxt + getLilyScore(tmp_, copies[i], copiesIndex++, i === 'separated' ? true : false, repeat)
+    copies_1[i] = lilyTxt_1 + getLilyScore(tmp_1, copies[i], copiesIndex++, i === 'separated' ? true : false, repeat)
   }
-
-  // console.log(copies_1);
-  // process.exit();
   return [copies_, copies_1];
 }
 
+let exec_ = async (command) => {
+  return new Promise((resolve, reject) => {
+    exec(`${command}`, function (error, stdout, stderr) {
+      if (error) {
+        // console.log(error.code);
+      }
+      // console.log(stdout)
+      // console.log(stderr)
+      resolve(true)
+    });
+  })
+}
 
 let processTxtFile = async (path_) => {
+  console.log(path_);
   let fileContents = fs.readFileSync(path_, 'utf-8');
   let hasRefrain = hasRefrainF(fileContents)
   let syllablesDirPath = path_.split('created')[0] + (path_.split('created')[1].split('/')[1]) + '-syllables'
-  
   // let trackswithNotes_Path = path_.split('created')[0] + (path_.split('created')[1].split('/')[1]) + '-trackswithNotes_'
-  
   try {
     fs.mkdirSync(syllablesDirPath)
   } catch (err) {}
   let syllablesPath = path.join(syllablesDirPath, path_.split('/').slice(-2)[0])
   let trackswithNotes_Path = path.join(syllablesDirPath, path_.split('/').slice(-2)[0]) + '-trackswithNotes_'
-  // console.log(syllablesDirPath)
-  // console.log(syllablesPath)
-  // console.log(trackswithNotes_Path)
-  // process.exit();
   /*
    * songs without refrainFirst
    */
@@ -1610,31 +1405,29 @@ let processTxtFile = async (path_) => {
     songNumber = parseInt(songNumber).toString();
     if (songNumber.length < 2) songNumber = '0' + songNumber
     if (songNumber.length < 3) songNumber = '0' + songNumber
+    let tiesPath = path_.split('/')
+    tiesPath.pop()
+    tiesPath.pop()
+    tiesPath.pop()
+    tiesPath.pop()
+    let hName = tiesPath.pop();
+    tiesPath.pop()
+    tiesPath = tiesPath.join('/') + `/${hName}-ties/${songNumber}`
     let midiFileName = 'C' + songNumber + '.mid';
     let midiFilePath = path.join(hymnalPaths.midiDir, midiFileName);
-
-    console.log('dhdskhfkds')
-    // console.log(syllablesPath)
     let stanzasSaved = false;
     try {
       stanzasSaved = fs.readFileSync(syllablesPath, 'utf-8')
     } catch (err) {}
-    // console.log('---------')
-    // console.log(stanzasSaved)
-    // process.exit();
     let stanzasTmp;
-    
     if (!stanzasSaved) stanzasTmp = await getStanzas(fileContents); // check if saved
     else stanzasTmp = JSON.parse(stanzasSaved)
-    console.log('dhdskhfkds')
-    // console.log(stanzasTmp)
     let stanzas = stanzasTmp[0]
     let stanzasHyphenated = stanzasTmp[1]
     let stanzasSyllables = stanzasTmp[2]
     let numStanzas = stanzas.length;
     let i = 0;
     // let j = 200;
-    
     let tmp_ = [
       [],
       [],
@@ -1642,11 +1435,11 @@ let processTxtFile = async (path_) => {
     ]
     while (i < numStanzas) {
       if (stanzasSyllables[i] === 1) {} else {
-        if(isNaN(stanzas[i][0]) && stanzas[i][1] !== '.')tmp_[0].push(`${tmp_[2].length+1}. ${stanzas[i]}`)
+        if (isNaN(stanzas[i][0]) && stanzas[i][1] !== '.') tmp_[0].push(`${tmp_[2].length+1}. ${stanzas[i]}`)
         else tmp_[0].push(`${stanzas[i]}`)
         tmp_[1].push(stanzasSyllables[i])
         // tmp_[2].push(`${tmp_[2].length+1}. ${stanzasHyphenated[i]}`)
-        if(isNaN(stanzasHyphenated[i][0]) && stanzasHyphenated[i][1] !== '.')tmp_[2].push(`${tmp_[2].length+1}. ${stanzasHyphenated[i]}`)
+        if (isNaN(stanzasHyphenated[i][0]) && stanzasHyphenated[i][1] !== '.') tmp_[2].push(`${tmp_[2].length+1}. ${stanzasHyphenated[i]}`)
         else tmp_[2].push(`${stanzasHyphenated[i]}`)
       }
       i++;
@@ -1654,20 +1447,13 @@ let processTxtFile = async (path_) => {
     stanzas = JSON.parse(JSON.stringify(tmp_[0]))
     stanzasSyllables = JSON.parse(JSON.stringify(tmp_[1]))
     stanzasHyphenated = JSON.parse(JSON.stringify(tmp_[2]))
-    // console.log('===========')
-    // console.log(stanzasHyphenated)
-    // console.log(stanzasSyllables)
-    // console.log(stanzasSyllables)
     let allStanzashaveSameNumSyllables = stanzasSyllables.every((val, i, arr) => val === arr[0])
     console.log('-------------------------------------------->1545' + allStanzashaveSameNumSyllables)
     if (!allStanzashaveSameNumSyllables) {
-      for(let ii in stanzasHyphenated) {
+      for (let ii in stanzasHyphenated) {
         let sta = stanzasHyphenated[ii].split('-').join(' ').split(' ')
-        for(let iii in sta)console.log(`${iii}:${sta[iii]}`)
+        for (let iii in sta) console.log(`${iii}:${sta[iii]}`)
       }
-      // console.log(stanzasSyllables)
-      // console.log(stanzasHyphenated)
-      // process.exit();
       // save wrong syllables errors
       console.log(hymnalPaths.unequalStanzaSyllables)
       let unequalStanzaSyllables = fs.readFileSync(hymnalPaths.unequalStanzaSyllables, 'utf-8')
@@ -1678,10 +1464,7 @@ let processTxtFile = async (path_) => {
     }
     console.log('-------------------------------------------->1545*')
     // if success, save result.
-    // console.log(syllablesDirPath)
-    // console.log(syllablesPath)
     fs.writeFileSync(syllablesPath, JSON.stringify([stanzas, stanzasHyphenated, stanzasSyllables]));
-
     try {
       let fileBlob = fs.readFileSync(midiFilePath) // check if saved
       let decoded = Midi.decode(fileBlob)
@@ -1691,25 +1474,58 @@ let processTxtFile = async (path_) => {
       let i = 0;
       let currentsNotes = [];
       let AllNotes = [];
-
       let ppq = decoded.header.PPQ;
+      let timeSin_tmp = {}
+      for (let p in decoded.gsMusicObject.timeSignatures) {
+        if (timeSin_tmp[decoded.gsMusicObject.timeSignatures[p]] === undefined) timeSin_tmp[decoded.gsMusicObject.timeSignatures[p]] = 0
+        else timeSin_tmp[decoded.gsMusicObject.timeSignatures[p]]++
+      }
+      let greater = {}
+      for (let p in timeSin_tmp) {
+        let occurences = timeSin_tmp[p]
+        if (!greater[occurences]) greater[occurences] = [p]
+        else greater[occurences].push(p)
+      }
+      // which is the greater...
+      console.log(greater)
+      // sort obj of timeSignature numbers
+      var sortable = [];
+      for (let occurance in greater) {
+        sortable.push([occurance, greater[occurance]]);
+      }
+      sortable.sort(function (a, b) {
+        return parseInt(a[0]) - parseInt(b[0]);
+      });
+      let greatest = sortable.slice(-1)[0][1]
+      let timesignatureStr;
+      if (greatest.length === 0) {
+        timesignatureStr = `${greatest[0].split('/')[0]}/${greatest[0].split('/')[1]}`
+      } else {
+        let tmpGreatest = []
+        for (let i in greatest) {
+          let tmp = parseInt(greatest[i].split('/')[0]) / parseInt(greatest[i].split('/')[1])
+          tmpGreatest.push([tmp, greatest[i]])
+        }
+        // descending order
+        tmpGreatest = tmpGreatest.sort(function (a, b) {
+          if (a > b) return -1;
+          if (b > a) return 1;
+        })
+        tmpGreatest = tmpGreatest.slice(-1)[0][1]
+        timesignatureStr = tmpGreatest
+      }
       let bpm = decoded.header.bpm;
-      let timesignatureStr = `${decoded.header.timeSignature[0]}/${decoded.header.timeSignature[1]}`
+      // let timesignatureStr = `${decoded.header.timeSignature[0]}/${decoded.header.timeSignature[1]}`
       console.log('-------------------------------------------->1546-2')
       // check if trackWithNotes was saved...
       let stanzasSaved = false;
-      // console.log('trackswithNotes_')
       try {
         trackswithNotes_ = JSON.parse(fs.readFileSync(trackswithNotes_Path, 'utf-8'))
         // trackswithNotes_ = fs.readFileSync(trackswithNotes_Path, 'utf-8')
       } catch (err) {}
       console.log('1', path_)
       let l = 0;
-      // console.log(trackswithNotes_)
-      // console.log(stanzasHyphenated[0])
-        // process.exit();
-
-        // add quaterNotes
+      // add quaterNotes
       trackswithNotes_ = trackswithNotes_.map((track, j) => {
         track = track.map((note, j) => {
           let duration = note.duration;
@@ -1720,24 +1536,24 @@ let processTxtFile = async (path_) => {
         })
         return track
       })
-
+      let stanzasWithLines = await getStanzasWithLines(fileContents); // check if saved
       while (l < trackswithNotes_[0].length) {
-        let tmp = await checkMissingNotes(trackswithNotes_, decoded, stanzasHyphenated);
+        let tmp = await checkMissingNotes(trackswithNotes_, decoded, stanzasHyphenated, stanzasWithLines, tiesPath);
         l++;
       }
       console.log(stanzasSyllables)
-        // process.exit();
       // trackswithNotes_ save
       fs.writeFileSync(trackswithNotes_Path, JSON.stringify(trackswithNotes_))
       console.log('-------------------------------------------->1546-3')
-      let noteSyllableGroups = getSyllablesFromNotes(trackswithNotes_);
+      let noteSyllableGroups_ = getSyllablesFromNotes(trackswithNotes_, tiesPath);
+      let noteSyllableGroups = noteSyllableGroups_[0];
+      let partials = noteSyllableGroups_[1];
       let txtSyllableGroups = [];
       for (let k in stanzasHyphenated) txtSyllableGroups[k] = getSyllablesfromText(stanzasHyphenated[k])
       console.log('-------------------------------------------->1546-4')
-      let stanzasWithLines = await getStanzasWithLines(fileContents); // check if saved
-      let meter = await getMetricalPattern(stanzasWithLines)
+      let meter = await getMetricalPattern(stanzasWithLines, stanzasHyphenated)
       console.log('-------------------------------------------->1546-5')
-
+      console.log(meter)
       let notesfromTracks_ = getNotesfromTracks(noteSyllableGroups) // move out and up
       let notesforAllVoices = notesfromTracks_[0]
       let sumofQuarterNotes = notesfromTracks_[2]
@@ -1745,203 +1561,342 @@ let processTxtFile = async (path_) => {
       console.log('-------------------------------------------->1546-6')
       let headerData = await extractHeaderDatafromContents(fileContents)
       headerData = fixYearfromComposerData(headerData)
-      // console.log(headerData)
       // add data to text contents and save: key, meter
       headerData = addToHeaderData(headerData, 'Key', key)
       headerData = addToHeaderData(headerData, 'Metrical', meter)
+
       await saveHeaderData(headerData, fileContents, path_)
+      // console.log(fileContents);process.exit();
       console.log('-------------------------------------------->1546')
       console.log('-------------------------------------------->1546')
       // from English and Texts go into the middle... No because from english will be found in the index...
       // into the middle go texts and meter
-      // console.log(path_)
-      // console.log(path_)
-      // process.exit();
       // create lilypond file...
-      // console.log(key)
-      return // check. start here
-      let lilypondFiles_ = createLilypondFiles(headerData, notesforAllVoices, stanzasHyphenated, timesignatureStr, bpm, songNumber, key)
-      let lilypondFiles = lilypondFiles_[0]
-      let lilypondFiles1 = lilypondFiles_[1]
-      // console.log(path_)
-      let lyPath = path_.split('/created/')
-      let hymnalName = path_.split('/created/')[1].split('/')[0] + '-ly'
-      lyPath = path.join(lyPath[0], "created", hymnalName);
-      try {
-        fs.mkdirSync(lyPath)
-      } catch (error) {}
+      // return // check. start here
+      /*
+       * repeats, 
+       * long and short... 
+       */
+      let forLylipond = async (repeat) => {
+        let lilypondFiles_ = createLilypondFiles(headerData, notesforAllVoices, stanzasHyphenated, timesignatureStr, bpm, ppq, songNumber, key, partials, repeat)
+        let lilypondFiles = lilypondFiles_[0]
+        let lilypondFiles1 = lilypondFiles_[1]
+        let lyPath = path_.split('/created/')
+        let hymnalName = path_.split('/created/')[1].split('/')[0] + '-ly'
+        lyPath = path.join(lyPath[0], "created", hymnalName);
+        try {
+          fs.mkdirSync(lyPath)
+        } catch (error) {}
+        // lyPath = path.join(lyPath, songNumber);
+        let filesCount = Object.keys(lilypondFiles).length;
+        let filesIndex = 0;
+        try {
+          fs.mkdirSync(lyPath)
+        } catch (error) {}
 
-      // lyPath = path.join(lyPath, songNumber);
-      let filesCount = Object.keys(lilypondFiles).length;
-      let filesIndex = 0;
-      try {
-        fs.mkdirSync(lyPath)
-      } catch (error) {}
-      while (filesIndex < filesCount) {
-        let lyPartName = ''
-        let lyPartName1 = ''
-        let lyPartContent = ''
-        let lyPartContent1 = ''
-        let j = 0;
-        for (let i in lilypondFiles) {
-          lyPartName = i
-          lyPartName1 = i
-          lyPartContent = lilypondFiles[i]
-          lyPartContent1 = lilypondFiles1[i]
-          if (j++ === filesIndex) break;
+        let lilinksTemplate = {
+          noRepeat: {
+            short: '',
+            long: ''
+          },
+          repeat: {
+            short: '',
+            long: ''
+          }
         }
-        // console.log(lyPartName)
-       
-        let lyFilePath;
-        let lyFilePath1;
-        // process.exit();
-        if ('separated' !== lyPartName) {
-          lyFilePath = path.join(lyPath, `${songNumber}-${lyPartName}.ly`)
-          lyFilePath1 = path.join(lyPath, `${songNumber}-long-${lyPartName}.ly`)
-        } else {
-          lyFilePath = path.join(lyPath, `${songNumber}.ly`)
-          lyFilePath1 = path.join(lyPath, `${songNumber}-long.ly`)
+        let lilinks = {
+          soprano: JSON.parse(JSON.stringify(lilinksTemplate)),
+          alto: JSON.parse(JSON.stringify(lilinksTemplate)),
+          tenor: JSON.parse(JSON.stringify(lilinksTemplate)),
+          bass: JSON.parse(JSON.stringify(lilinksTemplate)),
+          choir: JSON.parse(JSON.stringify(lilinksTemplate)),
+          "choir-separated": JSON.parse(JSON.stringify(lilinksTemplate))
         }
-        // console.log(lyFilePath)
-        fs.writeFileSync(lyFilePath, lyPartContent);
-        fs.writeFileSync(lyFilePath1, lyPartContent1);
-        // exec(`cd ${lyPath} && lilypond ${lyFilePath}`)
-        console.log(lyPath)
-        let midiPath, mp3Path, wavPath;
-        await new Promise((resolve, reject) => {
-          exec(`cd ${lyPath} && lilypond ${lyFilePath}`, function (error, stdout, stderr) {
-            if (error) {
-              console.log(error.code);
+
+        while (filesIndex < filesCount) {
+          let lyPartName = ''
+          let lyPartName1 = ''
+          let lyPartContent = ''
+          let lyPartContent1 = ''
+          let j = 0;
+
+          for (let i in lilypondFiles) {
+            lyPartName = i
+            lyPartName1 = i
+            lyPartContent = lilypondFiles[i]
+            lyPartContent1 = lilypondFiles1[i]
+            if (j++ === filesIndex) break;
+          }
+          let lyFilePath;
+          let lyFilePath1;
+          let repeated = repeat ? repeat : ''
+          let norepeatedOrNot;
+          if (repeated === '') {
+            norepeatedOrNot = 'noRepeat'
+          } else norepeatedOrNot = 'repeat'
+          if ('separated' === lyPartName) {
+            lyPartName = 'choir-separated'
+          }
+          // start here....
+
+          lyFilePath = path.join(lyPath, `${songNumber}-${repeated}-${lyPartName}.ly`)
+          lyFilePath1 = path.join(lyPath, `${songNumber}-long-${repeated}-${lyPartName}.ly`)
+          // if ('separated' !== lyPartName) {
+          //   lyFilePath = path.join(lyPath, `${songNumber}-${repeated}-${lyPartName}.ly`)
+          //   lyFilePath1 = path.join(lyPath, `${songNumber}-long-${repeated}-${lyPartName}.ly`)
+          // } else {
+          //   lyFilePath = path.join(lyPath, `${songNumber}-${lyPartName}.ly`)
+          //   lyFilePath1 = path.join(lyPath, `${songNumber}-long-${lyPartName}.ly`)
+          // }
+          fs.writeFileSync(lyFilePath, lyPartContent);
+          fs.writeFileSync(lyFilePath1, lyPartContent1);
+          // exec(`cd ${lyPath} && lilypond ${lyFilePath}`)
+          let getMediaFilePath = (path__, extension) => {
+            path__ = path__.split('.')
+            path__.pop();
+            path__ = path__.join('.') + '.' + extension
+            return path__
+          }
+          let midiPath = getMediaFilePath(lyFilePath, 'midi');
+          let mp3Path = getMediaFilePath(lyFilePath, 'mp3');
+          let wavPath = getMediaFilePath(lyFilePath, 'wav');
+
+          if (produceMedia) {
+            await exec_(`cd ${lyPath} && lilypond ${lyFilePath}`)
+            console.log(lyFilePath)
+            await exec_(`cd ${lyPath} && timidity -Ow -o ${wavPath} ${midiPath}`)
+            await exec_(`cd ${lyPath} && lame ${wavPath} ${mp3Path}`)
+            await exec_(`cd ${lyPath} && rm ${wavPath}`)
+          }
+          let midiPath1 = getMediaFilePath(lyFilePath1, 'midi');
+          let mp3Path1 = getMediaFilePath(lyFilePath1, 'mp3');
+          let wavPath1 = getMediaFilePath(lyFilePath1, 'wav');
+          if (produceMedia) {
+            await exec_(`cd ${lyPath} && lilypond ${lyFilePath1}`)
+            await exec_(`cd ${lyPath} && timidity -Ow -o ${wavPath1} ${midiPath1}`)
+            await exec_(`cd ${lyPath} && lame ${wavPath1} ${mp3Path1}`)
+            await exec_(`cd ${lyPath} && rm ${wavPath1}`)
+          }
+
+          let dir__ = midiPath1.split('/').slice(-2)[0].split('-')[0];
+          let publicDir = '/home/brian/Code/CSECO/cmsTests/Raneto/public/sites/adventhymnal';
+          let dir_midi = 'midi'
+          let dir_mp3 = 'mp3'
+          let dir_mp3Singing = 'singing'
+          let dir_mp3SingingHarmonica = 'programmable-singing'
+          let dir_ly = 'ly'
+          fs.mkdirpSync(path.join(publicDir, dir__))
+          fs.mkdirpSync(path.join(publicDir, dir__, dir_midi))
+          fs.mkdirpSync(path.join(publicDir, dir__, dir_ly))
+          fs.mkdirpSync(path.join(publicDir, dir__, dir_mp3))
+          fs.mkdirpSync(path.join(publicDir, dir__, dir_mp3Singing))
+          fs.mkdirpSync(path.join(publicDir, dir__, dir_mp3SingingHarmonica))
+
+          let voice__ = midiPath1.split('/').slice(-1)[0].split('-').slice(-1)[0].split('.')[0];
+          let fileName__ = midiPath1.split('/').slice(-1)[0]
+          if (repeated === '') {
+            let lyNotRepeated = lyFilePath
+            let lyNotRepeatedLong = lyFilePath1
+          }
+
+
+          voice__ = midiPath1.split('/').slice(-1)[0].split('-').slice(-1)[0].split('.')[0];
+          fileName__ = midiPath1.split('/').slice(-1)[0]
+          let linkPath_midi = `{{{cself}}}/${dir__}/${dir_midi}/${fileName__.split('.')[0]}.midi`
+          let linkPath_mp3 = `{{{cself}}}/${dir__}/${dir_mp3}/${fileName__.split('.')[0]}.mp3`
+          let linkPath_singing = `{{{cself}}}/${dir__}/${dir_mp3Singing}/${fileName__.split('.')[0]}-v.mp3`
+          let linkPath_SingingHarmonica = `{{{cself}}}/${dir__}/${dir_mp3SingingHarmonica}/${fileName__.split('.')[0]}-vs.html`
+          let linkPath_ly = `{{{cself}}}/${dir__}/${dir_ly}/${fileName__.split('.')[0]}.ly`
+
+          lilinks[lyPartName][norepeatedOrNot].short = `${midiPath}<>${path.join(publicDir, dir__)}<>${linkPath_midi}<>${linkPath_mp3}<>${linkPath_singing}<>${linkPath_SingingHarmonica}<>${linkPath_ly}`
+          lilinks[lyPartName][norepeatedOrNot].long = `${midiPath1}<>${path.join(publicDir, dir__)}<>${linkPath_midi}<>${linkPath_mp3}<>${linkPath_singing}<>${linkPath_SingingHarmonica}<>${linkPath_ly}`
+
+          filesIndex++
+        }
+        // copy and move ly files
+        let linksData = {
+          ly: {},
+          midi: {},
+          pdf: {},
+          vocalized: {},
+          unvocalized: {},
+          singing: {}
+        } // lilypond
+        for (let voice in lilinks) {
+          let tmp;
+          let voiceLinks = ''
+          let audioLinks = ''
+          if (repeat) {
+            tmp = lilinks[voice].repeat
+
+          } else tmp = lilinks[voice].noRepeat
+          for (let len in tmp) {
+            let tmp_ = tmp[len];
+            if (len === 'short') tmp_ = tmp_.split('-long-').join('--')
+            tmp_ = tmp_.split('<>')
+            let nowLocation = tmp_[0]
+            let publicDir = tmp_[1]
+            let midiLocationDir = tmp_[2]
+            let mp3LocationDir = tmp_[3]
+            let mp3SingingLocationDir = tmp_[4]
+            let myrrSingingLocationDir = tmp_[5]
+            let lyLocationDir = tmp_[6]
+
+            //move ly files
+            let tmpFileDest, tmpFileSource, tmpLinkName;
+            tmpFileDest = path.join(publicDir, lyLocationDir.split('/').slice(-2).join('/'))
+            tmpFileSource = nowLocation.split('.');
+            tmpFileSource.pop()
+            tmpFileSource += '.ly'
+
+            let pdfSource = tmpFileSource.replace(/\.ly/, '.pdf')
+            let pdfDest = tmpFileDest.replace(/\.ly/, '.pdf').replace(/\/ly\//, '/pdf/')
+
+            let midiSource = tmpFileSource.replace(/\.ly/, '.midi')
+            let midiDest = tmpFileDest.replace(/\.ly/, '.midi').replace(/\/ly\//, '/midi/')
+
+            let mp3Source = tmpFileSource.replace(/\.ly/, '.mp3')
+            let mp3Dest = tmpFileDest.replace(/\.ly/, '.mp3').replace(/\/ly\//, '/mp3/')
+
+
+            try {
+              fs.moveSync(tmpFileSource, tmpFileDest, {
+                overwrite: true
+              })
+            } catch (err) {}
+            try {
+              fs.moveSync(pdfSource, pdfDest, {
+                overwrite: true
+              })
+            } catch (err) {}
+            try {
+              fs.moveSync(midiSource, midiDest, {
+                overwrite: true
+              })
+            } catch (err) {}
+            try {
+              if (repeat) {
+                fs.moveSync(mp3Source, mp3Dest, {
+                  overwrite: true
+                })
+              }
+            } catch (err) {}
+            tmpLinkName = lyLocationDir.split('/').slice(-1).join('/').replace(/\.(.*)/, '').replace(/[\d]+-+/, '').replace(/[\d]+-+/, '')
+            voiceLinks += `<a href="${lyLocationDir}" target="_blank">${tmpLinkName}, </a>`
+
+            if (tmpLinkName.match(/long-/) !== null) audioLinks += `<a href="${lyLocationDir}" target="_blank">${tmpLinkName}, </a>`
+          }
+          linksData['ly'][voice] = voiceLinks
+          linksData['pdf'][voice] = voiceLinks.split(/\.ly/).join('.pdf').split(/\/ly\//).join('/pdf/')
+          linksData['midi'][voice] = voiceLinks.split(/\.ly/).join('.midi').split(/\/ly\//).join('/midi/')
+          linksData['unvocalized'][voice] = audioLinks.split(/\.ly/).join('.mp3').split(/\/ly\//).join('/mp3/')
+          linksData['vocalized'][voice] = audioLinks.split(/\.ly/).join('-v.mp3').split(/\/ly\//).join('/singing/')
+          linksData['singing'][voice] = audioLinks.split(/\.ly/).join('.html').split(/\/ly\//).join('/programmable-singing/')
+
+        }
+
+        let re;
+        if (!repeat)
+          re = new RegExp(`(Lilypond file )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+        else re = new RegExp(`(Lilypond \\(x8\\) )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+
+        fileContents = fileContents.replace(re, `$1$2${linksData.ly.soprano}$4${linksData.ly.alto}$6${linksData.ly.tenor}$8${linksData.ly.bass}$10${linksData.ly.choir}$12${linksData.ly["choir-separated"]}`)
+
+        if (!repeat)
+          re = new RegExp(`(pdf )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+        else re = new RegExp(`(pdf\\(x8\\) )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+        fileContents = fileContents.replace(re, `$1$2${linksData.pdf.soprano}$4${linksData.pdf.alto}$6${linksData.pdf.tenor}$8${linksData.pdf.bass}$10${linksData.pdf.choir}$12${linksData.pdf["choir-separated"]}`)
+
+        if (!repeat) {
+          re = new RegExp(`(midi )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.midi.soprano}$4${linksData.midi.alto}$6${linksData.midi.tenor}$8${linksData.midi.bass}$10${linksData.midi.choir}$12${linksData.midi["choir-separated"]}`)
+
+        }
+        if (repeat) {
+
+          re = new RegExp(`(unvocalized )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.unvocalized.soprano}$4${linksData.unvocalized.alto}$6${linksData.unvocalized.tenor}$8${linksData.unvocalized.bass}$10${linksData.unvocalized.choir}$12${linksData.unvocalized["choir-separated"]}`)
+
+          re = new RegExp(`(vocalized )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.vocalized.soprano}$4${linksData.vocalized.alto}$6${linksData.vocalized.tenor}$8${linksData.vocalized.bass}$10${linksData.vocalized["choir-separated"]}$12${linksData.vocalized["choir-separated"]}`)
+
+          re = new RegExp(`(singing file )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.singing.soprano}$4${linksData.singing.alto}$6${linksData.singing.tenor}$8${linksData.singing.bass}$10${linksData.singing["choir-separated"]}$12${linksData.singing["choir-separated"]}`)
+
+          let sopAudio = linksData.singing.soprano.match(/href="([\.\{\}a-zA-Z0-9\/-]*)"/g)
+          let altoAudio = linksData.singing.alto.match(/href="([\.\{\}a-zA-Z0-9\/-]*)"/g)
+          let tenorAudio = linksData.singing.tenor.match(/href="([\.\{\}a-zA-Z0-9\/-]*)"/g)
+          let bassAudio = linksData.singing.bass.match(/href="([\.\{\}a-zA-Z0-9\/-]*)"/g)
+          let choirAudio = linksData.singing.choir.match(/href="([\.\{\}a-zA-Z0-9\/-]*)"/g)
+          let tmp = '';
+          for (let ze in sopAudio)
+            if (sopAudio[ze].match(/-long-/)) {
+              tmp = sopAudio[ze].replace(/\.html/, '.mp3').replace(/href="([\.\{\}a-zA-Z0-9\/-]*)"/, `<audio controls><source src="$1" type="audio/mpeg">Your browser does not support the audio element.</audio>`)
             }
-            console.log(stdout)
-            console.log(stderr)
-            resolve(true)
-          });
-        })
-        midiPath = lyFilePath.split('.')
-        midiPath.pop();
-        midiPath.join('.')
-        midiPath += '.midi'
-        console.log(midiPath)
-        mp3Path = lyFilePath.split('.')
-        mp3Path.pop();
-        mp3Path.join('.')
-        mp3Path += '.mp3'
-        console.log(mp3Path)
-        wavPath = lyFilePath.split('.')
-        wavPath.pop();
-        wavPath.join('.')
-        wavPath += '.wav'
-        console.log(wavPath)
-
-        await new Promise((resolve, reject) => {
-
-          exec(`cd ${lyPath} && timidity -Ow -o ${wavPath} ${midiPath}`, function (error, stdout, stderr) {
-            if (error) {
-              console.log(error.code);
+          sopAudio = tmp
+          for (let ze in altoAudio)
+            if (altoAudio[ze].match(/-long-/)) {
+              tmp = altoAudio[ze].replace(/\.html/, '.mp3').replace(/href="([\.\{\}a-zA-Z0-9\/-]*)"/, `<audio controls><source src="$1" type="audio/mpeg">Your browser does not support the audio element.</audio>`)
             }
-            console.log(stdout)
-            console.log(stderr)
-            resolve(true)
-          });
-        })
-        await new Promise((resolve, reject) => {
-
-          exec(`cd ${lyPath} && lame ${wavPath} ${mp3Path}`, function (error, stdout, stderr) {
-            if (error) {
-              console.log(error.code);
+          altoAudio = tmp
+          for (let ze in tenorAudio)
+            if (tenorAudio[ze].match(/-long-/)) {
+              tmp = tenorAudio[ze].replace(/\.html/, '.mp3').replace(/href="([\.\{\}a-zA-Z0-9\/-]*)"/, `<audio controls><source src="$1" type="audio/mpeg">Your browser does not support the audio element.</audio>`)
             }
-            console.log(stdout)
-            console.log(stderr)
-            resolve(true)
-          });
-        })
-
-        await new Promise((resolve, reject) => {
-          exec(`cd ${lyPath} && lilypond ${lyFilePath1}`, function (error, stdout, stderr) {
-            if (error) {
-              console.log(error.code);
+          tenorAudio = tmp
+          for (let ze in bassAudio)
+            if (bassAudio[ze].match(/-long-/)) {
+              tmp = bassAudio[ze].replace(/\.html/, '.mp3').replace(/href="([\.\{\}a-zA-Z0-9\/-]*)"/, `<audio controls><source src="$1" type="audio/mpeg">Your browser does not support the audio element.</audio>`)
             }
-            console.log(stdout)
-            console.log(stderr)
-            resolve(true)
-          });
-        })
-        midiPath = lyFilePath1.split('.')
-        midiPath.pop();
-        midiPath.join('.')
-        midiPath += '.midi'
-        console.log(midiPath)
-        mp3Path = lyFilePath1.split('.')
-        mp3Path.pop();
-        mp3Path.join('.')
-        mp3Path += '.mp3'
-        console.log(mp3Path)
-        wavPath = lyFilePath1.split('.')
-        wavPath.pop();
-        wavPath.join('.')
-        wavPath += '.wav'
-        console.log(wavPath)
-
-        await new Promise((resolve, reject) => {
-
-          exec(`cd ${lyPath} && timidity -Ow -o ${wavPath} ${midiPath}`, function (error, stdout, stderr) {
-            if (error) {
-              console.log(error.code);
+          bassAudio = tmp
+          for (let ze in choirAudio)
+            if (choirAudio[ze].match(/-long-/)) {
+              tmp = choirAudio[ze].replace(/\.html/, '.mp3').replace(/href="([\.\{\}a-zA-Z0-9\/-]*)"/, `<audio controls><source src="$1" type="audio/mpeg">Your browser does not support the audio element.</audio>`)
             }
-            console.log(stdout)
-            console.log(stderr)
-            resolve(true)
-          });
-        })
-        await new Promise((resolve, reject) => {
+          choirAudio = tmp
 
-          exec(`cd ${lyPath} && lame ${wavPath} ${mp3Path}`, function (error, stdout, stderr) {
-            if (error) {
-              console.log(error.code);
-            }
-            console.log(stdout)
-            console.log(stderr)
-            resolve(true)
-          });
-        })
+          let dir_midi = 'midi'
+          let dir_mp3 = 'mp3'
+          let dir_mp3Singing = 'singing'
+          let dir_mp3SingingHarmonica = 'programmable-singing'
+          let dir_ly = 'ly'
+
+          re = new RegExp(`(\nSoprano )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.singing.soprano}$4${sopAudio.replace('.mp3', '-v.mp3').replace(`${dir_mp3SingingHarmonica}`, dir_mp3Singing)}$6${sopAudio.replace(`${dir_mp3SingingHarmonica}`, dir_mp3)}$8`)
+          re = new RegExp(`(\nAlto )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.singing.alto}$4${altoAudio.replace('.mp3', '-v.mp3').replace(`${dir_mp3SingingHarmonica}`, dir_mp3Singing)}$6${altoAudio.replace(`${dir_mp3SingingHarmonica}`, dir_mp3)}$8`)
+          re = new RegExp(`(\nTenor )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.singing.tenor}$4${tenorAudio.replace('.mp3', '-v.mp3').replace(`${dir_mp3SingingHarmonica}`, dir_mp3Singing)}$6${tenorAudio.replace(`${dir_mp3SingingHarmonica}`, dir_mp3)}$8`)
+          re = new RegExp(`(\nBass )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.singing.bass}$4${bassAudio.replace('.mp3', '-v.mp3').replace(`${dir_mp3SingingHarmonica}`, dir_mp3Singing)}$6${bassAudio.replace(`${dir_mp3SingingHarmonica}`, dir_mp3)}$8`)
+          re = new RegExp(`(\nChoir )(\\|)(.*)(\\|)(.*)(\\|)(.*)(\\|)(.*)`)
+          fileContents = fileContents.replace(re, `$1$2${linksData.singing.choir}$4${choirAudio.replace('.mp3', '-v.mp3').replace(`${dir_mp3SingingHarmonica}`, dir_mp3Singing)}$6${choirAudio.replace(`${dir_mp3SingingHarmonica}`, dir_mp3)}$8`)
+        }
+
+        fs.writeFileSync(path_, fileContents)
+        fileContents = fs.readFileSync(path_, 'utf-8')
+        // await exec_(`cd ${lyPath} && rm ${songNumber}*`)
         // timidity -Ow -o $MIDI_SOP_FILE.wav $MIDI_SOP_FILE.midi
         // lame $MIDI_SOP_FILE.wav $MIDI_SOP_FILE.mp3
-        filesIndex++
       }
-      // create midis & mp3s,,,
-
-      // insert midis and mp3s to txt file...
-
-      // create singing hymnal files..
-
-      // upload mp4...
-
-      // add mp3 to adhymnal and add link to text_file...
-      process.exit();
-
-
+      await forLylipond(false)
+      await forLylipond(8)
+      // process.exit();
     } catch (err) {
       console.log(err)
     }
-
   }
 }
 /*
  * get textFilePaths...
  */
 let filepaths = [];
-let startNumber = 1;
-let endNumber = 703;
 
-let startFrom = 1; // index from 1. Hymn Number to start from
 async function main(page) {
   let filePathContents = fs.readFileSync(hymnalPaths.Hpaths, 'utf-8')
   let toaddtoFile = `## Learn to Sing
-
 >>>> The files available in this section have comparatively large sizes. If you need to save on data, then you can download the midi files in the download section as they are of smaller sizes.
-
-Voice |  Singing Hymnal | Vocalised | unvocalised music |
+Voice |  Singing Hymnal | Vocalized | unvocalized music |
 -------------|------------|------------|------------|------------|
 Soprano | | | |
 Alto | | | |
@@ -1951,28 +1906,30 @@ Choir | | | |
 
 ## Downloads
 
-- |  Soprano | Alto | Tenor | Bass |
--------------|------------|------------|------------|------------|
-pdf | | | |
-midi | | | |
-vocalised | | | |
-unvolcalised | | | |
-singing file | | | |
-  `
-  dictionary = fs.readFileSync('syllabledictionary.txt', 'utf-8')
+- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
+-------------|------------|------------|------------|------------|------------|------------|---|---|
+pdf | | | | | |
+pdf(x8) | | | | | |
+midi | | | | | |
+vocalized | | | | | |
+unvocalized | | | | | |
+singing file | | | | | |
+Lilypond file | | | | | |
+Lilypond (x8) | | | | | |
 
-  // console.log(filePathContents)
-  // process.exit();
+  `
+  // let startFrom = 9; // index from 1. Hymn Number to start from
+  let endNumber = 703;
+  dictionary = fs.readFileSync('syllabledictionary.txt', 'utf-8')
   let filePaths = filePathContents.split('\n')
   let counts = filePaths.length;
   let i = 0;
   while (i < counts) {
-    console.log(filePaths[i])
-    // process.exit();
-    let path_ = filePaths[i++]
-    if (i >= startFrom) {
+    console.log(i, startFrom - 1)
+    let path_ = filePaths[i]
+    if (i >= (startFrom - 1)) {
       console.log(i)
-      // if (i >= 3) process.exit();
+      if (i >= endAt) process.exit();
       console.log(path_)
       let filePathI = path.join(__dirname, "../../", path_);
       let filePathIContents = fs.readFileSync(filePathI, 'utf-8')
@@ -1982,13 +1939,17 @@ singing file | | | |
       }
       await to(processTxtFile(path.join(__dirname, "../../", path_)))
       console.log(`-----------`)
-      // console.log(i)
-      // console.log()
-      // process.exit();
     }
+    i++
   }
 }
-
-
 // dictionary = fs.writeFileSync('syllabledictionary.txt', dictionary = fs.readFileSync('syllabledictionary.txt', 'utf-8').toLowerCase());
+
+startFrom = parseInt(process.argv[3]) || 1
+endAt = parseInt(process.argv[4]) || startFrom
+console.log(endAt)
+// process.exit();
+if (process.argv[2] === 'true') produceMedia = true;
 main();
+
+// console.log(process.argv)

@@ -93,7 +93,9 @@ class Midi {
 	decode(bytes) {
 
 		let gsMusic = [];
+		
 		let gsMusicObject = {
+			timeSignatures: [],
 			"header": {
 				title: "",
 				composer: "",
@@ -198,6 +200,7 @@ class Midi {
 					// console.log(event)
 				} else if (event.subtype === 'timeSignature') {
 					// console.log(event)
+					gsMusicObject.timeSignatures.push(`${event.numerator}/${event.denominator}`)
 				} else if (event.subtype === 'keySignature') {
 					let scale = event.scale;
 					let key_ = event.key;

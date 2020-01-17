@@ -73,11 +73,11 @@ Choir | | | |
 
 ## Downloads
 
-- |  Soprano | Alto | Tenor | Bass |
--------------|------------|------------|------------|------------|
-pdf | | | |
-midi | | | |
+- |  Soprano | Alto | Tenor | Bass | Choir | Separated |
+-------------|------------|------------|------------|------------|------------|------------|
+pdf | | | | | |
+midi | | | | | |
 vocalised | | | |
 unvolcalised | | | |
-singing file | | | |
+singing file | | | | | |
   

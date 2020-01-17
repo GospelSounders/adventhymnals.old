@@ -8,7 +8,7 @@ metadata:
 
 #### Advent Hymnals
 
-![Alt Text](sites/{{{cself}}}/charles-wesley-hymn-690x385.jpg)
+![Alt Text]({{{cself}}}/charles-wesley-hymn-690x385.jpg)
 
 # Advent Hymnals
 
