@@ -4,6 +4,7 @@ metadata:
     description: Before you attempt to install and test csycms flat file content management system, please check to see that your system meets the following requirements. We have tested the system in linux. We cannot guarantee that it will work in Windows, but you can still give it a go, although you will have to create your own scripts. Ours run off bash scripts which are not portable to windows..
     keywords: csycms, file-based content management system, knowledge base, static site generator, nodejs
     author: Brian Onang'o
+protected: true
 ---
 
 # Index of Titles

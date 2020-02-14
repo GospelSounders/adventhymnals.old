@@ -8,30 +8,20 @@ metadata:
 
 #### Church Hymnal
 
-# Church Hymnal
+# Preface
 
->>> We really need a lot of help fo finish compling this hymnal. If you have a little time to spare, please get in touch: brian@gospelsounders.org and we will add your name to the list of contributors. <br> When this project is done, we should have a hardcopy Christ is Song hymnal without the notes which should greatly reduce the cost of this great ```historic adventism``` hymnal, making several copies easily available for family worship.
+Fifty-five years ago the General Conference published our denominational hymnal, "Hymns and Tunes," and for many years this book has served a useful purpose in the hymnology of the church. Through the years other books, as "Christ in Song," "Gospel in Song," etc., have been brought out to meet the need of a wider range of suitable music for the church, Sabbath school, and young people's meetings. But from far and near the need of a new hymnal, which should include songs of the advent faith adapted for use in the church service as well as those suited more especially for Sabbath schools and young people's meetings, has been urged.
 
-You can jump right to number one to notice the caliber of songs in this hymnal. If you have no idea about the tune, don't worry. Computers can nowardays sing. You can get a sang tune.
+The General Conference in session in 1936 authorized the General Conference Committee to study the need for a new church hymnal. The Autumn Council of that year, held in Fort Worth, Texas, recommended that a new church hymnal be prepared, and the Council appointed a small committee to begin preparation of the manuscript. Later, in Washington, D.C., this committee was enlarged to twenty members, and was instructed to select suitable hymns, edit both words and music, and bring into being a new hymnal. The committee has exercised care and discrimination in the selections made. The total number of hymns in the collection agreed upon is somewhat less than in "Hymns and Tunes."
 
-| Hymnal | Christ in Song |
-| ------ | ----------- |
-| Year   | 1908. |
-| Edition | 2 |
-| Compiler    | F.E Belden. |
-| Number of Hymns    | 120 |
-| Number Completed    | 120 |
-| Number Proofread    | 120 |
-| Number With tunes    | 120 |
+**The committee has selected many of the best hymns available.** Some of these are old standard and familiar hymns. About thirty never before printed have been contributed by our Seventh-day Adventist musicians. The plan of setting all words within the musical accompaniment has been followed. This will be a real aid to those who read music. The music editors have sometimes transposed the key in order that a greater proportion of the congregation may be able to join in the singing.
 
+Responsive Scripture readings have been provided, so that these may be available for use in public worship. Topical and first-line indexes will aid in the selection of hymns on particular themes.
 
+It is the General Conference plan that this hymnal shall take the place of "Hymns and Tunes" and "Christ in Song" in our public services. We believe it is the best compilation of hymns ever prepared for the use of our Seventh-day Adventist churches. **The work of compilation has been done by men who live and breathe the advent spirit.** They have sought to preserve for the church uplifting and inspiring songs and hymns of worship that will contribute to the deepening of the spiritual experience of all who use the book. **They have endeavored also to retain those hymns which proclaim in song the distinctive doctrines of the advent movement.**
 
-Contributers
+Every effort has been made to trace the ownership of copyrighted hymns, and to give proper credit. Any inadvertent omissions or inaccuracies will gladly be corrected in future editions.
 
-| Hymyn Number | Text | Proof Reading | Tune |
-| ------ | ----------- |----------- |----------- |----------- |
-| 1   |  |  |  |
+We recognize with gratitude the excellent service rendered by the editors and the music committee in selecting hymns, arranging and planning the hymnal, and reading the proofs; and gratefully acknowledge the contribution of new hymns and tunes by the authors. We express our appreciation to those who have given permission for the inclusion of hymns in this collection, and tender our thanks to all who have labored earnestly to bring out this hymnal. We trust that it will be cordially received, and widely used by our churches, and that it will prove a great blessing to the church at large.
 
-
-
->>>>> If you notice any error in the text, please also inform us so that we can rectify it.
+<cite>GENERAL CONFERENCE COMMITTEE</cite>

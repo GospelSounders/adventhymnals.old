@@ -20,8 +20,6 @@ const lineReader = require('readline').createInterface({
 
 let startNumber = 1;
 let endNumber = 703;
-////////////////////////////////////// first create folder structure...
-
 let folderPaths = []
 let boundaries = []
 let boundaries__ = []
@@ -29,7 +27,6 @@ let createBigFolders = () => {
   for (i = startNumber; i <= endNumber; i += 100) {
     let boundary = [i, i + 100 - 1 > endNumber ? endNumber : i + 100 - 1]
     boundaries.push(boundary);
-    // let outerNumber = 
   }
 
   let boundaries_ = []
