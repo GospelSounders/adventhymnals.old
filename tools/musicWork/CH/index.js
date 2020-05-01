@@ -824,6 +824,7 @@ let getKeyfromNotesArray = (notesArr) => {
             if (noteInner.indexOf(note) !== -1) return noteInner.split('/')[1]
           }
         }
+        let tmpNote = getFlatNote(notes, note);
         if (notes_1[tmpNote] === undefined) notes_1[tmpNote] = notes_[note];
         else notes_1[tmpNote] += notes_[note];
       } else {

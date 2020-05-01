@@ -27,7 +27,7 @@ stanzad =  \lyricmode { \set stanza = #"4. "Wide as the world is His com- mand, 
       \new ChoirStaff <<
        \new Staff <<
 \cleff "treble"
-        \new Voice = "Sop" { \voiceOne \global \soprano}
+        \new Voice = "Sop" { \voistaceOne \global \soprano}
 
         \new Lyrics \lyricsto "Sop" { \stanzaa }
 \new Lyrics \lyricsto "Sop" { \stanzab }

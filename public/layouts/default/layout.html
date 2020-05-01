@@ -197,8 +197,7 @@
       <div class="padding highlightable">
         <a href="#" id="sidebar-toggle" data-sidebar-toggle><i class="fa fa-2x fa-bars"></i></a>
         <div id="top-bar">
-
-
+          
           <div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
             {{#breadCrumbs}}
             <a href="{{slug}}" itemprop="url"><span itemprop="title">{{title}}</span></a>
@@ -304,18 +303,15 @@
 
       let auth = $('#authC').html()
       try {
-        console.log(auth)
         auth = JSON.parse(auth);
-        console.log(auth)
         if (auth.accessToken) {
           localStorage.setItem("token", auth.accessToken)
           if (!localStorage.getItem("returnafterlogin"))
             localStorage.setItem("returnafterlogin", '/');
         }
       } catch (err) {
-        console.error(err)
       }
-      if (localStorage.getItem("token")) {
+      if (localStorage.getItem("token")) {  // if logged in
         $("#headerLinks").prepend('<li><a class="logoutgtn" href="/logout">Log out</a></li>')
         $("#mobile-nav").prepend('<a class="logoutgtn" href="/logout">Log out</a>')
         $(document).on("click", "a.logoutgtn", function (e) {
@@ -331,6 +327,13 @@
           localStorage.removeItem("returnafterlogin");
           window.location = returnTo
         }
+
+        $('#top-bar').prepend(`<div id="top-github-link"><a class="github-link edit-page" href="#page link from github..." target="_blank"><i class="fa fa-github-square"></i> edit this page</a></div>`)
+        $(document).on("click", "a.edit-page", function (e) {
+          e.preventDefault()
+          alert('going to edit page...')
+         
+        });
       }
       if (!localStorage.getItem("token")) {
         $("#headerLinks").prepend('<li><a class="loginbtn" href="/login">Log in</a></li>')

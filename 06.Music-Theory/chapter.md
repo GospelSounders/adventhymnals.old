@@ -29,7 +29,7 @@ metadata:
 
 ## circe of fifths
 
-![Alt Text]({{{cself}}}/circle-of-fifths.png)
+![Alt Text](%public_url%/circle-of-fifths.png)
 
 ## Chords in a major key
 
