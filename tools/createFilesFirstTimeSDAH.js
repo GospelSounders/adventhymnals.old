@@ -20,16 +20,15 @@ const lineReader = require('readline').createInterface({
 
 let startNumber = 1;
 let endNumber = 695;
-////////////////////////////////////// first create folder structure...
-
 let folderPaths = []
 let boundaries = []
 let boundaries__ = []
+let titlesInfo = {}
+
 let createBigFolders = () => {
   for (i = startNumber; i <= endNumber; i += 100) {
     let boundary = [i, i + 100 - 1 > endNumber ? endNumber : i + 100 - 1]
     boundaries.push(boundary);
-    // let outerNumber = 
   }
 
   let boundaries_ = []
@@ -57,7 +56,7 @@ let createBigFolders = () => {
       let j_ = j.toString();
       if (j_.length < 2) j_ = '0' + j_
       if (j_.length < 3) j_ = '0' + j_
-      
+
       let j__ = j + 10 - 1
       j__ = j__.toString();
       if (j__.length < 2) j__ = '0' + j__
@@ -84,6 +83,14 @@ createBigFolders();
 // console.log(JSON.stringify(boundaries__));
 // console.log(boundaries__);
 
+let hundredsTitles = []
+let tensTitles = []
+let titles = []
+
+let myDirs = []
+let myTensChaptersDirs = []
+let myHundredsChaptersDirs = []
+
 //create the directories and etc...
 for (let i in boundaries__) {
   let outerPath = (parseInt(i) + 2).toString();
@@ -93,8 +100,9 @@ for (let i in boundaries__) {
 
   //create folders
   try {
+    myDirs.push(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath))
     fs.mkdirSync(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath))
-  } catch (error) {}
+  } catch (error) { }
 
 
   // create .md files
@@ -102,15 +110,25 @@ for (let i in boundaries__) {
     `---
 title: Seventh Day Adventist Hymnal - ${boundaries__[i][0].split(":").join(";")}
 metadata:
-    description: Seventh Day Adventist Hymnal - ${boundaries__[i][0].split(":").join(";")}
-    keywords: Seventh Day Adventist Hymnal, ${boundaries__[i][0].split(":").join(";")}
+    description: |
+      Seventh Day Adventist Hymnal - ${boundaries__[i][0].split(":").join(";")}
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, ${boundaries__[i][0].split(":").join(";")}
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## Seventh Day Adventist Hymnal - ${boundaries__[i][0]}
-  `
+
+# Index of Titles
+\# | Title                        
+-- |-------------
+`
+  fs.ensureDirSync(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath))
+  myHundredsChaptersDirs.push(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath, `chapter.md`))
   fs.writeFileSync(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath, `chapter.md`), chapterTxt)
+  // console.log(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath, `chapter.md`))
+  // process.exit()
   // if (outerPath.length < 3) outerPath = '0' + outerPath
   // console.log(`=========>${outerPath}`)
   // console.log(boundaries__[i])
@@ -123,28 +141,67 @@ metadata:
     let innerPath = (parseInt(j) + 1).toString();
     if (innerPath.length < 2) innerPath = '0' + innerPath
     innerPath = `${innerPath}.${tmpe_[0]}-${tmpe_[1]}`
-    console.log(innerPath)
     try {
+
       fs.mkdirSync(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath, innerPath))
-    } catch (error) {}
+    } catch (error) { }
 
     let innerchapterTxt =
       `---
 title: Seventh Day Adventist Hymnal - ${tmpe_[0]}-${tmpe_[1]}
 metadata:
-    description: Seventh Day Adventist Hymnal - ${tmpe_[0]}-${tmpe_[1]}
-    keywords: Seventh Day Adventist Hymnal, ${tmpe_[0]}-${tmpe_[1]}
+    description: |
+      Seventh Day Adventist Hymnal - ${tmpe_[0]}-${tmpe_[1]}
+    keywords: |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals ${tmpe_[0]}-${tmpe_[1]}
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## Seventh Day Adventist Hymnal - ${tmpe_[0]}-${tmpe_[1]}
-  `
+
+# Index of Titles
+\# | Title                        
+-- |-------------
+`
+
     fs.writeFileSync(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath, innerPath, `chapter.md`), innerchapterTxt)
+    myTensChaptersDirs.push(path.join(__dirname, "files", "lyrics", "created", "SDAH", outerPath, innerPath, `chapter.md`))
   }
 }
 
 
+let paths = fs.readFileSync("SDAHpaths.txt", "utf-8").split("\n").map(item => item.replace("/files/lyrics/created/SDAH/", "/var/www/html/csycms/ahdev/content/04.seventh-day-adventist-hymnal/"))
+
+let globalTitles = []
+let allTitles = []
+
+const getPath = (number, title_) => {
+  let num = 1;
+  let title = title_
+  while (globalTitles.includes(title)) {
+    title = `${title_}_${num++}`
+  }
+  globalTitles.push(title)
+  let tens = []
+  let hundreds = [];
+  let i = 0;
+  while (i++ < number) {
+    hundreds.push([i, i += 99])
+  }
+  // console.log(hundreds)
+  hundreds = hundreds.filter(item => item[0] <= number && number <= item[1])[0]
+  // console.log(hundreds)
+  i = hundreds[0] - 1
+  while (i++ < hundreds[1]) {
+    tens.push([i, i += 9])
+  }
+  tens = tens.filter(item => item[0] <= number && number <= item[1])[0]
+  // console.log(tens)
+  hundreds = hundreds.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
+  tens = tens.map(item => { item = item.toString(); while (item.length < 3) item = `0${item}`; return item }).join("-")
+  return [`seventh-day-adventist-hymnal/${hundreds}/${tens}/${title.replace(/ /g, '-')}`, title]
+}
 
 
 let createFile = (line) => {
@@ -159,11 +216,8 @@ let createFile = (line) => {
     Key,
     Tune
   } = line;
-  if(!Composer){
+  if (!Composer) {
     Composer = Arranger
-    // console.log('No compoer');
-    // console.log(line)
-    // process.exit();
   }
   let First_Line = decode(line["First Line"])
   let Refrain_First_Line = decode(line["Refrain First Line"])
@@ -179,24 +233,138 @@ let createFile = (line) => {
   Key = decode(Key)
   Tune = decode(Tune)
 
+  let [titlesPath, title_] = getPath(hymnNumber, Title)
+  titles.push(`${hymnNumber}|[${Title}](/${titlesPath})`)
+
+  // let hundredsTitles = []
+  // let tensTitles = []
+  // let titles = []
+  // console.log(titles)
+  tensTitles.push(`${hymnNumber}|[${Title.replace(/`/g, "\\`")}](/${titlesPath})`)
+  hundredsTitles.push(`${hymnNumber}|[${Title.replace(/`/g, "\\`")}](/${titlesPath})`)
+  allTitles.push(`${hymnNumber}|[${Title.replace(/`/g, "\\`")}](/${titlesPath})`)
+  // console.log(hymnNumber)
+  hymnNumber = parseInt(hymnNumber);
+  if (hymnNumber % 10 === 0 || (hymnNumber === 695)) {
+    let index = parseInt(hymnNumber / 10) - 1
+    if (hymnNumber === 695) index = myTensChaptersDirs.length - 1
+    let tmpPath = myTensChaptersDirs[index]
+    let tensChapter = fs.readFileSync(tmpPath, "utf-8")
+    tensTitles = tensTitles.filter(item => item.replace(/$ */, '').length > 0)
+    tensChapter += tensTitles.join("\n")
+    tensTitles = []
+    fs.writeFileSync(tmpPath, tensChapter)
+  }
+  if (hymnNumber % 100 === 0 || hymnNumber === 695) {
+    let index = parseInt(hymnNumber / 100) - 1
+    if (hymnNumber === 695) index = myHundredsChaptersDirs.length - 1
+    let tmpPath = myHundredsChaptersDirs[index]
+    let hundredsChapter = fs.readFileSync(tmpPath, "utf-8")
+    hundredsTitles = hundredsTitles.filter(item => item.replace(/$ */, '').length > 0)
+    hundredsChapter += hundredsTitles.join("\n")
+    hundredsTitles = []
+    fs.writeFileSync(tmpPath, hundredsChapter)
+  }
+  if (hymnNumber === 695) {
+    fs.ensureDirSync(path.join(__dirname, "files", "lyrics", "created", "SDAH", "01.indices"));
+    let indexContent =
+      `---
+title: Index of Titles - Seventh Day Adventist Hymnal
+metadata:
+    description: |
+      Seventh Day Adventist Hymnal - Index of Titles
+    keywords:  |
+      Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, index
+    author: Brian Onang'o
+---
+
+#### Advent Hymnals
+
+## Seventh Day Adventist Hymnal
+
+# Index of Titles
+\# | Title                        
+-- |-------------
+`
+    indexContent += allTitles.join("\n")
+    // let mainIndexFile = 
+    console.log(indexContent)
+    try {
+      fs.writeFileSync(path.join("files/lyrics/created/SDAH/01.indices/chapter.md"), indexContent)
+    } catch (error) {
+      console.log(error)
+    }
+    // console.log(hymnNumber)
+    // console.log(myTensChaptersDirs)
+  }
+
+  let tmpNum = parseInt(hymnNumber) - 1
+  let hymnText = fs.readFileSync(paths[tmpNum], "utf-8").match(/```txt([^`]*)`/)[1]
+  let lines = hymnText.split("\n")
+  lines = lines.map(line => line.replace(/[0-9]\./, '<stanza>'))
+  lines = lines.filter(line => line.replace(/[0-9]\./, '').replace(/ /g, '').length > 0)
+  lines = lines.join("\n")
+  // create list of firstLines
+  // console.log(lines)
+  let stanzas, firstStanza, firstStanzaSingleLine
+  try {
+    stanzas = lines.split("<stanza>")
+    firstStanza = '1. ' + stanzas[1].replace(/^\n/, '').replace(/\n$/, '').split(/refrain/ig)[0]
+    firstStanzaSingleLine = firstStanza.replace(/\n/g, ' ')
+    First_Line = stanzas[1].replace(/^\n/, '').replace(/\n$/, '').split('\n')[0]
+    // console.log(firstStanza)
+    // console.log("----------")
+    // console.log(firstStanza)
+    // console.log(firstStanzaSingleLine)
+
+    Refrain_First_Line = stanzas[1].replace(/^\n/, '').replace(/\n$/, '').split(/refrain[^\n]*\n/ig)[1]
+    let arr = [Title];
+    Title !== First_Line ? arr.push(First_Line) : false;
+    Refrain_First_Line ? arr.push(Refrain_First_Line.split(/\n/)[0]) : false;
+    titlesInfo[hymnNumber] = { TITLES: arr };
+    if(hymnNumber === 695){
+      fs.writeFileSync("sdaHTitles.json", JSON.stringify(titlesInfo))
+    }
+  } catch (error) {
+    //     console.log(stanzas, hymnNumber, paths[tmpNum])
+  }
+  if (Refrain_First_Line) {
+    Refrain_First_Line = Refrain_First_Line.split(/\n/)[0]
+    // console.log(Refrain_First_Line)
+    // process.exit()
+  }
+  // for (line of lines) {
+  //   // line = line.replace(/[0-9]\./,'')
+  //   console.log(line)
+  // }
+  // process.exit()
+  // First_Line
+  // console.log(hymnText)
+  // process.exit();
+
   // console.log(line["First Line"])
   // console.log(First_Line)
   // process.exit();
 
+  // Get the first line
+
   let fileTxt =
     `---
-title: ${hymnNumber}. ${Title.split(":").join(";")}
+title: ${hymnNumber}. ${Title.split(":").join(";")} - Seventh Day Adventist Hymnal
 metadata:
-    description: 
-    keywords: Seventh Day Adventist Hymnal, ${Title.split(":").join(";")}, ${First_Line.split(":").join(";")}, ${Refrain_First_Line.split(":").join(";")}
+    description: |
+      SDAH ${hymnNumber}. ${Title.split(":").join(";")}. ${firstStanzaSingleLine}
+    keywords:  |
+      SDAH, Seventh Day Adventist Hymnal, adventhymnals, advent hymnals, ${Title.split(":").join(";")}, ${First_Line.split(":").join(";")} ${Refrain_First_Line ? ',' + Refrain_First_Line.split(":").join(";") : ''}
     author: Brian Onang'o
 ---
 
-
+#### Advent Hymnals
 ## ${hymnNumber}. ${Title.toUpperCase()}
+#### Seventh Day Adventist Hymnal
 
 \`\`\`txt
-
+${hymnText}
 \`\`\`
 
 - |   -  |
@@ -231,7 +399,7 @@ Scripture Song |  |
   let whichFolder = (hymnNo) => {
     // let outerFolder = parseInt(hymnNo / 100) + 1
     // let outerFolder = parseInt(hymnNo / 100) + 1
-    let outerFolder = (hymnNo / 100) > parseInt(hymnNo / 100)? + parseInt(hymnNo / 100) + 1 : parseInt(hymnNo / 100);
+    let outerFolder = (hymnNo / 100) > parseInt(hymnNo / 100) ? + parseInt(hymnNo / 100) + 1 : parseInt(hymnNo / 100);
     let outerFolder_ = (outerFolder + 1).toString();
     if (outerFolder_.length < 2) outerFolder_ = '0' + outerFolder_;
     let outerFolder_Start = (outerFolder - 1) * 100 + 1;
@@ -244,8 +412,8 @@ Scripture Song |  |
 
     let innerFolderParams = parseInt((hymnNo - parseInt(outerFolder_Start)) / 10) + 1;
     // if()
-    
-   
+
+
     // let innerFolder = hymnNo - parseInt(outerFolder_Start)
 
     // console.log(outerFolder_)
@@ -273,24 +441,24 @@ Scripture Song |  |
     if (tmpNumber.length < 2) tmpNumber = '0' + tmpNumber;
 
     // if(outerFolder_Start === '001') {
-    if(tmpNumber === '00') {
-      console.log(hymnNo)
-      console.log(innerFolder_Start)
-      console.log(outerFolder_Start)
-      console.log(`${outerFolder_}/${innerFolder_}/${tmpNumber}.${Title}`)
+    if (tmpNumber === '00') {
+      //       console.log(hymnNo)
+      //       console.log(innerFolder_Start)
+      //       console.log(outerFolder_Start)
+      //       console.log(`${outerFolder_}/${innerFolder_}/${tmpNumber}.${Title}`)
     }
-    return `${outerFolder_}/${innerFolder_}/${tmpNumber}.${Title}`
+    return `${outerFolder_}/${innerFolder_}/${tmpNumber}.${title_}`
   }
   let filePath = whichFolder(hymnNumber)
   filePath = filePath.split(" ").join("-")
   filePath = filePath.split("?").join("")
 
-  
-  // console.log(filePath)
+
+  //   console.log(filePath)
   // process.exit();
   try {
     fs.mkdirSync(path.join(__dirname, "files", "lyrics", "created", "SDAH", filePath))
-  } catch (error) {}
+  } catch (error) { }
   fs.writeFileSync(path.join(__dirname, "files", "lyrics", "created", "SDAH", filePath, 'docs.md'), fileTxt)
 
   // try {
@@ -301,7 +469,6 @@ Scripture Song |  |
   // console.log(fileTxt)
 }
 
-
 lineReader.on('line', (input) => {
   let line = JSON.parse(input)
   let {
@@ -311,11 +478,10 @@ lineReader.on('line', (input) => {
   try {
     createFile(line)
   } catch (error) {
-    console.log(error)
+    //     console.log(error)
   }
-  // console.log(hymnNumber)
-  // console.log(`Received: ${input}`);
 });
+
 
 
 
