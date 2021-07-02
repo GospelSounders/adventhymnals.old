@@ -154,7 +154,7 @@ const workOnSingleFile = async (header) => {
     while (numberInText.length < 3) numberInText = `0${numberInText}`
     let path_ = getPath(number)
     let dirPath = path_.replace(/\/[0-9]*$/, '')
-    fs.ensureDir(`CIS/${dirPath}`)
+    fs.ensureDirSync(`CIS/${dirPath}`)
     let hymnText;
     let firstStanzaSingleLine = ''
     try {
@@ -253,7 +253,7 @@ const workOnSingleFile = async (header) => {
         hundedsIndices = []
     }
     if (number === 949) {
-        fs.ensureDir("CISnfo")
+        fs.ensureDirSync("CISnfo")
         fs.writeFileSync(`CISnfo/titles.json`, JSON.stringify(titlesInfo))
         fs.writeFileSync(`CISnfo/poets.json`, JSON.stringify(poetsInfo))
         fs.writeFileSync(`CISnfo/topics.json`, JSON.stringify(topicsInfo)) // several
@@ -285,7 +285,7 @@ metadata:
 -- |-------------
 `
         indexContent += allIndices.join("\n")
-        fs.ensureDir("CIS/01.indices")
+        fs.ensureDirSync("CIS/01.indices")
         fs.writeFileSync(`CIS/01.indices/chapter.md`, indexContent)
     }
     let saveText =
