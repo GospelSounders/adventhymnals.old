@@ -26,7 +26,7 @@ let yearsInfo = {}
 let scripturesInfo = {}
 
 
-let max = 220
+let max = 332
 let hundredsChaptersPathsObj
 let tensChaptersPathsObj
 
@@ -80,25 +80,25 @@ const save10sChapter = async (tens, tensChaptersPathsObj) => {
     let tmpe_ = tensChaptersPathsObj.replace(/[0-9]{2}\./g, '').split("/").slice(-1)[0]
     let innerchapterTxt =
         `---
-title: Nyimbo Za Kristo - ${tmpe_}
+title: Wende Nyasaye (Nyagendia) - ${tmpe_}
 metadata:
     description: |
-        Nyimbo Za Kristo - ${tmpe_}
+        Wende Nyasaye (Nyagendia) - ${tmpe_}
     keywords:  |
-        Nyimbo Za Kristo, adventhymnals, advent hymnals, ${tmpe_}
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, ${tmpe_}
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
-## Nyimbo Za Kristo - ${tmpe_}
+## Wende Nyasaye (Nyagendia) - ${tmpe_}
 
 # Index of Titles
 \# | Title                        
 -- |-------------
 `
     innerchapterTxt += tens.join("\n")
-    fs.ensureDirSync(`nyimbo-za-kristo/${tensChaptersPathsObj}/`)
-    fs.writeFileSync(`nyimbo-za-kristo/${tensChaptersPathsObj}/chapter.md`, innerchapterTxt)
+    fs.ensureDirSync(`wende-nyasaye/${tensChaptersPathsObj}/`)
+    fs.writeFileSync(`wende-nyasaye/${tensChaptersPathsObj}/chapter.md`, innerchapterTxt)
 }
 
 
@@ -107,11 +107,12 @@ server.on('message', async function (msg, info) {
     if (index >= max) return
     let file = (++index).toString()
     while (file.length < 3) file = `0${file}`
-    let titles = (await exec(`head -3 NZK_own/${file}.txt`)).stdout.split(/\r\n/).filter(item => item.length > 0)
+    let titles = (await exec(`head -2 WN_own/${file}.txt`)).stdout.split(/\r\n/).filter(item => item.length > 0).map(item=>item.replace(/^\.+/g,'').replace(/^ +/g,'').replace(/^\.+/g,''))
+   
     let number = titles[0].match(/([0-9\(\)]+)/)[1].replace(/^[0]*/g, '').replace("(2)", "a")
-    titles = titles.map(item => item.replace(/([0-9\(\)]+)/, '').replace(/^[ ]+\-[ ]+/, '').replace(/^ +/g, '').replace(/^" +/g, '"'))
-
-    let text = fs.readFileSync(`NZK_own/${file}.txt`, "utf-8")
+    titles = titles.map(item => item.replace(/([0-9\(\)]+)/, '').replace(/^\.+/g,'').replace(/^ +/g,'').replace(/^[\.\t]+/g,'').replace(/^[ ]+\-[ ]+/, '').replace(/^ +/g, '').replace(/^" +/g, '"'))
+    // console.log(titles);process.exit();
+    let text = fs.readFileSync(`WN_own/${file}.txt`, "utf-8")
     text = text.split(/\r\n/)
     text = text.slice(-(text.length - 3)).filter(item => !item.match(/[0-9]{3}/))
     text = text.join("\n")
@@ -123,7 +124,7 @@ server.on('message', async function (msg, info) {
         console.log(file, index, titles, number, "lines", lines)
     }
     let firstStanza = (lines.split(/<stanza>/)[1] ||lines).replace(/<stanza>/, '')
-    let firstLine = firstStanza.split(/\n/)[0]
+    let firstLine = firstStanza.replace(/[\n\r]/,' ').split(/\n/)[0]
     let arr = titles;
     if (!arr.includes(firstLine)) {
         arr.push(firstLine)
@@ -154,8 +155,8 @@ server.on('message', async function (msg, info) {
 
     let tmp = getPath(parseInt(number));
     let saveTitle = title.replace(/ /g, '-')
-    let dirPath = 'nyimbo-za-kristo/' + tmp.replace(/[0-9]+$/, '')
-    let savePath = 'nyimbo-za-kristo/' + tmp + `.${saveTitle}`
+    let dirPath = 'wende-nyasaye/' + tmp.replace(/[0-9]+$/, '')
+    let savePath = 'wende-nyasaye/' + tmp + `.${saveTitle}`
     // console.log(tmp, dirPath, savePath)
     fs.ensureDirSync(dirPath)
     fs.ensureDirSync(savePath)
@@ -167,18 +168,18 @@ server.on('message', async function (msg, info) {
     let saveText =
         `---
 title: |
-    ${numberInText}. ${title} - Nyimbo Za Kristo
+    ${numberInText}. ${title} - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Nyimbo Za Kristo ${file}. ${title}. ${firstStanzaSingleLine}
+        Wende Nyasaye (Nyagendia) ${file}. ${title}. ${firstStanzaSingleLine}
     keywords:  |
-        Nyimbo Za Kristo, adventhymnals, advent hymnals, ${title}, ${firstLine}. ${firstLineRefrain ? firstLineRefrain : ''}
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, ${title}, ${firstLine}. ${firstLineRefrain ? firstLineRefrain : ''}
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 ## ${numberInText}. ${title.toUpperCase()}
-####  Nyimbo Za Kristo,
+####  Wende Nyasaye (Nyagendia),
 
 \`\`\`txt
 ${hymnText}
@@ -207,7 +208,7 @@ Scripture Song |  |
 `
     fs.writeFileSync(`${savePath}`, saveText);
     client.send(data, 2222, 'localhost', function (error) { });
-    let urlPath = '/nyimbo-za-kristo/' + dirPath.replace(/[0-9]+\./g, '')
+    let urlPath = '/wende-nyasaye/' + dirPath.replace(/[0-9]+\./g, '')
     tensIndices.push(`${file}|[${title}](${urlPath}${saveTitle})`)
     hundedsIndices.push(`${file}|[${title}](${urlPath}${saveTitle})`)
     allIndices.push(`${file}|[${title}](${urlPath}${saveTitle})`)
@@ -226,40 +227,40 @@ Scripture Song |  |
     }
 
     if (parseInt(file) === max) {
-        fs.ensureDirSync("NZKInfo")
-        fs.writeFileSync(`NZKInfo/titles.json`, JSON.stringify(titlesInfo))
-        fs.writeFileSync(`NZKInfo/poets.json`, JSON.stringify(poetsInfo))
-        fs.writeFileSync(`NZKInfo/topics.json`, JSON.stringify(topicsInfo)) // several
-        fs.writeFileSync(`NZKInfo/tunes.json`, JSON.stringify(tunesInfo))
-        fs.writeFileSync(`NZKInfo/composers.json`, JSON.stringify(composersInfo))
-        fs.writeFileSync(`NZKInfo/keys.json`, JSON.stringify(keysInfo))
-        fs.writeFileSync(`NZKInfo/years.json`, JSON.stringify(yearsInfo))
-        fs.writeFileSync(`NZKInfo/scriptures.json`, JSON.stringify(scripturesInfo))
+        fs.ensureDirSync("WNInfo")
+        fs.writeFileSync(`WNInfo/titles.json`, JSON.stringify(titlesInfo))
+        fs.writeFileSync(`WNInfo/poets.json`, JSON.stringify(poetsInfo))
+        fs.writeFileSync(`WNInfo/topics.json`, JSON.stringify(topicsInfo)) // several
+        fs.writeFileSync(`WNInfo/tunes.json`, JSON.stringify(tunesInfo))
+        fs.writeFileSync(`WNInfo/composers.json`, JSON.stringify(composersInfo))
+        fs.writeFileSync(`WNInfo/keys.json`, JSON.stringify(keysInfo))
+        fs.writeFileSync(`WNInfo/years.json`, JSON.stringify(yearsInfo))
+        fs.writeFileSync(`WNInfo/scriptures.json`, JSON.stringify(scripturesInfo))
         await save10sChapter(tensIndices, tensChaptersPathsObj)
         await save10sChapter(hundedsIndices, hundredsChaptersPathsObj)
 
         let indexContent =
             `---
-title: Index of Titles - Nyimbo Za Kristo
+title: Index of Titles - Wende Nyasaye (Nyagendia)
 metadata:
     description: |
-        Nyimbo Za Kristo - Index of Titles
+        Wende Nyasaye (Nyagendia) - Index of Titles
     keywords: |
-        Nyimbo Za Kristo, adventhymnals, advent hymnals, index
+        Wende Nyasaye (Nyagendia), adventhymnals, advent hymnals, index
     author: Brian Onang'o
 ---
 
 #### Advent Hymnals
 
-## Nyimbo Za Kristo
+## Wende Nyasaye (Nyagendia)
 
 # Index of Titles
 \# | Title                        
 -- |-------------
 `
         indexContent += allIndices.join("\n")
-        fs.ensureDirSync("nyimbo-za-kristo/01.indices")
-        fs.writeFileSync(`nyimbo-za-kristo/01.indices/chapter.md`, indexContent)
+        fs.ensureDirSync("wende-nyasaye/01.indices")
+        fs.writeFileSync(`wende-nyasaye/01.indices/chapter.md`, indexContent)
     }
     // 
     // if (++index > max) {
